@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /d/gameplatform/TOAST-DOCS.Gamebase/ko/*.md)",
+      "Bash(grep -l \"^##\" *.md)",
+      "Bash(ls -lah /d/gameplatform/TOAST-DOCS.Gamebase/ko/*.md)",
+      "Bash(ls -1 *.md)",
+      "Bash(sed 's/^//')",
+      "Bash(python3 add_columns.py)",
+      "Bash(rm add_columns.py)",
+      "Bash(python3 split_docs.py)",
+      "Bash(wc -m *.md)",
+      "Bash(python3 -c \":*)",
+      "Bash(ls *.md)",
+      "Bash(python3 shorten_urls.py)",
+      "Bash(rm shorten_urls.py)"
+    ]
+  }
+}
