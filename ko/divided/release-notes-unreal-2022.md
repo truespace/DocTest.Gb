@@ -1,0 +1,133 @@
+## Game > Gamebase > 릴리스 노트 > Unreal
+
+### 2.43.3 (2022. 10. 04.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.43.3/GamebaseSDK-Unreal.zip)
+
+#### 기능 개선/변경
+* LINE 로그인을 수행 시 서비스를 제공할 Region을 입력하도록 변경되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > Login with IdP](./unreal-authentication/#login-with-idp)
+    
+#### 플랫폼별 변경 사항
+* [Gamebase Android SDK 2.43.0](./release-notes-android/#2430-2022-09-07)
+* [Gamebase iOS SDK 2.43.3](./release-notes-ios/#2433-2022-10-04)
+
+### 2.42.1 (2022. 08. 09.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.42.1/GamebaseSDK-Unreal.zip)
+
+#### 기능 추가
+* FGamebaseForcingMappingTicket 클래스에 매핑 유저 상태를 나타내는 mappedUserValid 필드가 추가되었습니다.
+* [iOS 설정 툴](./unreal-started/#ios-settings)에서 Xcode의 경로를 지정할 수 있도록 **Xcode Path** 설정이 추가되었습니다.
+
+#### 기능 개선/변경
+* 킥아웃 팝업 창 표시 여부는 Gamebase 콘솔에서 킥아웃 등록 시 설정할 수 있으므로 다음 필드는 더 이상 사용하지 않습니다.
+    * **FGamebaseConfiguration.bEnableKickoutPopup**
+* FGamebaseConfiguration 내 일부 필드에 기본값이 추가되었습니다.
+    * bEnableLaunchingStatusPopup의 기본값이 true로 설정되었습니다.
+    * bEnableBanPopup의 기본값이 true로 설정되었습니다.
+* 웹뷰에서 고정 폰트 사이즈 사용 여부를 설정하는 필드는 더 이상 사용되지 않습니다.
+    * **FGamebaseWebViewConfiguration.enableFixedFontSize**
+* FGamebaseWebViewConfiguratio 내 일부 필드에 기본값이 추가되었습니다.
+    * 내비게이션 바의 색상 필드인 colorR, colorG, colorB, colorA의 기본값이 18, 93, 230, 255로 설정되었습니다.
+    * 내비게이션 바 활성 여부를 지정하는 필드인 isNavigationBarVisible의 기본값이 true로 설정되었습니다.
+    * 웹뷰 내 뒤로 가기 버튼 활성 여부를 지정하는 필드인 isBackButtonVisible의 기본값이 true로 설정되었습니다.
+    
+#### 플랫폼별 변경 사항
+* [Gamebase Android SDK 2.42.1](./release-notes-android/#2421-2022-07-26)
+* [Gamebase iOS SDK 2.42.1](./release-notes-ios/#2421-2022-08-09)
+
+### 2.41.0 (2022. 07. 05.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.41.0/GamebaseSDK-Unreal.zip)
+
+#### 기능 추가
+* GamebaseEventHandler의 GamebaseEventCategory에 **IdPRevoked** 타입이 추가되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > IdP Revoked](./unreal-etc/#idp-revoked)
+
+#### 플랫폼별 변경 사항
+* [Gamebase Android SDK 2.41.0](./release-notes-android/#2410-2022-07-05)
+* [Gamebase iOS SDK 2.41.0](./release-notes-ios/#2410-2022-07-05)
+
+### 2.40.1 (2022. 06. 14.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.40.1/GamebaseSDK-Unreal.zip)
+
+#### 버그 수정
+* 크래시가 발생할 수 있는 로직이 수정되었습니다.
+* (iOS) 동일한 API를 연속해서 호출 시 콜백이 정상적으로 전달되지 않는 문제가 수정되었습니다.
+
+### 2.40.0 (2022. 05. 24.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.40.0/GamebaseSDK-Unreal.zip)
+
+#### 기능 추가
+*  [iOS 설정 툴](./unreal-started/#ios-settings)을 제공합니다.
+    * 기존 프로젝트 설정에서 **Gamebase**으로 표시되었지만 업데이트 이후 **Gamebase - Android**, **Gamebase - iOS**로 표시됩니다.
+    * iOS 설정 툴을 제공하면서 빌드 시 필요한 프레임워크만 포함되도록 수정되었습니다.
+* 공통 약관 API 호출 후 약관 UI가 표시되었는지를 알 수 있는 VO 클래스가 추가되었습니다.
+    * FGamebaseShowTermsViewResult
+* 단말기에서 알림을 허용했는지 여부를 알 수 있는 API가 추가되었습니다.
+    * UGamebaseSubsystem* Subsystem = UGameInstance::GetSubsystem<UGamebaseSubsystem>(GetGameInstance());
+    Subsystem->GetPush().QueryNotificationAllowed()
+* 약관이 표시되었는지를 알 수 있는 API가 추가되었습니다.
+    * UGamebaseSubsystem* Subsystem = UGameInstance::GetSubsystem<UGamebaseSubsystem>(GetGameInstance());
+    Subsystem->GetTerms().IsShowingTermsView()
+* 웹뷰에서 내비게이션 바를 숨길 수 있는 옵션이 추가되었습니다.
+    * FGamebaseWebViewConfiguration.isNavigationBarVisible
+* (Android) 웹뷰에서 폰트 사이즈를 고정할 수 있는 옵션이 추가되었습니다.
+    * FGamebaseTermsConfiguration.enableFixedFontSize
+* (Android) 약관 창에서 글자 크기를 고정할 수 있는 옵션이 추가되었습니다.
+    * FGamebaseTermsConfiguration.enableFixedFontSize
+* 결제 시 프로모션 여부를 알 수 있는 isPromotion 필드가 추가되었습니다.
+    * FGamebasePurchasableReceipt.isPromotion
+* 결제 시 테스트 결제 여부를 알 수 있는 isTestPurchase 필드가 추가되었습니다.
+    * FGamebasePurchasableReceipt.isTestPurchase
+* 고객 센터 URL 뒤에 파라미터를 추가할 수 있도록 다음 필드가 추가되었습니다.
+    * FGamebaseContactConfiguration.additionalParameters
+
+#### 기능 개선/변경
+* API 결과 콜백 호출 시 GameThread로 전환하여 호출하도록 수정되었습니다.
+* RequestActivatedPurchases API 호출 시 내부에서 2회 호출되는 문제가 수정되었습니다.
+* 일부 API의 이름이 변경되었습니다.
+    * FGamebaseAnalyticesLevelUpData → FGamebaseAnalyticsLevelUpData
+    * FGambaseBanInfoPtr → FGamebaseBanInfoPtr
+    
+#### 플랫폼별 변경 사항
+* [Gamebase Android SDK 2.40.0](./release-notes-android/#2400-2022-05-24)
+* [Gamebase iOS SDK 2.40.0](./release-notes-ios/#2400-2022-05-24)
+
+### 2.33.1 (2022. 02. 22.)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.33.1/GamebaseSDK-Unreal.zip)
+
+#### 버그 수정
+* iOS 빌드 시 발생하는 오류를 수정했습니다.
+
+### 2.33.0 (2022.01.25)
+
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.33.0/GamebaseSDK-Unreal.zip)
+
+#### 기능 추가
+* '결제 어뷰징 자동 해제' 기능이 추가되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > GraceBan](./unreal-authentication/#graceban)
+    * 결제 어뷰징 자동 해제 기능은 결제 어뷰징 자동 제재로 이용 정지가 되어야 할 사용자가 '이용 정지 유예 상태' 후 이용 정지가 되도록 합니다.
+    * '이용 정지 유예 상태'일 경우, 설정한 기간 내에 이용 정지 해제 조건을 모두 만족하면 정상적으로 플레이할 수 있습니다.
+    * 기간 내에 조건을 충족하지 못하면 이용이 정지됩니다.
+* 결제 어뷰징 자동 해제 기능을 사용하는 게임은 로그인 후 항상 AuthToken.member.graceBanInfo API 값을 확인하고, null이 아닌 유효한 GraceBanInfo 객체를 반환한다면 해당 유저에게 이용 정지 해제 조건, 기간 등을 안내해야 합니다.
+    * 이용 정지 유예 상태인 유저의 게임 내 접근 제어는 게임에서 처리해야 합니다.
+* 강제 매핑 시 IdP 로그인을 한 번 더 시도해야 하는 불편함을 개선한 새로운 강제 매핑 API가 추가되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > Mapping > Add Mapping Forcibly](./unreal-authentication/#add-mapping-forcibly)
+* Gamebase.AddMapping() 호출 후 AUTH_ADD_MAPPING_ALREADY_MAPPED_TO_OTHER_MEMBER(3302) 에러가 발생했을 때, 해당 계정으로 로그인을 할 수 있는 API가 추가되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > Mapping > Change Login with ForcingMappingTicket](./unreal-authentication/#change-login-with-forcingmappingticket)
+* GamebaseEventHandler의 GamebaseEventCategory에 **GamebaseEventCategory::ServerPushAppKickOutMessageReceived** 타입이 추가되었습니다.
+    * 이 이벤트의 활용 방법은 다음 문서를 참고하시기 바랍니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Server Push](./unreal-etc/#server-push)
+* GamebaseEventHandler의 GamebaseEventCategory에 **GamebaseEventCategory::LoggedOut** 타입이 추가되었습니다.
+    * Gamebase Access Token이 만료되어 로그인이 필요할 때 동작합니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Logged Out](./unreal-etc/#logged-out)
+* 공통 약관 창의 설정을 변경할 수 있는 신규 API가 추가되었습니다.
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > UI > Terms > showTermsView](./unreal-ui/#showtermsview)
+
+#### 기능 개선/변경
+* 오류 코드 추가 및 변경
+    * GamebaseErrorCode::UNKNOWN_ERROR 에러에 매핑된 오류 코드를 999에서 9999로 변경하였습니다.
+    * 오류 코드 999에 매핑한 GamebaseErrorCode::SOCKET_UNKNOWN_ERROR 에러를 새로 추가하였습니다.
+    
+#### 플랫폼별 변경 사항
+* [Gamebase Android SDK 2.33.0](./release-notes-android/#2330-20220125)
+* [Gamebase iOS SDK 2.33.0](./release-notes-ios/#2330-20220125)
