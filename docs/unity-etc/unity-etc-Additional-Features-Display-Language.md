@@ -242,8 +242,8 @@ localizedstring.json에 정의되어 있는 형식은 아래와 같습니다.
 
 Unity Android, iOS 플랫폼에서의 신규 언어셋 추가 방법은 아래 가이드를 참고하십시오.
 
-* [Android 신규 언어셋 추가](../../aos-etc.md#display-language)
-* [iOS 신규 언어셋 추가](../../ios-etc.md#display-language)
+* [Android 신규 언어셋 추가](../aos-etc.md#display-language)
+* [iOS 신규 언어셋 추가](../ios-etc.md#display-language)
 
 #### Display Language 우선순위
 

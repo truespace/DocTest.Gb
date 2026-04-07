@@ -15,5 +15,5 @@ order: 16
 * (Android) ShowWebView, ShowTermsView 호출 시 Configuration이 없으면 크래시가 발생하는 문제를 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.70.1](../../release-notes-android.md#2701-2025-03-13)
-* [Gamebase iOS SDK 2.70.0](../../release-notes-ios.md#2700-2025-03-11)
+* [Gamebase Android SDK 2.70.1](../release-notes-android.md#2701-2025-03-13)
+* [Gamebase iOS SDK 2.70.0](../release-notes-ios.md#2700-2025-03-11)

@@ -16,7 +16,7 @@ order: 6
 | PUSH_UNKNOWN_ERROR             | 5999       | 정의되지 않은 푸시 오류입니다.<br>전체 로그를 [고객 센터](https://toast.com/support/inquiry)에 올려 주시면 가능한 한 빠르게 답변 드리겠습니다. |
 
 * 전체 오류 코드는 다음을 참고하시기 바랍니다.
-    * [오류 코드](../../error-code.md#client-sdk)
+    * [오류 코드](../error-code.md#client-sdk)
 
 **PUSH_EXTERNAL_LIBRARY_ERROR**
 

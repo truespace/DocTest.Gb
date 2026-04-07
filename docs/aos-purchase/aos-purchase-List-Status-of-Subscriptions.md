@@ -18,7 +18,7 @@ order: 9
 > <font color="red">[주의]</font><br/>
 >
 > * 구독 상태 코드는 아래 가이드를 따라 구독 이벤트 설정을 해야 정상적으로 반환됩니다.
->     * [Game > Gamebase > 스토어 콘솔 가이드 > Google 콘솔 가이드 > Google 시스템 내 실시간 구독 정보 이벤트 전파 설정](../../console-google-guide.md#google_1)
+>     * [Game > Gamebase > 스토어 콘솔 가이드 > Google 콘솔 가이드 > Google 시스템 내 실시간 구독 정보 이벤트 전파 설정](../console-google-guide.md#google_1)
 >     * 이벤트 설정을 하지 않은 상태에서 구매한 구독 상품의 상태 코드는 항상 0(PURCHASED)이 반환됩니다.
 > * 현재 구독 상품은 Google Play 스토어만 지원합니다.
 

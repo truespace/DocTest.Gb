@@ -19,8 +19,8 @@ Gamebase Unity SDK 사용 환경과 초기 설정 방법을 설명합니다.
 
 #### Dependencies
 
-* [Gamebase Android SDK - Dependencies](../../aos-started.md#dependencies)
-* [Gamebase iOS SDK - Dependencies](../../ios-started.md#setting)
+* [Gamebase Android SDK - Dependencies](../aos-started.md#dependencies)
+* [Gamebase iOS SDK - Dependencies](../ios-started.md#setting)
 
 #### Supported Platforms
 
@@ -48,7 +48,7 @@ SettingTool을 이용하여 Gamebase SDK를 간편하게 설치할 수 있습니
 ### SettingTool 설치
 
 1. SettingTool을 다운로드합니다.
-    * [Download Gamebase Setting Tool](/Download/#game-gamebase)
+    * [Download Gamebase Setting Tool](https://docs.nhncloud.com/Download/#game-gamebase)
 2. Unity 프로젝트 실행 후 GamebaseUnitySettingTool\_{version}.unitypackage 파일을 임포트 합니다.
 
 ### SettingTool 사용
@@ -276,7 +276,7 @@ EDM4U에서 CocoaPods 설치할 수도 있습니다.
 1. Unity 프로젝트에서 iOS 빌드를 진행합니다.
 2. 생성된 Xcode 프로젝트를 엽니다.
 3. TARGETS > UnityFramework에 iOS SDK 설정을 추가합니다.
-    * [iOS SDK 설정 가이드](../../ios-started.md)
+    * [iOS SDK 설정 가이드](../ios-started.md)
 
 ## 오류 발생 시
 

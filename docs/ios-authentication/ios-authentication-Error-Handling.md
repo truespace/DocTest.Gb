@@ -45,7 +45,7 @@ order: 9
 
 
 * 전체 오류 코드는 다음 문서를 참고하시기 바랍니다.
-    - [오류 코드](../../error-code.md#client-sdk)
+    - [오류 코드](../error-code.md#client-sdk)
 
 
 **TCGB\_ERROR\_AUTH\_EXTERNAL\_LIBRARY\_ERROR**

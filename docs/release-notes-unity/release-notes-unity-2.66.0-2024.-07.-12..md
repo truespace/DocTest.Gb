@@ -15,8 +15,8 @@ order: 26
 * (Android) GPGS V2 인증이 추가되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.66.0](../../release-notes-android.md#2660-2024-07-10)
-* [Gamebase iOS SDK 2.65.1](../../release-notes-ios.md#2651-2024-06-25)
+* [Gamebase Android SDK 2.66.0](../release-notes-android.md#2660-2024-07-10)
+* [Gamebase iOS SDK 2.65.1](../release-notes-ios.md#2651-2024-06-25)
 
 #### Setting Tool (v2.9.0)
 

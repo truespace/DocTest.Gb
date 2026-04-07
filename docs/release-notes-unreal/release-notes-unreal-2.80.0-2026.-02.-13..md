@@ -16,10 +16,10 @@ order: 2
 * Gamebase Event Handler의 GamebaseEventCategory.PURCHASE_UPDATED 이벤트 기능이 확장되었습니다.
     * 앱이 실행 중일 때 GamebaseEventHandler를 통해 Pending 결제(느린 결제, 부모 동의 등) 완료 이벤트를 제공 받을 수 있습니다.
 * (iOS) Project Settings의 설정에 따라 Info.plist에 필요한 항목이 자동으로 추가되도록 개선되었습니다.
-    * [Game > Gamebase > Unreal SDK 사용 가이드 > 시작하기 > iOS Settings](../../unreal-started.md#ios-settings)
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 시작하기 > iOS Settings](../unreal-started.md#ios-settings)
 * 내부 로직을 개선했습니다.
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase Android SDK 2.80.0](../../release-notes-android.md#2800-2026-02-13)
-* [Gamebase iOS SDK 2.80.0](../../release-notes-ios.md#2800-2026-02-13)
+* [Gamebase Android SDK 2.80.0](../release-notes-android.md#2800-2026-02-13)
+* [Gamebase iOS SDK 2.80.0](../release-notes-ios.md#2800-2026-02-13)

@@ -15,5 +15,5 @@ order: 54
     * GamebaseRequest.Contact.Configuration.additionalParameters
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.37.0](../../release-notes-android.md#2370-2022-04-26)
-* [Gamebase iOS SDK 2.37.0](../../release-notes-ios.md#2370-2022-04-26)
+* [Gamebase Android SDK 2.37.0](../release-notes-android.md#2370-2022-04-26)
+* [Gamebase iOS SDK 2.37.0](../release-notes-ios.md#2370-2022-04-26)

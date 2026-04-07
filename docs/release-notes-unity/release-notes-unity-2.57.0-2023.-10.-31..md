@@ -15,5 +15,5 @@ order: 35
 * (iOS) AUTH_IDP_LOGIN_EXTERNAL_AUTHENTICATION_REQUIRED 오류 코드가 추가되었습니다. 
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.57.0](../../release-notes-android.md#2570-2023-10-31)
-* [Gamebase iOS SDK 2.57.0](../../release-notes-ios.md#2570-2023-10-31)
+* [Gamebase Android SDK 2.57.0](../release-notes-android.md#2570-2023-10-31)
+* [Gamebase iOS SDK 2.57.0](../release-notes-ios.md#2570-2023-10-31)

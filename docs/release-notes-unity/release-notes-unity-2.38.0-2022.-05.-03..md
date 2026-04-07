@@ -22,5 +22,5 @@ order: 53
     * Gamebase.Purchase.RequestItemListOfNotConsumed()
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.38.0](../../release-notes-android.md#2380-2022-05-03)
-* [Gamebase iOS SDK 2.38.0](../../release-notes-ios.md#2380-2022-05-03)
+* [Gamebase Android SDK 2.38.0](../release-notes-android.md#2380-2022-05-03)
+* [Gamebase iOS SDK 2.38.0](../release-notes-ios.md#2380-2022-05-03)

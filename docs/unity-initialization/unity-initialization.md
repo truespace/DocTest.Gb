@@ -29,13 +29,13 @@ Gamebase Unity SDK를 사용하려면 먼저 초기화를 진행해야 합니다
 
 Gamebase 콘솔에 등록된 프로젝트 ID입니다.
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../../oper-app.md#app)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../oper-app.md#app)
 
 #### 2. appVersion
 
 Gamebase 콘솔에 등록한 클라이언트 버전입니다.
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../../oper-app.md#client)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../oper-app.md#client)
 
 #### 3. storeCode
 
@@ -57,7 +57,7 @@ NHN Cloud 통합 인앱 결제 서비스인 IAP(In-App Purchase)를 초기화하
 
 Gamebase에서 제공하는 UI 및 SystemDialog에 표시되는 언어를 단말기에 설정된 언어가 아닌 다른 언어로 변경할 수 있습니다.
 
-[Game > Gamebase > Unity SDK 사용 가이드 > ETC > Additional Features > Display Language](../../unity-etc.md#display-language)
+[Game > Gamebase > Unity SDK 사용 가이드 > ETC > Additional Features > Display Language](../unity-etc.md#display-language)
 
 #### 5. enablePopup
 
@@ -104,8 +104,8 @@ Android 플랫폼에서 'GPGS 자동 로그인' 기능 연동 시 유저에게 G
 디버그 설정은 콘솔에서도 가능하며 콘솔에서 설정된 값을 우선시합니다.
 콘솔 설정 방법은 아래 가이드를 참고하십시오.
 
-* [콘솔 테스트 단말기 설정](../../oper-app.md#test-device)
-* [콘솔 Client 설정](../../oper-app.md#client)
+* [콘솔 테스트 단말기 설정](../oper-app.md#test-device)
+* [콘솔 Client 설정](../oper-app.md#client)
 
 **API**
 
@@ -278,7 +278,7 @@ Gamebase Unity SDK 초기화 설정에 입력한 앱 버전의 게임 상태 정
 | INSPECTING_ALL_SERVICES     | 304  | 전체 서비스 점검 중                              |
 | INTERNAL_SERVER_ERROR       | 500  | 내부 서버 오류                                 |
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../../oper-app.md#app)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../oper-app.md#app)
 
 **1.2 app**
 
@@ -297,7 +297,7 @@ Gamebase 콘솔에 등록된 앱 정보입니다.
 * install: 설치 URL
 * idP: 인증 정보
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../../oper-app.md#client)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../oper-app.md#client)
 
 **1.3 maintenance**
 
@@ -310,7 +310,7 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 * message: 점검 사유
 * hideDate: 점검 시작, 종료 시간을 표시할 것인지 여부
 
-[Game > Gamebase > 콘솔 사용 가이드 > 운영 > Maintenance](../../oper-operation.md#maintenance)
+[Game > Gamebase > 콘솔 사용 가이드 > 운영 > Maintenance](../oper-operation.md#maintenance)
 
 ##### Change Default Maintenance HTML
 
@@ -343,7 +343,7 @@ Gamebase 콘솔에 등록된 공지 정보입니다.
 * title: 타이틀
 * url: 점검 URL
 
-[Game > Gamebase > 콘솔 사용 가이드 > 운영 > Notice](../../oper-operation.md#notice)
+[Game > Gamebase > 콘솔 사용 가이드 > 운영 > Notice](../oper-operation.md#notice)
 
 **1.5 user**
 
@@ -372,7 +372,7 @@ NHN Cloud 콘솔에 등록된 IAP 스토어 정보입니다.
 * name: App Name
 * storeCode: Store Code
  
-[Game > Gamebase > 콘솔 사용 가이드 > 결제](../../oper-purchase.md)
+[Game > Gamebase > 콘솔 사용 가이드 > 결제](../oper-purchase.md)
 
 #### 4. tcLaunching
 
@@ -381,7 +381,7 @@ NHN Cloud Launching 콘솔에서 사용자가 입력한 정보입니다
 * 사용자가 입력한 값을 JSON string으로 전달합니다.
 * NHN Cloud Launching 상세 설정은 아래 가이드를 참고하시기 바랍니다.
  
-[Game > Gamebase > 콘솔 사용 가이드 > 관리 > Config](../../oper-management.md#config)
+[Game > Gamebase > 콘솔 사용 가이드 > 관리 > Config](../oper-management.md#config)
 
 ### Get Launching Information
 
@@ -392,7 +392,7 @@ GetLaunchingInformations API를 이용하면 Initialize 이후에도 LaunchingIn
 > GetLaunchingInformations API 는 실시간으로 서버에서 정보를 가져오는 비동기 API가 아닙니다.
 > 2분 주기로 업데이트 되는 캐시 정보를 반환하므로, 실시간으로 현재의 점검 여부를 판단하는 용도로는 적합하지 않습니다.
 > 이런 경우에는 Launching Status Code가 변경되었을때 이벤트가 동작하는 GamebaseEventHandler 를 활용하시기 바랍니다.
-> [Game > Gamebase > Unity SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Observer](../../unity-etc.md#observer)
+> [Game > Gamebase > Unity SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Observer](../unity-etc.md#observer)
 
 **API**
 
@@ -511,4 +511,4 @@ public class SampleInitialization
 | NOT\_SUPPORTED        | 10         | 지원하지 않는 기능입니다.         |
 
 * 전체 오류 코드는 다음 문서를 참고하시기 바랍니다.
-    * [오류 코드](../../error-code.md#client-sdk)
+    * [오류 코드](../error-code.md#client-sdk)

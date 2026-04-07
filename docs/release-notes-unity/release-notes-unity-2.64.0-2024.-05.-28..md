@@ -15,5 +15,5 @@ order: 29
 * 내부 로직을 개선했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.64.0](../../release-notes-android.md#2620-2024-05-28)
-* [Gamebase iOS SDK 2.64.0](../../release-notes-ios.md#2620-2024-05-28)
+* [Gamebase Android SDK 2.64.0](../release-notes-android.md#2620-2024-05-28)
+* [Gamebase iOS SDK 2.64.0](../release-notes-ios.md#2620-2024-05-28)

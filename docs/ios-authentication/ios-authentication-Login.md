@@ -16,7 +16,7 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.
 
 - 게스트 이외의 Provider에 로그인하려면 해당 Provider AuthAdapter가 필요합니다.
 - AuthAdapter 및 3rd-Party Provider SDK에 대한 설정은 다음을 참고하시기 바랍니다.
-    - [Game > Gamebase > iOS SDK 사용 가이드 > 시작하기 > 3rd-Party Provider SDK Guide](ios-started#3rd-party-provider-sdk-guide)
+    - [Game > Gamebase > iOS SDK 사용 가이드 > 시작하기 > 3rd-Party Provider SDK Guide](../ios-started.md#3rd-party-provider-sdk-guide)
 
 로그인을 시도하려는 IdP별로, additionalInfo 파라미터를 입력해야 하는 경우가 있습니다.<br/>
 AdditionalInfo에 대한 설명은 하단의 **Gamebase에서 지원 중인 IdP** 설명을 참고하시기 바랍니다.
@@ -163,7 +163,7 @@ Gamebase를 통하여 로그인을 처음 시도하거나, 로그인 정보(Acce
 > 일부 IdP는 로그인 시 추가 정보가 필요합니다.
 > 추가 정보를 설정할 수 있도록 **[TCGBGamebase loginWithType:additionalInfo:viewController:completion:]** API를 제공합니다.
 > additionalInfo 파라미터에 필수 정보들을 dictionary 형태로 입력합니다.
-> additionalInfo 값이 있을 경우에는 해당 값을 사용하고 null일 경우에는 [NHN Cloud Console](../../oper-app.md#authentication-information)에 등록된 값을 사용합니다.
+> additionalInfo 값이 있을 경우에는 해당 값을 사용하고 null일 경우에는 [NHN Cloud Console](../oper-app.md#authentication-information)에 등록된 값을 사용합니다.
 
 > [참고]
 >
@@ -254,4 +254,4 @@ IdP에서 제공하는 SDK를 사용해 게임에서 직접 인증한 후 발급
 
 ### Authentication Additional Information Settings
 
-[Console Guide](../../oper-app.md#authentication-information)
+[Console Guide](../oper-app.md#authentication-information)

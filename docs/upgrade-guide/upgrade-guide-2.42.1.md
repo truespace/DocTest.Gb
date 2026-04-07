@@ -20,7 +20,7 @@ order: 36
 
 ### Unreal
 
-* (iOS) [iOS 설정 툴](../../unreal-started.md#ios-settings)에서 Xcode의 경로를 변경할 수 있도록 **Xcode Path** 설정이 추가되었습니다.
+* (iOS) [iOS 설정 툴](../unreal-started.md#ios-settings)에서 Xcode의 경로를 변경할 수 있도록 **Xcode Path** 설정이 추가되었습니다.
     * 변경하지 않는 경우 기본값으로 설정됩니다(기본값: /Applications/Xcode.app).
 
 #### Changed/Deprecated APIs

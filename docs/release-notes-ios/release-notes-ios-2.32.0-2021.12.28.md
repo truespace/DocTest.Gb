@@ -12,9 +12,9 @@ order: 64
 
 #### 기능 추가
 * GamebaseEventHandler의 GamebaseEventCategory에 **kTCGBServerPushAppKickoutMessageReceived** 타입이 추가되었습니다.
-    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Server Push](../../ios-etc.md#server-push)
+    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Server Push](../ios-etc.md#server-push)
 * GamebaseEventHandler의 GamebaseEventCategory에 **kTCGBLoggedOut** 타입이 추가되었습니다.
-    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Logged Out](../../ios-etc.md#logged-out)
+    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Logged Out](../ios-etc.md#logged-out)
 
 #### 기능 개선/변경
 * 웹뷰 navigationBar의 기본 타이틀 색상이 **UIColor.whiteColor**로 변경되었습니다.

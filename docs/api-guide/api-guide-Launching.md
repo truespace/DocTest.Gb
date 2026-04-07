@@ -141,7 +141,7 @@ Console 화면에서 설정한 서버 주소, 설치 URL 등의 클라이언트 
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 <br>

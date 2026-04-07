@@ -44,7 +44,7 @@ Gamebase.requestLastLoggedInProvider((lastLoggedInProvider, exception) -> ...);
 ### Get Authentication Information for External IdP
 
 * 외부 인증 IdP의 Access Token, 사용자 ID, Profile 등의 정보는 로그인 후 게임 서버에서 Gamebase Server API를 호출하여 가져올 수 있습니다.
-    * [Game > Gamebase > API 가이드 > Authentication > Get IdP Token and Profiles](../../api-guide.md#get-idp-token-and-profiles)
+    * [Game > Gamebase > API 가이드 > Authentication > Get IdP Token and Profiles](../api-guide.md#get-idp-token-and-profiles)
 
 > <font color="red">[주의]</font><br/>
 >

@@ -14,7 +14,7 @@ order: 15
 * '게임 공지' 신규 기능이 추가되었습니다.
     * Gamebase.GameNotice.OpenGameNotice(GamebaseCallback.ErrorDelegate callback)
     * API 호출 방법은 다음 가이드 문서를 참고하시기 바랍니다.
-        * [Game > Gamebase > Unity SDK 사용 가이드 > 공지 > 게임 공지](../../unity-ui.md#gamenotice)
+        * [Game > Gamebase > Unity SDK 사용 가이드 > 공지 > 게임 공지](../unity-ui.md#gamenotice)
 
 #### 기능 개선/변경
 
@@ -26,5 +26,5 @@ order: 15
 * macOS 15.4에서 크래시가 발생하는 이슈를 수정하였습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.71.0](../../release-notes-android.md#2710-2025-04-15)
-* [Gamebase iOS SDK 2.71.0](../../release-notes-ios.md#2710-2025-04-15)
+* [Gamebase Android SDK 2.71.0](../release-notes-android.md#2710-2025-04-15)
+* [Gamebase iOS SDK 2.71.0](../release-notes-ios.md#2710-2025-04-15)

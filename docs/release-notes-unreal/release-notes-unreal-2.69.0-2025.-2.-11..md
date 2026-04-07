@@ -19,7 +19,7 @@ order: 15
         Auto Login을 사용하지 않는다면 GetLastLoggedInProvider() 동기 API를 사용해도 무방합니다.
 * (Android) GPGS v2 인증 추가되었습니다.
     * 자세한 내용은 다음 링크를 참고하세요.
-        * [Game > Gamebase > Unreal SDK 사용 가이드 > 시작하기 > Android Settings](../../unreal-started.md#android-settings)
+        * [Game > Gamebase > Unreal SDK 사용 가이드 > 시작하기 > Android Settings](../unreal-started.md#android-settings)
 * (Android) `FGamebaseWebViewConfiguration::CutoutColor` 필드를 추가했습니다.
     * GamebaseWebView의 `FGamebaseWebViewConfiguration::bRenderOutSideSafeArea` 필드를 **false**로 설정한 경우, cutout 영역에 자동으로 padding 여백을 추가합니다.
     * CutoutColor 필드는 이렇게 추가된 padding 영역의 색을 설정할 수 있습니다.
@@ -37,5 +37,5 @@ order: 15
 * (Android) Windows 환경에서 빌드 시 포스트 빌드 프로세스에서 오류가 발생하지 않도록 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.69.0](../../release-notes-android.md#2690-2025-01-21)
-* [Gamebase iOS SDK 2.69.0](../../release-notes-ios.md#2690-2025-01-21)
+* [Gamebase Android SDK 2.69.0](../release-notes-android.md#2690-2025-01-21)
+* [Gamebase iOS SDK 2.69.0](../release-notes-ios.md#2690-2025-01-21)

@@ -22,4 +22,4 @@ order: 44
         * **Assets/Plugins/Android**  
         * **Assets/Plugins/iOS** 
     * 변경된 내용 및 사용 방법은 아래 가이드를 확인하십시오. 
-        * [Game > Gamebase > Unity SDK 사용 가이드 > 시작하기 > Specification of Setting Tool](../../unity-started.md#specification-of-setting-tool)
+        * [Game > Gamebase > Unity SDK 사용 가이드 > 시작하기 > Specification of Setting Tool](../unity-started.md#specification-of-setting-tool)

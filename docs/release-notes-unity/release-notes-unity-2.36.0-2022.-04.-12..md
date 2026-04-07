@@ -23,5 +23,5 @@ order: 55
 * (iOS) 프로젝트의 orientation이 Auto Rotation으로 설정되어 있고, 프로젝트 첫 신(scene)에 포함된 MonoBehaviour의 Awake에서 Gamebase API 호출 시 웹뷰 등의 UI 출력이 정상적으로 되지 않는 오류가 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.36.0](../../release-notes-android.md#2360-2022-04-12)
-* [Gamebase iOS SDK 2.36.0](../../release-notes-ios.md#2360-2022-04-12)
+* [Gamebase Android SDK 2.36.0](../release-notes-android.md#2360-2022-04-12)
+* [Gamebase iOS SDK 2.36.0](../release-notes-ios.md#2360-2022-04-12)

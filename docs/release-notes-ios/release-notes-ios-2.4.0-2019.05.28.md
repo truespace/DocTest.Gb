@@ -13,5 +13,5 @@ order: 113
 #### 기능 개선/변경
 
 * 지표관련 Class 변경
-    * LevelUpData Class: userLevel, levelUpTime 파라미터가 필수로 변경 / 그 외 필드 삭제 [자세히보기 [iOS](../../ios-etc.md#game-user-data-settings)]
-    * GameUserData Class: classId(게임유저의 직업) 필드 추가 [자세히보기 [iOS](../../ios-etc.md#level-up-trace)]
+    * LevelUpData Class: userLevel, levelUpTime 파라미터가 필수로 변경 / 그 외 필드 삭제 [자세히보기 [iOS](../ios-etc.md#game-user-data-settings)]
+    * GameUserData Class: classId(게임유저의 직업) 필드 추가 [자세히보기 [iOS](../ios-etc.md#level-up-trace)]

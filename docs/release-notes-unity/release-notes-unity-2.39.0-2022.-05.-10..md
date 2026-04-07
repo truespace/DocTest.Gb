@@ -17,5 +17,5 @@ order: 52
 * 초기화 전에 GetLaunchingInformations() API를 호출 시 JsonException이 발생하지 않도록 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.39.0](../../release-notes-android.md#2390-2022-05-10)
-* [Gamebase iOS SDK 2.39.0](../../release-notes-ios.md#2390-2022-05-10)
+* [Gamebase Android SDK 2.39.0](../release-notes-android.md#2390-2022-05-10)
+* [Gamebase iOS SDK 2.39.0](../release-notes-ios.md#2390-2022-05-10)

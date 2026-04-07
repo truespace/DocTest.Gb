@@ -23,7 +23,7 @@ Game지표를 Gamebase Server로 전송할 수 있습니다.
 
 Analytics Console 사용법은 아래 가이드를 참고하십시오.
 
-* [Analytics Console](../../oper-analytics.md)
+* [Analytics Console](../oper-analytics.md)
 
 #### Game User Data Settings
 

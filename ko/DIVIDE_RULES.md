@@ -54,6 +54,10 @@
     - **자기 문서 앵커 링크**: 같은 원본에서 분할된 파일 내 앵커를 참조하는 경우, 해당 앵커가 포함된 분할 파일로 재매핑한다.
         - 변환 규칙: `./원본파일명#anchor` → `./분할파일명.md#anchor`
     - 파일 경로에 `.md` 확장자를 추가해야 한다. (GitHub preview 호환)
+    - **절대경로 링크 예외**: 원본 사이트(`docs.nhncloud.com`) 기준의 절대경로 링크는 변환하지 않고 원본 그대로 유지한다.
+        - 해당 경로는 원본 사이트에서 라우팅을 통해 정상 동작하는 경로이며, 임의로 변환 시 에러 페이지로 연결될 수 있다.
+        - 대상 경로 패턴: `/Download/`, `/TOAST/`, `/Game/` 등 `/`로 시작하는 사이트 내부 절대경로
+        - 예: `/Download/#game-gamebase`, `/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging`
 7. 문서에 포함된 이미지(외부 URL 및 로컬 경로 모두 포함)는 각 문서가 생성된 하위 `image/` 폴더 안에 복사하며, 이미지 경로는 상대 경로로 재조정되어야 한다. (링크 유효성 확인)
     - 외부 URL 이미지: 다운로드하여 `image/` 폴더에 저장
     - 로컬 이미지: `image/` 폴더로 복사
@@ -68,7 +72,7 @@
             Keyword: {검색을 위한 키워드 등록. ','로 구분}
         -->
         ```
-7. 분할 작업 후 `원본경로/../history/` 폴더 구조의 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
+8. 분할 작업 후 `원본경로/../history/` 폴더 구조의 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
     - 파일명 형식: `HISTORY_STRUCTURE_YYYYMMDD_HHMMSS.md`
     - 파일 위치: 원본 파일 상위에 history 폴더에 생성(없으면 history 폴더 생성) (예: `history/HISTORY_STRUCTURE_20260403_144621.md`)
     - 파일 내용:
@@ -76,6 +80,16 @@
         - 통계 테이블: 디렉터리, 전체 파일, index 파일, 분할 파일, 이미지 파일 수
         - 폴더 구조: 트리 형태로 `docs/` 하위 전체 구조를 표시 (파일 크기 포함)
     - 분할 작업이 수행될 때마다 새로운 스냅샷 파일을 생성하여 변경 이력을 추적한다.
+9. 분할 작업 완료 후 다음 항목에 대해 검증을 수행한다.
+    - **하이퍼링크 유효성**: 모든 내부 상대경로 링크(`[text](path)`)가 실제 파일을 가리키는지 확인한다.
+        - 분할 파일은 `docs/{기능명}/` 하위에 위치하므로, 같은 docs 내 다른 index 파일 참조 시 `../파일명.md#anchor` 형태여야 한다.
+        - 절대경로(`/Download/`, `/TOAST/` 등)는 원본 내용 그대로 유지한다. (원본 사이트 기준 경로이므로 변환하지 않는다)
+        - `.md` 확장자 누락, 상대경로 깊이 오류(`../../` vs `../`) 등을 점검한다.
+    - **이미지 경로 유효성**: 로컬 이미지 링크(`![alt](path)`)가 실제 파일을 가리키는지 확인한다.
+    - **이미지 주석 완전성**: 모든 이미지 링크 하위에 `LLM_Image_DESC` 주석이 존재하는지 확인한다.
+        - 누락된 경우 규칙 7의 주석 포맷에 따라 추가한다.
+    - **frontmatter 완전성**: 모든 파일에 규칙 5의 필수 필드(`source`, `split`, `created_date_time`, `keyword`)가 포함되어 있는지 확인한다.
+    - 검증 결과는 분할 작업 로그에 기록하며, 오류가 발견되면 즉시 수정한다.
 
 
 ## 분할 내역
@@ -158,3 +172,40 @@
 | release-notes-server-api.md | 4.6KB | 5KB 미만 |
 | unity-initialization.md | 19.5KB | 10~20KB, 5KB이하 분할 불가 |
 | unity-started.md | 11.2KB | 10~20KB, 5KB이하 분할 불가 |
+
+### 검증 이력
+
+#### 2026-04-07 링크 및 이미지 주석 검증
+
+**하이퍼링크 수정 (600개 / 225+ 파일)**
+
+| 유형 | 수정 수 | 설명 |
+|------|---------|------|
+| `../../` → `../` 경로 깊이 수정 | 569 | `divided/`→`docs/` 경로 이동 후 상대경로 깊이 미갱신 |
+| 상대 파일명 참조 수정 | 20 | `.md` 확장자 및 `../` 접두어 누락 보완 |
+| `./Error-code/` 경로 수정 | 4 | `./Error-code/#...` → `../error-code.md#...` |
+| 절대경로 → 외부 URL 변환 | 4 | `/Download/`, `/TOAST/` → `https://docs.nhncloud.com/...` |
+| 괄호 중복 수정 | 1 | `((https://...)` → `(https://...)` |
+| 오타 수정 | 1 | `aos-started/₩1#...` → `../aos-started.md#...` |
+
+**이미지 주석 추가 (128개 / 15개 파일)**
+
+| 파일 | 추가 수 | 내용 |
+|------|---------|------|
+| console-google-guide | +28 | Google Play Console 설정 스크린샷 |
+| oper-member | +18 | 회원 관리 콘솔 화면 |
+| oper-coupon | +13 | 쿠폰 관리 콘솔 화면 |
+| console-epicgames-guide | +10 | Epic Games 스토어 설정 화면 |
+| oper-ban | +10 | 이용 정지(밴) 콘솔 화면 |
+| ios-started | +10 | iOS SDK 설정 (XCode, Framework 등) |
+| console-huawei-guide | +8 | Huawei AppGallery 설정 화면 |
+| unity-started | +7 | Unity SDK Setting Tool 화면 |
+| console-amazon-guide | +6 | Amazon Appstore 콘솔 화면 |
+| console-steam-guide | +5 | Steam 스토어 설정 화면 |
+| oper-operating-indicator | +5 | 운영 지표 모니터링 화면 |
+| aos-initialization | +3 | 초기화 플로우/점검 팝업 |
+| unity-initialization | +2 | 점검 팝업/웹뷰 |
+| ios-initialization | +2 | 점검 웹뷰 |
+| console-mycard-guide | +1 | MyCard 스토어 설정 |
+
+**검증 결과**: 깨진 링크 0개, 깨진 이미지 0개, 누락 주석 0개

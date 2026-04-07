@@ -37,5 +37,5 @@ order: 31
 * (iOS) Xcode 14.1에서 빌드 시 오류가 발생되는 이슈가 수정되었습니다.
     
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.48.0](../../release-notes-android.md#2480-2023-03-28)
-* [Gamebase iOS SDK 2.49.0](../../release-notes-ios.md#2490-2023-04-11)
+* [Gamebase Android SDK 2.48.0](../release-notes-android.md#2480-2023-03-28)
+* [Gamebase iOS SDK 2.49.0](../release-notes-ios.md#2490-2023-04-11)

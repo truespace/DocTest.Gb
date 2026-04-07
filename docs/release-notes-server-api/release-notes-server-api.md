@@ -133,18 +133,18 @@ keyword: "Server API, 신규, 버그수정, 기능개선, 기능추가, 변경, 
 ### 2017. 11. 30.
 
 #### 기능 개선/변경
-* [점검 조회 API](../../api-guide.md#check-under-maintenance) 결과를 List 에서 단일 객체로 변경
+* [점검 조회 API](../api-guide.md#check-under-maintenance) 결과를 List 에서 단일 객체로 변경
 
 ### 2017. 04. 04.
 
 #### 기능 개선/변경
-* [IAP](../../api-guide.md#purchaseiap) API 연동 : 아이템 조회, 미소비내역 조회
+* [IAP](../api-guide.md#purchaseiap) API 연동 : 아이템 조회, 미소비내역 조회
 * checkAccessToken API 응답 결과에, 로그인 시 사용된 IdP 관련 정보 포함하는 스펙 추가
 
 ### 2017. 03. 21.
 
 #### 기능 개선/변경
-* [Leaderboard](../../api-guide.md#leaderboard), [IAP](../../api-guide.md#purchaseiap) API 연동
+* [Leaderboard](../api-guide.md#leaderboard), [IAP](../api-guide.md#purchaseiap) API 연동
 
 ### 2017. 03. 09.
 

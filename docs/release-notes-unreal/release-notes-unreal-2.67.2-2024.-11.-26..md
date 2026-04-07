@@ -17,5 +17,5 @@ order: 18
 * (Windows) Apple ID 로그인을 정상적으로 진행하지 못하는 문제가 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.67.0](../../release-notes-android.md#2670-2024-10-29)
-* [Gamebase iOS SDK 2.67.0](../../release-notes-ios.md#2670-2024-10-29)
+* [Gamebase Android SDK 2.67.0](../release-notes-android.md#2670-2024-10-29)
+* [Gamebase iOS SDK 2.67.0](../release-notes-ios.md#2670-2024-10-29)

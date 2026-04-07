@@ -14,5 +14,5 @@ order: 47
 * 외부 SDK 업데이트: NHN Cloud Unity SDK(0.26.2)
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.44.0](../../release-notes-android.md#2440-2022-10-11)
-* [Gamebase iOS SDK 2.43.3](../../release-notes-ios.md#2433-2022-10-04)
+* [Gamebase Android SDK 2.44.0](../release-notes-android.md#2440-2022-10-11)
+* [Gamebase iOS SDK 2.43.3](../release-notes-ios.md#2433-2022-10-04)

@@ -108,7 +108,7 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 #### Get Members
 
@@ -168,7 +168,7 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 
 #### Get IdP Information
@@ -231,7 +231,7 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 #### Get UserId Information with Auth key
 
@@ -290,7 +290,7 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 #### Ban Histories
 
@@ -398,7 +398,7 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 #### Ban Release Histories.
 
@@ -506,6 +506,6 @@ order: 5
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>

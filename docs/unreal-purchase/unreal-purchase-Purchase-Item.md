@@ -14,7 +14,7 @@ order: 5
 
 느린 결제나 부모 동의와 같이 결제 완료를 기다려야 하는 상황이 발생하는 경우에는 **PURCHASE_PENDING** 오류가 반환됩니다.
 이후에 결제가 정상적으로 완료되는 경우, GamebaseEventHandler에서 결제 완료 이벤트를 수신할 수 있습니다.
-[Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Gamebase Event Handler](../../unreal-etc.md#purchase-updated)
+[Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Gamebase Event Handler](../unreal-etc.md#purchase-updated)
 
 **API**
 

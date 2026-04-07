@@ -15,5 +15,5 @@ order: 30
 * (MacOS) WebView 신규 지원
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.63.0](../../release-notes-android.md#2620-2024-04-23)
-* [Gamebase iOS SDK 2.63.0](../../release-notes-ios.md#2620-2024-04-23)
+* [Gamebase Android SDK 2.63.0](../release-notes-android.md#2620-2024-04-23)
+* [Gamebase iOS SDK 2.63.0](../release-notes-ios.md#2620-2024-04-23)

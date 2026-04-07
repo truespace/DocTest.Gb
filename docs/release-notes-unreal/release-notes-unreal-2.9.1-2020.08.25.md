@@ -13,7 +13,7 @@ order: 45
 #### 기능 추가
 * [SDK] 2.9.1
     * (Unreal) Unreal 4.22 ~ 4.25 지원
-    * (Unreal) PLCrashReporter 이슈 지원: [가이드](../../unreal-started.md#ios-settings)
+    * (Unreal) PLCrashReporter 이슈 지원: [가이드](../unreal-started.md#ios-settings)
 
 #### 기능 개선/변경
 * [SDK] 2.9.1

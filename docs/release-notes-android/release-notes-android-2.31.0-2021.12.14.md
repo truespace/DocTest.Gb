@@ -14,15 +14,15 @@ order: 65
 * Amazon 스토어가 추가되었습니다.
     * **STORE_CODE**는 **AMAZON**입니다.
     * 스토어 설정 방법은 다음 가이드를 확인하시기 바랍니다.
-        * [Game > Gamebase > 스토어 콘솔 가이드 > Amazon 콘솔 가이드](../../console-amazon-guide.md)
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle > Define Adapters](../../aos-started.md#define-adapters)
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../../aos-started.md#android-11)
+        * [Game > Gamebase > 스토어 콘솔 가이드 > Amazon 콘솔 가이드](../console-amazon-guide.md)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle > Define Adapters](../aos-started.md#define-adapters)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../aos-started.md#android-11)
 * Huawei 스토어가 추가되었습니다.
     * **STORE_CODE**는 **HUAWEI**입니다.
     * 스토어 설정 방법은 다음 가이드를 확인하시기 바랍니다.
-        * [Game > Gamebase > 스토어 콘솔 가이드 > Huawei 콘솔 가이드](../../console-huawei-guide.md)
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle > Define Adapters](../../aos-started.md#define-adapters)
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Resources > Huawei Store](../../aos-started.md#resources)
+        * [Game > Gamebase > 스토어 콘솔 가이드 > Huawei 콘솔 가이드](../console-huawei-guide.md)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle > Define Adapters](../aos-started.md#define-adapters)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Resources > Huawei Store](../aos-started.md#resources)
 
 #### 기능 개선/변경
 * 외부 SDK 업데이트: TOAST Android SDK(0.29.0)

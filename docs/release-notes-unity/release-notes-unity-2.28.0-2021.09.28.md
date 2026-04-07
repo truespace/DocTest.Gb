@@ -13,7 +13,7 @@ order: 65
 #### 기능 추가
 * Kakaogame 인증 추가
 * '결제 어뷰징 자동 해제' 기능이 추가되었습니다.
-    * [Game > Gamebase > Unity SDK 사용 가이드 > 인증 > GraceBan](../../unity-authentication.md#graceban)
+    * [Game > Gamebase > Unity SDK 사용 가이드 > 인증 > GraceBan](../unity-authentication.md#graceban)
     * 결제 어뷰징 자동 해제 기능은 결제 어뷰징 자동 제재로 이용 정지가 되어야 할 사용자가 '이용 정지 유예 상태' 후 이용 정지가 되도록 합니다.
     * '이용 정지 유예 상태'일 경우, 설정한 기간 내에 이용 정지 해제 조건을 모두 만족하면 정상적으로 플레이할 수 있습니다.
     * 기간 내에 조건을 충족하지 못하면 이용 정지가 됩니다.
@@ -21,5 +21,5 @@ order: 65
     * 이용 정지 유예 상태인 유저의 게임 내 접근 제어는 게임에서 처리해야 합니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.28.0](../../release-notes-android.md#2280-20210928)
-* [Gamebase iOS SDK 2.28.0](../../release-notes-ios.md#2280-20210928)
+* [Gamebase Android SDK 2.28.0](../release-notes-android.md#2280-20210928)
+* [Gamebase iOS SDK 2.28.0](../release-notes-ios.md#2280-20210928)

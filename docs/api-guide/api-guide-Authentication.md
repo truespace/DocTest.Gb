@@ -99,7 +99,7 @@ order: 4
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br/>
 #### Get IdP Token and Profiles

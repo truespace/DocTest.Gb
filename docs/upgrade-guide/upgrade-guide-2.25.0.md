@@ -16,7 +16,7 @@ order: 46
 * 최소 지원 Android Gradle Plugin(AGP) 버전이 2.3.0 에서 3.2.0 으로 변경되었습니다.
     * 하지만 targetSdkVersion 을 30 이상으로 설정하는 경우, Android 11 단말기 대응을 위해서는 AGP 3.3.3 이상이 필요합니다.
         * 다음 문서를 참고하시기 바랍니다.
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../../aos-started.md#android-11)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../aos-started.md#android-11)
 * 하위 버전의 AGP 지원이 필요하다면 [고객 센터](https://toast.com/support/inquiry)로 문의해 주시기 바랍니다.
 
 #### AndroidX
@@ -58,7 +58,7 @@ android.enableIncrementalDesugaring=false
 
 * LINE IdP 를 사용하는 경우, LINE SDK 내부에 **&lt;queries&gt;** 태그가 존재하여 AGP 버전에 따라서는 빌드가 실패할 수 있습니다.
     * 다음 가이드를 참고하여 'queries' 태그 빌드가 가능한 AGP 버전으로 업그레이드 하시기 바랍니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../../aos-started.md#android-11)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Android 11](../aos-started.md#android-11)
 * LINE IdP 를 사용하는 경우, LINE SDK 내부에 **android:allowBackup="false"** 로 선언되어 있어 애플리케이션 빌드시 Manifest merger 에서 fail 이 발생할 수 있습니다. 이렇게 빌드가 실패한다면 다음과 같이 application 태그에 **tools:replace="android:allowBackup"** 선언을 추가하시기 바랍니다.
 
 ```xml

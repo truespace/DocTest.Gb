@@ -15,5 +15,5 @@ order: 27
 * 초기화 시 크래시가 발생할 수 있는 로직이 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.58.0](../../release-notes-android.md#2580-2023-11-28)
-* [Gamebase iOS SDK 2.58.0](../../release-notes-ios.md#2580-2023-11-28)
+* [Gamebase Android SDK 2.58.0](../release-notes-android.md#2580-2023-11-28)
+* [Gamebase iOS SDK 2.58.0](../release-notes-ios.md#2580-2023-11-28)

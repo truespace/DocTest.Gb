@@ -26,5 +26,5 @@ order: 20
 * 크래시 로그 발생 시 크래시가 발생할 수 있는 로직을 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.67.0](../../release-notes-android.md#2670-2024-10-29)
-* [Gamebase iOS SDK 2.67.0](../../release-notes-ios.md#2670-2024-10-29)
+* [Gamebase Android SDK 2.67.0](../release-notes-android.md#2670-2024-10-29)
+* [Gamebase iOS SDK 2.67.0](../release-notes-ios.md#2670-2024-10-29)

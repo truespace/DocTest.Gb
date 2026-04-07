@@ -11,7 +11,7 @@ order: 10
 
 App Store 프로모션 상품 구매가 완료되거나, Ask to Buy 등으로 지연된 결제가 완료되었을 때, GamebaseEventHandler를 이용해 이벤트를 받아 처리할 수 있습니다.
 GamebaseEventHandler로 지연 결제 이벤트를 처리하는 방법은 아래 가이드를 확인하세요.
-[Game > Gamebase > iOS SDK 사용 가이드 > ETC > Gamebase Event Handler](../../ios-etc.md#purchase-updated)
+[Game > Gamebase > iOS SDK 사용 가이드 > ETC > Gamebase Event Handler](../ios-etc.md#purchase-updated)
 
 
 #### Caution for Usage

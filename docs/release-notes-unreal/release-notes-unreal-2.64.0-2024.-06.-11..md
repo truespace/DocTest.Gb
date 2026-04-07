@@ -18,5 +18,5 @@ order: 23
 * (Android) ProGuard 선언이 누락되어 API 호출 시 오류가 발생하는 내용이 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.64.0](../../release-notes-android.md#2640-2024-05-28)
-* [Gamebase iOS SDK 2.64.0](../../release-notes-ios.md#2640-2024-05-28)
+* [Gamebase Android SDK 2.64.0](../release-notes-android.md#2640-2024-05-28)
+* [Gamebase iOS SDK 2.64.0](../release-notes-ios.md#2640-2024-05-28)

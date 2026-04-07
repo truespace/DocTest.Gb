@@ -18,7 +18,7 @@ order: 87
 #### 기능 개선/변경
 * [Console]
 	* [Operating indicator > 모니터링] 차트 색상 변경, Timezone 이슈. DAU 계산로직 변경(Login시간기준->접속시간기준)
-* [API] [점검 조회 API](../../api-guide.md#check-under-maintenance) 결과를 List 에서 단일 객체로 변경
+* [API] [점검 조회 API](../api-guide.md#check-under-maintenance) 결과를 List 에서 단일 객체로 변경
 
 #### 버그 수정
 * [Console]

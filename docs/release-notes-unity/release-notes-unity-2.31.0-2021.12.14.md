@@ -19,5 +19,5 @@ order: 61
     * 기존 SettingTool을 완전히 삭제한 후 재설치해야 합니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.31.0](../../release-notes-android.md#2310-20211214)
-* [Gamebase iOS SDK 2.31.0](../../release-notes-ios.md#2310-20211214)
+* [Gamebase Android SDK 2.31.0](../release-notes-android.md#2310-20211214)
+* [Gamebase iOS SDK 2.31.0](../release-notes-ios.md#2310-20211214)

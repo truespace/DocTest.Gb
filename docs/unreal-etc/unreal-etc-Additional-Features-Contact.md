@@ -19,8 +19,8 @@ Gamebase 는 고객 문의 대응을 위한 기능을 제공합니다.
 
 #### 권한 설정
 
-* [Game > Gamebase > Android SDK 사용 가이드 > ETC > Contact](aos-etc/#contact)
-* [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Contact](ios-etc/#contact)
+* [Game > Gamebase > Android SDK 사용 가이드 > ETC > Contact](../aos-etc.md#contact)
+* [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Contact](../ios-etc.md#contact)
 
 
 #### Customer Service Type

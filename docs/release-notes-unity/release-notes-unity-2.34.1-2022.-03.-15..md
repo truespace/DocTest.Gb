@@ -18,5 +18,5 @@ order: 57
 * iOS에서 GamebaseWebViewConfiguration의 isBackButtonVisible 설정이 적용되지 않는 오류가 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.34.0](../../release-notes-android.md#2340-2022-02-22)
-* [Gamebase iOS SDK 2.34.1](../../release-notes-ios.md#2341-2022-03-15)
+* [Gamebase Android SDK 2.34.0](../release-notes-android.md#2340-2022-02-22)
+* [Gamebase iOS SDK 2.34.1](../release-notes-ios.md#2341-2022-03-15)

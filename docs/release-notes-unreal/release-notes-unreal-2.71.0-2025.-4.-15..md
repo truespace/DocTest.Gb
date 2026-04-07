@@ -14,9 +14,9 @@ order: 12
 
 * '게임 공지' 신규 기능이 추가되었습니다.
     * API 호출 방법은 다음 가이드 문서를 참고하시기 바랍니다.
-        * [Game > Gamebase > Unreal SDK 사용 가이드 > UI > GameNotice](../../unreal-ui.md#gamenotice)
+        * [Game > Gamebase > Unreal SDK 사용 가이드 > UI > GameNotice](../unreal-ui.md#gamenotice)
 * (Windows) Google Play Games 지원을 위한 Google 결제 기능이 추가되었습니다.
-    * [Windows 설정 툴](../../unreal-started.md#windows-settings) 내 Windows Store 설정에 `Google Play Store`가 추가되었습니다.
+    * [Windows 설정 툴](../unreal-started.md#windows-settings) 내 Windows Store 설정에 `Google Play Store`가 추가되었습니다.
 
 #### 기능 개선/변경
 
@@ -32,5 +32,5 @@ order: 12
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase Android SDK 2.71.0](../../release-notes-android.md#2710-2025-04-15)
-* [Gamebase iOS SDK 2.71.0](../../release-notes-ios.md#2710-2025-04-15)
+* [Gamebase Android SDK 2.71.0](../release-notes-android.md#2710-2025-04-15)
+* [Gamebase iOS SDK 2.71.0](../release-notes-ios.md#2710-2025-04-15)

@@ -22,5 +22,5 @@ order: 49
     * 웹뷰 내 뒤로 가기 버튼 활성 여부를 지정하는 필드인 isBackButtonVisible의 기본값이 true로 설정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.42.1](../../release-notes-android.md#2421-2022-07-26)
-* [Gamebase iOS SDK 2.42.1](../../release-notes-ios.md#2421-2022-08-09)
+* [Gamebase Android SDK 2.42.1](../release-notes-android.md#2421-2022-07-26)
+* [Gamebase iOS SDK 2.42.1](../release-notes-ios.md#2421-2022-08-09)

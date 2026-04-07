@@ -18,5 +18,5 @@ order: 27
 * (macOS) UnityEditor에서 GamebaseUtils.bundle 파일이 참조되지 않는 오류를 수정하였습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.65.1](../../release-notes-android.md#2651-2024-06-25)
-* [Gamebase iOS SDK 2.65.1](../../release-notes-ios.md#2651-2024-06-25)
+* [Gamebase Android SDK 2.65.1](../release-notes-android.md#2651-2024-06-25)
+* [Gamebase iOS SDK 2.65.1](../release-notes-ios.md#2651-2024-06-25)

@@ -111,7 +111,7 @@ order: 6
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -176,7 +176,7 @@ order: 6
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -241,7 +241,7 @@ order: 6
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -303,7 +303,7 @@ order: 6
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -362,7 +362,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -438,7 +438,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 
@@ -531,7 +531,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 
@@ -622,7 +622,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 
@@ -690,7 +690,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 
@@ -789,7 +789,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -864,7 +864,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 <br>
 
@@ -917,7 +917,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 
@@ -1007,7 +1007,7 @@ IdP ID로 매핑된 유저 ID 정보를 조회합니다.
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)
 
 </br>
 

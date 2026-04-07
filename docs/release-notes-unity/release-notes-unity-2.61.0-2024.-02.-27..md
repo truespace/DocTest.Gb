@@ -14,5 +14,5 @@ order: 32
 * (macOS) 내부 bundle 파일이 정상적으로 로드되지 않는 문제를 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.61.0](../../release-notes-android.md#2610-2024-02-27)
-* [Gamebase iOS SDK 2.61.0](../../release-notes-ios.md#2610-2024-02-27)
+* [Gamebase Android SDK 2.61.0](../release-notes-android.md#2610-2024-02-27)
+* [Gamebase iOS SDK 2.61.0](../release-notes-ios.md#2610-2024-02-27)

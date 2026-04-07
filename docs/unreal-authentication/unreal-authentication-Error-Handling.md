@@ -57,7 +57,7 @@ order: 9
 | Auth(Unknown) | AUTH_UNKNOWN_ERROR | 3999 | 알 수 없는 오류입니다. (정의되지 않은 오류입니다.) |
 
 * 전체 오류 코드는 다음 문서를 참고하시기 바랍니다.
-    * [오류 코드](./Error-code/#client-sdk)
+    * [오류 코드](../error-code.md#client-sdk)
 
 **AUTH_EXTERNAL_LIBRARY_ERROR**
 

@@ -26,5 +26,5 @@ order: 56
     * (Android) Huawei 스토어가 추가되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.35.0](../../release-notes-android.md#2350-2022-03-29)
-* [Gamebase iOS SDK 2.35.0](../../release-notes-ios.md#2350-2022-03-29)
+* [Gamebase Android SDK 2.35.0](../release-notes-android.md#2350-2022-03-29)
+* [Gamebase iOS SDK 2.35.0](../release-notes-ios.md#2350-2022-03-29)

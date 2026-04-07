@@ -24,7 +24,7 @@ order: 17
             }
             
     * 또한 다음 가이드 문서를 참고하여 추가 정보를 설정하세요.
-        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > GPGS IdP](../../aos-started.md#gpgs-idp)
+        * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > GPGS IdP](../aos-started.md#gpgs-idp)
 
 #### 기능 개선/변경
 * 외부 SDK 업데이트: Hangame Android SDK(1.17.0)

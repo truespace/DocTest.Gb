@@ -21,7 +21,7 @@ order: 5
 > 월드/서버/채널, 클래스/직업은 사전에 등록된 정보만 처리 합니다.
 > 등록 방법은 다음 문서를 참고하시기 바랍니다
 >
-> - [앱 > Analytics Indicator](../../oper-app.md#analytics-indicator)
+> - [앱 > Analytics Indicator](../oper-app.md#analytics-indicator)
 
 ### Concurrent Status
 

@@ -15,8 +15,8 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.
 
 * 게스트 이외의 Provider에 로그인하려면 해당 Provider AuthAdapter가 필요합니다.
 * AuthAdapter 및 3rd-Party Provider SDK에 대한 설정은 다음을 참고하시기 바랍니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle](../../aos-started.md#gradle)
-    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Console > 3rd-Party Provider SDK Guide](../../aos-started.md#console)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Gradle](../aos-started.md#gradle)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > Console > 3rd-Party Provider SDK Guide](../aos-started.md#console)
 
 ### Login Flow
 
@@ -366,4 +366,4 @@ private static void onLoginWithCredential(final Activity activity) {
 
 ### Authentication Additional Information Settings
 
-[Console Guide](../../oper-app.md#authentication-information)
+[Console Guide](../oper-app.md#authentication-information)

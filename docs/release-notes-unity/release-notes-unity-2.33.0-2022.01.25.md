@@ -13,7 +13,7 @@ order: 59
 
 #### 기능 추가
 * 공통 약관 창의 설정을 변경할 수 있는 신규 API가 추가되었습니다.
-    * [Game > Gamebase > Unity SDK 사용 가이드 > UI > Terms > showTermsView](../../unity-ui.md#showtermsview)
+    * [Game > Gamebase > Unity SDK 사용 가이드 > UI > Terms > showTermsView](../unity-ui.md#showtermsview)
 
 #### 기능 개선/변경
 * 오류 코드 추가 및 변경
@@ -21,5 +21,5 @@ order: 59
     * 오류 코드 999에 매핑한 GamebaseErrorCode.SOCKET_UNKNOWN_ERROR 에러를 새로 추가하였습니다.
     
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.33.0](../../release-notes-android.md#2330-20220125)
-* [Gamebase iOS SDK 2.33.0](../../release-notes-ios.md#2330-20220125)
+* [Gamebase Android SDK 2.33.0](../release-notes-android.md#2330-20220125)
+* [Gamebase iOS SDK 2.33.0](../release-notes-ios.md#2330-20220125)

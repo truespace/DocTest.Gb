@@ -29,4 +29,4 @@ order: 9
 | SERVER\_INVALID\_RESPONSE                         | 8003       | 서버가 유효하지 않은 응답을 반환했습니다. |
 
 * 전체 오류 코드는 다음 문서를 참고하시기 바랍니다.
-    * [오류 코드](../../error-code.md#client-sdk)
+    * [오류 코드](../error-code.md#client-sdk)

@@ -26,8 +26,8 @@ order: 3
 -->
 
 * 상세 flow 는 다음 링크에서 확인할 수 있습니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler](../../aos-etc.md#gamebase-event-handler)
-    * [Game > Gamebase > Android SDK 사용 가이드 > 초기화 > Initialization Flow](../../aos-initialization.md#initialization-flow)
-    * [Game > Gamebase > Android SDK 사용 가이드 > 인증 > Login Flow](../../aos-authentication.md#login-flow)
-    * [Game > Gamebase > Android SDK 사용 가이드 > 결제 > Retry Transaction Flow](../../aos-purchase.md#retry-transaction-flow)
-    * [Game > Gamebase > Android SDK 사용 가이드 > 푸시 > Register Push](../../aos-push.md#register-push)
+    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler](../aos-etc.md#gamebase-event-handler)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 초기화 > Initialization Flow](../aos-initialization.md#initialization-flow)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 인증 > Login Flow](../aos-authentication.md#login-flow)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 결제 > Retry Transaction Flow](../aos-purchase.md#retry-transaction-flow)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 푸시 > Register Push](../aos-push.md#register-push)

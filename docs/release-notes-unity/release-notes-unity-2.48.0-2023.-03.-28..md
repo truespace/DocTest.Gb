@@ -20,5 +20,5 @@ order: 43
     * 더 이상 bitcode를 지원하지 않습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.48.0](../../release-notes-android.md#2480-2023-03-28)
-* [Gamebase iOS SDK 2.48.0](../../release-notes-ios.md#2480-2023-03-28)
+* [Gamebase Android SDK 2.48.0](../release-notes-android.md#2480-2023-03-28)
+* [Gamebase iOS SDK 2.48.0](../release-notes-ios.md#2480-2023-03-28)

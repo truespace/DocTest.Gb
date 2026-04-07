@@ -14,7 +14,7 @@ order: 51
 * 매핑 실패 시 반환되는 ForcingMappingTicket VO 클래스에 유저의 현재 상태를 알 수 있도록 필드가 추가되었습니다.
     * **TCGBForcingMappingTicket.mappedUserValid**
     * mappedUserValid에 저장된 값의 의미는 아래를 참고해 주세요.
-        * [Game > Gamebase > API 가이드 > API v1.3 가이드 > Others > Mamber Vaild Code](../../api-guide.md#member-valid-code)
+        * [Game > Gamebase > API 가이드 > API v1.3 가이드 > Others > Mamber Vaild Code](../api-guide.md#member-valid-code)
 
 #### 기능 개선/변경
 * 외부 SDK 업데이트: Hangame iOS SDK (1.7.0)

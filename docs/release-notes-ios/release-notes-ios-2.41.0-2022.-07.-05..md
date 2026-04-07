@@ -12,7 +12,7 @@ order: 53
 
 #### 기능 추가
 * GamebaseEventHandler의 GamebaseEventCategory에 **kTCGBIdPRevoked** 타입이 추가되었습니다.
-    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > IdP Revoked](../../ios-etc.md#idp-revoked)
+    * [Game > Gamebase > iOS SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > IdP Revoked](../ios-etc.md#idp-revoked)
 
 #### 기능 개선/변경
 * 이미지 공지가 노출 중일 때 화면 방향에 따라 회전하도록 변경했습니다.

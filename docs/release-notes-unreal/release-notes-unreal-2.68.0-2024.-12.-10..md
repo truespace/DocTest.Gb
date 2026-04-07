@@ -19,12 +19,12 @@ order: 17
         * Gamebase 콘솔에 Callback URL(https://id-gamebase.toast.com/oauth/callback)을 설정합니다. 
         * 동일한 Callback URL을 Twitter Developer Portal에 추가합니다.
     * 자세한 내용은 다음 링크를 참고하세요.
-        * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Authentication Information](../../oper-app.md#authentication-information)
+        * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Authentication Information](../oper-app.md#authentication-information)
 
 #### 버그 수정
 * (Windows) 결제 프로세스에서 크래시가 발생하지 않도록 수정했습니다.
 * (Windows) Steam 결제 중 ESC 키로 결제를 종료하는 경우 다음 결제 API가 동작하지 않는 이슈를 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.68.0](../../release-notes-android.md#2680-2024-11-26)
-* [Gamebase iOS SDK 2.68.1](../../release-notes-ios.md#2681-2024-12-10)
+* [Gamebase Android SDK 2.68.0](../release-notes-android.md#2680-2024-11-26)
+* [Gamebase iOS SDK 2.68.1](../release-notes-ios.md#2681-2024-12-10)

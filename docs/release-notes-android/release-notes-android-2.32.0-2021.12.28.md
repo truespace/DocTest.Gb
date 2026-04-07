@@ -13,9 +13,9 @@ order: 64
 #### 기능 추가
 * GamebaseEventHandler의 GamebaseEventCategory에 **GamebaseEventCategory.SERVER_PUSH_APP_KICKOUT_MESSAGE_RECEIVED** 타입이 추가되었습니다.
     * 이 이벤트의 활용 방법은 다음 문서를 참고하시기 바랍니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Server Push](../../aos-etc.md#server-push)
+    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Server Push](../aos-etc.md#server-push)
 * Gamebase Access Token이 만료되어 로그인이 필요할 때 동작하는 **GamebaseEventCategory.LOGGED_OUT** GamebaseEventHandler category가 추가되었습니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Logged Out](../../aos-etc.md#logged-out)
+    * [Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > Logged Out](../aos-etc.md#logged-out)
 
 #### 기능 개선/변경
 * 웹뷰 URL이 **onestore://**로 시작하는 ONE store 딥링크가 동작하도록 웹뷰를 개선했습니다.

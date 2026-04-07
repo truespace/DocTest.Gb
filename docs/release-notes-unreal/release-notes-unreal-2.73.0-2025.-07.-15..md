@@ -16,7 +16,7 @@ order: 9
     * 외부 브라우저 로그인 진행 중 로그인을 취소할 수 있는 API가 추가되었습니다.
         * CancelLoginWithExternalBrowser
         * API 호출 방법은 다음 가이드 문서를 참고하시기 바랍니다.
-            * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > Login > Login with IdP > Cancel Login with External Browser](../../unreal-authentication.md#cancel-login-with-external-browser)
+            * [Game > Gamebase > Unreal SDK 사용 가이드 > 인증 > Login > Login with IdP > Cancel Login with External Browser](../unreal-authentication.md#cancel-login-with-external-browser)
 * (Windows) Steam 로그인 시 Steamworks 초기화 실패 여부 메시지를 추가하여 원인을 파악하기 쉽도록 변경했습니다.
 * 내부 로직을 개선했습니다.
 
@@ -27,5 +27,5 @@ order: 9
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase Android SDK 2.73.0](../../release-notes-android.md#2730-2025-07-15)
-* [Gamebase iOS SDK 2.73.0](../../release-notes-ios.md#2730-2025-07-15)
+* [Gamebase Android SDK 2.73.0](../release-notes-android.md#2730-2025-07-15)
+* [Gamebase iOS SDK 2.73.0](../release-notes-ios.md#2730-2025-07-15)

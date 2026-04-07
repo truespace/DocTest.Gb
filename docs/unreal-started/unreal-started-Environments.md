@@ -45,5 +45,5 @@ Supported Platforms
 
 #### Dependencies
 
-* [Gamebase Android SDK - Dependencies](../../aos-started.md#dependencies)
-* [Gamebase iOS SDK - Dependencies](../../ios-started.md#setting)
+* [Gamebase Android SDK - Dependencies](../aos-started.md#dependencies)
+* [Gamebase iOS SDK - Dependencies](../ios-started.md#setting)

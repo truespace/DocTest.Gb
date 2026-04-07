@@ -12,7 +12,7 @@ keyword: "Console, Ban, 이용 정지"
 
 이용 정지 등록은 Gamebase Console에서 수동으로 등록하거나 NHN Cloud AppGuard를 사용하는 경우 패턴등록을 이용해 자동으로 등록할 수 있습니다.
 
-AppGuard를 연동하는 방법은 [AppGuard](../../oper-ban.md#appguard)를 참고하시기 바랍니다.
+AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고하시기 바랍니다.
 
 
 ## Ban
@@ -47,7 +47,7 @@ AppGuard를 연동하는 방법은 [AppGuard](../../oper-ban.md#appguard)를 참
 >
 > 유저에게 표시할 메시지를 다국어로 입력하여 손쉽게 재사용할 수 있도록 템플릿을 제공합니다.
 > 등록된 템플릿이 하나 이상이여야 이용 정지 등록을 할 수 있습니다.
-> 템플릿을 등록하는 방법은 [Template](../../oper-ban.md#template)을 참고하시기 바랍니다.
+> 템플릿을 등록하는 방법은 [Template](../oper-ban.md#template)을 참고하시기 바랍니다.
 
 **검색 결과**
 
@@ -124,7 +124,7 @@ AppGuard를 연동하는 방법은 [AppGuard](../../oper-ban.md#appguard)를 참
 > <font color="red">[중요]</font>
 > 표시된 메시지의 템플릿이 등록된 경우에만 이용 정지를 등록할 수 있습니다.
 > 템플릿을 등록하지 않은 경우 **BAN** 메뉴의 **템플릿** 탭에서 템플릿을 먼저 등록해 주세요.
-> 템플릿을 등록하는 방법은 [Template](../../oper-ban.md#template)을 참고하시기 바랍니다.
+> 템플릿을 등록하는 방법은 [Template](../oper-ban.md#template)을 참고하시기 바랍니다.
 
 #### (5) 리더보드 삭제
 이용 정지를 등록할 때 해당 게임 유저의 Leaderboard 데이터도 함께 삭제할지 여부를 설정합니다.

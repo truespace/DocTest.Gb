@@ -13,4 +13,4 @@ order: 131
 #### 기능 개선/변경
 * [SDK] 1.1.0 업데이트
     * 외부 AccessToken을 받아서 idPLogin을 해주는 인터페이스를 추가
-    * [UI 기능 추가](../../aos-ui.md) : Custom Webview, AlertDialog
+    * [UI 기능 추가](../aos-ui.md) : Custom Webview, AlertDialog

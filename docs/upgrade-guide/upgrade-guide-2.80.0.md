@@ -17,4 +17,4 @@ order: 2
 ### Unreal
 
 * (iOS) Project Settings에서 활성화한 기능에 따라 Info.plist에 필요한 항목이 자동으로 추가됩니다.
-    * `AdditionalPlistData`로 직접 관리하려면 [iOS Settings](../../unreal-started.md#ios-settings)에서 **Disable Auto Info.plist Update**를 활성화하세요.
+    * `AdditionalPlistData`로 직접 관리하려면 [iOS Settings](../unreal-started.md#ios-settings)에서 **Disable Auto Info.plist Update**를 활성화하세요.

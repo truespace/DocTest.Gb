@@ -20,4 +20,4 @@ order: 69
 #### 버그 수정
 * '등록되지 않은 게임 버전' 에러 팝업 창이 영어로만 표시되는 버그를 수정하였습니다.
 * 점검 팝업 창에 중국어가 표시되지 않는 버그를 수정하였습니다.
-* [Credential Login](../../aos-authentication.md#login-with-credential) 을 한 경우, [Login as the Latest Login IdP](../../aos-authentication.md#login-as-the-latest-login-idp) 호출이 항상 실패하는 버그를 수정하였습니다.
+* [Credential Login](../aos-authentication.md#login-with-credential) 을 한 경우, [Login as the Latest Login IdP](../aos-authentication.md#login-as-the-latest-login-idp) 호출이 항상 실패하는 버그를 수정하였습니다.

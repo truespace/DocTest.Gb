@@ -32,5 +32,5 @@ order: 13
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase Android SDK 2.70.0](../../release-notes-android.md#2700-2025-03-11)
-* [Gamebase iOS SDK 2.70.0](../../release-notes-ios.md#2700-2025-03-11)
+* [Gamebase Android SDK 2.70.0](../release-notes-android.md#2700-2025-03-11)
+* [Gamebase iOS SDK 2.70.0](../release-notes-ios.md#2700-2025-03-11)

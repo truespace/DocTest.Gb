@@ -27,5 +27,5 @@ order: 20
 * NHN Cloud Console에서 네트워크 인사이트 설정을 활성화하면 JSON 파싱 오류가 발생하는 현상이 개선되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.68.0](../../release-notes-android.md#2680-2024-11-26)
-* [Gamebase iOS SDK 2.68.0](../../release-notes-ios.md#2680-2024-11-26)
+* [Gamebase Android SDK 2.68.0](../release-notes-android.md#2680-2024-11-26)
+* [Gamebase iOS SDK 2.68.0](../release-notes-ios.md#2680-2024-11-26)

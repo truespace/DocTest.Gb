@@ -15,7 +15,7 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.<br/>
 
 * 게스트 이외의 Provider에 로그인하려면 해당 Provider AuthAdapter가 필요합니다.
 * AuthAdapter 및 3rd-Party Provider SDK에 대한 설정은 다음을 참고하시기 바랍니다.
-    * [3rd-Party Provider SDK Guide](aos-started#3rd-party-provider-sdk-guide)
+    * [3rd-Party Provider SDK Guide](../aos-started.md#3rd-party-provider-sdk-guide)
 
 
 ### Login Flow
@@ -209,7 +209,7 @@ void USample::Login()
 > 로그인할 때 추가 정보를 필요로 하는 IdP도 있습니다.
 > 이러한 추가 정보들을 설정할 수 있게 void Login(const FString& ProviderName, const FGamebaseVariantMap& AdditionalInfo, const FGamebaseAuthTokenDelegate& Callback) API를 제공합니다.
 >AdditionalInfo 파라미터에 필수 정보들을 dictionary 형태로 입력하시면 됩니다.
->AdditionalInfo 값이 있을 경우에는 해당 값을 사용하고 null일 경우에는 [NHN Cloud Console](../../oper-app.md#authentication-information)에 등록된 값을 사용합니다.
+>AdditionalInfo 값이 있을 경우에는 해당 값을 사용하고 null일 경우에는 [NHN Cloud Console](../oper-app.md#authentication-information)에 등록된 값을 사용합니다.
 
 > [참고]
 >

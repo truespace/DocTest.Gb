@@ -22,5 +22,5 @@ order: 44
 * (Standalone) 초기화 시 간헐적으로 ReflectionTypeLoadException 오류가 발생하는 문제를 수정했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.46.0](../../release-notes-android.md#2460-2023-01-31)
-* [Gamebase iOS SDK 2.46.0](../../release-notes-ios.md#2460-2023-01-31)
+* [Gamebase Android SDK 2.46.0](../release-notes-android.md#2460-2023-01-31)
+* [Gamebase iOS SDK 2.46.0](../release-notes-ios.md#2460-2023-01-31)

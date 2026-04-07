@@ -12,7 +12,7 @@ order: 62
 
 #### 기능 추가
 * 공통 약관 창의 설정을 변경할 수 있는 신규 API가 추가되었습니다.
-    * [Game > Gamebase > iOS SDK 사용 가이드 > UI > Terms > showTermsView](../../ios-ui.md#showtermsview)
+    * [Game > Gamebase > iOS SDK 사용 가이드 > UI > Terms > showTermsView](../ios-ui.md#showtermsview)
 
 #### 기능 개선/변경
 * 외부 SDK 업데이트: PAYCO iOS SDK (1.5.5)

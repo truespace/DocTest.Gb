@@ -18,27 +18,27 @@ order: 2
 
 * Gamebase Android SDK를 사용하기 전에 NHN Cloud Console에서 앱 아이디를 발급받아야 합니다. 앱 아이디를 발급받으려면 NHN Cloud Console에서 **(+)서비스 선택**을 클릭한 다음 **Game > Gamebase**를 클릭하여 서비스를 활성화 합니다.
 * 인증을 위해 IdP 콘솔에서 Client ID를 발급받아 Gamebase 콘솔에 입력합니다.
-    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Authentication Information](../../oper-app.md#authentication-information)
+    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Authentication Information](../oper-app.md#authentication-information)
 * 아이템 구매를 위해 Store 콘솔에서 앱 정보를 등록하여 Gamebase > 구매(IAP) 콘솔에 입력합니다.
-    * [Game > Gamebase > 스토어 콘솔 가이드 > Google 콘솔 가이드](../../console-google-guide.md)
-    * [Game > Gamebase > 스토어 콘솔 가이드 > ONE Store 콘솔 가이드](../../console-onestore-guide.md)
-    * [Game > Gamebase > 스토어 콘솔 가이드 > GALAXY 콘솔 가이드](../../console-galaxy-guide.md)
-    * [Game > Gamebase > 스토어 콘솔 가이드 > Huawei 콘솔 가이드](../../console-huawei-guide.md)
-    * [Game > Gamebase > 스토어 콘솔 가이드 > MyCard 콘솔 가이드](../../console-mycard-guide.md)
+    * [Game > Gamebase > 스토어 콘솔 가이드 > Google 콘솔 가이드](../console-google-guide.md)
+    * [Game > Gamebase > 스토어 콘솔 가이드 > ONE Store 콘솔 가이드](../console-onestore-guide.md)
+    * [Game > Gamebase > 스토어 콘솔 가이드 > GALAXY 콘솔 가이드](../console-galaxy-guide.md)
+    * [Game > Gamebase > 스토어 콘솔 가이드 > Huawei 콘솔 가이드](../console-huawei-guide.md)
+    * [Game > Gamebase > 스토어 콘솔 가이드 > MyCard 콘솔 가이드](../console-mycard-guide.md)
     * 아래 가이드를 참고하여 아이템을 등록합니다.
-        * [Game > Gamebase > 콘솔 사용 가이드 > 결제 > Register](../../oper-purchase.md#register_1)
+        * [Game > Gamebase > 콘솔 사용 가이드 > 결제 > Register](../oper-purchase.md#register_1)
 * 푸시 알림을 위해 푸시 알림 서비스 인증서를 Gamebase > 푸시 > 인증서 콘솔에 입력합니다.
-    * [Game > Gamebase > 콘솔 사용 가이드 > 푸시 > Authentication > Authentication register](../../oper-push.md#authentication)
+    * [Game > Gamebase > 콘솔 사용 가이드 > 푸시 > Authentication > Authentication register](../oper-push.md#authentication)
 * 새로운 Gamebase 프로젝트가 생성되었으니 AppVersion과 StoreCode를 등록해야 합니다.
     * 다음 가이드를 따라 새로운 클라이언트 버전을 등록하시기 바랍니다.
-    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client > Client List](../../oper-app.md#client-list)
+    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client > Client List](../oper-app.md#client-list)
 
 ### Register as Tester
 
 #### Gamebase Test Device
 
 * 점검중에도 정상적으로 게임에 접근하고자 한다면 Gamebase 콘솔에 테스트 단말기를 등록합니다.
-    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Test Device](../../oper-app.md#test-device)
+    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > Test Device](../oper-app.md#test-device)
 
 #### Store's Tester
 
@@ -178,7 +178,7 @@ android {
 
 * Android Studio 빌드인 경우
     * Firebase 푸시를 사용하려면 아래 가이드에 따라 Firebase 설정을 완료한 후 google-services.json 파일을 프로젝트에 포함시켜야 합니다.
-        * [NHN Cloud > SDK 사용 가이드 > Push > Android > Firebase Cloud Messaging 설정](/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging)
+        * [NHN Cloud > SDK 사용 가이드 > Push > Android > Firebase Cloud Messaging 설정](https://docs.nhncloud.com/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging)
 * Unity 빌드인 경우
     * 'Firebase Console > 프로젝트 설정'에서 google-services.json 파일을 다운로드합니다. 그런 다음 json 파일을 xml 파일로 변환하기 위한 **[generate_xml_from_google_services_json.exe](https://github.com/firebase/firebase-cpp-sdk/blob/main/generate_xml_from_google_services_json.exe)** 파일을 다운로드하고, 아래 명령어를 실행하여 파일을 변환할 수 있습니다.
             
@@ -191,14 +191,14 @@ android {
             * 'Assets/Plugins/Android/MyAndroidProject.androidlib/res/values/google-services.xml'
 
 * Unreal 빌드인 경우
-    * Unreal의 프로젝트의 [Gamebase Android 설정](../../unreal-started.md#android-settings)에서 `GoogleServicesFilePath`의 값을 Firebase 콘솔에서 다운로드한 `google-services.json`의 경로로 지정합니다.
+    * Unreal의 프로젝트의 [Gamebase Android 설정](../unreal-started.md#android-settings)에서 `GoogleServicesFilePath`의 값을 Firebase 콘솔에서 다운로드한 `google-services.json`의 경로로 지정합니다.
     * Firebase와 관련하여 다른 플러그인을 사용할 때 google-services.json의 데이터를 Android 리소스로 만드는 과정이 있다면 Gamebase 처리하는 리소스 처리와 중복되어 빌드 중 오류가 발생할 수 있습니다. 이 경우에는 Gamebase Android 설정에서 `GoogleServicesFilePath`의 값을 비워 두면 Gamebase에서는 해당 JSON을 Android 리소스로 변환하는 작업을 진행하지 않습니다.
     
 ### AndroidManifest.xml
 
 #### Contact
 
-* 고객 센터 페이지([Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Contact](../../aos-etc.md#contact))에서 문의글 작성 시 사진 및 미디어를 첨부하기 위해 Android API Level 21(OS 5.0) 이하 단말기에서는 저장소 읽기 권한 선언이 필요합니다.
+* 고객 센터 페이지([Game > Gamebase > Android SDK 사용 가이드 > ETC > Additional Features > Contact](../aos-etc.md#contact))에서 문의글 작성 시 사진 및 미디어를 첨부하기 위해 Android API Level 21(OS 5.0) 이하 단말기에서는 저장소 읽기 권한 선언이 필요합니다.
         
         <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="21"/>
         
@@ -265,7 +265,7 @@ android {
 ```
 
 * GPGS 자동 로그인 기능을 사용하기 위해서는 콘솔에 Google 서비스 계정 설정도 필요합니다.
-    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > GPGS Automatic Login Settings](../../oper-app.md#gpgs-automatic-login-settings)
+    * [Game > Gamebase > 콘솔 사용 가이드 > 앱 > GPGS Automatic Login Settings](../oper-app.md#gpgs-automatic-login-settings)
 
 #### Weibo IdP
 

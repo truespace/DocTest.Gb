@@ -26,5 +26,5 @@ order: 18
         * ImageNotice.Configuration backgroundColor
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.69.0](../../release-notes-android.md#2690-2025-01-21)
-* [Gamebase iOS SDK 2.69.0](../../release-notes-ios.md#2690-2025-01-21)
+* [Gamebase Android SDK 2.69.0](../release-notes-android.md#2690-2025-01-21)
+* [Gamebase iOS SDK 2.69.0](../release-notes-ios.md#2690-2025-01-21)

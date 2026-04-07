@@ -16,4 +16,4 @@ order: 19
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase iOS SDK 2.68.1](../../release-notes-ios.md#2681-2024-12-10)
+* [Gamebase iOS SDK 2.68.1](../release-notes-ios.md#2681-2024-12-10)

@@ -19,5 +19,5 @@ order: 58
     * **GamebaseConfiguration.enableKickoutPopup**
     
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.34.0](../../release-notes-android.md#2340-2022-02-22)
-* [Gamebase iOS SDK 2.34.0](../../release-notes-ios.md#2340-2022-02-22)
+* [Gamebase Android SDK 2.34.0](../release-notes-android.md#2340-2022-02-22)
+* [Gamebase iOS SDK 2.34.0](../release-notes-ios.md#2340-2022-02-22)

@@ -16,7 +16,7 @@ order: 13
 * '게임 공지' 신규 기능이 추가되었습니다.
     * Gamebase.GameNotice.openGameNotice(Activity activity, GamebaseCallback onCloseCallback);
     * API 호출 방법은 다음 가이드 문서를 참고하시기 바랍니다.
-        * [Game > Gamebase > Android SDK 사용 가이드 > UI > GameNotice](../../aos-ui.md#gamenotice)
+        * [Game > Gamebase > Android SDK 사용 가이드 > UI > GameNotice](../aos-ui.md#gamenotice)
 
 #### 기능 개선/변경
 

@@ -69,4 +69,4 @@ order: 6
 
 **[Error Code]**
 
-[오류 코드](../../error-code.md#server)
+[오류 코드](../error-code.md#server)

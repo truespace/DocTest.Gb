@@ -19,4 +19,4 @@ order: 7
 | NOT\_SUPPORTED        | 10         | 지원하지 않는 기능입니다.         |
 
 * 전체 오류 코드는 다음 문서를 참고하시기 바랍니다.
-    * [오류 코드](./Error-code/#client-sdk)
+    * [오류 코드](../error-code.md#client-sdk)

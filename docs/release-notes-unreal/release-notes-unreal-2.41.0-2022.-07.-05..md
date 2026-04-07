@@ -12,8 +12,8 @@ order: 34
 
 #### 기능 추가
 * GamebaseEventHandler의 GamebaseEventCategory에 **IdPRevoked** 타입이 추가되었습니다.
-    * [Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > IdP Revoked](../../unreal-etc.md#idp-revoked)
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > ETC > Additional Features > Gamebase Event Handler > IdP Revoked](../unreal-etc.md#idp-revoked)
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.41.0](../../release-notes-android.md#2410-2022-07-05)
-* [Gamebase iOS SDK 2.41.0](../../release-notes-ios.md#2410-2022-07-05)
+* [Gamebase Android SDK 2.41.0](../release-notes-android.md#2410-2022-07-05)
+* [Gamebase iOS SDK 2.41.0](../release-notes-ios.md#2410-2022-07-05)

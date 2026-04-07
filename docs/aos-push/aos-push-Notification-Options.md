@@ -17,7 +17,7 @@ order: 3
 알림 옵션은 AndroidManifest.xml 에 정의하여 설정할 수 있습니다.<br/>
 설정 방법은 아래 가이드를 확인해주시기 바랍니다.
 
-[Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > Notification Options](../../aos-started.md#notification-options)
+[Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > Notification Options](../aos-started.md#notification-options)
 
 #### Set Notification Options with RegisterPush in Runtime
 

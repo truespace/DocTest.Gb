@@ -18,5 +18,5 @@ order: 31
 * (MacOS, Windows) TOAST 타입 고객센터에 대해 FAQ/공지사항을 직접 열 수 있는 기능을 추가했습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.62.0](../../release-notes-android.md#2620-2024-03-26)
-* [Gamebase iOS SDK 2.62.0](../../release-notes-ios.md#2620-2024-03-26)
+* [Gamebase Android SDK 2.62.0](../release-notes-android.md#2620-2024-03-26)
+* [Gamebase iOS SDK 2.62.0](../release-notes-ios.md#2620-2024-03-26)

@@ -29,5 +29,5 @@ order: 1
 푸시 아이콘 파일 이름에 공백, 영어 대문자, 특수문자는 사용할 수 없습니다.
 
 그리고 다음 Notification Options 가이드를 참고하여 **default_small_icon**(AndroidManifest.xml) 또는 **setSmallIconName**(API)을 설정해야 합니다.
-[Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > Notification Options](../../aos-started.md#notification-options)
+[Game > Gamebase > Android SDK 사용 가이드 > 시작하기 > Setting > AndroidManifest.xml > Notification Options](../aos-started.md#notification-options)
 [Game > Gamebase > Android SDK 사용 가이드 > 푸시 > Notification Options > Set Notification Options with RegisterPush in Runtime](./aos-push-Notification-Options.md#set-notification-options-with-registerpush-in-runtime)

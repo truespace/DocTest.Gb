@@ -14,7 +14,7 @@ order: 5
 
 * 가장 최근 게시된 게임 공지의 게시 시간을 제공하기 위해 `FGamebaseLaunchingInfo::FApp::FGameNotice::LatestNoticeTimeMillis` 필드를 추가했습니다.
 * (Android) 미국 텍사스, 유타, 루이지애나 등 특정 관할권의 연령 확인 관련 법률 준수를 지원하기 위해 Google Play Age Signals 기반의 연령 확인 API가 추가되었습니다.
-    * [Game > Gamebase > Unreal SDK 사용 가이드 > 참고사항 > Age Signals Support](../../unreal-etc.md#age-signals-support)
+    * [Game > Gamebase > Unreal SDK 사용 가이드 > 참고사항 > Age Signals Support](../unreal-etc.md#age-signals-support)
 * (Windows) Steam 인증 시 Steamworks SDK가 로드되지 않은 경우 외부 브라우저를 통한 로그인을 지원합니다.
 
 #### 기능 개선/변경
@@ -28,5 +28,5 @@ order: 5
 
 #### 플랫폼별 변경 사항
 
-* [Gamebase Android SDK 2.76.0](../../release-notes-android.md#2760-2025-11-28)
-* [Gamebase iOS SDK 2.75.0](../../release-notes-ios.md#2750-2025-09-23)
+* [Gamebase Android SDK 2.76.0](../release-notes-android.md#2760-2025-11-28)
+* [Gamebase iOS SDK 2.75.0](../release-notes-ios.md#2750-2025-09-23)

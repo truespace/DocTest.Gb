@@ -24,5 +24,5 @@ order: 51
 * (Android) OpenContact API 호출 시 Configuration.additionalParameters가 적용되지 않는 문제가 수정되었습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.40.0](../../release-notes-android.md#2400-2022-05-24)
-* [Gamebase iOS SDK 2.40.0](../../release-notes-ios.md#2400-2022-05-24)
+* [Gamebase Android SDK 2.40.0](../release-notes-android.md#2400-2022-05-24)
+* [Gamebase iOS SDK 2.40.0](../release-notes-ios.md#2400-2022-05-24)

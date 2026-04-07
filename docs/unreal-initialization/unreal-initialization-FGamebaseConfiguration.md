@@ -25,14 +25,14 @@ order: 2
 
 Gamebase Console에 등록된 프로젝트 ID입니다.
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../../oper-app.md#app)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > App](../oper-app.md#app)
 
 
 #### 2. AppVersion
 
 Gamebase Console에 등록한 클라이언트 버전입니다.
 
-[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../../oper-app.md#client)
+[Game > Gamebase > 콘솔 사용 가이드 > 앱 > Client](../oper-app.md#client)
 
 #### 3. StoreCode
 

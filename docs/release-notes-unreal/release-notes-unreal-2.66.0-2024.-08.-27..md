@@ -18,5 +18,5 @@ order: 22
 * (Windows) GameInstance가 여러 개인 환경에서 사용할 수 있습니다.
 
 #### 플랫폼별 변경 사항
-* [Gamebase Android SDK 2.66.2](../../release-notes-android.md#2662-2024-08-27)
-* [Gamebase iOS SDK 2.66.2](../../release-notes-ios.md#2662-2024-08-27)
+* [Gamebase Android SDK 2.66.2](../release-notes-android.md#2662-2024-08-27)
+* [Gamebase iOS SDK 2.66.2](../release-notes-ios.md#2662-2024-08-27)

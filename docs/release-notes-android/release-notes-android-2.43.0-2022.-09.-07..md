@@ -23,7 +23,7 @@ order: 50
 #### 기능 개선/변경
 * 외부 SDK 업데이트: Google Billing Client(5.0.0), NHN Cloud Android SDK(1.1.0), TOAST Gamebase IAP Android SDK(0.20.0), Kakaogame Android SDK(3.14.4)
 * LINE 로그인을 수행 시 서비스를 제공할 Region을 입력할 수 있는 파라미터가 추가되었습니다.
-    * [Game > Gamebase > Android SDK 사용 가이드 > 인증 > Login with IdP](../../aos-authentication.md#login-with-idp)
+    * [Game > Gamebase > Android SDK 사용 가이드 > 인증 > Login with IdP](../aos-authentication.md#login-with-idp)
 * LINE IdP 사용 시 LINE IdP에서 지원하지 않는 API 19 미만 단말기에서도 크래시가 발생하지 않도록 방어 로직을 추가했습니다.
 
 #### 버그 수정
