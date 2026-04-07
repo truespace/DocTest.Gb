@@ -13,6 +13,12 @@ keyword: "Console, Maintenance, 운영 지표"
 
 ## Monitoring
 ![operation-indicator_01_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_01_201812.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: operation-indicator_01_201812
+    구성: 'operation-indicator_01_201812' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Analytics, Indicator, Maintenance
+-->
 현재 앱을 이용하는 사용자의 전체 통계 및 현재 예약된 푸시 현황, 예약된 점검 내역을 확인할 수 있습니다. 
 5분이 지나면 자동으로 화면이 '새로 고침'이 되고, 실시간으로 변경된 지표를 확인할 수 있습니다.
 
@@ -33,6 +39,12 @@ keyword: "Console, Maintenance, 운영 지표"
 
 ## User Statistics
 ![operation-indicator_02_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_02_201812.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: operation-indicator_02_201812
+    구성: 'operation-indicator_02_201812' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Indicator
+-->
 DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 현재 앱을 사용하는 게임 유저의 추이 변화를 한눈에 확인할 수 있습니다. 
 오른쪽 위의 기간 선택 바를 이용해 원하는 날짜를 선택하여 확인할 수도 있습니다.
@@ -46,11 +58,23 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Concurrent Group User
 ![operation-indicator_03_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_03_201812.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: operation-indicator_03_201812
+    구성: 'operation-indicator_03_201812' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Indicator
+-->
 자신이 속한 프로젝트의 그룹 동시 접속 통계를 확인할 수 있습니다. 권한이 있는 여러 프로젝트의 운영체제별 실시간 동시 접속자 수를 한눈에 볼 수 있습니다.
 
 
 ## Installed URL Statistics
 ![operation-indicator_04_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_04_201812.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: operation-indicator_04_201812
+    구성: 'operation-indicator_04_201812' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Indicator
+-->
 설치 URL 호출에 대한 통계 데이터를 확인할 수 있습니다.
 
 * 일자별 설치 URL 호출수 변화 그래프
@@ -60,6 +84,12 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Statistics
 ![image alt](http://static.toastoven.net/prod_gamebase/Operators_Guide/Console_Monitoring_Statistics1_1.2.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: image alt
+    구성: 'image alt' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Console
+-->
 판매 현황 화면을 통하여 앱의 매출현황을 손쉽게 확인할 수 있습니다.
 오른쪽 위 **통화**에서 원하는 통화를 선택해 통화별 매출액을 확인할 수도 있습니다.
 

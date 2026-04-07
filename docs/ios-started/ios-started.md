@@ -86,11 +86,23 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 압축을 풀면 다음과 같이 Gamebase.xcframework 등의 SDK를 볼 수 있습니다.
 
 ![unzip gamebase](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-installation-002_2.54.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: unzip gamebase
+    구성: 'unzip gamebase' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: unzip gamebase
+-->
 
 
 * 1) Framework 파일을 Project의 Project Navigator로 끌어와서 import합니다. 이 때 추가된 Framework 파일들은 프로젝트 target에 추가되어야 합니다. 
 * 2) **Gamebase.bundle** 파일도 **Copy Bundle Resources**에 추가합니다.
 ![Gamebase.bundle Bundle Resources](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-installation-003_1.0.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Gamebase.bundle Bundle Resources
+    구성: 'Gamebase.bundle Bundle Resources' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Gamebase.bundle Bund
+-->
 * 3) Gamebase의 Framework 외에 Gamebase에서 사용하고 있는 외부 SDK들의 기능을 포함하기 위한 여러 Framework와 Library 파일을 Linker에서 참조할 수 있도록 아래 항목을 추가해야 합니다.
     * libicucore.tbd
     * libz.tbd
@@ -105,20 +117,56 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
     * AppTrackingTransparency.framework
 
 ![Link Binary With Libraries](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-installation-005_1.0.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Link Binary With Libraries
+    구성: 'Link Binary With Libraries' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Setting
+-->
 
 * 4) **Gamebase iOS SDK 2.12.0 이상**을 사용할 경우 Facebook SDK가 업데이트 됨에 따라 추가 설정이 필요합니다.
     * **Accelerate.framework** 추가
     * 프로젝트 내부에 **빈 swift 파일** 추가 (프로젝트 내부에 swift 파일이 하나도 없을 경우)
 * 5) **Target > Build Settings > Linking > Other Linker Flags**에 **-ObjC**를 추가해야 합니다.
 ![Other Linker Flags](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-installation-006_1.0.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Other Linker Flags
+    구성: 'Other Linker Flags' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Other Linker Flags
+-->
 * 6) NaverAuthAdapter를 사용하는 경우에는 NAVER SDK에서 제공하는 **NaverThirdPartyLogin.xcframework** 파일을 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![Naver Embeded Frameworks](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-started-001_2.59.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Naver Embeded Frameworks
+    구성: 'Naver Embeded Frameworks' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Naver Embeded Framew
+-->
 * 7) LineAuthAdapter를 사용하는 경우에는 LINE SDK에서 제공하는 **LineSDK.xcframework** 파일을 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![LINE Embeded Frameworks](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-started-001_1.9.1.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: LINE Embeded Frameworks
+    구성: 'LINE Embeded Frameworks' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: LINE Embeded Framewo
+-->
 * 8) FacebookAuthAdapter를 사용하는 경우에는 Facebook SDK를 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![Facebook Embeded Frameworks](https://static.toastoven.net/prod_gamebase/iOSDevelopersGuide/ios-developers-guide-started-001_2.65.0-facebook-embeded.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Facebook Embeded Frameworks
+    구성: 'Facebook Embeded Frameworks' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Facebook Embeded Fra
+-->
 * 9) PaycoAuthAdapter를 사용하는 경우에는 PAYCO SDK를 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![PAYCO Embeded Frameworks](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/iOSDevelopersGuide/started-xcode-settings-payco-embeded-20241025.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: PAYCO Embeded Frameworks
+    구성: 'PAYCO Embeded Frameworks' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: PAYCO Embeded Framew
+-->
 
 > [INFO]
 >
@@ -307,6 +355,12 @@ end
 ```
 
 ![gamebase_auth_google_console_01](https://static.toastoven.net/prod_gamebase/Operators_Guide/gamebase_auth_google_console_01.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: gamebase_auth_google_console_01
+    구성: 'gamebase_auth_google_console_01' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Console
+-->
 
 
 **NAVER**
@@ -324,6 +378,12 @@ end
 ```
 
 ![gamebase_auth_naver_console_01](https://static.toastoven.net/prod_gamebase/Operators_Guide/gamebase_auth_naver_console_01.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: gamebase_auth_naver_console_01
+    구성: 'gamebase_auth_naver_console_01' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Console
+-->
 
 **LINE**
 

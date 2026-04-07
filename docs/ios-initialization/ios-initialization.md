@@ -23,6 +23,12 @@ AppDelegate.h 등 Gamebase 기능을 초기화할 곳에 다음의 헤더 파일
 게임이 시작되면 Debug Mode를 설정하고, Gamebase를 초기화하여 Launching Status Code에 따라 게임 진입 여부를 결정하도록 아래 플로우와 같이 구현합니다.
 
 ![initialization flow](https://static.toastoven.net/prod_gamebase/DevelopersGuide/initialization_flow_2.19.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Diagram
+    내용: initialization flow
+    구성: 'initialization flow' 이미지. 플로우/다이어그램 형태의 시각자료
+    Keyword: Flow, Initialize, Setting
+-->
 
 ### Configuration Settings
 
@@ -207,6 +213,12 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 `enablePopup`과 `enableLaunchingStatusPopup` 값이 모두 `true`인 경우, 게임이 점검 상태라면 자동으로 점검 팝업 창이 표시됩니다.
 여기서 **자세히 보기** 버튼을 클릭하면 점검 정보가 자동으로 웹뷰로 표시됩니다.
 ![](https://static.toastoven.net/prod_gamebase/DevelopersGuide/maintenance_webview_android_2.30.0.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: maintenance webview android 2.30.0
+    구성: 'maintenance webview android 2.30.0' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Maintenance, WebView
+-->
 
 이때 표시되는 html 파일을 수정하려면 다음 링크의 html 파일을 다운로드하여 원하는 대로 수정한 뒤 Xcode 프로젝트의 `Copy Bundle Resources`에 **gamebase-maintenance.html** 파일을 추가합니다.
 [html 파일 다운로드 LINK](https://static.toastoven.net/prod_gamebase/DevelopersGuide/gamebase-maintenance.html)

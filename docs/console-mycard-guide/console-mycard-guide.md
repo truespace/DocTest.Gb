@@ -20,3 +20,9 @@ keyword: "Console, IAP, MyCard 콘솔 가이드"
  - 반드시 서비스 Live 전에 정상 입력 여부를 확인하시기 바랍니다.  
 ```
 ![MyCard 스토어 정보 등록](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/gamebase_iap_mycard_console_guide_kr_01_230808.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: MyCard 스토어 정보 등록
+    구성: 'MyCard 스토어 정보 등록' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: App, Console, MyCard, Store
+-->

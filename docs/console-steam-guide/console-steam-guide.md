@@ -21,6 +21,12 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 
 
 ![Gamebase 스토어 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/Steam/ko/steam_register_01_ko_241028.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Gamebase 스토어 설정
+    구성: 'Gamebase 스토어 설정' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Console, Purchase, Setting, Steam, Store
+-->
 
 
 ### Steam 스토어 앱 ID
@@ -29,6 +35,12 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 * **Steamworks > App Admin >** (프로젝트 명)에 표시된 앱 ID를 입력합니다.
 
 ![Steam 스토어 앱 ID](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_02_kor.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Steam 스토어 앱 ID
+    구성: 'Steam 스토어 앱 ID' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: App, Console, Steam, Store
+-->
 
 
 ### Steam Web API Key
@@ -38,6 +50,12 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
   * 보다 자세한 발급 방법은 [Steamworks Publisher Web API Key](https://partner.steamgames.com/doc/webapi_overview/auth)를 참고하세요.
 
 ![Steam Web API Key](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_03_kor.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Steam Web API Key
+    구성: 'Steam Web API Key' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: App, Console, Steam
+-->
 
 
 ### Steam 기본 통화
@@ -48,6 +66,12 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 
 
 ![Steam 기본 통화](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_04_kor.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Steam 기본 통화
+    구성: 'Steam 기본 통화' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: App, Console, Setting, Steam
+-->
 
 
 
@@ -56,6 +80,12 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 Gamebase는 [Steam Microtransaction API](https://partner.steamgames.com/doc/features/microtransactions)를 지원합니다.
 
 ![Gamebase 아이템 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/Steam/ko/steam_item_01_ko_241028.png)
+<!-- LLM_Image_DESC_20260407
+    유형: Screenshot
+    내용: Gamebase 아이템 설정
+    구성: 'Gamebase 아이템 설정' 이미지. 콘솔/앱 화면 캡처 이미지
+    Keyword: Setting, Steam
+-->
 
 
 
