@@ -1,0 +1,15 @@
+---
+source: release-notes-android.md
+split: true
+created_date_time: 20260406_141859
+keyword: "1.8.1 (2018.04.12)"
+section: "1.8.1 (2018.04.12)"
+order: 120
+---
+
+### 1.8.1 (2018.04.12)
+[SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v1.8.1/GamebaseSDK-Android.zip)
+
+#### 버그 수정
+* [SDK] 1.8.1
+    * (Android. iOS)registerPush를 호출 시 displayLanguageCode를 null로 전달하면 registerPush가 실패하는 버그 수정

@@ -1,0 +1,14 @@
+---
+source: release-notes-console.md
+split: true
+created_date_time: 20260406_141859
+keyword: "2023. 04. 11."
+section: "2023. 04. 11."
+order: 19
+---
+
+### 2023. 04. 11.
+
+#### 기능 개선/변경
+* Analytics > 매출 지표 > 유료 이용자
+	* 이용자 지표와 필터를 동일하게 노출하도록 기능 개선

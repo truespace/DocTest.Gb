@@ -10,7 +10,7 @@ import re
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DIVIDED_DIR = BASE_DIR / "divided"
+DIVIDED_DIR = BASE_DIR.parent / "docs"
 
 # 원본 파일 목록 수집 (확장자 없는 stem)
 ORIGINAL_STEMS = set()

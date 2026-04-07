@@ -5,7 +5,8 @@ from datetime import datetime
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DIVIDED_DIR = BASE_DIR / "divided"
+DOCS_DIR = BASE_DIR.parent / "docs"
+HISTORY_DIR = BASE_DIR.parent / "history"
 
 
 def build_tree(root, prefix=""):
@@ -42,7 +43,7 @@ def main():
     index_files = 0
     split_files = 0
 
-    for root, dirs, files in os.walk(DIVIDED_DIR):
+    for root, dirs, files in os.walk(DOCS_DIR):
         dirs[:] = [d for d in dirs if d != ".DS_Store"]
         total_dirs += len(dirs)
         for f in files:
@@ -52,16 +53,16 @@ def main():
             fp = Path(root) / f
             if fp.suffix in (".png", ".jpg", ".gif", ".jpeg", ".svg"):
                 total_images += 1
-            elif fp.parent == DIVIDED_DIR and fp.suffix == ".md":
+            elif fp.parent == DOCS_DIR and fp.suffix == ".md":
                 index_files += 1
             elif fp.suffix == ".md":
                 split_files += 1
 
-    tree_lines = build_tree(DIVIDED_DIR)
+    tree_lines = build_tree(DOCS_DIR)
 
     content = f"""---
 generated_date: "{now.strftime('%Y-%m-%d %H:%M:%S')}"
-description: "divided/ 폴더 구조 스냅샷"
+description: "docs/ 폴더 구조 스냅샷"
 total_directories: {total_dirs}
 total_files: {total_files}
 index_files: {index_files}
@@ -86,12 +87,13 @@ image_files: {total_images}
 ## 폴더 구조
 
 ```
-divided/
+docs/
 {chr(10).join(tree_lines)}
 ```
 """
 
-    output_path = BASE_DIR / filename
+    HISTORY_DIR.mkdir(exist_ok=True)
+    output_path = HISTORY_DIR / filename
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(content)
 

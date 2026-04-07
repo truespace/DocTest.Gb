@@ -1,25 +1,32 @@
 # 문서 분할 규칙
 1. 대상 원본 파일의 크기와 문자수를 통해서 파일 분할 여부를 판단한다.
-    - 분할 기준: **파일 크기 30KB 이상** 또는 **문자수 15,000자 이상** (둘 중 하나라도 초과 시 분할)
+    - 분할 기준: 
+        - **파일 크기 20KB 이상**: 무조건 나누어야함.
+        - **파일 크기 10KB 이상**: 5KB 이하로 header통해서 나눌 수 있다면 나누어야함.
+        - **파일 크기 5KB 이상**: 나누지 않아도 되나, 문서의 문단 구조가 나누기 쉬운 구조(기능의 내용이 연결성이 없는 경우)라면 나누는 것을 추천. 
     - 이 기준은 LLM이 단일 문서를 학습할 때 맥락 유지와 집중도가 적절한 크기를 기반으로 한다.
 2. 대상 원본이 기준보다 작아도 관리를 위해서 index 파일을 생성한다.
-    - index 파일의 이름은 원본 파일의 이름과 동일해야 한다.
-    - 이 경우 분할은 하지 않고, index 파일이 원본 파일 1개만 참조하는 형태가 된다.
+    - index 파일의 이름은 원본 파일의 이름과 동일해야 하며, frontmatter를 포함해야한다.
+    - 이 경우 분할은 하지 않고, index 파일이 분할 대상이 되는 파일 처럼 폴더를 만들고 동일한 구조로 복사한 후 참조하는 형태가 된다.
+    - 분할되지 않더라도 frontmatter를 포함하여 생성한다.
 3. index 파일은 다음과 같은 규칙을 갖는다.
-    - index 파일은 원본 파일과 동일한 디렉터리의 하위 `divided/` 폴더에 직접 생성한다.
-        - 예: `원본경로/divided/aos-authentication.md`
+    - index 파일은 원본 파일이 있는 `ko`폴더 상위 폴더로 이동한 뒤`docs/` 폴더에 직접 생성한다.
+        - 예: `원본경로/../docs/aos-authentication.md`
     - index 파일은 frontmatter를 포함하여 생성하며, 이는 index 파일과 index 파일이 관리하는 분할된 파일들의 정보 변경을 확인하기 위한 용도로 사용된다.
     - index 파일의 내용은 테이블로 관리된다.
     - index 파일에 생성된 분할된 파일을 가리키는 순서는 원본 가이드 문서의 내용 순서와 동일해야 한다.
-4. 분할된 파일은 `divided/{기능명}/` 폴더에 생성된다.
+4. 분할된 파일은 `docs/{기능명}/` 폴더에 생성된다.
     - `{기능명}`은 원본 파일명(확장자 제외)으로 설정한다.
-        - 예: `원본경로/divided/aos-authentication/aos-authentication-Login.md`
+        - 예: `원본경로/../docs/aos-authentication/aos-authentication-Login.md`
     - 분할 기준 헤더 레벨:
         - 문서에 h1이 1개뿐인 경우: h2를 기준으로 분할한다.
         - 문서에 h1이 여러 개인 경우: h1을 기준으로 분할한다.
-        - h2 기준으로 분할 가능한 섹션이 1개 이하인 경우: h3을 기준으로 폴백한다.
-    - 소규모 섹션 그룹핑:
-        - 분할 후 개별 섹션이 지나치게 작을 경우 (평균 4,000자 미만 & 10개 초과), 인접 섹션을 그룹핑하여 약 12,000자 단위로 병합한다.
+        - 문서에 h2사이즈가 크고, h3를 많이 포함하고 있는 경우, h3를 기준으로 분할한다.
+        - 나뉘어진 문서는 나뉘어진 기준의 "기능명"을 사용해서, 나뉘어진 파일에 `-{기능명}`을 누적해서 붙인다.
+            - 예) 나눌 파일명: "a.md", h1.기능명: "f1", h2.기능명: "f2", h3.기능명: "f3"
+                - h1. 로 나뉜경우 : "a-f1.md"
+                - h2. 로 나뉜경우 : "a-f1-f2.md"
+                - h3. 로 나뉜경우 : "a-f1-f2-f3.md"
     - 생성된 파일의 이름은 분할 기준 헤더명을 포함하여 설정한다.
         - 예:
             - 원본 파일명 : Gamebase-Authenticated.md
@@ -28,105 +35,120 @@
                 - Gamebase-Authenticated-Logout.md
     - 분할된 파일에는 frontmatter를 포함하여 생성한다.
     - 분할된 파일의 내용은 변경되지 않아야 하며, 파일 분할 시 맥락이 최대한 끊기지 않도록 한다.
-5. 분할된 파일에 포함된 링크는 GitHub markdown 파일 preview에서 동작하도록 다음 규칙에 따라 경로를 재조정해야 한다.
+
+5. frontmatter 에는 공통적으로 다음과 같은 항목을 포함한다.
+    - source : 원본 파일명
+    - split: 분할여부(분할:true, 미분할:false)
+    - created_date_time: {YYYYMMDD_HHMMSS}
+    - keyword: 문서의 주요 키워드
+6. 분할된 파일에 포함된 링크는 GitHub markdown 파일 preview에서 동작하도록 다음 규칙에 따라 경로를 재조정해야 한다.
     - **타 문서 링크**: 원본 파일 기준 상대경로(`./파일명#anchor`)를 분할 파일 위치 기준으로 변환한다.
         - 변환 규칙: `./파일명#anchor` → `../../파일명.md#anchor`
-        - 분할 파일은 `divided/{기능명}/` 하위에 위치하므로 원본 디렉터리까지 2단계 상위(`../../`)로 올라가야 한다.
+        - 분할 파일은 `docs/{기능명}/` 하위에 위치하므로 원본 디렉터리까지 2단계 상위(`../../`)로 올라가야 한다.
     - **자기 문서 앵커 링크**: 같은 원본에서 분할된 파일 내 앵커를 참조하는 경우, 해당 앵커가 포함된 분할 파일로 재매핑한다.
         - 변환 규칙: `./원본파일명#anchor` → `./분할파일명.md#anchor`
     - 파일 경로에 `.md` 확장자를 추가해야 한다. (GitHub preview 호환)
-6. 문서에 포함된 이미지(외부 URL 및 로컬 경로 모두 포함)는 각 문서가 생성된 하위 `image/` 폴더 안에 복사하며, 이미지 경로는 상대 경로로 재조정되어야 한다. (링크 유효성 확인)
+7. 문서에 포함된 이미지(외부 URL 및 로컬 경로 모두 포함)는 각 문서가 생성된 하위 `image/` 폴더 안에 복사하며, 이미지 경로는 상대 경로로 재조정되어야 한다. (링크 유효성 확인)
     - 외부 URL 이미지: 다운로드하여 `image/` 폴더에 저장
     - 로컬 이미지: `image/` 폴더로 복사
     - 이미지가 Diagram일 경우에는 mermaid 포맷으로 생성하여 주석을 추가
     - 이미지가 Diagram이 아닐 경우에는 이미지 안의 내용을 확인하여 주석을 추가
-7. 분할 작업 후 `divided/` 폴더 구조의 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
+    - 주석의 추가는 이미지 링크 마크다운 아래에 다음과 같은 방식을 사용
+        ```
+        <!-- LLM_Image_DESC_{Timestamp}
+            유형: {이미지의 유형}
+            내용: {이미지가 어떤 내용을 포함하는지 간단요약}
+            구성: {상세 내용 기술}
+            Keyword: {검색을 위한 키워드 등록. ','로 구분}
+        -->
+        ```
+7. 분할 작업 후 `원본경로/../history/` 폴더 구조의 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
     - 파일명 형식: `HISTORY_STRUCTURE_YYYYMMDD_HHMMSS.md`
-    - 파일 위치: 원본 파일과 동일한 디렉터리 (예: `ko/HISTORY_STRUCTURE_20260403_144621.md`)
+    - 파일 위치: 원본 파일 상위에 history 폴더에 생성(없으면 history 폴더 생성) (예: `history/HISTORY_STRUCTURE_20260403_144621.md`)
     - 파일 내용:
         - frontmatter: 생성일시, 디렉터리/파일 수 등 통계 정보
         - 통계 테이블: 디렉터리, 전체 파일, index 파일, 분할 파일, 이미지 파일 수
-        - 폴더 구조: 트리 형태로 `divided/` 하위 전체 구조를 표시 (파일 크기 포함)
+        - 폴더 구조: 트리 형태로 `docs/` 하위 전체 구조를 표시 (파일 크기 포함)
     - 분할 작업이 수행될 때마다 새로운 스냅샷 파일을 생성하여 변경 이력을 추적한다.
 
 
 ## 분할 내역
 
-> 최종 분할일: 2026-04-03 | 총 67개 파일 | 분할 34개 (210개 섹션) | index만 33개
+> 최종 분할일: 2026-04-06 | 총 67개 파일 | 분할 46개 (1,026개 섹션) | 미분할 21개
 
-### 분할된 파일 (34개)
+### 분할된 파일 (46개)
 
-| 파일명 | 크기 | 문자수 | 분할 수 | 비고 |
-|--------|------|--------|---------|------|
-| Overview.md | 24,801 bytes | 16,717 chars | 8 | h2 기준 |
-| aos-authentication.md | 69,946 bytes | 55,958 chars | 9 | h2 기준 |
-| aos-etc.md | 46,396 bytes | 37,159 chars | 7 | h3 폴백 |
-| aos-purchase.md | 30,785 bytes | 23,345 chars | 3 | h3 폴백 + 그룹핑 |
-| aos-started.md | 33,449 bytes | 28,321 chars | 6 | h2 기준 |
-| aos-ui.md | 37,601 bytes | 29,288 chars | 9 | h2 기준 |
-| api-guide-v1.0.md | 30,536 bytes | 25,148 chars | 9 | h2 기준 |
-| api-guide-v1.2.md | 45,228 bytes | 36,860 chars | 4 | h2 기준 + 그룹핑 |
-| api-guide.md | 83,982 bytes | 66,415 chars | 12 | h2 기준 |
-| error-code.md | 29,375 bytes | 24,017 chars | 2 | h2 기준 |
-| ios-authentication.md | 49,693 bytes | 38,997 chars | 9 | h2 기준 |
-| ios-etc.md | 35,016 bytes | 29,186 chars | 7 | h3 폴백 |
-| ios-purchase.md | 21,729 bytes | 15,739 chars | 2 | h3 폴백 + 그룹핑 |
-| ios-ui.md | 30,840 bytes | 24,984 chars | 8 | h2 기준 |
-| oper-app.md | 68,817 bytes | 46,285 chars | 7 | h2 기준 |
-| oper-operation.md | 29,969 bytes | 16,067 chars | 5 | h2 기준 |
-| oper-purchase.md | 26,176 bytes | 15,062 chars | 5 | h2 기준 |
-| release-notes-android.md | 92,084 bytes | 65,174 chars | 6 | h3 폴백 + 그룹핑 |
-| release-notes-console.md | 44,888 bytes | 24,984 chars | 3 | h3 폴백 + 그룹핑 |
-| release-notes-ios.md | 66,748 bytes | 48,254 chars | 5 | h3 폴백 + 그룹핑 |
-| release-notes-unity.md | 88,139 bytes | 65,535 chars | 6 | h3 폴백 + 그룹핑 |
-| release-notes-unreal.md | 44,682 bytes | 31,782 chars | 3 | h3 폴백 + 그룹핑 |
-| release-notes.md | 72,513 bytes | 46,153 chars | 4 | h3 폴백 + 그룹핑 |
-| unity-authentication.md | 63,277 bytes | 51,109 chars | 9 | h2 기준 |
-| unity-etc.md | 54,721 bytes | 46,551 chars | 9 | h3 폴백 |
-| unity-initialization.md | 20,013 bytes | 15,783 chars | 7 | h3 폴백 |
-| unity-purchase.md | 30,648 bytes | 23,444 chars | 2 | h3 폴백 + 그룹핑 |
-| unity-ui.md | 29,953 bytes | 24,385 chars | 8 | h2 기준 |
-| unreal-authentication.md | 60,710 bytes | 49,398 chars | 9 | h2 기준 |
-| unreal-etc.md | 46,990 bytes | 40,058 chars | 9 | h3 폴백 |
-| unreal-purchase.md | 31,341 bytes | 24,197 chars | 3 | h3 폴백 + 그룹핑 |
-| unreal-started.md | 20,544 bytes | 15,356 chars | 4 | h2 기준 |
-| unreal-ui.md | 27,871 bytes | 22,917 chars | 8 | h2 기준 |
-| upgrade-guide.md | 47,958 bytes | 34,377 chars | 3 | h2 기준 + 그룹핑 |
+| 파일명 | 크기 | 분할 수 | 전략 | 기준 |
+|--------|------|---------|------|------|
+| Overview.md | 24.2KB | 8 | h2 | 20KB↑ 무조건 |
+| aos-authentication.md | 68.3KB | 9 | h2 | 20KB↑ 무조건 |
+| aos-etc.md | 45.3KB | 7 | h3 | 20KB↑ 무조건 |
+| aos-purchase.md | 30.1KB | 11 | h3 | 20KB↑ 무조건 |
+| aos-push.md | 12.6KB | 6 | h3 | 10KB↑ 조건부 |
+| aos-started.md | 32.7KB | 6 | h2 | 20KB↑ 무조건 |
+| aos-ui.md | 36.7KB | 9 | h2 | 20KB↑ 무조건 |
+| api-guide-v1.0.md | 29.8KB | 9 | h2 | 20KB↑ 무조건 |
+| api-guide-v1.2.md | 44.2KB | 11 | h2 | 20KB↑ 무조건 |
+| api-guide.md | 82.0KB | 12 | h2 | 20KB↑ 무조건 |
+| console-apple-guide.md | 5.3KB | 4 | h2 | 5KB↑ 선택적 |
+| console-for-aws.md | 5.1KB | 3 | h2 | 5KB↑ 선택적 |
+| error-code.md | 28.7KB | 2 | h2 | 20KB↑ 무조건 |
+| ios-authentication.md | 48.5KB | 9 | h2 | 20KB↑ 무조건 |
+| ios-etc.md | 34.2KB | 7 | h3 | 20KB↑ 무조건 |
+| ios-purchase.md | 21.2KB | 12 | h3 | 20KB↑ 무조건 |
+| ios-push.md | 12.8KB | 7 | h3 | 10KB↑ 조건부 |
+| ios-ui.md | 30.1KB | 8 | h2 | 20KB↑ 무조건 |
+| oper-analytics.md | 22.8KB | 5 | h2 | 20KB↑ 무조건 |
+| oper-app.md | 67.2KB | 7 | h2 | 20KB↑ 무조건 |
+| oper-customer-service.md | 23.7KB | 6 | h2 | 20KB↑ 무조건 |
+| oper-management.md | 6.3KB | 3 | h2 | 5KB↑ 선택적 |
+| oper-operation.md | 29.3KB | 5 | h2 | 20KB↑ 무조건 |
+| oper-purchase.md | 25.6KB | 5 | h2 | 20KB↑ 무조건 |
+| oper-push.md | 20.1KB | 6 | h2 | 20KB↑ 무조건 |
+| release-notes-android.md | 89.9KB | 132 | h3 | 20KB↑ 무조건 |
+| release-notes-console.md | 43.8KB | 129 | h3 | 20KB↑ 무조건 |
+| release-notes-ios.md | 65.2KB | 141 | h3 | 20KB↑ 무조건 |
+| release-notes-unity.md | 86.1KB | 136 | h3 | 20KB↑ 무조건 |
+| release-notes-unreal.md | 43.6KB | 46 | h3 | 20KB↑ 무조건 |
+| release-notes.md | 70.8KB | 97 | h3 | 20KB↑ 무조건 |
+| unity-authentication.md | 61.8KB | 9 | h2 | 20KB↑ 무조건 |
+| unity-etc.md | 53.4KB | 9 | h3 | 20KB↑ 무조건 |
+| unity-logger.md | 7.9KB | 6 | h3 | 5KB↑ 선택적 |
+| unity-purchase.md | 29.9KB | 11 | h3 | 20KB↑ 무조건 |
+| unity-push.md | 13.2KB | 6 | h3 | 10KB↑ 조건부 |
+| unity-ui.md | 29.2KB | 8 | h2 | 20KB↑ 무조건 |
+| unreal-authentication.md | 59.3KB | 9 | h2 | 20KB↑ 무조건 |
+| unreal-etc.md | 45.9KB | 9 | h3 | 20KB↑ 무조건 |
+| unreal-initialization.md | 13.5KB | 7 | h3 | 10KB↑ 조건부 |
+| unreal-logger.md | 5.0KB | 5 | h3 | 5KB↑ 선택적 |
+| unreal-purchase.md | 30.6KB | 11 | h3 | 20KB↑ 무조건 |
+| unreal-push.md | 14.3KB | 6 | h3 | 10KB↑ 조건부 |
+| unreal-started.md | 20.1KB | 4 | h2 | 20KB↑ 무조건 |
+| unreal-ui.md | 27.2KB | 8 | h2 | 20KB↑ 무조건 |
+| upgrade-guide.md | 46.8KB | 60 | h2 | 20KB↑ 무조건 |
 
-### index만 생성된 파일 (33개)
+### 미분할 파일 (21개)
 
-| 파일명 | 크기 | 문자수 |
-|--------|------|--------|
-| aos-initialization.md | 18,228 bytes | 14,024 chars |
-| aos-logger.md | 4,678 bytes | 4,066 chars |
-| aos-push.md | 12,885 bytes | 10,425 chars |
-| console-amazon-guide.md | 2,753 bytes | 1,783 chars |
-| console-apple-guide.md | 5,463 bytes | 3,898 chars |
-| console-epicgames-guide.md | 4,730 bytes | 3,148 chars |
-| console-for-aws.md | 5,272 bytes | 3,150 chars |
-| console-galaxy-guide.md | 879 bytes | 717 chars |
-| console-google-guide.md | 19,972 bytes | 12,381 chars |
-| console-huawei-guide.md | 4,140 bytes | 2,900 chars |
-| console-mycard-guide.md | 1,118 bytes | 664 chars |
-| console-onestore-guide.md | 1,188 bytes | 898 chars |
-| console-steam-guide.md | 4,463 bytes | 2,819 chars |
-| ios-initialization.md | 17,824 bytes | 13,468 chars |
-| ios-logger.md | 3,763 bytes | 3,423 chars |
-| ios-push.md | 13,129 bytes | 10,935 chars |
-| ios-started.md | 17,318 bytes | 13,514 chars |
-| oper-analytics.md | 23,384 bytes | 14,198 chars |
-| oper-ban.md | 13,201 bytes | 7,385 chars |
-| oper-coupon.md | 14,222 bytes | 7,865 chars |
-| oper-customer-service.md | 24,287 bytes | 13,445 chars |
-| oper-management.md | 6,455 bytes | 3,923 chars |
-| oper-member.md | 14,346 bytes | 8,884 chars |
-| oper-operating-indicator.md | 4,373 bytes | 2,491 chars |
-| oper-push.md | 20,547 bytes | 11,820 chars |
-| quick-guide.md | 1,159 bytes | 901 chars |
-| release-notes-server-api.md | 4,747 bytes | 3,035 chars |
-| unity-logger.md | 8,039 bytes | 7,305 chars |
-| unity-push.md | 13,477 bytes | 11,289 chars |
-| unity-started.md | 11,500 bytes | 8,830 chars |
-| unreal-initialization.md | 13,790 bytes | 11,052 chars |
-| unreal-logger.md | 5,169 bytes | 4,647 chars |
-| unreal-push.md | 14,598 bytes | 12,412 chars |
+| 파일명 | 크기 | 미분할 사유 |
+|--------|------|-------------|
+| aos-initialization.md | 17.8KB | 10~20KB, 5KB이하 분할 불가 |
+| aos-logger.md | 4.6KB | 5KB 미만 |
+| console-amazon-guide.md | 2.7KB | 5KB 미만 |
+| console-epicgames-guide.md | 4.6KB | 5KB 미만 |
+| console-galaxy-guide.md | 0.9KB | 5KB 미만 |
+| console-google-guide.md | 19.5KB | 10~20KB, 5KB이하 분할 불가 |
+| console-huawei-guide.md | 4.0KB | 5KB 미만 |
+| console-mycard-guide.md | 1.1KB | 섹션 부족 |
+| console-onestore-guide.md | 1.2KB | 섹션 부족 |
+| console-steam-guide.md | 4.4KB | 5KB 미만 |
+| ios-initialization.md | 17.4KB | 10~20KB, 5KB이하 분할 불가 |
+| ios-logger.md | 3.7KB | 5KB 미만 |
+| ios-started.md | 16.9KB | 10~20KB, 5KB이하 분할 불가 |
+| oper-ban.md | 12.9KB | 10~20KB, 5KB이하 분할 불가 |
+| oper-coupon.md | 13.9KB | 10~20KB, 5KB이하 분할 불가 |
+| oper-member.md | 14.0KB | 10~20KB, 5KB이하 분할 불가 |
+| oper-operating-indicator.md | 4.3KB | 5KB 미만 |
+| quick-guide.md | 1.1KB | 5KB 미만 |
+| release-notes-server-api.md | 4.6KB | 5KB 미만 |
+| unity-initialization.md | 19.5KB | 10~20KB, 5KB이하 분할 불가 |
+| unity-started.md | 11.2KB | 10~20KB, 5KB이하 분할 불가 |

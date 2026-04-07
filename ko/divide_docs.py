@@ -2,164 +2,112 @@
 """
 문서 분할 스크립트
 DIVIDE_RULES.md 규칙에 따라 마크다운 파일을 분할합니다.
-- 30KB 이상 또는 15,000자 이상: h2 기준으로 분할 (h2 부족 시 h3 폴백)
-- 기준 미만: index 파일만 생성 (원본 1개 참조)
-- 소규모 섹션이 다수일 경우 그룹핑하여 분할
+- 20KB 이상: 무조건 분할
+- 10KB 이상: 5KB 이하로 나눌 수 있으면 분할
+- 5KB 이상: 문단 구조가 나누기 쉬우면 분할 (독립적 섹션이 2개 이상)
+- 5KB 미만: 분할하지 않음
 """
 
-import os
 import re
 import hashlib
 import shutil
 import urllib.request
-import urllib.error
 import ssl
 from datetime import date
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DIVIDED_DIR = BASE_DIR / "divided"
-SIZE_THRESHOLD = 30 * 1024  # 30KB
-CHAR_THRESHOLD = 15000
-# 분할 후 각 파일의 목표 크기 (그룹핑 기준)
-TARGET_CHARS = 12000
+DIVIDED_DIR = BASE_DIR.parent / "docs"
 TODAY = date.today().isoformat()
-EXCLUDE_FILES = {"DIVIDE_RULES.md", "divide_docs.py"}
+EXCLUDE_FILES = {"DIVIDE_RULES.md", "divide_docs.py", "fix_links.py", "gen_history.py"}
+
+THRESHOLD_MUST = 20 * 1024       # 20KB: 무조건 분할
+THRESHOLD_COND = 10 * 1024       # 10KB: 조건부 분할
+THRESHOLD_OPT  = 5 * 1024        # 5KB: 선택적 분할
+MAX_SECTION_SIZE = 5 * 1024      # 조건부 분할 시 섹션 최대 크기
 
 
 def get_md_files():
     files = []
     for f in sorted(BASE_DIR.iterdir()):
-        if f.suffix == ".md" and f.name not in EXCLUDE_FILES:
+        if f.suffix == ".md" and f.name not in EXCLUDE_FILES and not f.name.startswith("HISTORY_STRUCTURE"):
             files.append(f)
     return files
 
 
-def needs_split(filepath):
-    size = filepath.stat().st_size
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
-    char_count = len(content)
-    return size >= SIZE_THRESHOLD or char_count >= CHAR_THRESHOLD, size, char_count, content
-
-
-def parse_sections(content, header_level):
-    """지정 헤더 레벨 기준으로 섹션 분리 (코드블록 내부 무시)
-    header_level: 2 for ##, 3 for ###
-    """
-    header_prefix = "#" * header_level + " "
+def parse_sections_with_hierarchy(content):
+    """h2/h3 섹션을 계층 구조로 파싱"""
     lines = content.split("\n")
-    sections = []
-    current_section = {"header": None, "lines": []}
+    result = {'breadcrumb': None, 'preamble_lines': [], 'h2_sections': []}
     in_code_block = False
+    current_h2 = None
+    current_h3 = None
     breadcrumb_found = False
+
+    def flush_h3():
+        nonlocal current_h3
+        if current_h3 and current_h2:
+            current_h2['h3_sections'].append(current_h3)
+            current_h3 = None
+
+    def flush_h2():
+        nonlocal current_h2
+        flush_h3()
+        if current_h2:
+            result['h2_sections'].append(current_h2)
+            current_h2 = None
 
     for line in lines:
         stripped = line.strip()
         if stripped.startswith("```"):
             in_code_block = not in_code_block
 
-        is_target_header = (
-            not in_code_block
-            and line.startswith(header_prefix)
-            and not line.startswith(header_prefix + "#")  # ##이 ###에 매치되지 않도록
-        )
+        is_h2 = not in_code_block and line.startswith("## ") and not line.startswith("### ")
+        is_h3 = not in_code_block and line.startswith("### ") and not line.startswith("#### ")
 
-        if is_target_header:
-            # breadcrumb 헤더 감지 (첫 번째 해당 레벨 헤더에 > 포함)
+        if is_h2:
             if not breadcrumb_found and ">" in line:
                 breadcrumb_found = True
-                current_section["lines"].append(line)
+                result['breadcrumb'] = line
+                result['preamble_lines'].append(line)
                 continue
-
-            # 이전 섹션 저장
-            if current_section["header"] is not None or current_section["lines"]:
-                sections.append(current_section)
-            current_section = {"header": line, "lines": [line]}
+            flush_h2()
+            h2_name = re.sub(r"^##\s*", "", line).strip()
+            current_h2 = {'header': line, 'name': h2_name, 'lines': [line], 'own_lines': [line], 'h3_sections': []}
+        elif is_h3:
+            if current_h2 is None:
+                flush_h2()
+                current_h2 = {'header': None, 'name': None, 'lines': [], 'own_lines': [], 'h3_sections': []}
+            flush_h3()
+            h3_name = re.sub(r"^###\s*", "", line).strip()
+            current_h3 = {'header': line, 'name': h3_name, 'lines': [line]}
+            current_h2['lines'].append(line)
         else:
-            current_section["lines"].append(line)
+            if current_h3:
+                current_h3['lines'].append(line)
+                if current_h2:
+                    current_h2['lines'].append(line)
+            elif current_h2:
+                current_h2['lines'].append(line)
+                current_h2['own_lines'].append(line)
+            else:
+                result['preamble_lines'].append(line)
 
-    # 마지막 섹션 저장
-    if current_section["header"] is not None or current_section["lines"]:
-        sections.append(current_section)
-
-    return sections
-
-
-def group_small_sections(preamble_lines, content_sections, target_chars):
-    """소규모 섹션들을 목표 크기에 맞게 그룹핑"""
-    if not content_sections:
-        return []
-
-    groups = []
-    current_group = {
-        "sections": [],
-        "lines": [],
-        "char_count": 0,
-        "first_header": None,
-        "last_header": None,
-    }
-
-    for section in content_sections:
-        section_text = "\n".join(section["lines"])
-        section_chars = len(section_text)
-        header_name = re.sub(r"^#+\s*", "", section["header"] or "")
-
-        # 현재 그룹이 비어있거나 추가해도 목표 이하인 경우
-        if (
-            current_group["char_count"] == 0
-            or current_group["char_count"] + section_chars <= target_chars
-        ):
-            current_group["sections"].append(section)
-            current_group["lines"].extend(section["lines"])
-            current_group["char_count"] += section_chars
-            if current_group["first_header"] is None:
-                current_group["first_header"] = header_name
-            current_group["last_header"] = header_name
-        else:
-            # 현재 그룹 저장, 새 그룹 시작
-            groups.append(current_group)
-            current_group = {
-                "sections": [section],
-                "lines": list(section["lines"]),
-                "char_count": section_chars,
-                "first_header": header_name,
-                "last_header": header_name,
-            }
-
-    if current_group["sections"]:
-        groups.append(current_group)
-
-    # 그룹 이름 생성
-    result = []
-    for group in groups:
-        if group["first_header"] == group["last_header"]:
-            group_name = group["first_header"]
-        else:
-            group_name = f"{group['first_header']}-to-{group['last_header']}"
-        result.append({
-            "header": group_name,
-            "lines": group["lines"],
-        })
-
+    flush_h2()
     return result
 
 
-def sanitize_filename(name):
-    name = re.sub(r"^#+\s*", "", name)
-    # 특수문자 제거 (알파벳, 숫자, 한글, 하이픈, 점 허용)
+def sanitize_name(name):
     name = re.sub(r"[^\w가-힣\s.\-]", "", name)
     name = name.strip().replace(" ", "-")
     name = re.sub(r"-+", "-", name)
-    # 파일명이 너무 길면 잘라냄
-    if len(name) > 80:
-        name = name[:80]
+    if len(name) > 60:
+        name = name[:60].rstrip("-")
     return name
 
 
 def extract_images(content):
-    pattern = r"!\[([^\]]*)\]\(([^)]+)\)"
-    return re.findall(pattern, content)
+    return re.findall(r"!\[([^\]]*)\]\(([^)]+)\)", content)
 
 
 def download_image(url, dest_path):
@@ -177,44 +125,14 @@ def download_image(url, dest_path):
         return False
 
 
-def update_image_paths(content, images_map):
-    for original_url, local_filename in images_map.items():
-        content = content.replace(f"]({original_url})", f"](./image/{local_filename})")
-    return content
-
-
 def generate_image_filename(url):
     parsed_name = url.split("/")[-1].split("?")[0]
     if parsed_name and "." in parsed_name:
         return parsed_name
-    ext = ".png"
-    hash_val = hashlib.md5(url.encode()).hexdigest()[:8]
-    return f"image_{hash_val}{ext}"
-
-
-def create_frontmatter_index(source_name, source_size, source_chars, split_count):
-    return f"""---
-source: {source_name}
-source_size_bytes: {source_size}
-source_char_count: {source_chars}
-split_count: {split_count}
-created_date: {TODAY}
----
-"""
-
-
-def create_frontmatter_section(source_name, section_name, order):
-    return f"""---
-source: {source_name}
-section: "{section_name}"
-order: {order}
-created_date: {TODAY}
----
-"""
+    return f"image_{hashlib.md5(url.encode()).hexdigest()[:8]}.png"
 
 
 def handle_images(content, filepath, image_dir):
-    """이미지 수집, 다운로드, 경로 맵 반환"""
     all_images = extract_images(content)
     images_map = {}
     for alt, url in all_images:
@@ -229,78 +147,191 @@ def handle_images(content, filepath, image_dir):
                     src = filepath.parent / url
                     if src.exists():
                         shutil.copy2(src, dest)
-                    else:
-                        print(f"  [WARN] 로컬 이미지 없음: {src}")
     return images_map
 
 
-def create_index_only(name, size, chars, reason="분할 기준 미만"):
-    """index만 생성 (분할 없음) - divided/ 폴더에 직접 생성"""
-    index_content = create_frontmatter_index(name, size, chars, 0)
-    index_content += f"\n# {Path(name).stem}\n\n"
+def update_image_paths(content, images_map):
+    for original_url, local_filename in images_map.items():
+        content = content.replace(f"]({original_url})", f"](./image/{local_filename})")
+    return content
+
+
+def fm_index(source_name, source_size, source_chars, split_count):
+    return f"""---
+source: {source_name}
+source_size_bytes: {source_size}
+source_char_count: {source_chars}
+split_count: {split_count}
+created_date: {TODAY}
+---
+"""
+
+
+def fm_section(source_name, section_name, order):
+    return f"""---
+source: {source_name}
+section: "{section_name}"
+order: {order}
+created_date: {TODAY}
+---
+"""
+
+
+def decide_split_strategy(parsed, size):
+    """분할 전략 결정"""
+    h2s = parsed['h2_sections']
+
+    if len(h2s) <= 1:
+        if h2s and len(h2s[0]['h3_sections']) > 1:
+            return 'h3'
+        elif not h2s:
+            return 'none'
+        if len(h2s[0]['h3_sections']) <= 1:
+            return 'none'
+        return 'h3'
+
+    # h2가 여러개일 때, 개별 h2가 너무 큰지 확인
+    large_h2_count = 0
+    for h2 in h2s:
+        h2_size = len("\n".join(h2['lines']).encode('utf-8'))
+        if h2_size > THRESHOLD_COND and len(h2['h3_sections']) > 1:
+            large_h2_count += 1
+
+    if large_h2_count > len(h2s) // 2:
+        return 'h3'
+
+    return 'h2'
+
+
+def build_split_sections(parsed, strategy):
+    """전략에 따라 분할 섹션 목록 생성"""
+    sections = []
+    preamble = parsed['preamble_lines']
+
+    if strategy == 'h2':
+        for h2 in parsed['h2_sections']:
+            sections.append({'display_name': h2['name'], 'lines': h2['lines']})
+    elif strategy == 'h3':
+        for h2 in parsed['h2_sections']:
+            h2_prefix = h2['name'] if h2['name'] else None
+            if h2['h3_sections']:
+                for i, h3 in enumerate(h2['h3_sections']):
+                    display = f"{h2['name']} > {h3['name']}" if h2_prefix else h3['name']
+                    lines = []
+                    if i == 0:
+                        lines.extend(h2['own_lines'])
+                    lines.extend(h3['lines'])
+                    sections.append({
+                        'display_name': display,
+                        'h2_name': h2['name'],
+                        'h3_name': h3['name'],
+                        'lines': lines,
+                    })
+            else:
+                sections.append({'display_name': h2['name'], 'lines': h2['lines']})
+
+    if sections and preamble:
+        sections[0]['lines'] = preamble + sections[0]['lines']
+
+    return sections
+
+
+def check_conditional_split(sections):
+    """10KB 조건부: 모든 섹션이 5KB 이하인지 확인"""
+    for sec in sections:
+        sec_size = len("\n".join(sec['lines']).encode('utf-8'))
+        if sec_size > MAX_SECTION_SIZE:
+            return False
+    return True
+
+
+def make_filename(stem, section, strategy):
+    """분할 파일명 생성 (헤더 누적 규칙)"""
+    if strategy == 'h3' and section.get('h2_name'):
+        h2_part = sanitize_name(section['h2_name'])
+        h3_part = sanitize_name(section['h3_name'])
+        return f"{stem}-{h2_part}-{h3_part}.md"
+    else:
+        name_part = sanitize_name(section['display_name'])
+        return f"{stem}-{name_part}.md"
+
+
+def create_nosplit(filepath, folder, name, size, chars, reason):
+    """미분할 처리: 폴더 생성 + 원본 복사 + index"""
+    shutil.copy2(filepath, folder / name)
+    # 복사된 파일에 frontmatter 추가
+    with open(folder / name, "r", encoding="utf-8") as f:
+        original_content = f.read()
+    if not original_content.startswith("---"):
+        fm = f"""---
+source: {name}
+split: false
+created_date: {TODAY}
+---
+
+"""
+        with open(folder / name, "w", encoding="utf-8") as f:
+            f.write(fm + original_content)
+
+    index_content = fm_index(name, size, chars, 0)
+    index_content += f"\n# {filepath.stem}\n\n"
     index_content += "| 순서 | 파일명 | 설명 |\n"
     index_content += "|------|--------|------|\n"
-    index_content += f"| 1 | [{name}](../{name}) | 원본 파일 ({reason}) |\n"
+    index_content += f"| 1 | [{name}](./{filepath.stem}/{name}) | 원본 파일 ({reason}) |\n"
     with open(DIVIDED_DIR / name, "w", encoding="utf-8") as f:
         f.write(index_content)
 
 
 def process_file(filepath):
-    """단일 파일 처리"""
     stem = filepath.stem
     name = filepath.name
+    size = filepath.stat().st_size
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+    chars = len(content)
 
-    should_split, size, chars, content = needs_split(filepath)
-
-    if not should_split:
-        create_index_only(name, size, chars)
-        return {"name": name, "split": False, "size": size, "chars": chars, "sections": 0}
-
-    # 분할 파일용 하위 폴더 생성
     folder = DIVIDED_DIR / stem
     folder.mkdir(parents=True, exist_ok=True)
 
-    # h2로 분할 시도
-    sections = parse_sections(content, header_level=2)
+    # 분할 여부 판단 (새 3단계 기준)
+    parsed = parse_sections_with_hierarchy(content)
+    strategy = decide_split_strategy(parsed, size)
 
-    # preamble (breadcrumb 등) 분리
-    preamble_lines = []
-    content_sections = []
+    if strategy == 'none':
+        reason = "분할 가능 섹션 부족"
+        create_nosplit(filepath, folder, name, size, chars, reason)
+        return {"name": name, "split": False, "size": size, "chars": chars, "sections": 0, "strategy": "-", "reason": reason}
 
-    if sections and sections[0]["header"] is None:
-        preamble_lines = sections[0]["lines"]
-        content_sections = sections[1:]
+    sections = build_split_sections(parsed, strategy)
+
+    if len(sections) <= 1:
+        reason = "분할 결과 1개"
+        create_nosplit(filepath, folder, name, size, chars, reason)
+        return {"name": name, "split": False, "size": size, "chars": chars, "sections": 0, "strategy": "-", "reason": reason}
+
+    # 3단계 분할 기준 적용
+    if size >= THRESHOLD_MUST:
+        # 20KB 이상: 무조건 분할
+        do_split = True
+        split_reason = "20KB↑ 무조건"
+    elif size >= THRESHOLD_COND:
+        # 10KB 이상: 5KB 이하로 나눌 수 있으면 분할
+        do_split = check_conditional_split(sections)
+        split_reason = "10KB↑ 조건부" if do_split else None
+    elif size >= THRESHOLD_OPT:
+        # 5KB 이상: 독립적 섹션 2개 이상이면 분할
+        do_split = len(sections) >= 2
+        split_reason = "5KB↑ 선택적" if do_split else None
     else:
-        content_sections = sections
+        do_split = False
+        split_reason = None
 
-    # h2로 분할 불가능한 경우 (1개 이하) -> h3 폴백
-    used_level = "h2"
-    if len(content_sections) <= 1:
-        print(f"  -> h2 섹션 부족 ({len(content_sections)}개), h3으로 폴백")
-        sections = parse_sections(content, header_level=3)
+    if not do_split:
+        reason = f"분할 기준 미충족 ({size // 1024}KB)"
+        create_nosplit(filepath, folder, name, size, chars, reason)
+        return {"name": name, "split": False, "size": size, "chars": chars, "sections": 0, "strategy": "-", "reason": reason}
 
-        preamble_lines = []
-        content_sections = []
-        if sections and sections[0]["header"] is None:
-            preamble_lines = sections[0]["lines"]
-            content_sections = sections[1:]
-        else:
-            content_sections = sections
-        used_level = "h3"
-
-    # 여전히 분할 불가능한 경우
-    if len(content_sections) <= 1:
-        create_index_only(name, size, chars, reason="분할 가능한 섹션 부족")
-        return {"name": name, "split": False, "size": size, "chars": chars, "sections": len(content_sections)}
-
-    # 소규모 섹션이 다수인 경우 그룹핑
-    avg_chars = chars // len(content_sections)
-    if avg_chars < TARGET_CHARS // 3 and len(content_sections) > 10:
-        print(f"  -> 소규모 섹션 {len(content_sections)}개 감지, 그룹핑 적용")
-        grouped = group_small_sections(preamble_lines, content_sections, TARGET_CHARS)
-        # 그룹핑 결과를 content_sections 형태로 변환
-        content_sections = [{"header": f"## {g['header']}", "lines": g["lines"]} for g in grouped]
-        print(f"  -> {len(content_sections)}개 그룹으로 병합")
+    print(f"  -> 전략: {strategy} | {split_reason} | {len(sections)}개 섹션")
 
     # 이미지 처리
     image_dir = folder / "image"
@@ -309,23 +340,13 @@ def process_file(filepath):
 
     # 분할 파일 생성
     split_files_info = []
-    for idx, section in enumerate(content_sections, 1):
-        header_text = section["header"] or f"Section-{idx}"
-        section_name = sanitize_filename(header_text)
-        split_filename = f"{stem}-{section_name}.md"
-
+    for idx, section in enumerate(sections, 1):
+        split_filename = make_filename(stem, section, strategy)
         section_content = "\n".join(section["lines"])
-
-        # preamble을 첫 번째 섹션에 포함
-        if idx == 1 and preamble_lines:
-            section_content = "\n".join(preamble_lines) + "\n" + section_content
-
-        # 이미지 경로 업데이트
         section_content = update_image_paths(section_content, images_map)
 
-        # frontmatter + 내용
-        header_display = re.sub(r"^#+\s*", "", header_text)
-        full_content = create_frontmatter_section(name, header_display, idx)
+        display_name = section.get("display_name", f"Section-{idx}")
+        full_content = fm_section(name, display_name, idx)
         full_content += "\n" + section_content.strip() + "\n"
 
         with open(folder / split_filename, "w", encoding="utf-8") as f:
@@ -333,18 +354,16 @@ def process_file(filepath):
 
         file_size = (folder / split_filename).stat().st_size
         split_files_info.append({
-            "order": idx,
-            "filename": split_filename,
-            "section": header_display,
-            "size": file_size,
+            "order": idx, "filename": split_filename,
+            "section": display_name, "size": file_size,
         })
 
     # 빈 이미지 폴더 삭제
     if image_dir.exists() and not any(image_dir.iterdir()):
         image_dir.rmdir()
 
-    # index 파일 생성 (divided/ 폴더에 직접)
-    index_content = create_frontmatter_index(name, size, chars, len(split_files_info))
+    # index 파일 생성
+    index_content = fm_index(name, size, chars, len(split_files_info))
     index_content += f"\n# {stem}\n\n"
     index_content += "| 순서 | 파일명 | 섹션명 | 크기 |\n"
     index_content += "|------|--------|--------|------|\n"
@@ -355,63 +374,43 @@ def process_file(filepath):
             f"| {info['section']} "
             f"| {info['size']:,} bytes |\n"
         )
-
     with open(DIVIDED_DIR / name, "w", encoding="utf-8") as f:
         f.write(index_content)
 
     return {
-        "name": name,
-        "split": True,
-        "size": size,
-        "chars": chars,
-        "sections": len(split_files_info),
+        "name": name, "split": True, "size": size, "chars": chars,
+        "sections": len(split_files_info), "strategy": strategy,
+        "reason": split_reason,
     }
 
 
 def main():
     print("=" * 60)
-    print("문서 분할 시작")
+    print("문서 분할 시작 (새 기준: 20KB/10KB/5KB)")
     print("=" * 60)
 
     DIVIDED_DIR.mkdir(exist_ok=True)
-
-    files = get_md_files()
     results = []
 
-    for filepath in files:
-        should_split, size, chars, _ = needs_split(filepath)
-        print(f"\n처리 중: {filepath.name} ({size:,} bytes / {chars:,} chars)")
-        if should_split:
-            print(f"  -> 분할 대상 (기준 초과)")
-        else:
-            print(f"  -> index만 생성 (기준 미만)")
-
+    for filepath in get_md_files():
+        size = filepath.stat().st_size
+        print(f"\n처리 중: {filepath.name} ({size:,} bytes)")
         result = process_file(filepath)
         results.append(result)
-
         if result["split"]:
-            print(f"  -> {result['sections']}개 섹션으로 분할 완료")
+            print(f"  -> {result['sections']}개 분할 완료 [{result['strategy']}]")
         else:
-            print(f"  -> index 생성 완료 (분할 없음)")
+            print(f"  -> 미분할 ({result.get('reason', '')})")
 
-    # 결과 요약
-    print("\n" + "=" * 60)
+    print(f"\n{'=' * 60}")
     print("분할 결과 요약")
     print("=" * 60)
     split_count = sum(1 for r in results if r["split"])
-    index_only = sum(1 for r in results if not r["split"])
+    nosplit_count = sum(1 for r in results if not r["split"])
     total_sections = sum(r["sections"] for r in results if r["split"])
     print(f"총 파일 수: {len(results)}")
     print(f"분할된 파일: {split_count} ({total_sections}개 섹션)")
-    print(f"index만 생성: {index_only}")
-
-    # 분할 내역 텍스트 생성
-    print("\n--- 분할 내역 (DIVIDE_RULES.md 용) ---")
-    print("| 파일명 | 크기 | 문자수 | 상태 |")
-    print("|--------|------|--------|------|")
-    for r in results:
-        status = f"분할 ({r['sections']}개)" if r["split"] else "index만"
-        print(f"| {r['name']} | {r['size']:,} bytes | {r['chars']:,} chars | {status} |")
+    print(f"미분할 파일: {nosplit_count}")
 
 
 if __name__ == "__main__":
