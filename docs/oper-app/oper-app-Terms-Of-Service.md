@@ -2,7 +2,7 @@
 source: oper-app.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Terms Of Service, (1) 생성된 약관 목록, (2) 약관의 국가 타입, (3) 약관의 대상 국가, (4) 약관의 구성"
+keyword: "Console, TermsView, Terms Of Service"
 section: "Terms Of Service"
 order: 3
 ---

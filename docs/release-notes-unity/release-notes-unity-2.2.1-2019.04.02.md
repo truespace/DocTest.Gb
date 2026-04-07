@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.2.1 (2019.04.02)"
+keyword: "Unity, v2.2.1, 버그수정"
 section: "2.2.1 (2019.04.02)"
 order: 109
 ---

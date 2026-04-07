@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.36.0 (2022. 04. 12.)"
+keyword: "Unity, v2.36.0, 버그수정, 기능추가, 변경, Purchase, Push"
 section: "2.36.0 (2022. 04. 12.)"
 order: 55
 ---

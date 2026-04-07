@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, Analytics, Real-time Monitoring, Concurrent User, Dashboard"
+keyword: "Console, Analytics, Maintenance"
 section: "Real-time Monitoring"
 order: 1
 ---

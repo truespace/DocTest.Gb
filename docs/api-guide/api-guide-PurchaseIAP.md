@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase(IAP), List Active Subscriptions, Cancel Subscriptions, Revoke Subscriptions, Get Subscriptions Status"
+keyword: "Server API, Purchase, Consume, Error, IAP, isSuccessful, isTestPurchase, additional, isConsumable, requestPurchase"
 section: Purchase(IAP)
 order: 9
 ---

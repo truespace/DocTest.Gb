@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.71.1 (2025. 4. 29.)"
+keyword: "Unreal, v2.71.1, 버그수정, 기능개선, 변경, Maintenance"
 section: "2.71.1 (2025. 4. 29.)"
 order: 11
 ---

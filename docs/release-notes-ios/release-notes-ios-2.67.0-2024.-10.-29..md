@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.67.0 (2024. 10. 29.)"
+keyword: "iOS, XCode, v2.67.0, 버그수정, 기능개선, 기능추가, 변경"
 section: "2.67.0 (2024. 10. 29.)"
 order: 14
 ---

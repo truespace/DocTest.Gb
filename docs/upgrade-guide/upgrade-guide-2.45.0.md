@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.45.0, Android, iOS, Unity"
+keyword: "Purchase, RequestItemListOfNotConsumed, RequestActivatedPurchases, requestItemListOfNotConsumedWithCompletion, requestItemListOfNotConsumedWithConfiguration, requestActivatedPurchasesWithCompletion, requestActivatedPurchasesWithConfiguration"
 section: 2.45.0
 order: 32
 ---

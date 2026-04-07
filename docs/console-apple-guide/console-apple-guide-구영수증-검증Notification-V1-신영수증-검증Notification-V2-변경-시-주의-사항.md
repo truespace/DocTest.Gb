@@ -2,7 +2,7 @@
 source: console-apple-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "(구)영수증 검증+Notification V1 → (신)영수증 검증+Notification V2 변경 시 주의 사항"
+keyword: "Console, Notification, Maintenance"
 section: "(구)영수증 검증+Notification V1 → (신)영수증 검증+Notification V2 변경 시 주의 사항"
 order: 4
 ---

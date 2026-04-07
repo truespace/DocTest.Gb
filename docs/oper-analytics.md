@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: oper-analytics
+keyword: "Console, Analytics, oper-analytics"
 source_size_bytes: 23384
 source_char_count: 14198
 split_count: 5

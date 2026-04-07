@@ -2,7 +2,7 @@
 source: unity-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Further Tasks after Sending Logs"
+keyword: "Unity, Logger, SetLoggerListener, AddClashFilter, SetLoggerListenerSample"
 section: "Further Tasks after Sending Logs"
 order: 4
 ---

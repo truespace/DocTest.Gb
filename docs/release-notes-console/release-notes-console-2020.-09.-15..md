@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 09. 15."
+keyword: "Console, 버그수정, IAP"
 section: "2020. 09. 15."
 order: 71
 ---

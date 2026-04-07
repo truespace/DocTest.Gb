@@ -2,7 +2,7 @@
 source: unity-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Country Code"
+keyword: "Unity, GetCountryCode, GetCountryCodeOfUSIM, GetCountryCodeOfDevice"
 section: "Additional Features > Country Code"
 order: 3
 ---

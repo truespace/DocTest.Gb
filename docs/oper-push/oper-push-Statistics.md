@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Statistics, 발송/수신, 토큰 등록, 수신 설정"
+keyword: "Console, Push, Statistics"
 section: Statistics
 order: 2
 ---

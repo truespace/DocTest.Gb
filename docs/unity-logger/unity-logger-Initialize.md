@@ -2,7 +2,7 @@
 source: unity-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unity SDK 사용 가이드, Logger, Initialize"
+keyword: "Unity, Logger, Initialize, InitializeSample"
 section: Initialize
 order: 1
 ---

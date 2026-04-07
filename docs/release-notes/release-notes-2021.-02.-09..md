@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 02. 09."
+keyword: "v2.20.0, 신규, 버그수정, 기능개선, 기능추가, 변경, 제거, WebView, TermsView, Contact"
 section: "2021. 02. 09."
 order: 8
 ---

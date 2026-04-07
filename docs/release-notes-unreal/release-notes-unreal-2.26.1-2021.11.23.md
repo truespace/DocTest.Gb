@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.26.1 (2021.11.23)"
+keyword: "Unreal, v2.26.1, 버그수정"
 section: "2.26.1 (2021.11.23)"
 order: 39
 ---

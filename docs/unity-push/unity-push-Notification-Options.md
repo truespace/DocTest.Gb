@@ -2,7 +2,7 @@
 source: unity-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Notification Options"
+keyword: "Unity, Push, Notification, Error, GetNotificationOptions, requestNotificationPermission, IsSuccess, GetNotificationOptionsSample"
 section: "Notification Options"
 order: 3
 ---

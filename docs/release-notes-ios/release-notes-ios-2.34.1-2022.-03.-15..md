@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.34.1 (2022. 03. 15.)"
+keyword: "iOS, Swift, v2.34.1, 기능개선, 기능추가, 변경"
 section: "2.34.1 (2022. 03. 15.)"
 order: 60
 ---

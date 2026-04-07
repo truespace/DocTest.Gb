@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 03. 09."
+keyword: "신규, Maintenance, Guest, IAP"
 section: "2017. 03. 09."
 order: 97
 ---

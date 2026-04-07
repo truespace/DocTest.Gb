@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2023. 07. 25."
+keyword: "Console, 신규, 버그수정, 기능개선, 변경, Contact"
 section: "2023. 07. 25."
 order: 13
 ---

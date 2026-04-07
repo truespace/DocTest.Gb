@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 06. 13."
+keyword: "v2.4.1, 버그수정, Analytics"
 section: "2019. 06. 13."
 order: 55
 ---

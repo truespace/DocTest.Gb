@@ -2,7 +2,7 @@
 source: console-epicgames-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, Epic Games Store 콘솔 가이드, 에픽 프로젝트 연결, 디플로이 생성, 클라이언트 생성"
+keyword: "Console, Epic Games Store 콘솔 가이드, 에픽 프로젝트 연결"
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Epic Games Store 콘솔 가이드

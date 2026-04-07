@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.24.0 (2021.06.29)"
+keyword: "Android, v2.24.0, 기능개선, 변경"
 section: "2.24.0 (2021.06.29)"
 order: 73
 ---

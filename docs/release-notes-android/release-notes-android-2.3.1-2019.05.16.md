@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.3.1 (2019.05.16)"
+keyword: "Android, v2.3.1, 버그수정"
 section: "2.3.1 (2019.05.16)"
 order: 105
 ---

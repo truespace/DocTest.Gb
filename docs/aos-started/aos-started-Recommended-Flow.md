@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Recommended Flow"
+keyword: "Android, Login, Purchase, Push, AddEventHandler, Additional"
 section: "Recommended Flow"
 order: 3
 ---

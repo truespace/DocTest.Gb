@@ -2,7 +2,7 @@
 source: ios-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, 인증, Login, Import Header File, Login Flow"
+keyword: "iOS, Login, Guest, IdP, loginWithType, additionalInfo, loginForLastLoggedInProviderWithViewController, isSuccessWithError, LoginCompletion, LoginForLastLoggedInProvider"
 section: Login
 order: 1
 ---

@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 02. 26."
+keyword: "v2.1.0, 버그수정, 기능개선, 변경, 제거"
 section: "2019. 02. 26."
 order: 62
 ---

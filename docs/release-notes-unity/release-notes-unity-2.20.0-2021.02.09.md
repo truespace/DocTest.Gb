@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.20.0 (2021.02.09)"
+keyword: "Unity, v2.20.0, 버그수정, 기능개선, 기능추가, 변경, 제거, TermsView, Contact"
 section: "2.20.0 (2021.02.09)"
 order: 74
 ---

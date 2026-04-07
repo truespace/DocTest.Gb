@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.35.0 (2022. 03. 29.)"
+keyword: "Android, v2.35.0, 버그수정, 기능개선, 기능추가, 변경, TermsView"
 section: "2.35.0 (2022. 03. 29.)"
 order: 61
 ---

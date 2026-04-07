@@ -2,7 +2,7 @@
 source: unreal-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Register Push"
+keyword: "Unreal, Push, GetSubsystem, GetGameInstance, IsSuccess"
 section: "Register Push"
 order: 2
 ---

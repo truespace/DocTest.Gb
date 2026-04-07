@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.9.1 (2020.05.12)"
+keyword: "iOS, v2.9.1, 버그수정"
 section: "2.9.1 (2020.05.12)"
 order: 99
 ---

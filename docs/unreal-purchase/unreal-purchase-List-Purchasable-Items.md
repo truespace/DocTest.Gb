@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "List Purchasable Items"
+keyword: "Unreal, Purchase, RequestItemListPurchasable, GetSubsystem, GetGameInstance, GetPurchase, IsSuccess, requestPurchase"
 section: "List Purchasable Items"
 order: 6
 ---

@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Others, OS Code, Store Code, Identity Provider Code, Member Valid Code"
+keyword: "Server API, Maintenance, Guest, Launching, isSuccessful"
 section: Others
 order: 12
 ---

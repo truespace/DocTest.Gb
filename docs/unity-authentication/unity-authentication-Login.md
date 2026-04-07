@@ -2,7 +2,7 @@
 source: unity-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unity SDK 사용 가이드, 인증, Login, Login Flow, Login as the Latest Login IdP"
+keyword: "Unity, Login, Ban, Error, IdP, LoginForLastLoggedInProvider, additionalInfo, IsSuccess, CancelLoginWithExternalBrowser, GetUserID"
 section: Login
 order: 1
 ---

@@ -2,7 +2,7 @@
 source: unity-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: Alert
+keyword: "Unity, Alert, ShowAlertD, ShowAlertDialog"
 section: Alert
 order: 6
 ---

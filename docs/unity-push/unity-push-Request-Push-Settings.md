@@ -2,7 +2,7 @@
 source: unity-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Request Push Settings"
+keyword: "Unity, Push, QueryTokenInfo, QueryTokenInfoSample, isSandbox, IsSuccess, registeredDateTime"
 section: "Request Push Settings"
 order: 4
 ---

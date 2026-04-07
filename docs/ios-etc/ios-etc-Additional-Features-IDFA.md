@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, ETC, Additional Features, IDFA"
+keyword: "iOS, Additional, iOS SDK 사용 가이드, ETC"
 section: "Additional Features > IDFA"
 order: 1
 ---

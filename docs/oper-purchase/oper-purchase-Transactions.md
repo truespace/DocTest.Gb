@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Transactions, Transaction Status Code, 결제 내역 조회"
+keyword: "Console, IAP, Transactions"
 section: Transactions
 order: 4
 ---

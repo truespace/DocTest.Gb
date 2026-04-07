@@ -2,7 +2,7 @@
 source: ios-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Event Handling"
+keyword: "iOS, Push, Additional"
 section: "Event Handling"
 order: 6
 ---

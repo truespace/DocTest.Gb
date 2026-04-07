@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.28.1 (2021.10.26)"
+keyword: "Unity, v2.28.1, 버그수정"
 section: "2.28.1 (2021.10.26)"
 order: 64
 ---

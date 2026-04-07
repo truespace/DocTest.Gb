@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.4.2 (2019.06.25)"
+keyword: "Android, v2.4.2, 버그수정, 기능개선, 기능추가, 변경, Analytics, Launching"
 section: "2.4.2 (2019.06.25)"
 order: 103
 ---

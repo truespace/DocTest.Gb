@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: ios-etc
+keyword: "iOS, Analytics, Contact, Additional"
 source_size_bytes: 35016
 source_char_count: 29186
 split_count: 7

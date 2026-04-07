@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.26.0 (2021.09.28)"
+keyword: "Unreal, v2.26.0, 기능개선, 기능추가, 변경, 제거, TermsView, Contact"
 section: "2.26.0 (2021.09.28)"
 order: 40
 ---

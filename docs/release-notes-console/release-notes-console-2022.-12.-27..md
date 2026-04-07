@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2022. 12. 27."
+keyword: "Console, 기능개선, 변경, Analytics"
 section: "2022. 12. 27."
 order: 25
 ---

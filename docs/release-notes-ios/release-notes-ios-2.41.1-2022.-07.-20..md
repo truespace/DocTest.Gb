@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.41.1 (2022. 07. 20.)"
+keyword: "iOS, v2.41.1, 기능개선, 변경, TermsView"
 section: "2.41.1 (2022. 07. 20.)"
 order: 52
 ---

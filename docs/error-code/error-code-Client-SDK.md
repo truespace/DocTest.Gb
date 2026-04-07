@@ -2,7 +2,7 @@
 source: error-code.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, 오류 코드, Client SDK"
+keyword: "Login, Logout, Mapping, Purchase, Push, WebView, TransferAccount, Maintenance, Notice, TermsView"
 section: "Client SDK"
 order: 1
 ---

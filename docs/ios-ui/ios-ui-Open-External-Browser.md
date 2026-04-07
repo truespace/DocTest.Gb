@@ -2,7 +2,7 @@
 source: ios-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Open External Browser"
+keyword: "iOS, Open External Browser"
 section: "Open External Browser"
 order: 5
 ---

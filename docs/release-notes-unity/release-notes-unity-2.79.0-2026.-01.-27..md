@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.79.0 (2026. 01. 27.)"
+keyword: "Unity, v2.79.0, 기능개선, WebView"
 section: "2.79.0 (2026. 01. 27.)"
 order: 4
 ---

@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Concurrent Group User, Group Comparison"
+keyword: "Console, Analytics, Concurrent Group User"
 section: "Concurrent Group User"
 order: 4
 ---

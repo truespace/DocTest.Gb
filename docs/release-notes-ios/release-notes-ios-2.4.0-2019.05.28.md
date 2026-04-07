@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.4.0 (2019.05.28)"
+keyword: "iOS, v2.4.0, 기능개선, 기능추가, 변경, 제거"
 section: "2.4.0 (2019.05.28)"
 order: 113
 ---

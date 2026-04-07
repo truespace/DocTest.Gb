@@ -2,7 +2,7 @@
 source: unreal-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Request Push Settings"
+keyword: "Unreal, Push, QueryTokenInfo, GetSubsystem, GetGameInstance, IsSuccess, RegisteredDateTime"
 section: "Request Push Settings"
 order: 4
 ---

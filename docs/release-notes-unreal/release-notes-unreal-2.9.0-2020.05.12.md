@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.9.0 (2020.05.12)"
+keyword: "Unreal, v2.9.0, 신규, 기능추가"
 section: "2.9.0 (2020.05.12)"
 order: 46
 ---

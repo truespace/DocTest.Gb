@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.49.0 (2023. 04. 11.)"
+keyword: "iOS, v2.49.0, 기능개선, 변경"
 section: "2.49.0 (2023. 04. 11.)"
 order: 39
 ---

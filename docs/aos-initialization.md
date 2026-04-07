@@ -2,7 +2,7 @@
 source: aos-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: aos-initialization
+keyword: "Android, aos-initialization"
 source_size_bytes: 18228
 source_char_count: 14024
 split_count: 0

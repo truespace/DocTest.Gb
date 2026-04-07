@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Device Language"
+keyword: "iOS, Device Language"
 section: "Additional Features > Device Language"
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: api-guide-v1.0.md
 split: true
 created_date_time: 20260406_141859
-keyword: Common
+keyword: "Server API, isSuccessful, Common"
 section: Common
 order: 2
 ---

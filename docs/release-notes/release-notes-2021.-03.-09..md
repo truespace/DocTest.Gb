@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 03. 09."
+keyword: "v2.20.1, 기능개선, 기능추가, 변경, TermsView, IdP"
 section: "2021. 03. 09."
 order: 5
 ---

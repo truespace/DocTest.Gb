@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2023. 05. 16."
+keyword: "Console, 기능추가, Coupon, IAP"
 section: "2023. 05. 16."
 order: 17
 ---

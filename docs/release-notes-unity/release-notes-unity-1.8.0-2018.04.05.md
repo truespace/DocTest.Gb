@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.8.0 (2018.04.05)"
+keyword: "Unity, v1.8.0, 버그수정, 기능개선, 기능추가, 변경, Maintenance"
 section: "1.8.0 (2018.04.05)"
 order: 124
 ---

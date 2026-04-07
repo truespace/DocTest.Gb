@@ -2,7 +2,7 @@
 source: console-amazon-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, Amazon Appstore 콘솔 가이드, Amazon Developer Console, 연결을 위해 필요한 설정 값들, Store App ID"
+keyword: "Console, IAP, Amazon Appstore 콘솔 가이드"
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Amazon Appstore 콘솔 가이드

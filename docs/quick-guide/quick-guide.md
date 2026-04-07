@@ -2,7 +2,7 @@
 source: quick-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "Gamebase, Quick Guide, Install: Developers, Gamebase SDK 설치 [\[바로가기\]](https://forward.nhn.com/2021/hands-on-labs/gamebase.install-with-setting-tool/), Authentication: Developers"
+keyword: "Login, Logout, Initialize, Guest, IdP"
 ---
 
 ## Game > Gamebase > Quick Guide

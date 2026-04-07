@@ -2,7 +2,7 @@
 source: aos-logger.md
 split: false
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, Logger, Initialize, Send Logs, Set User-Defined Fields"
+keyword: "Android, Logger, Initialize, setUserField, setLoggerListener"
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > Logger

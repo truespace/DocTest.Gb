@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 결제, IAP 메뉴 이용에 앞서"
+keyword: "Console, Purchase, Analytics, IAP"
 section: "IAP 메뉴 이용에 앞서"
 order: 1
 ---

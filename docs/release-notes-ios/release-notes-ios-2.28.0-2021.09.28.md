@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.28.0 (2021.09.28)"
+keyword: "iOS, v2.28.0, 기능개선, 기능추가, 변경, GraceBan"
 section: "2.28.0 (2021.09.28)"
 order: 69
 ---

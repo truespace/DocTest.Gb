@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Game notice, Register Game notice, Modify Game notice, Modify Game notice Setting"
+keyword: "Console, Notice, Game notice"
 section: "Game notice"
 order: 3
 ---

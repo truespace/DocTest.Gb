@@ -2,7 +2,7 @@
 source: oper-member.md
 split: false
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 회원, Search Member, Detail Information, Login History"
+keyword: "Console, Login, Mapping, Withdraw, Purchase, Coupon, Ban, Guest, IdP"
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 회원

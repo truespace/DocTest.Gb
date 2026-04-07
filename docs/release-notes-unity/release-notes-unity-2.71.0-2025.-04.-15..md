@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.71.0 (2025. 04. 15.)"
+keyword: "Unity, v2.71.0, 신규, 버그수정, 기능개선, 기능추가, 변경, Notice"
 section: "2.71.0 (2025. 04. 15.)"
 order: 15
 ---

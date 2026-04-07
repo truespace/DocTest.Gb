@@ -2,7 +2,7 @@
 source: ios-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: ios-initialization
+keyword: "iOS, ios-initialization"
 source_size_bytes: 17824
 source_char_count: 13468
 split_count: 0

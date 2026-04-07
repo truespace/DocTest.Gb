@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.42.1 (2022. 08. 09.)"
+keyword: "Unity, v2.42.1, 기능개선, 기능추가, 변경"
 section: "2.42.1 (2022. 08. 09.)"
 order: 49
 ---

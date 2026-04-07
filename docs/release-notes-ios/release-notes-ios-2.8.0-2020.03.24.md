@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.8.0 (2020.03.24)"
+keyword: "iOS, v2.8.0, 기능개선, 기능추가, 변경"
 section: "2.8.0 (2020.03.24)"
 order: 102
 ---

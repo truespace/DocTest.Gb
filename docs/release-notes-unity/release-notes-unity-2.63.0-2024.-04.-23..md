@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.63.0 (2024. 04. 23.)"
+keyword: "Unity, v2.63.0, 신규, 기능추가, 변경, WebView"
 section: "2.63.0 (2024. 04. 23.)"
 order: 30
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.19.0 (2021.01.26)"
+keyword: "Unreal, v2.19.0, 기능추가"
 section: "2.19.0 (2021.01.26)"
 order: 43
 ---

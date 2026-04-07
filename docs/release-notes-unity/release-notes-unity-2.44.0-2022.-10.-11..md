@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.44.0 (2022. 10. 11.)"
+keyword: "Unity, v2.44.0, 기능개선, 변경"
 section: "2.44.0 (2022. 10. 11.)"
 order: 47
 ---

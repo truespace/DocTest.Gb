@@ -2,7 +2,7 @@
 source: oper-app.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Analytics indicator, 유저 레벨(INT)별, 월드/서버/채널별, 클래스/직업별 조회, 월드/서버/채널별, 클래스/직업별 등록"
+keyword: "Console, Analytics, Analytics indicator"
 section: "Analytics indicator"
 order: 7
 ---

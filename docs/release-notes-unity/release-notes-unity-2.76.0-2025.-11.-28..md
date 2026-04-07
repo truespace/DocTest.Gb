@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.76.0 (2025. 11. 28.)"
+keyword: "Unity, v2.76.0, 기능추가, Launching"
 section: "2.76.0 (2025. 11. 28.)"
 order: 6
 ---

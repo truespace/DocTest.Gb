@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.68.1 (2024. 12. 10.)"
+keyword: "Unity, v2.68.1, 기능개선, 변경"
 section: "2.68.1 (2024. 12. 10.)"
 order: 19
 ---

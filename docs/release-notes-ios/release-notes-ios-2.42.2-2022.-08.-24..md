@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.42.2 (2022. 08. 24.)"
+keyword: "iOS, v2.42.2, 기능개선, 변경"
 section: "2.42.2 (2022. 08. 24.)"
 order: 49
 ---

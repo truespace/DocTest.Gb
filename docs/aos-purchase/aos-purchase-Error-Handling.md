@@ -2,7 +2,7 @@
 source: aos-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Error Handling"
+keyword: "Android, Purchase, Error, IAP, requestPurchase, isSuccess, getMessage, getDetailCode, getDetailMessage"
 section: "Error Handling"
 order: 11
 ---

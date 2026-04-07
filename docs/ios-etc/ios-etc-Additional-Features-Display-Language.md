@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Display Language"
+keyword: "iOS, XCode, Maintenance, setDisplayLanguageCode, initializeWithConfiguration, InitializeCompletion, initializeWithDisplayLanguageConfiguration, isSuccessWithError, getDisplayLanguageCode"
 section: "Additional Features > Display Language"
 order: 3
 ---

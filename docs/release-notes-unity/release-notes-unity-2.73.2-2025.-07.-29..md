@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.73.2 (2025. 07. 29.)"
+keyword: "Unity, v2.73.2, 기능개선, 기능추가"
 section: "2.73.2 (2025. 07. 29.)"
 order: 10
 ---

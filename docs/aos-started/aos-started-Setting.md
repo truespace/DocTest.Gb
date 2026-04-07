@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Setting, Console, Register as Tester, Gradle, Resources"
+keyword: "Android, Gradle, Login, Purchase, Push, Notification, Contact, IdP, IAP, Additional"
 section: Setting
 order: 2
 ---

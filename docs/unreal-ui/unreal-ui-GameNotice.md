@@ -2,7 +2,7 @@
 source: unreal-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unreal SDK 사용 가이드, UI, GameNotice, Open GameNotice"
+keyword: "Unreal, Notice, ImageNotice, Error, GetSubsystem, GetGameInstance, GetGameNotice"
 section: GameNotice
 order: 1
 ---

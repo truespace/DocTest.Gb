@@ -2,7 +2,7 @@
 source: unity-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Terms, ShowTermsView, QueryTerms, UpdateTerms, IsShowingTermsView"
+keyword: "Unity, Login, Push, TermsView, Error, ShowTermsView, ShowTermsViewResult, isTermsUIOpened, IsSuccess, UpdateTermsConfiguration"
 section: Terms
 order: 3
 ---

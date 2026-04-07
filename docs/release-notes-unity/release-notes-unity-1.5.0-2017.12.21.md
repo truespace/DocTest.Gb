@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.5.0 (2017.12.21)"
+keyword: "Unity, v1.5.0, 신규, 버그수정, 기능추가, Login"
 section: "1.5.0 (2017.12.21)"
 order: 128
 ---

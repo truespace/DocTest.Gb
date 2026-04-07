@@ -2,7 +2,7 @@
 source: ios-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Mapping, Add Mapping Flow, Import Header file into ViewController, Add Mapping API, AddMapping with Credential"
+keyword: "iOS, Login, Logout, Mapping, Guest, IdP, AddMapping, addMappingWithType, isSuccessWithError, LoginCompletion"
 section: Mapping
 order: 4
 ---

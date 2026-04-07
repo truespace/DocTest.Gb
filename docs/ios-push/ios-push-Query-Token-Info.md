@@ -2,7 +2,7 @@
 source: ios-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Query Token Info"
+keyword: "iOS, Push, queryTokenInfoWithCompletion, isSuccessWithError, registeredDateTime"
 section: "Query Token Info"
 order: 5
 ---

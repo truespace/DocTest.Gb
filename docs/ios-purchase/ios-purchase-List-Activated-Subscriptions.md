@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "List Activated Subscriptions"
+keyword: "iOS, requestActivatedPurchasesWithConfiguration, List Activated Subscriptions"
 section: "List Activated Subscriptions"
 order: 8
 ---

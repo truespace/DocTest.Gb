@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Advance Notice"
+keyword: "Server API, Analytics, Notice, Contact"
 section: "Advance Notice"
 order: 2
 ---

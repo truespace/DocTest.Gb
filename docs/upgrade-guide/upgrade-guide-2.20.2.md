@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.20.2, iOS"
+keyword: "IdP, 2.20.2, iOS"
 section: 2.20.2
 order: 49
 ---

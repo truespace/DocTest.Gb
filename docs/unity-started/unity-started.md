@@ -2,7 +2,7 @@
 source: unity-started.md
 split: false
 created_date_time: 20260406_141859
-keyword: "Unity SDK 사용 가이드, 시작하기, Environments, Gamebase SDK SettingTool, SettingTool 스펙"
+keyword: "Unity, Gradle, CocoaPods, XCode, Notice, settingtool, setupwizard, SettingToolWindow, ShowWindow, SetDebugMode"
 ---
 
 ## Game > Gamebase > Unity SDK 사용 가이드 > 시작하기

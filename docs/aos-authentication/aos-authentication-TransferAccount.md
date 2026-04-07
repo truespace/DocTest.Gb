@@ -2,7 +2,7 @@
 source: aos-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "TransferAccount, Issue TransferAccount, Query TransferAccount, Renew TransferAccount, Transfer Guest Account to Another Device"
+keyword: "Android, Login, TransferAccount, Guest, IdP, TransferAccountInfo, TransferAccountRenewConfiguration, isSuccess, TransferAccountFailInfo, issueTransferAccount"
 section: TransferAccount
 order: 6
 ---

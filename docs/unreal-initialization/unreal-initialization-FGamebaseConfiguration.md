@@ -2,7 +2,7 @@
 source: unreal-initialization.md
 split: true
 created_date_time: 20260406_141859
-keyword: FGamebaseConfiguration
+keyword: "Unreal, Purchase, Maintenance, Ban, IAP, Launching"
 section: FGamebaseConfiguration
 order: 2
 ---

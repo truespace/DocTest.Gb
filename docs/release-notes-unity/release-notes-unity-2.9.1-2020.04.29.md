@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.9.1 (2020.04.29)"
+keyword: "Unity, v2.9.1, 버그수정, Initialize"
 section: "2.9.1 (2020.04.29)"
 order: 88
 ---

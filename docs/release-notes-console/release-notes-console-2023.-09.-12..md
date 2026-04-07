@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2023. 09. 12."
+keyword: "Console, 버그수정, Contact, IAP"
 section: "2023. 09. 12."
 order: 12
 ---

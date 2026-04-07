@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 04. 09."
+keyword: "v1.8.1, 버그수정, Purchase, Push, WebView, Launching"
 section: "2018. 04. 09."
 order: 81
 ---

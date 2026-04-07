@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Event Key, Event Key register, Event Key detail"
+keyword: "Console, Push, Event Key"
 section: "Event Key"
 order: 3
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.30.0 (2021.11.23)"
+keyword: "Unity, v2.30.0, 신규, 기능추가, 변경, Login, Mapping, IdP"
 section: "2.30.0 (2021.11.23)"
 order: 62
 ---

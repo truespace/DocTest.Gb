@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Authentication, Authentication register"
+keyword: "Console, Push, Authentication"
 section: Authentication
 order: 4
 ---

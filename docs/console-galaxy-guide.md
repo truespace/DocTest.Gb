@@ -2,7 +2,7 @@
 source: console-galaxy-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: console-galaxy-guide
+keyword: "Console, console-galaxy-guide"
 source_size_bytes: 879
 source_char_count: 717
 split_count: 0

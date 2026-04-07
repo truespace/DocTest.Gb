@@ -40,7 +40,13 @@
     - source : 원본 파일명
     - split: 분할여부(분할:true, 미분할:false)
     - created_date_time: {YYYYMMDD_HHMMSS}
-    - keyword: 문서의 주요 키워드
+    - keyword: 문서의 내용을 기반으로 다음 카테고리에서 해당하는 항목을 한 단어 단위로 추출하여 설정한다. 모든 문서에 공통되는 내용(가이드, SDK 사용 가이드 등)은 제외한다.
+        - **플랫폼/OS**: Android, iOS, Unity, Unreal, Console 등
+        - **개발환경**: Gradle, CocoaPods, XCode, Java, Kotlin, Swift, C++, C# 등
+        - **Gamebase 기능**: Login, Logout, Mapping, Withdraw, Purchase, Consume, Push, WebView, Alert, Analytics, Logger, Initialize 등
+        - **세부 API명**: LoginForLastLoggedInProvider, RequestPurchase, ShowTermsView 등
+        - **릴리스 노트**: 버전(v2.6.0 등), 변경유형(신규, 버그수정, 기능개선 등)
+        - keyword는 쉼표(`,`)로 구분하며, 문서 1개당 최소 3개 ~ 최대 10개로 설정한다.
 6. 분할된 파일에 포함된 링크는 GitHub markdown 파일 preview에서 동작하도록 다음 규칙에 따라 경로를 재조정해야 한다.
     - **타 문서 링크**: 원본 파일 기준 상대경로(`./파일명#anchor`)를 분할 파일 위치 기준으로 변환한다.
         - 변환 규칙: `./파일명#anchor` → `../../파일명.md#anchor`

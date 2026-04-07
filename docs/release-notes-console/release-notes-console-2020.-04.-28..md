@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 04. 28."
+keyword: "Console, 기능개선, 기능추가, 변경, Maintenance, Notice"
 section: "2020. 04. 28."
 order: 81
 ---

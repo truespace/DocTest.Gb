@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.69.0 (2025. 1. 21.)"
+keyword: "Unity, v2.69.0, 기능개선, 기능추가, 변경, WebView, ImageNotice"
 section: "2.69.0 (2025. 1. 21.)"
 order: 18
 ---

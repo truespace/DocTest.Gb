@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 02. 25."
+keyword: "v2.7.1, 버그수정, 기능개선, 기능추가, 변경, 제거, Login, Analytics, Coupon, IAP"
 section: "2020. 02. 25."
 order: 34
 ---

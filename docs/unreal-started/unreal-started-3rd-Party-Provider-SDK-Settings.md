@@ -2,7 +2,7 @@
 source: unreal-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "3rd-Party Provider SDK Settings, Epic Games"
+keyword: "Unreal, Login, SetEosPlatformHandle, GetSubsystem, SetPlatformHandle"
 section: "3rd-Party Provider SDK Settings"
 order: 3
 ---

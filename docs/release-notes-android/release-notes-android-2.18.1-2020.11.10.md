@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.18.1 (2020.11.10)"
+keyword: "Android, v2.18.1, 버그수정, 기능개선, 기능추가, 변경, WebView"
 section: "2.18.1 (2020.11.10)"
 order: 83
 ---

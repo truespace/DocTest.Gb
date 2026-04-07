@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.1.5 (2017.07.20)"
+keyword: "iOS, v1.1.5, 기능개선, 기능추가, 변경, IAP"
 section: "1.1.5 (2017.07.20)"
 order: 137
 ---

@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.14.2 (2018.11.15)"
+keyword: "Android, v1.14.2, 버그수정, 기능개선, 변경, Maintenance"
 section: "1.14.2 (2018.11.15)"
 order: 112
 ---

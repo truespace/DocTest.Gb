@@ -2,7 +2,7 @@
 source: console-apple-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "(구)영수증 검증+Notification V1 (Deprecated 예정), 공유 암호 생성, 스토어 정보 등록에 Shared Secret 입력, Notification V1 URL 등록"
+keyword: "Console, Purchase, Subscription, Notification, IAP"
 section: "(구)영수증 검증+Notification V1 (Deprecated 예정)"
 order: 3
 ---

@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 06. 11."
+keyword: "v1.10.1, 버그수정, 2018. 06. 11."
 section: "2018. 06. 11."
 order: 75
 ---

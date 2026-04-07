@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.4.4 (2019.07.23)"
+keyword: "Android, v2.4.4, 기능개선, 변경"
 section: "2.4.4 (2019.07.23)"
 order: 102
 ---

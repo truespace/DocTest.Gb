@@ -2,7 +2,7 @@
 source: unity-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Mapping, Add Mapping Flow, Add Mapping, AddMapping with Credential, Add Mapping Forcibly"
+keyword: "Unity, Login, Mapping, Withdraw, Guest, IdP, AddMapping, RemoveMapping, IsSuccess, AddMappingForcibly"
 section: Mapping
 order: 4
 ---

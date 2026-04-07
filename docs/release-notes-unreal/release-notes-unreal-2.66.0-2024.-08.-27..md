@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.66.0 (2024. 08. 27.)"
+keyword: "Unreal, v2.66.0, 기능개선, 변경, 제거"
 section: "2.66.0 (2024. 08. 27.)"
 order: 22
 ---

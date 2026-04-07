@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.67.2 (2024. 11. 26.)"
+keyword: "Unreal, v2.67.2, 버그수정, 기능개선, 변경"
 section: "2.67.2 (2024. 11. 26.)"
 order: 18
 ---

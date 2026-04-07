@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.70.1 (2025. 03. 13.)"
+keyword: "Android, Kotlin, v2.70.1, 버그수정, IdP"
 section: "2.70.1 (2025. 03. 13.)"
 order: 14
 ---

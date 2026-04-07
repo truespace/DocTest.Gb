@@ -2,7 +2,7 @@
 source: unity-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: "Unity SDK 사용 가이드, 초기화, GamebaseConfiguration, Debug Mode, Initialize"
+keyword: "Unity, Purchase, Push, Initialize, Maintenance, Notice, Ban, Error, IAP, Launching"
 ---
 
 ## Game > Gamebase > Unity SDK 사용 가이드 > 초기화

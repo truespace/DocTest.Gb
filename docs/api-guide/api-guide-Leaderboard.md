@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: Leaderboard
+keyword: "Server API, Leaderboard"
 section: Leaderboard
 order: 10
 ---

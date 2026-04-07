@@ -2,7 +2,7 @@
 source: Overview.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Console Role, Manage Role, Gamebase에서 제공하는 권한 목록"
+keyword: "Overview, Coupon, Contact, IAP"
 section: "Console Role"
 order: 7
 ---

@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.21.0, Android, iOS"
+keyword: "Gradle, IdP, 2.21.0"
 section: 2.21.0
 order: 48
 ---

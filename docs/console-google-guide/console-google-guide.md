@@ -2,7 +2,7 @@
 source: console-google-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, Google 콘솔 가이드, Google 사이트, 기본 정보 입력, 1. Store App ID"
+keyword: "Console, Purchase, Subscription, Notice, IAP"
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Google 콘솔 가이드

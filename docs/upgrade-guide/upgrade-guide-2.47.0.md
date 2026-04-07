@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.47.0, Android"
+keyword: "Purchase, 2.47.0, Android"
 section: 2.47.0
 order: 31
 ---

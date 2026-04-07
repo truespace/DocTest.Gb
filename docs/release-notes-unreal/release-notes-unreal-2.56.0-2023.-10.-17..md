@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.56.0 (2023. 10. 17.)"
+keyword: "Unreal, v2.56.0, 신규, 버그수정, 기능개선, 기능추가, 변경, Login, Push, IdP"
 section: "2.56.0 (2023. 10. 17.)"
 order: 29
 ---

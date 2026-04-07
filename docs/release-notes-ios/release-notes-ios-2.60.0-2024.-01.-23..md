@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.60.0 (2024. 01. 23.)"
+keyword: "iOS, v2.60.0, 기능개선, 변경"
 section: "2.60.0 (2024. 01. 23.)"
 order: 26
 ---

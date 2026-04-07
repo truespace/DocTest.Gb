@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.64.0 (2024. 05. 28.)"
+keyword: "Unity, v2.64.0, 기능추가, 변경"
 section: "2.64.0 (2024. 05. 28.)"
 order: 29
 ---

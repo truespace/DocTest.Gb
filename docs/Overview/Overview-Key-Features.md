@@ -2,7 +2,7 @@
 source: Overview.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Key Features, Gamebase Analytics, Authentication, Payment, Launching"
+keyword: "Overview, Mapping, Purchase, Push, Notification, Analytics, Maintenance, Notice, IdP, Launching"
 section: "Key Features"
 order: 2
 ---

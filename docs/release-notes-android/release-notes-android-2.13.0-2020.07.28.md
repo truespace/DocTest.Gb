@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.13.0 (2020.07.28)"
+keyword: "Android, v2.13.0, 버그수정, 기능개선, 변경"
 section: "2.13.0 (2020.07.28)"
 order: 87
 ---

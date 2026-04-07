@@ -2,7 +2,7 @@
 source: aos-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Flow"
+keyword: "Android, Purchase, Consume, requestItemListOfNotConsumed, requestPurchase"
 section: "Purchase Flow"
 order: 2
 ---

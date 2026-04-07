@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 12. 21."
+keyword: "v1.5.0, 신규, 버그수정, 기능개선, 기능추가, 변경, Login, Push, Maintenance"
 section: "2017. 12. 21."
 order: 86
 ---

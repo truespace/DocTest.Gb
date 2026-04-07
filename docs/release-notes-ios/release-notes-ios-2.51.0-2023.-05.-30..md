@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.51.0 (2023. 05. 30.)"
+keyword: "iOS, v2.51.0, 기능개선, 변경"
 section: "2.51.0 (2023. 05. 30.)"
 order: 36
 ---

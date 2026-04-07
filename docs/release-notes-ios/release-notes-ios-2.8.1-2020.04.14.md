@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.8.1 (2020.04.14)"
+keyword: "iOS, v2.8.1, 기능개선, 기능추가, 변경, Analytics"
 section: "2.8.1 (2020.04.14)"
 order: 101
 ---

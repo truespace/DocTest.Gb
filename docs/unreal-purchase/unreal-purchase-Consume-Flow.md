@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Consume Flow"
+keyword: "Unreal, Purchase, Consume, IAP"
 section: "Consume Flow"
 order: 3
 ---

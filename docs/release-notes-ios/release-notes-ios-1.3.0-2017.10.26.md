@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.3.0 (2017.10.26)"
+keyword: "iOS, v1.3.0, 기능추가"
 section: "1.3.0 (2017.10.26)"
 order: 135
 ---

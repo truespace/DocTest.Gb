@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 01. 25."
+keyword: "v1.6.0, 버그수정, 기능개선, 기능추가, 변경, Push, WebView, Maintenance"
 section: "2018. 01. 25."
 order: 85
 ---

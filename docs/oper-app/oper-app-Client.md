@@ -2,7 +2,7 @@
 source: oper-app.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Client, Client List, Properties"
+keyword: "Console, Maintenance, Client"
 section: Client
 order: 2
 ---

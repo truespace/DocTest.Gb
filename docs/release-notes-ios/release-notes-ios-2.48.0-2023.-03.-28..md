@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.48.0 (2023. 03. 28.)"
+keyword: "iOS, XCode, v2.48.0, 버그수정, 기능개선, 변경"
 section: "2.48.0 (2023. 03. 28.)"
 order: 40
 ---

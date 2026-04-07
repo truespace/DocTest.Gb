@@ -2,7 +2,7 @@
 source: aos-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, 결제, Initialization"
+keyword: "Android, Initialize, Android SDK 사용 가이드, 결제"
 section: Initialization
 order: 1
 ---

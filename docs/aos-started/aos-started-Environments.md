@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, 시작하기, Environments, Dependencies"
+keyword: "Android, Gradle, Login, Purchase, Push, Notification, Analytics, Logger, IAP"
 section: Environments
 order: 1
 ---

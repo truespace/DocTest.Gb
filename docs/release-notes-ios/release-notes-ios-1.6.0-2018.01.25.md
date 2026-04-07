@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.6.0 (2018.01.25)"
+keyword: "iOS, v1.6.0, 버그수정"
 section: "1.6.0 (2018.01.25)"
 order: 132
 ---

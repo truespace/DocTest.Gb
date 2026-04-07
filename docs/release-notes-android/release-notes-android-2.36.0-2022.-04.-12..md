@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.36.0 (2022. 04. 12.)"
+keyword: "Android, v2.36.0, 기능개선, 변경, IAP"
 section: "2.36.0 (2022. 04. 12.)"
 order: 60
 ---

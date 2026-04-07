@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 12. 28."
+keyword: "Console, 신규, 버그수정, Analytics"
 section: "2021. 12. 28."
 order: 41
 ---

@@ -2,7 +2,7 @@
 source: aos-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "TemporaryWithdrawal, Request TemporaryWithdrawal, Check TemporaryWithdrawal User, Cancel TemporaryWithdrawal, Withdraw Immediately"
+keyword: "Android, Login, Withdraw, TemporaryWithdrawal, Error, getTemporaryWithdrawalInfo, isSuccess, requestWithdrawal, cancelWithdrawal, withdrawImmediately"
 section: TemporaryWithdrawal
 order: 7
 ---

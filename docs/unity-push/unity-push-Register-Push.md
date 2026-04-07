@@ -2,7 +2,7 @@
 source: unity-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Register Push"
+keyword: "Unity, Push, requestNotificationPermission, IsSuccess"
 section: "Register Push"
 order: 2
 ---

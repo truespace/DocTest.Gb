@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.23.0 (2021.06.14)"
+keyword: "Android, v2.23.0, 버그수정"
 section: "2.23.0 (2021.06.14)"
 order: 74
 ---

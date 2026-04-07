@@ -2,7 +2,7 @@
 source: unity-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Send Logs"
+keyword: "Unity, Logger, Send Logs"
 section: "Send Logs"
 order: 2
 ---

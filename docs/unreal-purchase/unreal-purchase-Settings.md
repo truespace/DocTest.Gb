@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unreal SDK 사용 가이드, 결제, Settings"
+keyword: "Unreal, Purchase, Unreal SDK 사용 가이드, 결제"
 section: Settings
 order: 1
 ---

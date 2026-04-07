@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Transmission, Concurrent Status, Status By Level, Status By Channel, Status By Class"
+keyword: "Console, Analytics, Transmission"
 section: Transmission
 order: 5
 ---

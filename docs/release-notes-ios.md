@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: release-notes-ios
+keyword: "iOS, v2.80.0, release-notes-ios"
 source_size_bytes: 66748
 source_char_count: 48254
 split_count: 141

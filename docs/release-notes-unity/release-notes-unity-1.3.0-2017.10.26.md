@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.3.0 (2017.10.26)"
+keyword: "Unity, v1.3.0, 기능개선, 기능추가, 변경, Login"
 section: "1.3.0 (2017.10.26)"
 order: 130
 ---

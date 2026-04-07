@@ -2,7 +2,7 @@
 source: unity-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase User's Information, Get Authentication Information for Gamebase, Get Authentication Information for External IdP, Get Banned User Information"
+keyword: "Unity, Login, IdP, GetLastLoggedInProvider, GetUserID, GetAccessToken, RequestLastLoggedInProvider, LoginForLastLoggedInProvider, IsSuccess"
 section: "Gamebase User's Information"
 order: 5
 ---

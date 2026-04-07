@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.17.1 (2020.10.27)"
+keyword: "Unity, v2.17.1, 버그수정, 기능개선, 기능추가, 변경, Push, Notice"
 section: "2.17.1 (2020.10.27)"
 order: 78
 ---

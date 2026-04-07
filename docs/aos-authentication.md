@@ -2,7 +2,7 @@
 source: aos-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: aos-authentication
+keyword: "Android, Login, Logout, Mapping, Withdraw, GraceBan, TransferAccount, TemporaryWithdrawal, Error"
 source_size_bytes: 69946
 source_char_count: 55958
 split_count: 9

@@ -2,7 +2,7 @@
 source: unity-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Age Signals Support"
+keyword: "Unity, Error, GetAgeSignal, IsSuccess"
 section: "Additional Features > Age Signals Support"
 order: 9
 ---

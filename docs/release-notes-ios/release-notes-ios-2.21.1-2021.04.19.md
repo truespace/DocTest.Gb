@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.21.1 (2021.04.19)"
+keyword: "iOS, v2.21.1, 버그수정"
 section: "2.21.1 (2021.04.19)"
 order: 78
 ---

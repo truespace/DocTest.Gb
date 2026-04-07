@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 08. 27."
+keyword: "v2.5.0, 버그수정, 기능개선, 기능추가, 변경, Analytics"
 section: "2019. 08. 27."
 order: 48
 ---

@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 01. 26."
+keyword: "v2.19.0, 기능개선, 기능추가, 변경, 제거, Notice, Contact, IAP"
 section: "2021. 01. 26."
 order: 9
 ---

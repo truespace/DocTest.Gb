@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.6.1 (2019.12.10)"
+keyword: "iOS, v2.6.1, 버그수정"
 section: "2.6.1 (2019.12.10)"
 order: 105
 ---

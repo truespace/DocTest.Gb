@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.10.1 (2020.06.09)"
+keyword: "Unity, v2.10.1, 버그수정, 기능개선, 변경"
 section: "2.10.1 (2020.06.09)"
 order: 86
 ---

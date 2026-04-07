@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Event by Purchase"
+keyword: "iOS, Purchase, Event by Purchase"
 section: "Event by Purchase"
 order: 10
 ---

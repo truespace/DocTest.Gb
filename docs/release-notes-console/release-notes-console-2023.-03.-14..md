@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2023. 03. 14."
+keyword: "Console, 기능개선, 변경, IAP"
 section: "2023. 03. 14."
 order: 21
 ---

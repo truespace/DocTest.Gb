@@ -2,7 +2,7 @@
 source: unreal-initialization.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Launching Information"
+keyword: "Unreal, Purchase, Push, Initialize, Maintenance, Notice, TermsView, IAP, Launching"
 section: "Launching Information"
 order: 5
 ---

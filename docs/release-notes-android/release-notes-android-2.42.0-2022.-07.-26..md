@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.42.0 (2022. 07. 26.)"
+keyword: "Android, v2.42.0, 버그수정, 기능개선, 변경"
 section: "2.42.0 (2022. 07. 26.)"
 order: 52
 ---

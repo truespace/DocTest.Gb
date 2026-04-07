@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 03. 21."
+keyword: "v1.1.0, 기능개선, 기능추가, 변경, WebView, IAP"
 section: "2017. 03. 21."
 order: 96
 ---

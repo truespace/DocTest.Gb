@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: Contact
+keyword: "iOS, Login, WebView, Contact, Error, isSuccessWithError, requestContactURLWithCompletion, additionalURL, additionalParameters, requestContactURLWithConfiguration"
 section: "Additional Features > Contact"
 order: 7
 ---

@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: aos-started
+keyword: "Android, aos-started"
 source_size_bytes: 33449
 source_char_count: 28321
 split_count: 6

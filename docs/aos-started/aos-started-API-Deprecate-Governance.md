@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "API Deprecate Governance"
+keyword: "Android, Notice, API Deprecate Governance"
 section: "API Deprecate Governance"
 order: 6
 ---

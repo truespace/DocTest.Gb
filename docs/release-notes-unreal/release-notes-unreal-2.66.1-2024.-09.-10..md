@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.66.1 (2024. 09. 10.)"
+keyword: "Unreal, v2.66.1, 기능개선, 변경"
 section: "2.66.1 (2024. 09. 10.)"
 order: 21
 ---

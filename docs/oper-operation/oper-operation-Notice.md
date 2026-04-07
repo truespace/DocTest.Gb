@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Notice, Register Notice, Modify Notice"
+keyword: "Console, Notice"
 section: Notice
 order: 2
 ---

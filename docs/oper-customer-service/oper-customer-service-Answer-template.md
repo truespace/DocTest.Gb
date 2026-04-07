@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Answer template, Search Template, Register or Update Template"
+keyword: "Console, Contact, Answer template"
 section: "Answer template"
 order: 5
 ---

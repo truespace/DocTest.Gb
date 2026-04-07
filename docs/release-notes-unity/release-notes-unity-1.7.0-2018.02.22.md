@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.7.0 (2018.02.22)"
+keyword: "Unity, v1.7.0, 기능추가, IdP"
 section: "1.7.0 (2018.02.22)"
 order: 126
 ---

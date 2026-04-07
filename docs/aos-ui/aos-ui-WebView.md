@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "WebView, Show WebView, Close WebView"
+keyword: "Android, WebView, showWebView, setTitleText, setScreenOrientation, setNavigationBarColor, setNavigationBarTitleColor, setNavigationBarIconTintColor, setNavigationBarHeight, setBackButtonVisible"
 section: WebView
 order: 4
 ---

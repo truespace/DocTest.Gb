@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.49.0, Unreal, Android"
+keyword: "RequestItemListOfNotConsumed, RequestActivatedPurchases, 2.49.0"
 section: 2.49.0
 order: 30
 ---

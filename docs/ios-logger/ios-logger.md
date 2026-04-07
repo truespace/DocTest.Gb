@@ -2,7 +2,7 @@
 source: ios-logger.md
 split: false
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, Logger, Initialize, Send Logs, Set User-Defined Fields"
+keyword: "iOS, Logger, Initialize, initializeWithConfiguration, setUserFieldWithValue, setDelegate, initializeSample, setUserFieldSample, setLoggerDelegate"
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > Logger

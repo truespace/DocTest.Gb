@@ -2,7 +2,7 @@
 source: aos-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, ETC, Additional Features, Device Language"
+keyword: "Android, Additional, getDeviceLanguageCode"
 section: "Additional Features > Device Language"
 order: 1
 ---

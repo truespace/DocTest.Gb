@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.52.0 (2023. 06. 27.)"
+keyword: "Unity, v2.52.0, 기능개선, 기능추가, 변경, Push"
 section: "2.52.0 (2023. 06. 27.)"
 order: 39
 ---

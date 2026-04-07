@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Alert, Simple Alert Dialog, Alert Dialog with Listener"
+keyword: "Android, Alert, showAlertDialog"
 section: Alert
 order: 6
 ---

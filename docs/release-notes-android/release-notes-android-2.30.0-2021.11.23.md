@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.30.0 (2021.11.23)"
+keyword: "Android, v2.30.0, 신규, 기능개선, 기능추가, 변경, Login, Mapping, Maintenance, IdP"
 section: "2.30.0 (2021.11.23)"
 order: 66
 ---

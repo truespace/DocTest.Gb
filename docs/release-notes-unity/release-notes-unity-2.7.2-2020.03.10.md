@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.7.2 (2020.03.10)"
+keyword: "Unity, v2.7.2, 기능개선, 기능추가, 변경, 제거, Initialize"
 section: "2.7.2 (2020.03.10)"
 order: 92
 ---

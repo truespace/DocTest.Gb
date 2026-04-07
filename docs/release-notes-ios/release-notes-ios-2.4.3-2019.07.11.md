@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.4.3 (2019.07.11)"
+keyword: "iOS, v2.4.3, 버그수정"
 section: "2.4.3 (2019.07.11)"
 order: 110
 ---

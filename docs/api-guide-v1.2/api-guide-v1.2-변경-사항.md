@@ -2,7 +2,7 @@
 source: api-guide-v1.2.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, API v1.2 가이드, 변경 사항"
+keyword: "Server API, Purchase, TransferAccount, Maintenance, Coupon, IAP, Launching"
 section: "변경 사항"
 order: 1
 ---

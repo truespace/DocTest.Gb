@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Country Code"
+keyword: "iOS, Country Code"
 section: "Additional Features > Country Code"
 order: 4
 ---

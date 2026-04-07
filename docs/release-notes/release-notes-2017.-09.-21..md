@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 09. 21."
+keyword: "v1.2.0, 기능개선, 기능추가, 변경, Ban, Contact"
 section: "2017. 09. 21."
 order: 90
 ---

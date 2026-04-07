@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.17.0, Android"
+keyword: "ImageNotice, showImageNotices, 2.17.0"
 section: 2.17.0
 order: 53
 ---

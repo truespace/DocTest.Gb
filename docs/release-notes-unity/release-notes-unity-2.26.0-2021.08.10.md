@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.26.0 (2021.08.10)"
+keyword: "Unity, v2.26.0, 버그수정, 기능개선, 변경, Push, TermsView"
 section: "2.26.0 (2021.08.10)"
 order: 68
 ---

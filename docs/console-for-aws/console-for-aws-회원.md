@@ -2,7 +2,7 @@
 source: console-for-aws.md
 split: true
 created_date_time: 20260406_141859
-keyword: "회원, 프로젝트에 일반 회원 추가하기, 그룹 권한 관리"
+keyword: "Console, Analytics, Contact"
 section: 회원
 order: 3
 ---

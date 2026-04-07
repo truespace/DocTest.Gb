@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.57.0 (2023. 11. 14.)"
+keyword: "Unreal, v2.57.0, 기능개선, 기능추가, 변경"
 section: "2.57.0 (2023. 11. 14.)"
 order: 28
 ---

@@ -2,7 +2,7 @@
 source: console-epicgames-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: console-epicgames-guide
+keyword: "Console, console-epicgames-guide"
 source_size_bytes: 4730
 source_char_count: 3148
 split_count: 0

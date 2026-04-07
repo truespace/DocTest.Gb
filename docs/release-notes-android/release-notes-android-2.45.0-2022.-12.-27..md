@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.45.0 (2022. 12. 27.)"
+keyword: "Android, v2.45.0, 신규, 버그수정, 기능개선, 변경, Purchase"
 section: "2.45.0 (2022. 12. 27.)"
 order: 46
 ---

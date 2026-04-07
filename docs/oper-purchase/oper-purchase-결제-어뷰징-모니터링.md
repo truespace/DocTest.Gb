@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "결제 어뷰징 모니터링, 환불 이력 조회, 결제 어뷰징 자동 해제 이력 조회"
+keyword: "Console, IAP, 결제 어뷰징 모니터링"
 section: "결제 어뷰징 모니터링"
 order: 5
 ---

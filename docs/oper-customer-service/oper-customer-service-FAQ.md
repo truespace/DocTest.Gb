@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "FAQ, Search FAQ, Register or Update FAQ"
+keyword: "Console, Contact, FAQ"
 section: FAQ
 order: 3
 ---

@@ -2,7 +2,7 @@
 source: console-apple-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "(신)영수증 검증+Notification V2, 앱 내 구입 키 생성, Gamebase 정보에 앱 내 구입 키 입력, Notification V2 URL 등록"
+keyword: "Console, Purchase, Subscription, Notification, IAP"
 section: "(신)영수증 검증+Notification V2"
 order: 2
 ---

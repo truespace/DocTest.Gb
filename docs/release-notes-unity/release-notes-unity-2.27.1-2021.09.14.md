@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.27.1 (2021.09.14)"
+keyword: "Unity, v2.27.1, 버그수정, 기능개선, 변경, Maintenance"
 section: "2.27.1 (2021.09.14)"
 order: 66
 ---

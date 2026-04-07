@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, UI, GameNotice, Open GameNotice, Custom GameNotice"
+keyword: "Android, Notice, Error, setBackgroundColor, isSuccess"
 section: GameNotice
 order: 1
 ---

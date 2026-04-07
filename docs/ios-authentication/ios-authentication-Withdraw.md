@@ -2,7 +2,7 @@
 source: ios-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Withdraw, Import Header File, Withdraw API"
+keyword: "iOS, Withdraw, IdP, withdrawWithViewController, isSuccessWithError"
 section: Withdraw
 order: 3
 ---

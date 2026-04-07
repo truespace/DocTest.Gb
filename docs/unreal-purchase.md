@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: unreal-purchase
+keyword: "Unreal, Purchase, Consume, Error"
 source_size_bytes: 31341
 source_char_count: 24197
 split_count: 11

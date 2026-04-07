@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.6.0, Unity, Android"
+keyword: "Gradle, Purchase, Push, Notification, Initialize, IAP, Launching, getAuthBanInfo, getBanInfo, getLanguageCode"
 section: 2.6.0
 order: 56
 ---

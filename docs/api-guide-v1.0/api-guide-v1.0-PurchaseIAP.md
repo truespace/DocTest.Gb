@@ -2,7 +2,7 @@
 source: api-guide-v1.0.md
 split: true
 created_date_time: 20260406_141859
-keyword: Purchase(IAP)
+keyword: "Server API, Purchase, Consume, IAP"
 section: Purchase(IAP)
 order: 7
 ---

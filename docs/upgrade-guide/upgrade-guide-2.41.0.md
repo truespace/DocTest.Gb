@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.41.0, Android, Unity"
+keyword: "TermsView, SettingTool, 2.41.0"
 section: 2.41.0
 order: 37
 ---

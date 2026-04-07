@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.25.0, Android, [AndroidX], gradle.properties, Fix for AGP under 3.4.0"
+keyword: "Gradle, Java, IdP, IAP, setProperty"
 section: 2.25.0
 order: 46
 ---

@@ -2,7 +2,7 @@
 source: aos-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, 초기화, onActivityResult, Initialization Flow, Configuration Settings"
+keyword: "Android, Purchase, Push, Initialize, Maintenance, Notice, Ban, TermsView, Error, IAP"
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > 초기화

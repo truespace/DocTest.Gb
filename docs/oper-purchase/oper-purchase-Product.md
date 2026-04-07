@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Product, Register, Modify"
+keyword: "Console, IAP, Product"
 section: Product
 order: 3
 ---

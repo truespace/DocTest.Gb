@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: oper-purchase
+keyword: "Console, Purchase, IAP"
 source_size_bytes: 26176
 source_char_count: 15062
 split_count: 5

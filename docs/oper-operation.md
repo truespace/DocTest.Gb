@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: oper-operation
+keyword: "Console, Maintenance, Notice"
 source_size_bytes: 29969
 source_char_count: 16067
 split_count: 5

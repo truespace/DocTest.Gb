@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.49.1 (2023. 04. 14.)"
+keyword: "Unreal, v2.49.1, 버그수정, 변경"
 section: "2.49.1 (2023. 04. 14.)"
 order: 30
 ---

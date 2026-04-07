@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.59.0 (2023. 12. 19.)"
+keyword: "iOS, v2.59.0, 버그수정, 기능개선, 변경, TermsView, Launching"
 section: "2.59.0 (2023. 12. 19.)"
 order: 28
 ---

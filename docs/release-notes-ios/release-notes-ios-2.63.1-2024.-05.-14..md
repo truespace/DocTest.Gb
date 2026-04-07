@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.63.1 (2024. 05. 14.)"
+keyword: "iOS, v2.63.1, 기능개선, 변경"
 section: "2.63.1 (2024. 05. 14.)"
 order: 21
 ---

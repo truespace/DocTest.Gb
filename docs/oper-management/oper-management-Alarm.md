@@ -2,7 +2,7 @@
 source: oper-management.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Alarm, Alarm Log, Webhook, Recipient List"
+keyword: "Console, Alarm"
 section: Alarm
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.9.0 (2018.05.18)"
+keyword: "Unity, v1.9.0, 기능개선, 변경"
 section: "1.9.0 (2018.05.18)"
 order: 121
 ---

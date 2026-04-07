@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 07. 14."
+keyword: "v2.12.0, 기능개선, 기능추가, 변경, Notice, IdP, IAP"
 section: "2020. 07. 14."
 order: 24
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.44.2 (2022. 11. 29.)"
+keyword: "Unity, v2.44.2, 버그수정, 기능추가, 변경"
 section: "2.44.2 (2022. 11. 29.)"
 order: 46
 ---

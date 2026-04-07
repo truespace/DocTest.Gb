@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 05. 26."
+keyword: "v2.10.0, 기능개선, 기능추가, 변경, WebView, Coupon"
 section: "2020. 05. 26."
 order: 27
 ---

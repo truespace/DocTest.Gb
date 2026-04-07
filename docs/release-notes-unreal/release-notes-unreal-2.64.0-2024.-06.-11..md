@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.64.0 (2024. 06. 11.)"
+keyword: "Unreal, v2.64.0, 버그수정, 기능개선, 변경"
 section: "2.64.0 (2024. 06. 11.)"
 order: 23
 ---

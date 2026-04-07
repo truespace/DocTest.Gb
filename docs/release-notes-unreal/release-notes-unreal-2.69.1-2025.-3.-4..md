@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.69.1 (2025. 3. 4.)"
+keyword: "Unreal, v2.69.1, 버그수정, 기능개선, 기능추가, 변경, TermsView"
 section: "2.69.1 (2025. 3. 4.)"
 order: 14
 ---

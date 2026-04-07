@@ -2,7 +2,7 @@
 source: ios-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "ImageNotice, Show ImageNotices, Custom ImageNotices, Close ImageNotices"
+keyword: "iOS, Notice, ImageNotice, Error, showImageNoticesWithViewController, showImageNotices"
 section: ImageNotice
 order: 2
 ---

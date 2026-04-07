@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 05. 03."
+keyword: "Console, 신규, 기능추가, Guest"
 section: "2018. 05. 03."
 order: 120
 ---

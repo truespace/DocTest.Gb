@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.5.0 (2019.08.27)"
+keyword: "Unity, v2.5.0, 기능추가"
 section: "2.5.0 (2019.08.27)"
 order: 100
 ---

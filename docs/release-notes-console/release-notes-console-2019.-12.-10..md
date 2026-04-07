@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 12. 10."
+keyword: "Console, 버그수정, 기능추가, Maintenance"
 section: "2019. 12. 10."
 order: 89
 ---

@@ -2,7 +2,7 @@
 source: ios-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: ios-authentication
+keyword: "iOS, Login, Logout, Mapping, Withdraw, GraceBan, TransferAccount, TemporaryWithdrawal, Error"
 source_size_bytes: 49693
 source_char_count: 38997
 split_count: 9

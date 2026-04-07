@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.62.1 (2024. 03. 29.)"
+keyword: "Android, v2.62.1, 버그수정, Guest"
 section: "2.62.1 (2024. 03. 29.)"
 order: 27
 ---

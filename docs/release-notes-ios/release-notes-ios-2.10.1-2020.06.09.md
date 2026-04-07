@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.10.1 (2020.06.09)"
+keyword: "iOS, v2.10.1, 기능개선, 변경"
 section: "2.10.1 (2020.06.09)"
 order: 97
 ---

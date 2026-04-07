@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 운영, Maintenance, Register Maintenance, Modify Maintenance"
+keyword: "Console, Maintenance, Notice"
 section: Maintenance
 order: 1
 ---

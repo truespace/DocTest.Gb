@@ -2,7 +2,7 @@
 source: unreal-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unreal SDK 사용 가이드, 푸시, Settings"
+keyword: "Unreal, Push, Notification"
 section: Settings
 order: 1
 ---

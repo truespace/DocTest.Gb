@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.13.0 (2018.09.13)"
+keyword: "iOS, v1.13.0, 기능개선, 기능추가, 변경, IAP"
 section: "1.13.0 (2018.09.13)"
 order: 121
 ---

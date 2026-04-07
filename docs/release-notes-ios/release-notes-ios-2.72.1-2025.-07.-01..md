@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.72.1 (2025. 07. 01.)"
+keyword: "iOS, v2.72.1, 기능개선, 변경"
 section: "2.72.1 (2025. 07. 01.)"
 order: 7
 ---

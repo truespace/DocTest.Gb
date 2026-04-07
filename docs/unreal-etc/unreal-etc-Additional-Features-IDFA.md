@@ -2,7 +2,7 @@
 source: unreal-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: IDFA
+keyword: "Unreal, GetSubsystem, GetGameInstance"
 section: "Additional Features > IDFA"
 order: 8
 ---

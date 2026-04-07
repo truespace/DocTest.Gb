@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.70.0, Android"
+keyword: "Gradle, Java, 2.70.0"
 section: 2.70.0
 order: 8
 ---

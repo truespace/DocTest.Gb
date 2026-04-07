@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.58.0 (2023. 11. 28.)"
+keyword: "iOS, v2.58.0, 기능개선, 변경"
 section: "2.58.0 (2023. 11. 28.)"
 order: 29
 ---

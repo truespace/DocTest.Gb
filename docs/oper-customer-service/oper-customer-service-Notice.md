@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Notice, Search Notice, Register or Update Notice"
+keyword: "Console, Notice, Contact"
 section: Notice
 order: 4
 ---

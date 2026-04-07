@@ -2,7 +2,7 @@
 source: unreal-initialization.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Debug Mode"
+keyword: "Unreal, SetDebugMode, GetSubsystem, GetGameInstance"
 section: "Debug Mode"
 order: 3
 ---

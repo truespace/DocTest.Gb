@@ -2,7 +2,7 @@
 source: unity-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: unity-logger
+keyword: "Unity, Logger, Initialize, SetCrashListener"
 source_size_bytes: 8039
 source_char_count: 7305
 split_count: 6

@@ -2,7 +2,7 @@
 source: Overview.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Privacy Policy, 개인정보 처리 및 준법에 대한 안내"
+keyword: "Overview, Privacy Policy, 개인정보 처리 및 준법에 대한 안내"
 section: "Privacy Policy"
 order: 8
 ---

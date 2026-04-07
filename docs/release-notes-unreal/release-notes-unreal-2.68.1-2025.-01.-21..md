@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.68.1 (2025. 01. 21.)"
+keyword: "Unreal, v2.68.1, 버그수정, 기능개선, 변경, WebView, Logger"
 section: "2.68.1 (2025. 01. 21.)"
 order: 16
 ---

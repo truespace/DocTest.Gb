@@ -2,7 +2,7 @@
 source: unity-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "App Tracking AuthorizationStatus"
+keyword: "Unity, GetAppTrackingAuthorizationStatus, GetAppTrackingAuthorizationStatusSample"
 section: "Additional Features > App Tracking AuthorizationStatus"
 order: 7
 ---

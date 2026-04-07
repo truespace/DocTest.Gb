@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.6.0 (2019.11.12)"
+keyword: "Unity, v2.6.0, 기능개선, 기능추가, 변경, Logger"
 section: "2.6.0 (2019.11.12)"
 order: 98
 ---

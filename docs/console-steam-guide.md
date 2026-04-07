@@ -2,7 +2,7 @@
 source: console-steam-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: console-steam-guide
+keyword: "Console, console-steam-guide"
 source_size_bytes: 4463
 source_char_count: 2819
 split_count: 0

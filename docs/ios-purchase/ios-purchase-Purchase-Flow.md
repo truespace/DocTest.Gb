@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Flow"
+keyword: "iOS, Purchase, Consume, requestItemListOfNotConsumedWithCompletion, requestPurchaseWithGamebaseProductId"
 section: "Purchase Flow"
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: ios-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "TransferAccount, Issue TransferAccount, Query TransferAccount, Renew TransferAccount, Transfer Guest Account to Another Device"
+keyword: "iOS, Login, TransferAccount, Guest, IdP, TransferAccountInfo, TransferAccountCompletion, issueTransferAccountWithCompletion, queryTransferAccountWithCompletion, transferAccountWithIdPLoginWithAccountId"
 section: TransferAccount
 order: 6
 ---

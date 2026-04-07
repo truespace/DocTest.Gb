@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "ImageNotice, Show ImageNotices, Custom ImageNotices, Close ImageNotices"
+keyword: "Android, Notice, ImageNotice, Error, showImageNotices, setBackgroundColor, getActivity, setTimeout"
 section: ImageNotice
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 07. 05."
+keyword: "v1.11.1, 버그수정, 기능개선, 기능추가, 변경, Login, Purchase, Push, Maintenance, IdP"
 section: "2018. 07. 05."
 order: 73
 ---

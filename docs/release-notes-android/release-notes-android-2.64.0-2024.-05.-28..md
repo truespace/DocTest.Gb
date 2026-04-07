@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.64.0 (2024. 05. 28.)"
+keyword: "Android, v2.64.0, 버그수정, 기능개선, 변경, TermsView"
 section: "2.64.0 (2024. 05. 28.)"
 order: 25
 ---

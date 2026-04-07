@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: "User Statistics, User, User Environment, User Inflow and Outflow, Retention"
+keyword: "Console, Analytics, IdP"
 section: "User Statistics"
 order: 2
 ---

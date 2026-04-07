@@ -2,7 +2,7 @@
 source: unity-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "List Purchasable Items"
+keyword: "Unity, Purchase, RequestItemListPurchasable, IsSuccess, requestPurchase, isActive"
 section: "List Purchasable Items"
 order: 6
 ---

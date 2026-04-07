@@ -2,7 +2,7 @@
 source: oper-app.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Transfer account, Properties"
+keyword: "Console, Transfer account, Properties"
 section: "Transfer account"
 order: 6
 ---

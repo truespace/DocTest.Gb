@@ -2,7 +2,7 @@
 source: oper-app.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Terms Of Service Deploy, (1) 기본 약관 설정, (2) 약관 목록, (3) 미리보기, (4) 약관 배포 및 배포 이력"
+keyword: "Console, TermsView, Terms Of Service Deploy"
 section: "Terms Of Service Deploy"
 order: 4
 ---

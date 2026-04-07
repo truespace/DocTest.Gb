@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Item"
+keyword: "Unreal, Purchase, Consume, Error, RequestPurchase, GetSubsystem, GetGameInstance, GetPurchase, IsSuccess, RequestPurchaseWithPayload"
 section: "Purchase Item"
 order: 5
 ---

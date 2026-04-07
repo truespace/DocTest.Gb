@@ -2,7 +2,7 @@
 source: console-steam-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, Steam 콘솔 가이드, 기본 정보 입력, Steam 스토어 앱 ID, Steam Web API Key"
+keyword: "Console, Purchase, ISteamMicroTxn"
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Steam 콘솔 가이드

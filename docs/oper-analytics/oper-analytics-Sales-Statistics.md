@@ -2,7 +2,7 @@
 source: oper-analytics.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Sales Statistics, Payment Amount, Paying User, Item Sales, First Purchase"
+keyword: "Console, Purchase, Analytics"
 section: "Sales Statistics"
 order: 3
 ---

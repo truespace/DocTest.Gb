@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: Authentication
+keyword: "Server API, Login, Error, IdP, isSuccessful"
 section: Authentication
 order: 4
 ---

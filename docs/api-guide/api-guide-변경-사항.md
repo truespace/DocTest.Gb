@@ -2,7 +2,7 @@
 source: api-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, API v1.3 가이드, 변경 사항"
+keyword: "Server API, Withdraw, Purchase, Push, Notice, Coupon, Ban, IdP, IAP"
 section: "변경 사항"
 order: 1
 ---

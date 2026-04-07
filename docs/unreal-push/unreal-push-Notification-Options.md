@@ -2,7 +2,7 @@
 source: unreal-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Notification Options"
+keyword: "Unreal, Notification, Error, GetNotificationOptions, GetSubsystem, GetGameInstance, RegisterPushWithOption, IsSuccess"
 section: "Notification Options"
 order: 3
 ---

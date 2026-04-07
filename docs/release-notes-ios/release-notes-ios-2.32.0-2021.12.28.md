@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.32.0 (2021.12.28)"
+keyword: "iOS, v2.32.0, 버그수정, 기능개선, 기능추가, 변경, Push"
 section: "2.32.0 (2021.12.28)"
 order: 64
 ---

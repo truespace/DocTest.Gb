@@ -2,7 +2,7 @@
 source: api-guide-v1.0.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, API v1.0 가이드, Advance Notice"
+keyword: "Server API, Notice, Contact"
 section: "Advance Notice"
 order: 1
 ---

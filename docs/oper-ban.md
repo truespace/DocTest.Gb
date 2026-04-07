@@ -2,7 +2,7 @@
 source: oper-ban.md
 split: false
 created_date_time: 20260406_141859
-keyword: oper-ban
+keyword: "Console, Ban, oper-ban"
 source_size_bytes: 13201
 source_char_count: 7385
 split_count: 0

@@ -2,7 +2,7 @@
 source: unity-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: unity-initialization
+keyword: "Unity, unity-initialization"
 source_size_bytes: 20013
 source_char_count: 15783
 split_count: 0

@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.60.1 (2024. 02. 15.)"
+keyword: "iOS, v2.60.1, 버그수정"
 section: "2.60.1 (2024. 02. 15.)"
 order: 25
 ---

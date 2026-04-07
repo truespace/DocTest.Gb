@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Inquiry, Search Inquiry, Inquiry details"
+keyword: "Console, Push, Contact"
 section: Inquiry
 order: 2
 ---

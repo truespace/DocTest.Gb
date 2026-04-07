@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 푸시, Push, Registered List, Send History"
+keyword: "Console, Push, 푸시"
 section: Push
 order: 1
 ---

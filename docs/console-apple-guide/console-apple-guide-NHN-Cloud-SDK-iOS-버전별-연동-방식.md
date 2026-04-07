@@ -2,7 +2,7 @@
 source: console-apple-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, Apple 콘솔 가이드, NHN Cloud SDK iOS 버전별 연동 방식"
+keyword: "Console, Notification, Apple 콘솔 가이드"
 section: "NHN Cloud SDK iOS 버전별 연동 방식"
 order: 1
 ---

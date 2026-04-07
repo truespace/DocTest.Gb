@@ -2,7 +2,7 @@
 source: ios-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Terms, showTermsView, queryTerms, updateTerms, isShowingTermsView"
+keyword: "iOS, Login, TermsView, Error, isShowingTermsView, showTermsView, queryTermsResult, showTermsViewResult, isTermsUIOpened, registerPushWithConfiguration"
 section: Terms
 order: 3
 ---

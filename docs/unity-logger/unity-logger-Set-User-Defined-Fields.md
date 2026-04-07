@@ -2,7 +2,7 @@
 source: unity-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Set User-Defined Fields"
+keyword: "Unity, Logger, SetUserField, SetUserFieldSample"
 section: "Set User-Defined Fields"
 order: 3
 ---

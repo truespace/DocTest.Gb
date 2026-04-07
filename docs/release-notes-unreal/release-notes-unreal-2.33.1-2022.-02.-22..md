@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.33.1 (2022. 02. 22.)"
+keyword: "Unreal, v2.33.1, 버그수정"
 section: "2.33.1 (2022. 02. 22.)"
 order: 37
 ---

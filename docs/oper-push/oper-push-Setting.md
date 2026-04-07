@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Setting, 메시지 수신 및 확인 설정, 중복 메시지 방지 설정, 광고 표시 문구 위치 설정, 토큰 설정"
+keyword: "Console, Push, Setting"
 section: Setting
 order: 6
 ---

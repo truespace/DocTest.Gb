@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.43.3 (2022. 10. 04.)"
+keyword: "iOS, v2.43.3, 기능개선, 변경"
 section: "2.43.3 (2022. 10. 04.)"
 order: 45
 ---

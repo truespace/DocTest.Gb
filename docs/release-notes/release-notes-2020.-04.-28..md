@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 04. 28."
+keyword: "v2.9.0, 기능개선, 기능추가, 변경, Login, Maintenance, Notice"
 section: "2020. 04. 28."
 order: 30
 ---

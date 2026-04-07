@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "List Actived Subscriptions"
+keyword: "Unreal, RequestActivatedPurchases, GetSubsystem, GetGameInstance, GetPurchase, IsSuccess"
 section: "List Actived Subscriptions"
 order: 8
 ---

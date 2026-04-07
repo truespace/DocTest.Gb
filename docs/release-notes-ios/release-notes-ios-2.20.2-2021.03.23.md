@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.20.2 (2021.03.23)"
+keyword: "iOS, v2.20.2, 기능개선, 변경"
 section: "2.20.2 (2021.03.23)"
 order: 80
 ---

@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.71.2 (2025. 05. 20.)"
+keyword: "Android, v2.71.2, 기능개선, 변경"
 section: "2.71.2 (2025. 05. 20.)"
 order: 11
 ---

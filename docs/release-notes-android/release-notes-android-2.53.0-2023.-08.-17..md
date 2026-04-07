@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.53.0 (2023. 08. 17.)"
+keyword: "Android, v2.53.0, 신규, 기능개선, 기능추가, 변경, Login, Contact, IdP"
 section: "2.53.0 (2023. 08. 17.)"
 order: 37
 ---

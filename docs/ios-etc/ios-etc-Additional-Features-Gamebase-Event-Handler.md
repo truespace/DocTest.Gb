@@ -2,7 +2,7 @@
 source: ios-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase Event Handler"
+keyword: "iOS, Login, Logout, Purchase, Push, Maintenance, EventHandler, Error, Guest, IdP"
 section: "Additional Features > Gamebase Event Handler"
 order: 5
 ---

@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.79.0, iOS"
+keyword: "setStoreCode, 2.79.0, iOS"
 section: 2.79.0
 order: 3
 ---

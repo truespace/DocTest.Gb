@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.33.0 (2022.01.25)"
+keyword: "Android, v2.33.0, 신규, 기능개선, 기능추가, 변경, TermsView, IAP"
 section: "2.33.0 (2022.01.25)"
 order: 63
 ---

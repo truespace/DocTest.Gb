@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 07. 27."
+keyword: "Console, 버그수정, 기능개선, 기능추가, 변경, Coupon, Contact, IAP"
 section: "2021. 07. 27."
 order: 51
 ---

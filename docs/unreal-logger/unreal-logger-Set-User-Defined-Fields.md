@@ -2,7 +2,7 @@
 source: unreal-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Set User-Defined Fields"
+keyword: "Unreal, SetUserField, SetLoggerUserField, GetSubsystem, GetGameInstance, GetLogger"
 section: "Set User-Defined Fields"
 order: 4
 ---

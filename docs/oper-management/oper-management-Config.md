@@ -2,7 +2,7 @@
 source: oper-management.md
 split: true
 created_date_time: 20260406_141859
-keyword: Config
+keyword: "Console, Launching, Config"
 section: Config
 order: 3
 ---

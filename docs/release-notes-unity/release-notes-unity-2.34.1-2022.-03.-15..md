@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.34.1 (2022. 03. 15.)"
+keyword: "Unity, v2.34.1, 버그수정, 기능추가, 변경, Push"
 section: "2.34.1 (2022. 03. 15.)"
 order: 57
 ---

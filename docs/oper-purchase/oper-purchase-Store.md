@@ -2,7 +2,7 @@
 source: oper-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Store, Register, Modify"
+keyword: "Console, Purchase, Contact, IAP"
 section: Store
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: aos-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Android SDK 사용 가이드, 푸시, Settings"
+keyword: "Android, Push, Notification, setSmallIconName"
 section: Settings
 order: 1
 ---

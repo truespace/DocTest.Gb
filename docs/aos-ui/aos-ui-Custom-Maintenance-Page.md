@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Custom Maintenance Page"
+keyword: "Android, Maintenance, Custom Maintenance Page"
 section: "Custom Maintenance Page"
 order: 8
 ---

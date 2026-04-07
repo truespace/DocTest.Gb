@@ -2,7 +2,7 @@
 source: aos-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Retry Transaction Flow"
+keyword: "Android, Purchase, Consume, RequestItemListOfNotConsumed"
 section: "Retry Transaction Flow"
 order: 4
 ---

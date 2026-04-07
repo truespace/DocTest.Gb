@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 04. 23."
+keyword: "v2.3.0, 기능개선, 기능추가, 변경, 제거, Launching"
 section: "2019. 04. 23."
 order: 58
 ---

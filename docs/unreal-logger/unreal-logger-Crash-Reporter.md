@@ -2,7 +2,7 @@
 source: unreal-logger.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Crash Reporter"
+keyword: "Unreal, Crash Reporter"
 section: "Crash Reporter"
 order: 5
 ---

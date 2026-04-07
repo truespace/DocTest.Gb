@@ -2,7 +2,7 @@
 source: Overview.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, 개요, Gamebase Sample App"
+keyword: "Overview, Push, Coupon, TermsView, Contact, IdP"
 section: "Gamebase Sample App"
 order: 1
 ---

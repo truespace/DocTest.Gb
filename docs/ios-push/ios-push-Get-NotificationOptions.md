@@ -2,7 +2,7 @@
 source: ios-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Get NotificationOptions"
+keyword: "iOS, Login, Get NotificationOptions"
 section: "Get NotificationOptions"
 order: 4
 ---

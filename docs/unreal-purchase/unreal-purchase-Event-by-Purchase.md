@@ -2,7 +2,7 @@
 source: unreal-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Event by Purchase"
+keyword: "Unreal, Purchase, Event by Purchase"
 section: "Event by Purchase"
 order: 10
 ---

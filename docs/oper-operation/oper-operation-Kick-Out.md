@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Kick Out, Register Kick Out, (1) 처리대상, (2) 사유, (3) 팝업 노출 여부"
+keyword: "Console, Maintenance, Kick Out"
 section: "Kick Out"
 order: 5
 ---

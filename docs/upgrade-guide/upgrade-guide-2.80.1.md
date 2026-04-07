@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, Upgrade Guide, 2.80.1, Unity"
+keyword: "Upgrade Guide, 2.80.1, Unity"
 section: 2.80.1
 order: 1
 ---

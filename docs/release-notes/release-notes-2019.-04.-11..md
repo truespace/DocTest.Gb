@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 04. 11."
+keyword: "v2.2.2, 버그수정, 기능개선, 변경, Analytics, TransferAccount"
 section: "2019. 04. 11."
 order: 59
 ---

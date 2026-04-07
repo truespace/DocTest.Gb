@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 12. 10."
+keyword: "v2.6.1, 버그수정, 기능추가, Login, Analytics, Initialize, Maintenance, IAP"
 section: "2019. 12. 10."
 order: 39
 ---

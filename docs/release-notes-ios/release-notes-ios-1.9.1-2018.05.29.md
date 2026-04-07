@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.9.1 (2018.05.29)"
+keyword: "iOS, v1.9.1, 버그수정"
 section: "1.9.1 (2018.05.29)"
 order: 127
 ---

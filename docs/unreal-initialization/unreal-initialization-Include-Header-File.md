@@ -2,7 +2,7 @@
 source: unreal-initialization.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unreal SDK 사용 가이드, 초기화, Include Header File"
+keyword: "Unreal, Unreal SDK 사용 가이드, 초기화"
 section: "Include Header File"
 order: 1
 ---

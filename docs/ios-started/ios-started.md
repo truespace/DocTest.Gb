@@ -2,7 +2,7 @@
 source: ios-started.md
 split: false
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, 시작하기, Environments, Setting, Download"
+keyword: "iOS, CocoaPods, XCode, Swift, Objective-C, Login, Push, Notice, IdP, IAP"
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > 시작하기

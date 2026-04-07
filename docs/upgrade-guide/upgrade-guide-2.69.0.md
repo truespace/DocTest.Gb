@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.69.0, Unity, Unreal, Android"
+keyword: "TermsView, GetLastLoggedInProvider, RequestLastLoggedInProvider"
 section: 2.69.0
 order: 9
 ---

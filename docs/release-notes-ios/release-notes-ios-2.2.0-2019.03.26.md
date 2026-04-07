@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.2.0 (2019.03.26)"
+keyword: "iOS, v2.2.0, 신규, 기능개선, 기능추가, 변경, TransferAccount, Guest"
 section: "2.2.0 (2019.03.26)"
 order: 116
 ---

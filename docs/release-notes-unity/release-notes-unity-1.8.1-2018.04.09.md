@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.8.1 (2018.04.09)"
+keyword: "Unity, v1.8.1, 버그수정, Purchase, Push, WebView, Launching"
 section: "1.8.1 (2018.04.09)"
 order: 123
 ---

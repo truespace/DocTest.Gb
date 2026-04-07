@@ -2,7 +2,7 @@
 source: oper-ban.md
 split: false
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 이용 정지, Ban, Search Banned User, Register Ban"
+keyword: "Console, Ban, 이용 정지"
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 이용 정지

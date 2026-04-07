@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 07. 01."
+keyword: "버그수정, 2019. 07. 01."
 section: "2019. 07. 01."
 order: 52
 ---

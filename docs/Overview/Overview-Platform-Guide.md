@@ -2,7 +2,7 @@
 source: Overview.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Platform Guide, Client Developer's Guide, Server Developer's Guide, Operator's Guide"
+keyword: "Overview, Platform Guide, Client Developer's Guide"
 section: "Platform Guide"
 order: 5
 ---

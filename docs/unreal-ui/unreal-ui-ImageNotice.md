@@ -2,7 +2,7 @@
 source: unreal-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "ImageNotice, Show ImageNotices, Close ImageNotices"
+keyword: "Unreal, Notice, ImageNotice, ShowImageNotices, GetSubsystem, GetGameInstance, GetImageNotice"
 section: ImageNotice
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: aos-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Mapping, Add Mapping Flow, Add Mapping, Add Mapping with Credential, Add Mapping Forcibly"
+keyword: "Android, Login, Mapping, Error, Guest, IdP, addMapping, addMappingForcibly, isSuccess, mappingProvider"
 section: Mapping
 order: 4
 ---

@@ -2,7 +2,7 @@
 source: unreal-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Display Language"
+keyword: "Unreal, Initialize, GetDisplayLanguageCode, SetDisplayLanguageCode, GetSubsystem, GetGameInstance, IsSuccess"
 section: "Additional Features > Display Language"
 order: 2
 ---

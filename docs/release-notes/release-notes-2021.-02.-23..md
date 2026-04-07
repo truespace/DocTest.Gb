@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2021. 02. 23."
+keyword: "v2.20.1, 버그수정, 기능추가, Push, IAP"
 section: "2021. 02. 23."
 order: 6
 ---

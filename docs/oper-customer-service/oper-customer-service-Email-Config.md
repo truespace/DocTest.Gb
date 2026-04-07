@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Email Config"
+keyword: "Console, Contact, Email Config"
 section: "Email Config"
 order: 6
 ---

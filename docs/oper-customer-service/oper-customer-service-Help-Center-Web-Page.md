@@ -2,7 +2,7 @@
 source: oper-customer-service.md
 split: true
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 고객센터, Help Center Web Page, Main"
+keyword: "Console, Notice, Contact"
 section: "Help Center Web Page"
 order: 1
 ---

@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.26.0, Unity, Unreal"
+keyword: "IAP, 2.26.0, Unity"
 section: 2.26.0
 order: 45
 ---

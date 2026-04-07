@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.4.0 (2017.11.23)"
+keyword: "Android, v1.4.0, 버그수정"
 section: "1.4.0 (2017.11.23)"
 order: 124
 ---

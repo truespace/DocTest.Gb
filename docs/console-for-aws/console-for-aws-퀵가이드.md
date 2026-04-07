@@ -2,7 +2,7 @@
 source: console-for-aws.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, Console for AWS, 퀵가이드"
+keyword: "Console, Analytics, Contact"
 section: 퀵가이드
 order: 1
 ---

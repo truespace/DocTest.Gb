@@ -2,7 +2,7 @@
 source: ios-initialization.md
 split: false
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, 초기화, Import Header File, Initialization Flow, Configuration Settings"
+keyword: "iOS, XCode, Purchase, Push, Initialize, Maintenance, Notice, Ban, TermsView, Error"
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > 초기화

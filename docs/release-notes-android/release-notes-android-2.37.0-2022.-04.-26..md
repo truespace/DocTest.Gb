@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.37.0 (2022. 04. 26.)"
+keyword: "Android, v2.37.0, 기능개선, 기능추가, 변경, IAP"
 section: "2.37.0 (2022. 04. 26.)"
 order: 59
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.13.0 (2018.09.13)"
+keyword: "Unity, v1.13.0, 버그수정, 기능개선, 변경, IAP"
 section: "1.13.0 (2018.09.13)"
 order: 115
 ---

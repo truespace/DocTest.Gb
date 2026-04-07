@@ -2,7 +2,7 @@
 source: aos-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase Event Handler"
+keyword: "Android, Login, Purchase, Push, Initialize, Maintenance, Error, Guest, Launching, addEventHandler"
 section: "Additional Features > Gamebase Event Handler"
 order: 4
 ---

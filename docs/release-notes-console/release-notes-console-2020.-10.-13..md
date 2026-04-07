@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 10. 13."
+keyword: "Console, v2.17.0, 기능추가, IdP"
 section: "2020. 10. 13."
 order: 69
 ---

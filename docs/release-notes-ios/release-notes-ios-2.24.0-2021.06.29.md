@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.24.0 (2021.06.29)"
+keyword: "iOS, v2.24.0, 버그수정, 기능개선, 변경, TermsView"
 section: "2.24.0 (2021.06.29)"
 order: 74
 ---

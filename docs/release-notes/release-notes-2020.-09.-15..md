@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2020. 09. 15."
+keyword: "v2.15.0, 버그수정, 기능추가, IAP"
 section: "2020. 09. 15."
 order: 19
 ---

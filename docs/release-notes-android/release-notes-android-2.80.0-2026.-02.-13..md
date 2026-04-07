@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "릴리스 노트, Android, 2.80.0 (2026. 02. 13.)"
+keyword: "Android, v2.80.0, 버그수정, 기능개선, 변경, TermsView"
 section: "2.80.0 (2026. 02. 13.)"
 order: 1
 ---

@@ -2,7 +2,7 @@
 source: unity-authentication.md
 split: true
 created_date_time: 20260406_141859
-keyword: GraceBan
+keyword: "Unity, Login, GraceBan, Ban, getGraceBanInfo, IsSuccess, AddMilliseconds"
 section: GraceBan
 order: 8
 ---

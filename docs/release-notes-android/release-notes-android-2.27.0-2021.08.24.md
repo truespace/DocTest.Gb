@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.27.0 (2021.08.24)"
+keyword: "Android, v2.27.0, 기능개선, 기능추가, 변경"
 section: "2.27.0 (2021.08.24)"
 order: 70
 ---

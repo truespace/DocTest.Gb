@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Restore Purchase"
+keyword: "iOS, Purchase, requestRestoreWithCompletion"
 section: "Restore Purchase"
 order: 9
 ---

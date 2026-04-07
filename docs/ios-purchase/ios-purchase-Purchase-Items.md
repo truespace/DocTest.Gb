@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Items"
+keyword: "iOS, Purchase, Consume, requestPurchaseWithGamebaseProductId, isSuccessWithError, requestPurchase"
 section: "Purchase Items"
 order: 5
 ---

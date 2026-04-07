@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.12.1 (2018.08.09)"
+keyword: "Android, v1.12.1, 기능개선, 기능추가, 변경, Maintenance, Guest, IdP, IAP"
 section: "1.12.1 (2018.08.09)"
 order: 116
 ---

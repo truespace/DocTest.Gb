@@ -2,7 +2,7 @@
 source: oper-coupon.md
 split: false
 created_date_time: 20260406_141859
-keyword: "콘솔 사용 가이드, 쿠폰, Coupon Publish, Search Coupon publish, Publish coupon"
+keyword: "Console, Coupon, 쿠폰"
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 쿠폰

@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.65.0, Common, Android, iOS"
+keyword: "Gradle, XCode, Notice"
 section: 2.65.0
 order: 17
 ---

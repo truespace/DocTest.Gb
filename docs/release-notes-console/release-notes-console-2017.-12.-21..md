@@ -2,7 +2,7 @@
 source: release-notes-console.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 12. 21."
+keyword: "Console, 신규, 기능개선, 기능추가, 변경, Push, Maintenance"
 section: "2017. 12. 21."
 order: 123
 ---

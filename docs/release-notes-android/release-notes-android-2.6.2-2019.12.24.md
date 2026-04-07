@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.6.2 (2019.12.24)"
+keyword: "Android, v2.6.2, 기능개선, 변경"
 section: "2.6.2 (2019.12.24)"
 order: 98
 ---

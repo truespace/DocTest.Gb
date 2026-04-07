@@ -2,7 +2,7 @@
 source: aos-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Country Code"
+keyword: "Android, getCountryCode, getCountryCodeOfUSIM, getCountryCodeOfDevice"
 section: "Additional Features > Country Code"
 order: 3
 ---

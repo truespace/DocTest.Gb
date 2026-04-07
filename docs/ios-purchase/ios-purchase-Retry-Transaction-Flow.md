@@ -2,7 +2,7 @@
 source: ios-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Retry Transaction Flow"
+keyword: "iOS, Purchase, Consume, RequestItemListOfNotConsumed, requestItemListOfNotConsumedWithCompletion"
 section: "Retry Transaction Flow"
 order: 4
 ---

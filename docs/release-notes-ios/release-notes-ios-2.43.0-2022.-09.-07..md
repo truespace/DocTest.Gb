@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.43.0 (2022. 09. 07.)"
+keyword: "iOS, v2.43.0, 기능개선, 변경, Login, IdP"
 section: "2.43.0 (2022. 09. 07.)"
 order: 48
 ---

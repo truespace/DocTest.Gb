@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.1.4 (2017.05.25)"
+keyword: "Android, v1.1.4, 기능개선, 변경, Push"
 section: "1.1.4 (2017.05.25)"
 order: 128
 ---

@@ -2,7 +2,7 @@
 source: unity-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Items"
+keyword: "Unity, Purchase, Consume, RequestPurchase, IsSuccess, isPromotion, isTestPurchase"
 section: "Purchase Items"
 order: 5
 ---

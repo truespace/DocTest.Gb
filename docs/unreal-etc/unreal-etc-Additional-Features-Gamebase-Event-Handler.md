@@ -2,7 +2,7 @@
 source: unreal-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase Event Handler"
+keyword: "Unreal, Login, Logout, Purchase, Push, Initialize, Maintenance, Guest, IdP, Launching"
 section: "Additional Features > Gamebase Event Handler"
 order: 4
 ---

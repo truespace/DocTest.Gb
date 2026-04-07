@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.7.1 (2018.03.13)"
+keyword: "Unity, v1.7.1, 버그수정"
 section: "1.7.1 (2018.03.13)"
 order: 125
 ---

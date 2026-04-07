@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.68.0 (2024. 11. 26.)"
+keyword: "Android, v2.68.0, 기능개선, 기능추가, 변경, IdP"
 section: "2.68.0 (2024. 11. 26.)"
 order: 17
 ---

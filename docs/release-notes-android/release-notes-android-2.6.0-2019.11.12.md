@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.6.0 (2019.11.12)"
+keyword: "Android, v2.6.0, 기능추가, 변경, Logger"
 section: "2.6.0 (2019.11.12)"
 order: 100
 ---

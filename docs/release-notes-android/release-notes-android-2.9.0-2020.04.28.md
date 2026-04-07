@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.9.0 (2020.04.28)"
+keyword: "Android, v2.9.0, 기능개선, 기능추가, 변경, Login"
 section: "2.9.0 (2020.04.28)"
 order: 92
 ---

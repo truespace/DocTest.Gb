@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2017. 07. 20."
+keyword: "v1.1.5, 기능개선, 기능추가, 변경, IAP"
 section: "2017. 07. 20."
 order: 92
 ---

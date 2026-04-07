@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.31.0 (2021.12.14)"
+keyword: "iOS, v2.31.0, 기능개선, 기능추가, 변경, Maintenance"
 section: "2.31.0 (2021.12.14)"
 order: 65
 ---

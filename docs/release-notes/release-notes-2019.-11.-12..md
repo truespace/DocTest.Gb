@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 11. 12."
+keyword: "v2.6.0, 신규, 기능개선, 기능추가, 변경, Logger, Coupon, IAP"
 section: "2019. 11. 12."
 order: 43
 ---

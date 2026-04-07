@@ -2,7 +2,7 @@
 source: aos-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Items"
+keyword: "Android, Purchase, Consume, requestPurchase, isSuccess"
 section: "Purchase Items"
 order: 5
 ---

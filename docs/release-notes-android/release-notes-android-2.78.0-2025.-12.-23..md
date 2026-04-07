@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.78.0 (2025. 12. 23.)"
+keyword: "Android, v2.78.0, 기능개선, 변경"
 section: "2.78.0 (2025. 12. 23.)"
 order: 3
 ---

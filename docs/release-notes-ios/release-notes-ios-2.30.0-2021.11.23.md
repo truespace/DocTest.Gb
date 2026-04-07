@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.30.0 (2021.11.23)"
+keyword: "iOS, v2.30.0, 신규, 버그수정, 기능추가, Login, Mapping, IdP"
 section: "2.30.0 (2021.11.23)"
 order: 67
 ---

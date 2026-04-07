@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.5.1 (2019.09.10)"
+keyword: "iOS, v2.5.1, 기능개선, 변경"
 section: "2.5.1 (2019.09.10)"
 order: 108
 ---

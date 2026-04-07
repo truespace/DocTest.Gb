@@ -2,7 +2,7 @@
 source: console-for-aws.md
 split: true
 created_date_time: 20260406_141859
-keyword: "프로젝트 관리, 프로젝트 생성, 프로젝트 편집, 프로젝트 변경"
+keyword: "Console, 프로젝트 관리, 프로젝트 생성"
 section: "프로젝트 관리"
 order: 2
 ---

@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.18.2, Android"
+keyword: "setFCMSenderId, setTencentAccessKey, setTencentAccessId"
 section: 2.18.2
 order: 51
 ---

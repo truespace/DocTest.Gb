@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.74.0 (2025. 08. 26.)"
+keyword: "Unreal, v2.74.0, 버그수정, 기능개선, 기능추가, 변경, Notice"
 section: "2.74.0 (2025. 08. 26.)"
 order: 7
 ---

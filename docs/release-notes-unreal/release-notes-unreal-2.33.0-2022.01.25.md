@@ -2,7 +2,7 @@
 source: release-notes-unreal.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.33.0 (2022.01.25)"
+keyword: "Unreal, v2.33.0, 신규, 기능개선, 기능추가, 변경, Login, Mapping, Push, GraceBan"
 section: "2.33.0 (2022.01.25)"
 order: 38
 ---

@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.71.1 (2025. 06. 11.)"
+keyword: "Unity, v2.71.1, 버그수정"
 section: "2.71.1 (2025. 06. 11.)"
 order: 14
 ---

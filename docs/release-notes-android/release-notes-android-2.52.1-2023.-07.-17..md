@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.52.1 (2023. 07. 17.)"
+keyword: "Android, v2.52.1, 버그수정, 기능개선, 변경"
 section: "2.52.1 (2023. 07. 17.)"
 order: 38
 ---

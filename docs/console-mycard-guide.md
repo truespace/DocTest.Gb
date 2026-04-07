@@ -2,7 +2,7 @@
 source: console-mycard-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: console-mycard-guide
+keyword: "Console, console-mycard-guide"
 source_size_bytes: 1118
 source_char_count: 664
 split_count: 0

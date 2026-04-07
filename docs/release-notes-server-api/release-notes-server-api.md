@@ -2,7 +2,7 @@
 source: release-notes-server-api.md
 split: false
 created_date_time: 20260406_141859
-keyword: "릴리스 노트, Server API, 2026. 02. 24., 2025. 12. 23., 2024. 08. 27."
+keyword: "Server API, 신규, 버그수정, 기능개선, 기능추가, 변경, Withdraw, TransferAccount, Maintenance, Coupon"
 ---
 
 ## Game > Gamebase > 릴리스 노트 > Server API

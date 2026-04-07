@@ -2,7 +2,7 @@
 source: unity-purchase.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Purchase Flow"
+keyword: "Unity, Purchase, Consume, RequestItemListOfNotConsumed, RequestPurchase"
 section: "Purchase Flow"
 order: 2
 ---

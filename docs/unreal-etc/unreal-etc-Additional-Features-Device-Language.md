@@ -2,7 +2,7 @@
 source: unreal-etc.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Unreal SDK 사용 가이드, ETC, Additional Features, Device Language"
+keyword: "Unreal, Additional, GetDeviceLanguageCode"
 section: "Additional Features > Device Language"
 order: 1
 ---

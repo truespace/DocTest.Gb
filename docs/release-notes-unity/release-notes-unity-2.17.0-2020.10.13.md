@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.17.0 (2020.10.13)"
+keyword: "Unity, v2.17.0, 버그수정, 기능개선, 기능추가, 변경, ImageNotice, IdP"
 section: "2.17.0 (2020.10.13)"
 order: 79
 ---

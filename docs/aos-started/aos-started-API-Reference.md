@@ -2,7 +2,7 @@
 source: aos-started.md
 split: true
 created_date_time: 20260406_141859
-keyword: "API Reference"
+keyword: "Android, API Reference"
 section: "API Reference"
 order: 5
 ---

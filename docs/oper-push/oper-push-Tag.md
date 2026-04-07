@@ -2,7 +2,7 @@
 source: oper-push.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Tag, Tag register, Tag detail"
+keyword: "Console, Push, Tag"
 section: Tag
 order: 5
 ---

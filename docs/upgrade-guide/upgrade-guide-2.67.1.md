@@ -2,7 +2,7 @@
 source: upgrade-guide.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.67.1, Unreal"
+keyword: "Purchase, 2.67.1, Unreal"
 section: 2.67.1
 order: 12
 ---

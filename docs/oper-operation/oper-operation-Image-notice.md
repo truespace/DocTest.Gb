@@ -2,7 +2,7 @@
 source: oper-operation.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Image notice, Register Image notice, Modify Image notice, Modify Image notice setting"
+keyword: "Console, Notice, Image notice"
 section: "Image notice"
 order: 4
 ---

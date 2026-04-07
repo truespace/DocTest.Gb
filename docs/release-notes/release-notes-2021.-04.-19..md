@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Gamebase, 릴리스 노트, 2021. 04. 19."
+keyword: "v2.21.1, 버그수정, 릴리스 노트"
 section: "2021. 04. 19."
 order: 1
 ---

@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.39.0 (2022. 05. 10.)"
+keyword: "Android, v2.39.0, 기능개선, 변경"
 section: "2.39.0 (2022. 05. 10.)"
 order: 57
 ---

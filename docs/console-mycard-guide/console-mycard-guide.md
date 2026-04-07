@@ -2,7 +2,7 @@
 source: console-mycard-guide.md
 split: false
 created_date_time: 20260406_141859
-keyword: "스토어 콘솔 가이드, MyCard 콘솔 가이드, MyCard 스토어 등록"
+keyword: "Console, IAP, MyCard 콘솔 가이드"
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > MyCard 콘솔 가이드

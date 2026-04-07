@@ -2,7 +2,7 @@
 source: release-notes.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2018. 08. 09."
+keyword: "v1.12.1, 버그수정, 기능개선, 기능추가, 변경, Maintenance, Guest, IdP, IAP"
 section: "2018. 08. 09."
 order: 71
 ---

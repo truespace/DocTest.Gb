@@ -2,7 +2,7 @@
 source: aos-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "Terms, showTermsView, queryTerms, updateTerms, isShowingTermsView"
+keyword: "Android, Login, Push, TermsView, Error, showTermsView, isSuccess, getTermsSeq, getTermsVersion, getContents"
 section: Terms
 order: 3
 ---

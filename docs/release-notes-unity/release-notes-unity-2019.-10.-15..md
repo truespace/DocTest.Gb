@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2019. 10. 15."
+keyword: "Unity, v2.4.0, 기능개선, 기능추가, 변경, Maintenance"
 section: "2019. 10. 15."
 order: 99
 ---

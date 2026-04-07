@@ -2,7 +2,7 @@
 source: release-notes-ios.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.53.0 (2023. 07. 25.)"
+keyword: "iOS, v2.53.0, 버그수정, 기능개선, 변경"
 section: "2.53.0 (2023. 07. 25.)"
 order: 34
 ---

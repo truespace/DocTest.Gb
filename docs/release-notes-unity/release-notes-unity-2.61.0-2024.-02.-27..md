@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.61.0 (2024. 02. 27.)"
+keyword: "Unity, v2.61.0, 버그수정, 변경"
 section: "2.61.0 (2024. 02. 27.)"
 order: 32
 ---

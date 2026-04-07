@@ -2,7 +2,7 @@
 source: ios-ui.md
 split: true
 created_date_time: 20260406_141859
-keyword: "iOS SDK 사용 가이드, UI, GameNotice, Open GameNotice"
+keyword: "iOS, Notice, TermsView, Error"
 section: GameNotice
 order: 1
 ---

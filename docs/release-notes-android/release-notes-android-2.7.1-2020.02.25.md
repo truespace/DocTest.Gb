@@ -2,7 +2,7 @@
 source: release-notes-android.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.7.1 (2020.02.25)"
+keyword: "Android, v2.7.1, 기능개선, 변경, Login"
 section: "2.7.1 (2020.02.25)"
 order: 96
 ---

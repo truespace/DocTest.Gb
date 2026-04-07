@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "2.80.1 (2026. 03. 10.)"
+keyword: "Unity, v2.80.1, 버그수정, 기능개선, WebView"
 section: "2.80.1 (2026. 03. 10.)"
 order: 2
 ---

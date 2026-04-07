@@ -2,7 +2,7 @@
 source: release-notes-unity.md
 split: true
 created_date_time: 20260406_141859
-keyword: "1.11.0 (2018.06.26)"
+keyword: "Unity, v1.11.0, 기능개선, 기능추가, 변경, 제거, Login, IdP"
 section: "1.11.0 (2018.06.26)"
 order: 118
 ---
