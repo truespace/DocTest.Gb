@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, Push, Analytics, Coupon"
 section: "2020. 10. 27."
 order: 68
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Analytics, Coupon, Release Notes
 ---
 
 ### 2020. 10. 27.

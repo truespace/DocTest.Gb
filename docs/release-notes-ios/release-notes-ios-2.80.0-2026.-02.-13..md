@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, XCode, v2.80.0, 기능개선, 변경"
 section: "2.80.0 (2026. 02. 13.)"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Error, XCode, Release Notes, 2.80.0
 ---
 
 ## Game > Gamebase > 릴리스 노트 > iOS

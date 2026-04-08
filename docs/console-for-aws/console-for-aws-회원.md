@@ -1,10 +1,10 @@
 ---
 source: console-for-aws.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Analytics, Contact"
-section: 회원
+section: "회원"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, For
 ---
 
 ## 회원 
@@ -21,11 +21,11 @@ order: 3
 #### 1. 일반 회원 추가하기
 
 ![Gamebase-for-aws_create-ID](./image/console_Gamebase-for-aws_member-01-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 일반 회원 등록 화면
-    구성: 일반 회원 관리 탭에서 회원 목록이 표시되고, 일반 회원 등록 팝업이 열려 있음. ID, 이름, 메일 입력 필드와 취소/확인 버튼이 있으며, 우측 상단에 이름 메뉴 드롭다운(회원/그룹 관리, 이름 변경, 고객센터, 로그 아웃)이 표시됨
-    Keyword: 회원등록, 일반회원, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 1. 일반 회원 추가하기 화면
+    구성: Gamebase for AWS 콘솔의 1. 일반 회원 추가하기 기능 설정/조회 화면 스크린샷
+    Keyword: AWS Console, Console, Screenshot, 1. 일반 회원 추가하기
 -->
 
 1. **이름 > 일반/그룹 관리** 클릭하면 일반 회원 관리 페이지가 표시됩니다.
@@ -36,11 +36,11 @@ order: 3
 #### 2. 프로젝트 멤버로 추가
 
 ![Gamebase-for-aws_project-member](./image/console_Gamebase-for-aws_member-02-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 프로젝트 멤버 추가 화면
-    구성: 프로젝트 대시보드에서 프로젝트 멤버 추가 팝업이 표시됨. 회원 ID 입력 필드와 Gamebase Admin 등의 권한 그룹 선택 드롭다운, 취소/확인 버튼이 있으며, 하단에 기존 등록된 멤버 목록이 표시됨
-    Keyword: 프로젝트멤버, 멤버추가, 권한, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 2. 프로젝트 멤버로 추가 화면
+    구성: Gamebase for AWS 콘솔의 2. 프로젝트 멤버로 추가 기능 설정/조회 화면 스크린샷
+    Keyword: AWS Console, Console, Screenshot, 2. 프로젝트 멤버로 추가
 -->
 1. 프로젝트 대시보드 화면에서 **+프로젝트 멤버 추가** 버튼을 클릭합니다.
 2. 1에서 추가한 일반 회원 ID를 입력하고 그룹 권한을 부여하며 현재 프로젝트에 접근이 가능합니다.
@@ -51,11 +51,11 @@ order: 3
 **이름 > 일반/그룹 관리** 클릭하여 권한 그룹 관리 페이지에서 권한 그룹의 생성, 수정, 삭제가 가능합니다.
 
 ![Gamebase-for-aws_project-member](./image/console_Gamebase-for-aws_member-03-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 권한 그룹 관리 화면
-    구성: 권한 그룹 관리 탭에서 좌측에 그룹 선택 영역(Gamebase Admin, 게임 운영자, 테스트 등 그룹 목록과 추가 버튼), 우측에 그룹 수정 영역(그룹명, 설명, Gamebase/Analytics 등 서비스별 Read/All 권한 체크박스)이 표시되며 하단에 저장 버튼이 위치
-    Keyword: 권한그룹, 그룹관리, 권한설정, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 그룹 권한 관리 화면
+    구성: Gamebase for AWS 콘솔의 그룹 권한 관리 기능 설정/조회 화면 스크린샷
+    Keyword: AWS Console, Console, Screenshot, 그룹 권한 관리
 -->
 1. 추가하고자 하는 그룹명을 입력하고 **추가** 버튼을 클릭합니다.
 2. 추가된 그룹명을 선택하면 화면의 오른쪽에 그룹의 권한을 수정할 수 있는 화면이 표시됩니다.

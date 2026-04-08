@@ -1,10 +1,10 @@
 ---
 source: oper-operation.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notice, Game notice"
 section: "Game notice"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Oper, Operation
 ---
 
 ## Game notice
@@ -14,11 +14,11 @@ order: 3
 게임 공지 메시지의 게시 상태와 제목으로 게임 공지 검색이 가능합니다. 
 
 ![gamebase_op_img](./image/gamebase_maintenance_01_ko_250415.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 게임 공지 목록 화면
-    구성: 상단에 '게임 공지 목록' 제목과 등록/게임 공지 설정 버튼이 있음. 상태, 제목, 게시 시간, 게시 시간(+09:00), 수정일 컬럼으로 구성된 게임 공지 이력 테이블이 배치되어 있으며, 상태 배지(예정, 노출 중, 종료)와 페이지네이션이 있음
-    Keyword: 게임 공지, 목록, 예정, 노출 중, 종료, 게시 시간
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Game notice
 -->
 
 (1) **상태**: 게임 내 게임 공지의 게시 상태를 기준으로 게임 공지 목록 검색이 가능합니다.
@@ -39,11 +39,11 @@ order: 3
 
 ### Register Game notice
 ![gamebase_op_img](./image/gamebase_maintenance_02_ko_250415.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 게임 공지 등록 화면
-    구성: 대상(전체/일부 클라이언트), 대상 국가(전체/일부), 게시 기간(Timezone, 시작/종료 시각), 공지 내용 및 이미지(다국어별 제목, 내용, 이미지 업로드, 이미지 삭제) 설정 영역이 순서대로 배치됨. 하단에 취소, 저장 버튼이 있음
-    Keyword: 게임 공지, 등록, 대상, 게시 기간, 이미지 업로드
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Register Game notice
 -->
 
 **게임 공지** 목록에서 **등록** 버튼을 선택하면 게임 공지를 등록할 수 있습니다.
@@ -57,11 +57,11 @@ order: 3
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 노출을 원하는 클라이언트 버전을 선택한 뒤 **확인**을 클릭합니다.
   ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 운영 - 대상 클라이언트 선택 팝업
-    구성: 스토어별(App Store, Google Play 등) 각 상태의 버전 번호를 체크박스로 선택할 수 있는 테이블이 배치됨. 하단에 취소/확인 버튼이 있음
-    Keyword: 대상 클라이언트, 스토어, 버전 선택, 체크박스, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, (1) 대상
 -->
 
 
@@ -103,11 +103,11 @@ order: 3
 
 ### Modify Game notice Setting
 ![gamebase_op_img](./image/gamebase_maintenance_03_ko_250415.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 게임 공지 설정 화면
-    구성: '게임 공지 설정' 제목과 수정 버튼이 있음. 이미지 목록 사용 여부(사용)와 수정 정보(수정자/수정일) 항목이 표시됨
-    Keyword: 게임 공지 설정, 이미지 목록 사용, 수정 정보
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Modify Game notice Setting
 -->
 
 게임 공지의 기본적인 설정을 할 수 있으면, 설정한 정보는 모든 게임 공지에 일괄 적용됩니다.

@@ -1,10 +1,10 @@
 ---
 source: oper-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Push, Statistics"
-section: Statistics
+section: "Statistics"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Oper
 ---
 
 ## Statistics
@@ -18,11 +18,11 @@ order: 2
 
 ### 발송/수신
 ![push_05](./image/push_05_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push 통계 - 발송/수신 통계 화면
-    구성: 상단에 발송/수신, 토큰 등록, 수신 설정 탭이 있음. 발송률, 수신율 등 주요 수치와 원형 차트가 표시됨. 푸시 발송 리스트 테이블과 시간별 발송/수신 추이 꺾은선 그래프가 배치됨. 하단에 시간별 상세 데이터 테이블이 있음
-    Keyword: 푸시 통계, 발송/수신, 발송률, 수신율, 꺾은선 그래프
+    내용: Gamebase Push 콘솔 발송/수신 화면 #05
+    구성: Gamebase Push 콘솔의 발송/수신 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, 발송/수신
 -->
 
 1. 발송/수신 통계 
@@ -46,11 +46,11 @@ order: 2
 
 ### 토큰 등록
 ![push_6](./image/push_06_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push 통계 - 토큰 등록 통계 화면
-    구성: 상단에 토큰 등록 탭이 선택되어 있음. 유형별, 국가별, 언어별 토큰 등록 점유율을 나타내는 3개의 원형(파이) 차트가 있음. 하단에 국가별/언어별 토큰 등록/삭제 추이 꺾은선 그래프와 상세 데이터 테이블이 배치됨
-    Keyword: 토큰 등록, 통계, 원형차트, 국가별, 언어별
+    내용: Gamebase Push 콘솔 토큰 등록 화면 #06
+    구성: Gamebase Push 콘솔의 토큰 등록 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, 토큰 등록
 -->
 
 1. 토큰 등록 통계
@@ -70,11 +70,11 @@ order: 2
 ### 수신 설정
 선택된 기간 동안의 수신 설정 관련 통계를 보여줍니다.
 ![push_7](./image/push_07_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push 통계 - 수신 설정 통계 화면
-    구성: 상단에 수신 설정 탭이 선택되어 있음. 날짜 선택과 조회 기간(7일/당월/90일) 옵션이 있음. 정보성 동의, 광고 전체 거부, 야간 거부 등 수신 설정별 통계가 막대/꺾은선 복합 차트로 표시됨. 하단에 일시, 전체 동의, 전체 거부, 정보성 동의 광고 전체 거부 등의 상세 데이터 테이블이 배치됨
-    Keyword: 수신 설정, 통계, 정보성, 광고성, 야간 광고성
+    내용: Gamebase Push 콘솔 수신 설정 화면 #07
+    구성: Gamebase Push 콘솔의 수신 설정 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, 수신 설정
 -->
 
 |구분|정보성|광고성|야간 광고성|

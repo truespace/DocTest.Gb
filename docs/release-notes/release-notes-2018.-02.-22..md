@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.7.0, 기능추가, IdP"
 section: "2018. 02. 22."
 order: 84
+split: true
+created_date_time: 20260408_191848
+keyword: Authentication, Release Notes, 1.7.0
 ---
 
 ### 2018. 02. 22.

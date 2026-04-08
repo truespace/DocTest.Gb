@@ -1,8 +1,8 @@
 ---
 source: release-notes-server-api.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Server API, 신규, 버그수정, 기능개선, 기능추가, 변경, Withdraw, TransferAccount, Maintenance, Coupon"
+created_date_time: 20260408_191848
+keyword: Server API, Login, Logout, Mapping, Withdraw, Purchase, Console, Release Notes
 ---
 
 ## Game > Gamebase > 릴리스 노트 > Server API

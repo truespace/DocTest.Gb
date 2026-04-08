@@ -1,10 +1,10 @@
 ---
 source: ios-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Withdraw, IdP, withdrawWithViewController, isSuccessWithError"
-section: Withdraw
+section: "Withdraw"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Logout, Withdraw
 ---
 
 ## Withdraw

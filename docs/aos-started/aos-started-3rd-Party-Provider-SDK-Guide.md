@@ -1,10 +1,10 @@
 ---
 source: aos-started.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, 3rd-Party Provider SDK Guide"
 section: "3rd-Party Provider SDK Guide"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Authentication
 ---
 
 ## 3rd-Party Provider SDK Guide

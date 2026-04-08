@@ -1,10 +1,10 @@
 ---
 source: aos-started.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, Purchase, Push, AddEventHandler, Additional"
 section: "Recommended Flow"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Purchase, Push, Initialize, Authentication, Unity
 ---
 
 ## Recommended Flow
@@ -18,11 +18,11 @@ order: 3
 * 게임이 시작되었을 때 Gamebase 클라이언트 SDK를 초기화하고 로그인이 성공하면, 결제 재처리를 시작하고 푸시 토큰을 등록하세요.
 
 ![overview flow](./image/overview_flow_2.30.1.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: Gamebase SDK 초기화부터 게임 시작까지의 전체 권장 플로우
-    구성: Application Launched에서 시작하여 Gamebase.AddEventHandler() 호출, Initialization Flow, Login For LastLoggedInProvider Flow, Purchase Retry-Transaction Flow, Gamebase.Push.RegisterPush() 순서로 진행되어 최종적으로 Start Game에 도달하는 세로 방향 순서도
-    Keyword: Overview, 권장플로우, 초기화, 로그인, 결제재처리, 푸시등록, Gamebase, SDK
+    내용: Gamebase 앱 시작 시 Recommended Flow 흐름도
+    구성: 앱 실행부터 게임 시작까지의 권장 초기화 순서를 나타내는 세로형 플로차트. Application Launched -> Gamebase.AddEventHandler() -> Go to Initialization Flow -> Go to Login For LastLoggedInProvider Flow -> Go to Purchase Retry-Transaction Flow -> Gamebase.Push.RegisterPush() -> Start Game 순서로 진행
+    Keyword: Android, Flowchart, Recommended Flow
 -->
 
 * 상세 flow 는 다음 링크에서 확인할 수 있습니다.

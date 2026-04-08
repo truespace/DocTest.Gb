@@ -1,10 +1,10 @@
 ---
 source: aos-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, WebView, Contact, Error, requestContactURL, setUserName, isSuccess, RequestingPermissions, setAdditionalURL"
 section: "Additional Features > Contact"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, WebView, Contact, Error, Unity, Console
 ---
 
 ### Contact
@@ -29,11 +29,11 @@ Gamebase에서는 고객 문의 대응을 위한 기능을 제공합니다.
 
 **Gamebase 콘솔 > App > Customer service**에서는 아래와 같이 3가지 유형의 고객 센터를 선택할 수 있습니다.
 ![](./image/etc_customer_center_001_2.16.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 콘솔의 Customer service 설정 화면에서 고객 센터 유형을 선택하는 드롭다운 메뉴
-    구성: Type 필드에 드롭다운이 열려 있으며, Developer customer center, Gamebase customer center(선택됨), NHN Cloud Online Contact 세 가지 옵션이 표시됨. Customer service URL 필드도 함께 보임
-    Keyword: 고객센터, CustomerService, 콘솔, 드롭다운, Gamebase, NHN Cloud, Online Contact
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Customer Service Type 관련 화면
+    구성: Customer Service Type 관련 스크린샷
+    Keyword: Android, Screenshot, Customer Service Type
 -->
 
 | Customer Service Type     | Required Login |
@@ -156,16 +156,16 @@ Gamebase.Contact.requestContactURL(configuration, new GamebaseDataCallback<Strin
 
 고객 센터 유형이 'NHN Cloud 조직 상품'인 경우 '추가 파라미터' 항목의 Key에 **from**, Value에 **app**을 입력하면 파일 첨부 시 타입 선택 팝업이 표시됩니다.
 ![](./image/etc_customer_center_002_2.53.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: NHN Cloud Online Contact 유형의 고객 센터 설정 화면에서 추가 파라미터를 설정하는 콘솔 UI
-    구성: Type에 NHN Cloud Online Contact가 선택되어 있고, Customer service URL, Contact, OC Organization Key 필드가 표시됨. Additional Parameters 항목에 Key=from, Value=app이 빨간 박스로 강조 표시되어 있음
-    Keyword: 고객센터, NHN Cloud, Online Contact, 추가파라미터, from, app, 콘솔설정
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: File Attach Type Popup 관련 화면
+    구성: File Attach Type Popup 관련 스크린샷
+    Keyword: Android, Screenshot, File Attach Type Popup
 -->
 ![](./image/etc_customer_center_003_2.53.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 고객 센터 문의 시 파일 첨부 타입 선택 팝업과 첨부파일 안내 화면
-    구성: 상단에 앨범, 카메라, 저장소 세 가지 옵션이 빨간 박스로 강조된 팝업이 표시되고, 하단에 첨부파일 버튼과 함께 10MB 이내 파일 최대 5개까지 첨부 가능하다는 안내 문구(지원 확장자: jpg, png, gif, bmp, jpeg, pdf, txt, hwp, xls, xlsx, doc, docx, ppt, pptx, mp3, wav, zip)가 표시됨
-    Keyword: 파일첨부, 첨부파일, 앨범, 카메라, 저장소, 고객센터, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: File Attach Type Popup 관련 화면
+    구성: File Attach Type Popup 관련 스크린샷
+    Keyword: Android, Screenshot, File Attach Type Popup
 -->

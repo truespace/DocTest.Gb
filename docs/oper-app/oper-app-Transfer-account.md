@@ -1,10 +1,10 @@
 ---
 source: oper-app.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Transfer account, Properties"
 section: "Transfer account"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, Oper
 ---
 
 ## Transfer account
@@ -13,21 +13,21 @@ order: 6
 **단말기 이전** 기능은 기본적으로 비활성화되어 있습니다. 사용하려면 **단말기 이전**에서 **사용하기**를 클릭합니다.
 
 ![gamebase_transfer_account_01_ko_240105](./image/gamebase_transfer_account_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 단말기 이전 기능 초기 화면
-    구성: '단말기 이전' 제목과 설명 텍스트, '단말기 이전 기능' 라벨 옆에 파란색 '사용' 버튼이 표시됨. 기능이 비활성화된 초기 상태.
-    Keyword: 단말기 이전, 사용 버튼, 기능 활성화, Gamebase 콘솔
+    내용: Gamebase 앱 설정 콘솔 Transfer account 화면 #01
+    구성: Gamebase 앱 설정 콘솔의 Transfer account 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, Transfer account
 -->
 
 **사용하기** 버튼을 클릭한 후 단말기 이전에 필요한 정보를 입력합니다.
 
 ![gamebase_transfer_account_02_ko_240105](./image/gamebase_transfer_account_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 단말기 이전 설정 입력 폼
-    구성: 발급 섹션(ID 자동 발급 형식, 비밀번호 자동 발급 형식)과 검증 섹션(단말기 이전 횟수, 유효 기간, 실패 시 재검증 차단 여부, 차단 기준 횟수, 차단 기간)으로 구분됨. 하단에 취소 및 저장 버튼 존재.
-    Keyword: 단말기 이전, 발급 설정, 검증 설정, ID 형식, 비밀번호 형식
+    내용: Gamebase 앱 설정 콘솔 Transfer account 화면 #02
+    구성: Gamebase 앱 설정 콘솔의 Transfer account 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, Transfer account
 -->
 각 항목에 대한 설명은 아래와 같습니다.
 
@@ -63,11 +63,11 @@ order: 6
 
 #### 초기 설정 완료 이후
 ![gamebase_transfer_account_03_ko_240105](./image/gamebase_transfer_account_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 단말기 이전 설정 완료 후 화면
-    구성: 단말기 이전 기능 옆에 '사용 안 함' 버튼 표시. 발급 섹션에 ID 자동 발급 형식(숫자+소문자+대문자)과 비밀번호 자동 발급 형식이 설정된 상태. 검증 섹션에 단말기 이전 횟수(일회성), 유효 기간(제한 없음), 실패 시 재검증 차단 여부 항목이 표시됨.
-    Keyword: 단말기 이전, 설정 완료, 비활성화, 발급 형식, 검증 조건
+    내용: Gamebase 앱 설정 콘솔 초기 설정 완료 이후 화면 #03
+    구성: Gamebase 앱 설정 콘솔의 초기 설정 완료 이후 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, 초기 설정 완료 이후
 -->
 최초 설정이 완료되면 게임 유저는 단말기 이전 기능의 비활성화만 가능하며 설정 변경이 필요할 경우 고객 센터에 문의하시기 바랍니다.
 **사용 안함** 버튼을 클릭하여 기능을 비활성화할 수 있고 기존에 발급된 단말기 이전 키는 모두 삭제되기 때문에 활성화 이후에는 비활성화 여부를 신중하게 선택해야 합니다.

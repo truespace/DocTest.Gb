@@ -1,10 +1,10 @@
 ---
 source: unreal-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, Withdraw, TemporaryWithdrawal, Error, Guest, RequestWithdrawal, WithdrawImmediately, GetSubsystem, GetGameInstance"
-section: TemporaryWithdrawal
+section: "TemporaryWithdrawal"
 order: 7
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Withdraw, TemporaryWithdrawal, Console
 ---
 
 ## TemporaryWithdrawal

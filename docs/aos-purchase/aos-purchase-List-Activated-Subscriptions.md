@@ -1,10 +1,10 @@
 ---
 source: aos-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Purchase, Subscription, Error, IAP, setAllStores, requestActivatedPurchases, isSuccess, getMessage"
 section: "List Activated Subscriptions"
 order: 8
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, Consume
 ---
 
 ### List Activated Subscriptions

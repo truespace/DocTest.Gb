@@ -1,10 +1,10 @@
 ---
 source: unity-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, Logout, Purchase, Push, WebView, Initialize, Maintenance, EventHandler, Error"
 section: "Additional Features > Gamebase Event Handler"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Logout, Mapping, Withdraw, Purchase, Android, iOS
 ---
 
 ### Gamebase Event Handler

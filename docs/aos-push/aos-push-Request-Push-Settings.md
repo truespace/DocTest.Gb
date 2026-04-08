@@ -1,10 +1,10 @@
 ---
 source: aos-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Push, queryTokenInfo, isSuccess, registeredDateTime"
 section: "Request Push Settings"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Push, Alert
 ---
 
 ### Request Push Settings

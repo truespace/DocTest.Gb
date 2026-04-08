@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.69.0, 버그수정, 기능개선, 기능추가, 변경, Push"
 section: "2.69.0 (2025. 01. 21.)"
 order: 16
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Push, WebView, Initialize, Release Notes, 2.69.0
 ---
 
 ### 2.69.0 (2025. 01. 21.)

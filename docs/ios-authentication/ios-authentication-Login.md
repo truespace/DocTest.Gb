@@ -1,10 +1,10 @@
 ---
 source: ios-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Login, Guest, IdP, loginWithType, additionalInfo, loginForLastLoggedInProviderWithViewController, isSuccessWithError, LoginCompletion, LoginForLastLoggedInProvider"
-section: Login
+section: "Login"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Logout, Initialize, Authentication, Error, Console
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > 인증
@@ -40,18 +40,18 @@ AdditionalInfo에 대한 설명은 하단의 **Gamebase에서 지원 중인 IdP*
 위에서 설명한 로직은 다음과 같은 순서로 구현할 수 있습니다.
 
 ![last provider login flow](./image/login_for_last_logged_in_provider_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: 마지막 로그인 제공자(LastLoggedInProvider)를 통한 로그인 흐름도
-    구성: Start에서 시작하여 LoginForLastLoggedInProvider 호출 후 성공/실패 분기, SOCKET_RESPONSE_TIMEOUT 등 에러코드 판별, Retry 여부 결정, 최종적으로 성공 시 게임 진입, 실패 시 IdP 로그인 또는 Guest 로그인으로 분기하는 플로우차트
-    Keyword: 로그인, LastLoggedInProvider, 인증, 플로우차트, Gamebase
+    내용: 최근 로그인 Provider 자동 로그인 흐름도
+    구성: 마지막으로 로그인한 Provider 정보를 이용한 자동 로그인 처리 흐름
+    Keyword: Flowchart, Login Flow
 -->
 ![idp login flow](./image/idp_login_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: IdP(Identity Provider) 로그인 흐름도
-    구성: Start에서 LoginWithIdP 호출 후 성공/실패 분기, LoggedIn 상태와 IdP 종류 확인, SOCKET_RESPONSE_TIMEOUT 에러 처리, Retry 로직, 성공 시 게임 진입, 실패 시 에러 표시 또는 Guest 로그인으로 분기하는 플로우차트
-    Keyword: IdP, 로그인, 인증, 플로우차트, Gamebase
+    내용: IdP 로그인 처리 흐름도
+    구성: Gamebase SDK의 IdP 로그인 요청부터 인증 결과 반환까지의 처리 흐름을 나타내는 순서도
+    Keyword: Flowchart, Login Flow
 -->
 
 #### 1. 이전 로그인 유형으로 인증

@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "XCode, 신규, 기능추가"
 section: "2021. 01. 12."
 order: 10
+split: true
+created_date_time: 20260408_191848
+keyword: Push, Authentication, Console, Release Notes
 ---
 
 ### 2021. 01. 12.

@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Initialize, GetSubsystem, GetGameInstance"
-section: 2.66.0
+section: "2.66.0"
 order: 16
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Upgrade Guide, 2.66.0
 ---
 
 ## 2.66.0

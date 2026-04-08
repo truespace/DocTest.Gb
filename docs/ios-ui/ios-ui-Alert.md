@@ -1,10 +1,10 @@
 ---
 source: ios-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Alert, showAlertWithTitle, showAlertWithCompletion, showAlertWitoutCompletion, showActionSheet, showActionSheetWithTitle"
-section: Alert
+section: "Alert"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Alert, Ios
 ---
 
 ## Alert

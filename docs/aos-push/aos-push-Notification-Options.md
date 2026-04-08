@@ -1,10 +1,10 @@
 ---
 source: aos-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Push, Notification, getNotificationOptions, setPriority, setSmallIconName, setSoundFileName, isSuccess"
 section: "Notification Options"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Push, Alert, Initialize, RegisterPush
 ---
 
 ### Notification Options

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.59.0, 버그수정, 기능개선, 변경"
 section: "2.59.0 (2023. 12. 19.)"
 order: 31
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Release Notes, 2.59.0
 ---
 
 ### 2.59.0 (2023. 12. 19.)

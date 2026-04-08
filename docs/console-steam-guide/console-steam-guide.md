@@ -1,8 +1,8 @@
 ---
 source: console-steam-guide.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, Purchase, ISteamMicroTxn"
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Steam
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Steam 콘솔 가이드
@@ -21,11 +21,11 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 
 
 ![Gamebase 스토어 설정](./image/steam_register_01_ko_241028.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 스토어 설정
-    구성: 'Gamebase 스토어 설정' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Console, Purchase, Setting, Steam, Store
+    내용: Steam 스토어 콘솔 기본 정보 입력 화면 #01
+    구성: Steam 스토어 콘솔의 기본 정보 입력 기능 설정/조회 화면 스크린샷
+    Keyword: Steam, Console, Screenshot, 기본 정보 입력
 -->
 
 
@@ -35,11 +35,11 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 * **Steamworks > App Admin >** (프로젝트 명)에 표시된 앱 ID를 입력합니다.
 
 ![Steam 스토어 앱 ID](./image/steam_console_app_02_kor.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Steam 스토어 앱 ID
-    구성: 'Steam 스토어 앱 ID' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: App, Console, Steam, Store
+    내용: Steam 스토어 콘솔 Steam 스토어 앱 ID 화면 #02
+    구성: Steam 스토어 콘솔의 Steam 스토어 앱 ID 기능 설정/조회 화면 스크린샷
+    Keyword: Steam, Console, Screenshot, Steam 스토어 앱 ID
 -->
 
 
@@ -50,11 +50,11 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
   * 보다 자세한 발급 방법은 [Steamworks Publisher Web API Key](https://partner.steamgames.com/doc/webapi_overview/auth)를 참고하세요.
 
 ![Steam Web API Key](./image/steam_console_app_03_kor.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Steam Web API Key
-    구성: 'Steam Web API Key' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: App, Console, Steam
+    내용: Steam 스토어 콘솔 Steam Web API Key 화면 #03
+    구성: Steam 스토어 콘솔의 Steam Web API Key 기능 설정/조회 화면 스크린샷
+    Keyword: Steam, Console, Screenshot, Steam Web API Key
 -->
 
 
@@ -66,11 +66,11 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 
 
 ![Steam 기본 통화](./image/steam_console_app_04_kor.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Steam 기본 통화
-    구성: 'Steam 기본 통화' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: App, Console, Setting, Steam
+    내용: Steam 스토어 콘솔 Steam 기본 통화 화면 #04
+    구성: Steam 스토어 콘솔의 Steam 기본 통화 기능 설정/조회 화면 스크린샷
+    Keyword: Steam, Console, Screenshot, Steam 기본 통화
 -->
 
 
@@ -80,11 +80,11 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 Gamebase는 [Steam Microtransaction API](https://partner.steamgames.com/doc/features/microtransactions)를 지원합니다.
 
 ![Gamebase 아이템 설정](./image/steam_item_01_ko_241028.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 아이템 설정
-    구성: 'Gamebase 아이템 설정' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Setting, Steam
+    내용: Steam 스토어 콘솔 판매 아이템 설정 화면 #01
+    구성: Steam 스토어 콘솔의 판매 아이템 설정 기능 설정/조회 화면 스크린샷
+    Keyword: Steam, Console, Screenshot, 판매 아이템 설정
 -->
 
 

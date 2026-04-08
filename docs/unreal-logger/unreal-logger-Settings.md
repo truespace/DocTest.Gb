@@ -1,10 +1,10 @@
 ---
 source: unreal-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Logger, Unreal SDK 사용 가이드"
-section: Settings
+section: "Settings"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Logger, Settings
 ---
 
 ## Game > Gamebase > Unreal SDK 사용 가이드 > Logger

@@ -1,10 +1,10 @@
 ---
 source: unreal-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Notification, Error, GetNotificationOptions, GetSubsystem, GetGameInstance, RegisterPushWithOption, IsSuccess"
 section: "Notification Options"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Push, Alert, Initialize, RegisterPush, Android
 ---
 
 ### Notification Options

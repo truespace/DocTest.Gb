@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.13.0, 버그수정, 기능개선, 변경"
 section: "2.13.0 (2020.07.28)"
 order: 87
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, WebView, ImageNotice, Error, Release Notes, 2.13.0
 ---
 
 ### 2.13.0 (2020.07.28)

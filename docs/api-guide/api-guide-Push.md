@@ -1,10 +1,10 @@
 ---
 source: api-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Server API, Push, Notification, Contact"
-section: Push
+section: "Push"
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: Server API, Mapping, Push
 ---
 
 ## Push

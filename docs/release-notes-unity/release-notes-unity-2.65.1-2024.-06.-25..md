@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.65.1, 버그수정, 기능개선, 변경, Notice"
 section: "2.65.1 (2024. 06. 25.)"
 order: 27
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, ImageNotice, Error, Android, iOS, Release Notes, 2.65.1
 ---
 
 ### 2.65.1 (2024. 06. 25.)

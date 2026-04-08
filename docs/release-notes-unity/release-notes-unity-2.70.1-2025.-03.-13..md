@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.70.1, 버그수정, 변경"
 section: "2.70.1 (2025. 03. 13.)"
 order: 16
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, ShowTermsView, ShowWebView, Android, iOS, Release Notes, 2.70.1
 ---
 
 ### 2.70.1 (2025. 03. 13.)

@@ -1,20 +1,20 @@
 ---
 source: oper-operation.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notice, Image notice"
 section: "Image notice"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Console, WebView, ImageNotice, Android
 ---
 
 ## Image notice
 
 ![gamebase_op_img](./image/gamebase_maintenance_08_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 이미지 공지 목록 화면
-    구성: 상단에 '이미지 공지 목록' 제목과 등록/이미지 공지 설정 버튼이 있음. 현재 진행 중인 공지 목록과 완료된 이미지 공지 목록이 구분되어 표시됨. 공지 이미지 섬네일, 사유, 노출 시간, 수정일, 클릭률(%) 컬럼이 있음
-    Keyword: 이미지 공지, 목록, 섬네일, 클릭률, 노출 시간
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Image notice
 -->
 
 콘솔에 이미지를 등록하여 게임 내에 이미지로 공지를 손쉽게 제공할 수 있습니다.
@@ -36,11 +36,11 @@ order: 4
 - **클릭률(%)**: 게임 내에 이미지 공지가 표시된 숫자와 이미지 공지를 실제 클릭한 숫자를 간단한 통계로 보여줍니다. 전체 비율에 대한 값을 표시해 주며 확인 버튼을 클릭하면 노출 기간 동안의 일별 노출 수와 클릭 수를 그래프를 통해 확인할 수 있습니다.
 	* 공지의 노출 기간 범위 내 사용자가 검색해 조회한 일자별 데이터는 파일로 다운로드하여 확인하실 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_09_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 이미지 공지 일별 클릭률 추이 팝업
-    구성: '일별 공지 클릭률 추이' 제목과 날짜 범위 선택이 있음. 막대 그래프(Count)와 꺾은선 그래프(Click rate)가 함께 표시되며, Export to(xls, csv, png, jpeg) 옵션이 있음. 하단에 확인 버튼이 배치됨
-    Keyword: 클릭률, 일별 추이, 막대그래프, Export, 이미지 공지
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, properties
 -->
 - **상태** : 표시 상태를 보여줍니다. 각 상태는 아래와 같습니다.
 ```
@@ -53,11 +53,11 @@ order: 4
 
 **이미지 공지** 목록에서 **등록** 버튼을 선택하면 이미지 공지를 등록할 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_250415.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 이미지 공지 등록 화면
-    구성: 대상(전체/일부 클라이언트), 대상 국가(전체/일부), 사유 입력란, 노출 기간(Timezone, 시작/종료 시각), 이미지(다국어별 이미지 업로드, 메모 입력), URL 열기/Payload/동작 없음 클릭 동작 설정이 순서대로 배치됨. 하단에 취소, 저장 버튼이 있음
-    Keyword: 이미지 공지, 등록, 대상, 이미지 업로드, 클릭 동작
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Register Image notice
 -->
 
 #### (1) 대상
@@ -69,11 +69,11 @@ order: 4
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 노출을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 운영 - 대상 클라이언트 선택 팝업
-    구성: 스토어별(App Store, Google Play 등) 각 상태의 버전 번호를 체크박스로 선택할 수 있는 테이블이 배치됨. 하단에 취소/확인 버튼이 있음
-    Keyword: 대상 클라이언트, 스토어, 버전 선택, 체크박스, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, (1) 대상
 -->
 
 
@@ -129,11 +129,11 @@ order: 4
 
 ### Modify Image notice setting
 ![gamebase_op_img](./image/gamebase_maintenance_10_ko_240709.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 이미지 공지 팝업 설정 화면
-    구성: '이미지 공지 팝업' 제목과 수정 버튼이 있음. 팝업 타입(롤링 팝업), 오늘은 그만 보기(사용 여부, 색상 테마: 라이트 모드, 팝업 재 노출 설정: 시간), 수정 정보(수정자/수정일) 항목이 표시됨
-    Keyword: 이미지 공지 설정, 팝업 타입, 오늘은 그만 보기, 색상 테마, 롤링
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Modify Image notice setting
 -->
 이미지 공지 팝업의 기본적인 설정을 할 수 있으며, 설정한 정보는 모든 이미지 공지에 일괄 적용됩니다.
 

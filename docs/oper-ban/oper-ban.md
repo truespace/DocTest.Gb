@@ -1,8 +1,8 @@
 ---
 source: oper-ban.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, Ban, 이용 정지"
+created_date_time: 20260408_191848
+keyword: Console, Login, Oper
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 이용 정지
@@ -24,11 +24,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 검색 조건에 맞는 이용 정지/이용 정지 해제 게임 유저 목록을 조회합니다.
 
 ![gamebase_ban_01](./image/gamebase_ban_01_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_01
-    구성: 'gamebase_ban_01' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: 이용 정지 팝업 화면
+    구성: 이용 정지된 사용자에게 표시되는 Gamebase 팝업 화면
+    Keyword: 이용정지, Screenshot, Search Banned User
 -->
 
 **검색 조건**
@@ -77,11 +77,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 이용 정지 조회 화면에서 **등록** 버튼을 클릭하면 이용 정지 등록이 가능합니다.
 
 ![gamebase_ban_02](./image/gamebase_ban_02_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_02
-    구성: 'gamebase_ban_02' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 Register Ban 화면 #02
+    구성: Gamebase 이용정지 콘솔의 Register Ban 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, Register Ban
 -->
 #### (1) 유저 ID
 이용 정지를 등록할 Gamebase 유저 아이디를 입력합니다. 한 번에 다수의 유저를 등록할 수 있으며, 등록 방법은 아래 두가지입니다.
@@ -89,22 +89,22 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 - **사용자 입력**: 등록할 유저 아이디를 입력 창에 직접 입력한 후 **Enter** 키를 누르거나 **추가** 버튼을 클릭합니다. 유저 아이디 유효성을 검사하므로 유효하지 않은 유저 아이디는 입력이 불가능합니다.
 - **일괄 등록**: CSV 파일만 업로드할 수 있으며 예시 파일은 Console 화면에서 다운로드할 수 있습니다. 일괄 등록은 1회 최대 10,000명까지 가능합니다.
   ![gamebase_ban_03](./image/gamebase_ban_03_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_03
-    구성: 'gamebase_ban_03' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban, Console
+    내용: Gamebase 이용정지 콘솔 (1) 유저 ID 화면 #03
+    구성: Gamebase 이용정지 콘솔의 (1) 유저 ID 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, (1) 유저 ID
 -->
 
 > [참고]</br>
 >
 > 일괄 등록을 진행하다가 실패하면 팝업이 표시됩니다. 해당 팝업에서 **Download** 버튼을 클릭하면 등록에 실패한 유저 목록을 파일로 다운로드할 수 있습니다.  
 > ![gamebase_ban_04](./image/gamebase_ban_04_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_04
-    구성: 'gamebase_ban_04' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban, Setting
+    내용: Gamebase 이용정지 콘솔 (1) 유저 ID 화면 #04
+    구성: Gamebase 이용정지 콘솔의 (1) 유저 ID 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, (1) 유저 ID
 -->
 
 #### (2) 기간
@@ -135,11 +135,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 이용 정지 조회 화면에서 **해제** 버튼을 클릭하면 이용 정지를 해제할 수 있습니다.
 
 ![gamebase_ban_05](./image/gamebase_ban_05_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_05
-    구성: 'gamebase_ban_05' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 Release Ban 화면 #05
+    구성: Gamebase 이용정지 콘솔의 Release Ban 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, Release Ban
 -->
 
 #### 해제 사유
@@ -153,11 +153,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 - **일괄 등록**: CSV 파일만 업로드할 수 있으며 예시 파일은 Console 화면에서 다운로드할 수 있습니다. 일괄 등록은 1회 최대 10,000명까지 가능합니다.
 
 ![gamebase_ban_06](./image/gamebase_ban_06_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_06
-    구성: 'gamebase_ban_06' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban, Console
+    내용: Gamebase 이용정지 콘솔 유저 ID 화면 #06
+    구성: Gamebase 이용정지 콘솔의 유저 ID 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, 유저 ID
 -->
 
 
@@ -165,11 +165,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 >
 > 일괄 등록을 진행하다가 실패하면 팝업이 표시됩니다. 해당 팝업에서 **Download** 버튼을 클릭하면 등록에 실패한 시용자 목록을 파일로 다운로드할 수 있습니다.  
 > ![gamebase_ban_04_201812](./image/gamebase_ban_04_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_04_201812
-    구성: 'gamebase_ban_04_201812' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 유저 ID 화면 #04
+    구성: Gamebase 이용정지 콘솔의 유저 ID 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, 유저 ID
 -->
 
 ## Template
@@ -182,22 +182,22 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 새 템플릿을 등록하거나 등록된 템플릿을 수정할 수 있으며, 등록된 템플릿을 삭제할 수는 없습니다.
 
 ![gamebase_ban_07](./image/gamebase_ban_08_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_07
-    구성: 'gamebase_ban_07' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 Search 화면 #08
+    구성: Gamebase 이용정지 콘솔의 Search 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, Search
 -->
 
 - 템플릿 목록화면에서 노출메시지 항목에는 템플릿 등록시 '기본 언어'로 입력한 노출 메시지가 표시됩니다.
 
 ### Register Template
 ![gamebase_ban_09](./image/gamebase_ban_09_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_09
-    구성: 'gamebase_ban_09' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 Register Template 화면 #09
+    구성: Gamebase 이용정지 콘솔의 Register Template 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, Register Template
 -->
 
 #### (1) 이름
@@ -214,11 +214,11 @@ AppGuard를 연동하는 방법은 [AppGuard](../oper-ban.md#appguard)를 참고
 > AppGuard 연동 기능은 NHN Cloud에서 해당 기능을 적용하려는 서비스와 동일한 프로젝트에 NHN AppGuard 서비스를 활성화한 경우에만 이용할 수 있습니다.
 
 ![gamebase_ban_10](./image/gamebase_ban_10_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_ban_10
-    구성: 'gamebase_ban_10' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Ban
+    내용: Gamebase 이용정지 콘솔 AppGuard 화면 #10
+    구성: Gamebase 이용정지 콘솔의 AppGuard 기능 설정/조회 화면 스크린샷
+    Keyword: 이용정지, Console, Screenshot, AppGuard
 -->
 
 - **연동 여부**: AppGuard에서 탐지 또는 제재된 유저를 자동으로 Gamebase 이용 정지 유저로 등록하고자 하는 경우에 활성화합니다.

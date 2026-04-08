@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.13.0, 기능추가"
 section: "2.13.0 (2020.07.28)"
 order: 94
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Authentication, Release Notes, 2.13.0
 ---
 
 ### 2.13.0 (2020.07.28)

@@ -1,10 +1,10 @@
 ---
 source: oper-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, IAP, Product"
-section: Product
+section: "Product"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Oper
 ---
 
 ## Product
@@ -17,11 +17,11 @@ order: 3
 - (3) **스토어 아이템 상태 변경** : 하나의 스토어 아이템 ID로 등록된 상품들의 사용 여부를 한번에 변경할 수 있습니다.
 
 ![purchase_05](./image/purchase_05_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 상품 목록 화면
-    구성: 상단에 상품 탭이 선택되어 있고, 사용 여부, 스토어, 상품 ID 등 검색 필터와 조회 버튼이 있음. 스토어, 상품 ID, 상품 이름, 스토어 아이템 ID, 사용 여부, 상품 유형, 수정일 컬럼으로 구성된 상품 목록 테이블이 배치됨
-    Keyword: 상품 목록, IAP, 상품 ID, 스토어 아이템, 사용 여부
+    내용: Gamebase 결제 콘솔 Product 화면 #05
+    구성: Gamebase 결제 콘솔의 Product 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Product
 -->
 
 ### Register
@@ -29,11 +29,11 @@ order: 3
 새로운 상품을 등록하려면 **상품 목록** 화면의 **등록** 버튼을 클릭합니다.
 #### 1. 직접 입력을 이용한 등록 방법
 ![purchase_06](./image/purchase_06_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 상품 등록 화면 (직접 입력)
-    구성: '상품 등록' 제목과 입력 형태(직접 입력 선택) 옵션이 있음. Gamebase 상품 섹션에 상품 ID, 상품 이름, 사용 여부 입력란과 + 버튼이 있음. 외부 스토어 아이템 정보 섹션에 스토어 선택, 스토어 아이템 ID, 상품 유형 입력란이 있음. 하단에 취소/저장 버튼이 배치됨
-    Keyword: 상품 등록, 직접 입력, 상품 ID, 스토어 아이템, 상품 유형
+    내용: Gamebase 결제 콘솔 1. 직접 입력을 이용한 등록 방법 화면 #06
+    구성: Gamebase 결제 콘솔의 1. 직접 입력을 이용한 등록 방법 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 1. 직접 입력을 이용한 등록 방법
 -->
 
 * (1) **상품 ID** : 결제 요청시 사용 할 상품 ID를 입력합니다. 해당 ID를 통해 SDK에서 구매 API를 호출해야 입력한 상품으로 구매가 진행됩니다.
@@ -46,11 +46,11 @@ order: 3
 
 #### 2. 파일 업로드를 이용한 등록 방법
 ![purchase_07](./image/purchase_07_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 상품 등록 화면 (파일 업로드)
-    구성: '상품 등록' 제목과 입력 형태(파일 업로드 선택) 옵션이 있음. 파일 선택/포맷의 예시 파일 링크와 드래그앤드롭 파일 업로드 영역이 있음. 파일 등록 시 주의사항(최대 1,000개, UTF-8 인코딩 등)이 표시됨. 하단에 취소/저장 버튼이 배치됨
-    Keyword: 상품 등록, 파일 업로드, 드래그앤드롭, 대량 등록
+    내용: Gamebase 결제 콘솔 2. 파일 업로드를 이용한 등록 방법 화면 #07
+    구성: Gamebase 결제 콘솔의 2. 파일 업로드를 이용한 등록 방법 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 2. 파일 업로드를 이용한 등록 방법
 -->
 
 * 파일 업로드를 통해 상품 등록을 진행할 수 있습니다.
@@ -64,11 +64,11 @@ order: 3
 
 조회 목록에서 등록된 상품의 상세 정보를 조회하거나 정보를 변경할 수 있습니다.
 ![purchase_08](./image/purchase_08_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 상품 정보 상세 화면
-    구성: '상품 정보' 제목과 수정 버튼이 있음. Gamebase 상품 섹션에 상품 ID, 상품 이름, 사용 여부가 표시됨. 외부 스토어 아이템 정보 섹션에 스토어(App Store), 스토어 아이템 ID, 상품 유형(일회성), 아이템 ID 정보가 표시됨. 하단에 목록 버튼이 배치됨
-    Keyword: 상품 상세, 상품 ID, 스토어 아이템, App Store, 일회성
+    내용: Gamebase 결제 콘솔 Modify 화면 #08
+    구성: Gamebase 결제 콘솔의 Modify 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Modify
 -->
 - 조회 목록에서 각 아이템을 선택하면 등록된 아이템의 상세 정보를 조회할 수 있습니다.
 - **수정** 버튼을 클릭하면 스토어와 아이템 번호 및 상품 유형을 제외한 나머지 정보를 변경할 수 있습니다.

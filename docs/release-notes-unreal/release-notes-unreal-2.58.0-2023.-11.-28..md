@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.58.0, 버그수정, 변경"
 section: "2.58.0 (2023. 11. 28.)"
 order: 27
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Push, Initialize, Android, iOS, Release Notes, 2.58.0
 ---
 
 ### 2.58.0 (2023. 11. 28.)

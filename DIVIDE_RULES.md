@@ -10,14 +10,14 @@
     - 이 경우 분할은 하지 않고, index 파일이 분할 대상이 되는 파일 처럼 폴더를 만들고 동일한 구조로 복사한 후 참조하는 형태가 된다.
     - 분할되지 않더라도 frontmatter를 포함하여 생성한다.
 3. index 파일은 다음과 같은 규칙을 갖는다.
-    - index 파일은 원본 파일이 있는 `ko`폴더 상위 폴더로 이동한 뒤`docs/` 폴더에 직접 생성한다.
-        - 예: `원본경로/../docs/aos-authentication.md`
+    - index 파일은 프로젝트 루트의 `docs/` 폴더에 직접 생성한다.
+        - 예: `docs/aos-authentication.md`
     - index 파일은 frontmatter를 포함하여 생성하며, 이는 index 파일과 index 파일이 관리하는 분할된 파일들의 정보 변경을 확인하기 위한 용도로 사용된다.
     - index 파일의 내용은 테이블로 관리된다.
     - index 파일에 생성된 분할된 파일을 가리키는 순서는 원본 가이드 문서의 내용 순서와 동일해야 한다.
 4. 분할된 파일은 `docs/{기능명}/` 폴더에 생성된다.
     - `{기능명}`은 원본 파일명(확장자 제외)으로 설정한다.
-        - 예: `원본경로/../docs/aos-authentication/aos-authentication-Login.md`
+        - 예: `docs/aos-authentication/aos-authentication-Login.md`
     - 분할 기준 헤더 레벨:
         - 문서에 h1이 1개뿐인 경우: h2를 기준으로 분할한다.
         - 문서에 h1이 여러 개인 경우: h1을 기준으로 분할한다.
@@ -72,9 +72,9 @@
             Keyword: {검색을 위한 키워드 등록. ','로 구분}
         -->
         ```
-8. 분할 작업 후 `원본경로/../history/` 폴더 구조의 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
+8. 분할 작업 후 프로젝트 루트의 `history/` 폴더에 구조 스냅샷을 `HISTORY_STRUCTURE_{날짜}_{시간}.md` 파일로 생성한다.
     - 파일명 형식: `HISTORY_STRUCTURE_YYYYMMDD_HHMMSS.md`
-    - 파일 위치: 원본 파일 상위에 history 폴더에 생성(없으면 history 폴더 생성) (예: `history/HISTORY_STRUCTURE_20260403_144621.md`)
+    - 파일 위치: `history/` 폴더에 생성 (없으면 폴더 생성) (예: `history/HISTORY_STRUCTURE_20260403_144621.md`)
     - 파일 내용:
         - frontmatter: 생성일시, 디렉터리/파일 수 등 통계 정보
         - 통계 테이블: 디렉터리, 전체 파일, index 파일, 분할 파일, 이미지 파일 수

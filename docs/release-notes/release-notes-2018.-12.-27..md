@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.14.5, 기능개선, 기능추가, 변경, 제거, Purchase, Push, WebView, IAP, Launching"
 section: "2018. 12. 27."
 order: 64
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Purchase, Push, WebView, Authentication, RequestRetryTransaction, Console, Release Notes, 1.14.5
 ---
 
 ### 2018. 12. 27.

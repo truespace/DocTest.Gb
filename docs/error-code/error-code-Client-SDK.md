@@ -1,10 +1,10 @@
 ---
 source: error-code.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Login, Logout, Mapping, Purchase, Push, WebView, TransferAccount, Maintenance, Notice, TermsView"
 section: "Client SDK"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Logout, Mapping, Withdraw, Purchase, Android, iOS, Error Code
 ---
 
 ## Game > Gamebase > 오류 코드

@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.21.0, 기능개선, 기능추가, 변경"
 section: "2.21.0 (2021.04.13)"
 order: 79
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Authentication, ShowWebView, Release Notes, 2.21.0
 ---
 
 ### 2.21.0 (2021.04.13)

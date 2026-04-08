@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 기능추가, 2024. 03. 26."
 section: "2024. 03. 26."
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Authentication, Release Notes
 ---
 
 ### 2024. 03. 26.

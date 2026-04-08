@@ -1,10 +1,10 @@
 ---
 source: Overview.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Overview, Platform Guide, Client Developer's Guide"
 section: "Platform Guide"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Android, iOS, Overview
 ---
 
 ## Platform Guide

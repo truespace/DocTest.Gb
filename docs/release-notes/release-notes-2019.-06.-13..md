@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.4.1, 버그수정, Analytics"
 section: "2019. 06. 13."
 order: 55
+split: true
+created_date_time: 20260408_191848
+keyword: Analytics, iOS, Release Notes, 2.4.1
 ---
 
 ### 2019. 06. 13.

@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.6.0, 버그수정"
 section: "1.6.0 (2018.01.25)"
 order: 132
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, WebView, Release Notes, 1.6.0
 ---
 
 ### 1.6.0 (2018.01.25) 

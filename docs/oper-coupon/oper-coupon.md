@@ -1,8 +1,8 @@
 ---
 source: oper-coupon.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, Coupon, 쿠폰"
+created_date_time: 20260408_191848
+keyword: Console, Coupon, Oper
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 쿠폰
@@ -18,11 +18,11 @@ keyword: "Console, Coupon, 쿠폰"
 검색 조건에 맞는 쿠폰 발급 내역을 검색합니다.
 
 ![gamebase_coupon_01](./image/gamebase_coupon_01_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_01
-    구성: 'gamebase_coupon_01' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 Search Coupon publish 화면 #01
+    구성: Gamebase 쿠폰 콘솔의 Search Coupon publish 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, Search Coupon publish
 -->
 
 **검색 조건**
@@ -49,11 +49,11 @@ keyword: "Console, Coupon, 쿠폰"
 쿠폰 발급 검색 화면에서 **등록** 버튼을 클릭하면 쿠폰 발급을 진행할 수 있습니다.
 
 ![gamebase_coupon_02](./image/gamebase_coupon_02_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_02
-    구성: 'gamebase_coupon_02' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 Publish coupon 화면 #02
+    구성: Gamebase 쿠폰 콘솔의 Publish coupon 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, Publish coupon
 -->
 
 #### 1. 쿠폰 타입
@@ -110,11 +110,11 @@ keyword: "Console, Coupon, 쿠폰"
 이미 발급한 쿠폰 코드 타입은 수정할 수 없으므로 새 타입의 쿠폰을 발급하려면 발급 정보를 새로 등록해야 합니다.
 
 ![gamebase_coupon_03](./image/gamebase_coupon_03_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_03
-    구성: 'gamebase_coupon_03' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 Update publish coupon 화면 #03
+    구성: Gamebase 쿠폰 콘솔의 Update publish coupon 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, Update publish coupon
 -->
 
 #### 1. 쿠폰명
@@ -145,11 +145,11 @@ keyword: "Console, Coupon, 쿠폰"
 발급된 쿠폰 정보를 이용하여 유저에게 직접 쿠폰을 발송할 수 있는 기능을 제공합니다.
 
 ![gamebase_coupon_04](./image/gamebase_coupon_04_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_04
-    구성: 'gamebase_coupon_04' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 6. 쿠폰 발송 화면 #04
+    구성: Gamebase 쿠폰 콘솔의 6. 쿠폰 발송 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 6. 쿠폰 발송
 -->
 ##### (1) 발송 유형 : 발송 유형을 선택합니다. MMS/SMS를 지원하며 MMS의 경우 제목을 추가로 입력하여 발송해야 합니다.
 
@@ -183,21 +183,21 @@ keyword: "Console, Coupon, 쿠폰"
 쿠폰 타입이 시리얼인 경우 1회 10만 개씩 최대 100만 개까지(초기 발급 개수 포함) 추가로 발급받을 수 있습니다.
 
 ![gamebase_coupon_05](./image/gamebase_coupon_05_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_05
-    구성: 'gamebase_coupon_05' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 7. 쿠폰 추가 발급 화면 #05
+    구성: Gamebase 쿠폰 콘솔의 7. 쿠폰 추가 발급 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 7. 쿠폰 추가 발급
 -->
 
 #### 8. 쿠폰 통계
 쿠폰 발급 상세 정보 화면의 하단에서 SMS 발송 내역을 조회할 수 있으며 발송과 관련된 통계를 조회 및 파일 다운로드를 진행할 수 있습니다.
 ![gamebase_coupon_06](./image/gamebase_coupon_06_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_06
-    구성: 'gamebase_coupon_06' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 8. 쿠폰 통계 화면 #06
+    구성: Gamebase 쿠폰 콘솔의 8. 쿠폰 통계 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 8. 쿠폰 통계
 -->
 
 요청 통계 항목을 통해 실제 발송한 SMS의 발송 통계를 확인할 수 있으며 우측의 다운로드 요청 버튼을 통해 발송 결과에 대한 상세 내역을 다운로드하여 확인할 수 있습니다.
@@ -217,33 +217,33 @@ keyword: "Console, Coupon, 쿠폰"
 
 쿠폰 코드를 직접 입력하여 사용여부를 조회할 수 있습니다.
 ![gamebase_coupon_07](./image/gamebase_coupon_07_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_07
-    구성: 'gamebase_coupon_07' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 쿠폰 코드별 조회 화면 #07
+    구성: Gamebase 쿠폰 콘솔의 쿠폰 코드별 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 쿠폰 코드별 조회
 -->
 
 #### 유저 ID별 조회
 
 유저 ID를 통해 해당 유저가 쿠폰을 사용한 이력을 조회할 수 있습니다.
 ![gamebase_coupon_08](./image/gamebase_coupon_08_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_08
-    구성: 'gamebase_coupon_08' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 유저 ID별 조회 화면 #08
+    구성: Gamebase 쿠폰 콘솔의 유저 ID별 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 유저 ID별 조회
 -->
 
 #### 쿠폰명 조회
 
 쿠폰명 및 기타 검색조건을 통해 사용 이력을 조회할 수 있습니다.
 ![gamebase_coupon_09](./image/gamebase_coupon_09_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_09
-    구성: 'gamebase_coupon_09' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon, Setting
+    내용: Gamebase 쿠폰 콘솔 쿠폰명 조회 화면 #09
+    구성: Gamebase 쿠폰 콘솔의 쿠폰명 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 쿠폰명 조회
 -->
 
 1. **쿠폰명**: 쿠폰 발급 메뉴를 통해 발급한 쿠폰을 선택할 수 있습니다.
@@ -258,11 +258,11 @@ keyword: "Console, Coupon, 쿠폰"
 등록된 쿠폰 아이템 내역을 조회할 수 있습니다.
 필터를 통해 아이템 ID/아이템 이름을 통한 검색도 가능합니다.
 ![gamebase_coupon_10](./image/gamebase_coupon_10_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_10
-    구성: 'gamebase_coupon_10' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 Search Coupon item 화면 #10
+    구성: Gamebase 쿠폰 콘솔의 Search Coupon item 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, Search Coupon item
 -->
 
 ### Register Coupon item
@@ -273,11 +273,11 @@ keyword: "Console, Coupon, 쿠폰"
 #### 단건 등록
 
 ![gamebase_coupon_11](./image/gamebase_coupon_11_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_11
-    구성: 'gamebase_coupon_11' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 단건 등록 화면 #11
+    구성: Gamebase 쿠폰 콘솔의 단건 등록 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 단건 등록
 -->
 
 ##### 1. 아이템 ID
@@ -292,11 +292,11 @@ keyword: "Console, Coupon, 쿠폰"
 #### 파일 업로드
 
 ![gamebase_coupon_12](./image/gamebase_coupon_12_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_12
-    구성: 'gamebase_coupon_12' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 파일 업로드 화면 #12
+    구성: Gamebase 쿠폰 콘솔의 파일 업로드 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, 파일 업로드
 -->
 한번에 대량으로 등록하고자 할 때 파일을 이용하여 등록할 수 있습니다.
 파일을 이용해서 등록할 경우 한번에 최대 10,000건까지 등록할 수 있으며 템플릿 예시 파일을 다운로드 받은 후 해당 형식에 맞도록 작성해서 업로드를 해주셔야 정상적으로 파일을 이용한 아이템 등록 작업 진행이 가능합니다.
@@ -310,11 +310,11 @@ keyword: "Console, Coupon, 쿠폰"
 > 아이템 ID 정보는 변경할 수 없으므로 아이템 ID가 잘못 되었다면 새로운 아이템 ID로 다시 등록해주셔야 합니다.
 
 ![gamebase_coupon_13](./image/gamebase_coupon_13_240813.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: gamebase_coupon_13
-    구성: 'gamebase_coupon_13' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Coupon
+    내용: Gamebase 쿠폰 콘솔 Update Coupon item 화면 #13
+    구성: Gamebase 쿠폰 콘솔의 Update Coupon item 기능 설정/조회 화면 스크린샷
+    Keyword: 쿠폰, Console, Screenshot, Update Coupon item
 -->
 
 #### 1. 아이템 이름

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.75.1, 기능개선, 변경"
 section: "2.75.1 (2025. 10. 17.)"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Release Notes, 2.75.1
 ---
 
 ### 2.75.1 (2025. 10. 17.)

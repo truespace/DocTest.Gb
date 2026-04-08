@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, requestItemListOfNotConsumedWithConfiguration, List Non-Consumed Items"
 section: "List Non-Consumed Items"
 order: 7
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Purchase, Consume
 ---
 
 ### List Non-Consumed Items

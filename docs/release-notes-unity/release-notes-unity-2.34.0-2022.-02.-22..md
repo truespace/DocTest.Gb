@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.34.0, 기능개선, 기능추가, 변경, TermsView"
 section: "2.34.0 (2022. 02. 22.)"
 order: 58
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Terms, Android, iOS, Release Notes, 2.34.0
 ---
 
 ### 2.34.0 (2022. 02. 22.)

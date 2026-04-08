@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.46.0, 버그수정, 기능추가, 변경, IAP"
 section: "2.46.0 (2023. 01. 31.)"
 order: 44
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, WebView, Initialize, Error, Android, iOS, Release Notes, 2.46.0
 ---
 
 ### 2.46.0 (2023. 01. 31.)

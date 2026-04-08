@@ -1,29 +1,29 @@
 ---
 source: oper-app.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, TermsView, Terms Of Service"
 section: "Terms Of Service"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Terms
 ---
 
 ## Terms Of Service
 게임에 보여줄 약관을 생성 및 구성을 설정합니다.
 ![gamebase_terms_of_service_01_ko_240105](./image/gamebase_terms_of_service_01_ko_240105.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 약관 설정 메인 화면
-    구성: 좌측에 약관 목록 탭(약관(KR), 약관(TW) 등), 국가 타입/대상 국가 설정, 약관 구성 트리(체크박스 형태의 약관 항목 목록), 우측에 선택한 약관의 상세 정보(약관 동의 필수/선택, 상세 페이지, 표시할 텍스트, 푸시 동의 설정), 모바일 미리보기 화면이 표시됨. 상단에 '약관 배포' 버튼 존재.
-    Keyword: 약관 설정, 약관 구성, 약관 항목, 미리보기, Gamebase 콘솔
+    내용: Gamebase 앱 설정 콘솔 Terms Of Service 화면 #01
+    구성: Gamebase 앱 설정 콘솔의 Terms Of Service 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, Terms Of Service
 -->
 ### (1) 생성된 약관 목록
 - **+** 버튼을 클릭하여 약관을 추가로 생성할 수 있습니다.
 ![gamebase_terms_of_service_02_ko_240105](./image/gamebase_terms_of_service_02_ko_240105.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 약관 추가 다이얼로그
-    구성: 국가 타입(한국, GDPR, 기타국가 라디오 버튼)과 대상 국가(한국) 설정 필드, 하단에 취소 및 저장 버튼이 포함된 팝업 다이얼로그.
-    Keyword: 약관 추가, 국가 타입, 한국, GDPR, 기타국가
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 앱 설정 콘솔 (1) 생성된 약관 목록 화면 #02
+    구성: Gamebase 앱 설정 콘솔의 (1) 생성된 약관 목록 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, (1) 생성된 약관 목록
 -->
 
 ### (2) 약관의 국가 타입
@@ -49,11 +49,11 @@ order: 3
 	- URL 입력: 상세 페이지의 URL을 설정할 수 있습니다.
 	- 직접 입력: 상세 페이지를 생성할 수 있습니다.
 ![gamebase_terms_of_service_03_ko_240105](./image/gamebase_terms_of_service_03_ko_240105.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 약관 상세 페이지 편집기
-    구성: 상세 페이지 제목, KO 언어 탭, 내용 입력을 위한 리치 텍스트 에디터(볼드, 언더라인, 폰트, 색상, 정렬, 테이블, 이미지, 동영상, 코드 등 도구 모음). 샘플 약관 텍스트가 입력된 상태. 하단에 닫기 및 저장 버튼.
-    Keyword: 약관, 상세 페이지, 리치 텍스트 에디터, 약관 내용 편집
+    내용: Gamebase 앱 설정 콘솔 (6) 선택한 약관의 상세 정보 화면 #03
+    구성: Gamebase 앱 설정 콘솔의 (6) 선택한 약관의 상세 정보 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, (6) 선택한 약관의 상세 정보
 -->
 - 표시할 텍스트
 	- 게임에 표시할 텍스트입니다.

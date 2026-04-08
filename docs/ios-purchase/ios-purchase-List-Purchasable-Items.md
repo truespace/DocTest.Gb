@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, requestItemListPurchasableWithCompletion, addObject, requestPurchase, isActive"
 section: "List Purchasable Items"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Consume
 ---
 
 ### List Purchasable Items

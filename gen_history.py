@@ -5,8 +5,8 @@ from datetime import datetime
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DOCS_DIR = BASE_DIR.parent / "docs"
-HISTORY_DIR = BASE_DIR.parent / "history"
+DOCS_DIR = BASE_DIR / "docs"
+HISTORY_DIR = BASE_DIR / "history"
 
 
 def build_tree(root, prefix=""):

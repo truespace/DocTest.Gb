@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.45.0, 신규, 기능개선, 기능추가, 변경, Purchase"
 section: "2.45.0 (2022. 12. 27.)"
 order: 43
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Consume, Release Notes, 2.45.0
 ---
 
 ### 2.45.0 (2022. 12. 27.)

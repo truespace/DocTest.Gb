@@ -1,10 +1,10 @@
 ---
 source: ios-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Login, Withdraw, TemporaryWithdrawal, Error, isSuccessWithError, withdrawWithViewController, requestTemporaryWithdrawalWithViewController, cancelTemporaryWithdrawalWithViewController, WithdrawCompletion"
-section: TemporaryWithdrawal
+section: "TemporaryWithdrawal"
 order: 7
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Withdraw, TemporaryWithdrawal, Error, Console
 ---
 
 ## TemporaryWithdrawal

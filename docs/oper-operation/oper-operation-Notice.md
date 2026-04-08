@@ -1,20 +1,20 @@
 ---
 source: oper-operation.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notice"
-section: Notice
+section: "Notice"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, WebView, Authentication
 ---
 
 ## Notice
 
 ![gamebase_op_img](./image/gamebase_maintenance_06_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 공지 목록 화면
-    구성: 상단에 '공지 목록' 제목과 등록 버튼이 있음. 상태, 노출 시간, 등록 일시, 수정 일시 컬럼으로 구성된 공지 이력 테이블이 배치되어 있으며, 상태 배지(예정, 노출중, 완료)와 페이지네이션이 있음
-    Keyword: 공지 목록, 긴급 공지, 예정, 노출중, 완료
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Notice
 -->
 
 앱 실행시 팝업 형태로 노출되는 공지를 제공합니다. 로그인 이전에 노출되는 팝업이므로 외부 인증 장애나 게임 서버 장애가 발생한 경우 등록하여 사용하면 됩니다.
@@ -30,11 +30,11 @@ order: 2
 공지 메인화면에서 '등록'버튼을 클릭하면 공지를 등록하는 화면으로 이동합니다.
 
 ![gamebase_op_img](./image/gamebase_maintenance_07_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - 공지 등록 화면
-    구성: 대상(전체/일부 클라이언트), 대상 국가(전체/일부), 팝업 노출 횟수, 노출 시간(Timezone, 시작/종료 시각), 메시지(다국어 입력, 기본 언어로 자동 번역), 하단 버튼 타입(닫기/닫기+자세히 보기) 설정 영역이 순서대로 배치됨. 하단에 취소, 저장 버튼이 있음
-    Keyword: 공지 등록, 대상, 노출 시간, 메시지, 하단 버튼 타입
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Register Notice
 -->
 
 #### (1) 대상
@@ -46,11 +46,11 @@ order: 2
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 점검을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 운영 - 대상 클라이언트 선택 팝업
-    구성: '대상 클라이언트' 제목 아래에 전체, 테스트, 심사 중, 베타 서비스, 서비스, 업데이트 권장 체크박스가 있음. 스토어별(App Store, Google Play 등) 각 상태의 버전 번호를 체크박스로 선택할 수 있는 테이블이 배치됨. 하단에 취소/확인 버튼이 있음
-    Keyword: 대상 클라이언트, 스토어, 버전 선택, 체크박스, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, (1) 대상
 -->
 
 
@@ -96,11 +96,11 @@ Timezone의 경우 기본적으로 'UTC+09:00'이 선택되어 있으며, 서비
 #### 긴급 공지 팝업 예시
 **닫기**를 선택할 경우 왼쪽 이미지와 같이 '닫기(CLOSE)' 버튼만 노출되며, **닫기+자세히 보기**를 선택할 경우 오른쪽 이미지와 같이 '닫기(CLOSE)'와 '자세히 보기(SHOW DETAIL)' 버튼이 노출됩니다. 
 ![gamebase_op_img](./image/gamebase_op_08_201812.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 운영 - 긴급 공지 팝업 예시 (닫기 / 닫기+자세히 보기)
-    구성: 2개의 팝업 카드가 나란히 배치됨. 왼쪽은 Title Text, Body Text와 CLOSE/OK 버튼이 있는 닫기 타입. 오른쪽은 Title Text, Body Text와 CLOSE/SHOW DETAIL 버튼이 있는 닫기+자세히 보기 타입
-    Keyword: 긴급 공지, 팝업 예시, CLOSE, SHOW DETAIL, 버튼 타입
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 운영 콘솔 긴급 공지 팝업 예시 화면 #08
+    구성: Gamebase 운영 콘솔의 긴급 공지 팝업 예시 기능 설정/조회 화면 스크린샷
+    Keyword: 운영, Console, Screenshot, 긴급 공지 팝업 예시
 -->
 
 ### Modify Notice

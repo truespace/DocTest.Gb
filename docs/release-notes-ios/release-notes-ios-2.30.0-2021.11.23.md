@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.30.0, 신규, 버그수정, 기능추가, Login, Mapping, IdP"
 section: "2.30.0 (2021.11.23)"
 order: 67
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Logout, Mapping, Withdraw, Authentication, LoginForLastLoggedInProvider, Release Notes, 2.30.0
 ---
 
 ### 2.30.0 (2021.11.23)

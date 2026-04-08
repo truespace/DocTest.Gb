@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, XCode, v2.29.0, 버그수정, 기능개선, 변경, Maintenance, Notice"
 section: "2.29.0 (2021.11.09)"
 order: 68
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Error, XCode, Console, Release Notes, 2.29.0
 ---
 
 ### 2.29.0 (2021.11.09)

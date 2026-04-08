@@ -1,8 +1,8 @@
 ---
 source: aos-logger.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Android, Logger, Initialize, setUserField, setLoggerListener"
+created_date_time: 20260408_191848
+keyword: Android, Logger, Initialize, Error, Console
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > Logger

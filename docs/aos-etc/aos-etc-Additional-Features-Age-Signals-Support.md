@@ -1,10 +1,10 @@
 ---
 source: aos-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Error, checkAgeSignals, isSuccess"
 section: "Additional Features > Age Signals Support"
 order: 7
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Error, Alert
 ---
 
 ### Age Signals Support

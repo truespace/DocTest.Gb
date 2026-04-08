@@ -1,11 +1,9 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, release-notes-console"
 source_size_bytes: 44888
 source_char_count: 24984
 split_count: 129
+created_date_time: 20260408_191848
 ---
 
 # release-notes-console

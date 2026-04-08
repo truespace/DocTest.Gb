@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.20.1, 기능개선, 기능추가, 변경, TermsView, IdP"
 section: "2021. 03. 09."
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Terms, iOS, Console, Release Notes, 2.20.1
 ---
 
 ### 2021. 03. 09.

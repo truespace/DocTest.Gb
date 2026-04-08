@@ -1,10 +1,10 @@
 ---
 source: aos-started.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Gradle, Login, Purchase, Push, Notification, Analytics, Logger, IAP"
-section: Environments
+section: "Environments"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Purchase, Push, Gradle
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > 시작하기

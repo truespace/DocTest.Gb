@@ -1,10 +1,10 @@
 ---
 source: aos-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, IdP, getLastLoggedInProvider, getUserID, getAccessToken, requestLastLoggedInProvider, loginForLastLoggedInProvider"
 section: "Gamebase User's Information"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Authentication, LoginForLastLoggedInProvider
 ---
 
 ## Gamebase User's Information

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.0.0, 신규, Maintenance, Guest, IAP"
 section: "1.0.0 (2017.03.09)"
 order: 136
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logout, Withdraw, Authentication, Console, Release Notes, 1.0.0
 ---
 
 ### 1.0.0 (2017.03.09)

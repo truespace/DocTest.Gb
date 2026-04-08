@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.12.0, 기능개선, 기능추가, 변경, Notice"
 section: "2.12.0 (2020.07.14)"
 order: 84
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Initialize, ImageNotice, iOS, Release Notes, 2.12.0
 ---
 
 ### 2.12.0 (2020.07.14)

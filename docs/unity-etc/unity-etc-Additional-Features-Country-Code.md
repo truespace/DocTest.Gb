@@ -1,10 +1,10 @@
 ---
 source: unity-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, GetCountryCode, GetCountryCodeOfUSIM, GetCountryCodeOfDevice"
 section: "Additional Features > Country Code"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Etc, Additional
 ---
 
 ### Country Code
@@ -55,11 +55,11 @@ static string GetCountryCodeOfDevice()
 	3. USIM, 단말기 국가 코드가 모두 빈 값이라면 'ZZ' 를 반환합니다.
 
 ![observer](./image/get_country_code_001_1.14.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Flowchart
-    내용: CountryCode 획득 로직 플로우차트
-    구성: start에서 시작하여 USIM country code를 먼저 획득 시도, null/empty이면 device country code 획득 시도, 그것도 null/empty이면 'ZZ'를 반환. 각 단계에서 값이 있으면 바로 해당 CountryCode를 반환하고 end로 종료
-    Keyword: CountryCode, USIM, device, 국가 코드, 플로우차트
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Intergrated Country Code 관련 화면
+    구성: Intergrated Country Code 관련 스크린샷
+    Keyword: Unity, Screenshot, Intergrated Country Code
 -->
 
 > [참고]

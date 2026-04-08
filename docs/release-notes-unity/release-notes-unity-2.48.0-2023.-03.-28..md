@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, XCode, v2.48.0, 기능개선, 변경"
 section: "2.48.0 (2023. 03. 28.)"
 order: 43
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, XCode, Android, iOS, Release Notes, 2.48.0
 ---
 
 ### 2.48.0 (2023. 03. 28.)

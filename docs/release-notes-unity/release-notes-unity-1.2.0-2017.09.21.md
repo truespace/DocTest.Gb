@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.2.0, 기능추가"
 section: "1.2.0 (2017.09.21)"
 order: 131
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Release Notes, 1.2.0
 ---
 
 ### 1.2.0 (2017.09.21)

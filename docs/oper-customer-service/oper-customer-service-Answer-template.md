@@ -1,10 +1,10 @@
 ---
 source: oper-customer-service.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Contact, Answer template"
 section: "Answer template"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Oper, Customer
 ---
 
 ## Answer template
@@ -16,11 +16,11 @@ order: 5
 ### Search Template
 현재 등록된 템플릿 리스트를 표시하며, 우측 상단에 검색어를 입력하여 현재 등록된 템플릿을 검색할 수 있습니다.
 ![gamebase_ban_01_201812](./image/gamebase_template_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - 답변 템플릿 목록 화면
-    구성: 상단에 '템플릿' 제목과 등록 버튼, 검색(Search) 입력란이 있음. 하단에 구분, 템플릿명, 수정자, 수정일 컬럼으로 구성된 템플릿 목록 테이블이 배치됨
-    Keyword: 답변 템플릿, 목록, 검색, 등록, 수정자
+    내용: Gamebase 고객센터 콘솔 Search Template 화면 #01
+    구성: Gamebase 고객센터 콘솔의 Search Template 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Search Template
 -->
 
 **결과**
@@ -33,11 +33,11 @@ order: 5
 등록 또는 수정 시 변경할 수 있는 항목은 모두 동일합니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_template_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - 답변 템플릿 등록 화면
-    구성: 상단에 '답변 템플릿 등록' 제목이 있고, 구분(문의 처리/문의 유형) 선택, 템플릿명 입력란이 있음. 다국어(Korean, English, Japanese, Chinese 등) 탭으로 구분된 텍스트 에디터가 있어 각 언어별 답변 내용을 입력할 수 있으며, 하단에 취소/저장 버튼이 배치됨
-    Keyword: 답변 템플릿, 등록, 다국어, 텍스트 에디터, 문의 처리
+    내용: Gamebase 고객센터 콘솔 Register or Update Template 화면 #02
+    구성: Gamebase 고객센터 콘솔의 Register or Update Template 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Register or Update Template
 -->
 
 #### 1. 구분

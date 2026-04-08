@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.6.1, 버그수정, 기능추가, Initialize"
 section: "2.6.1 (2019.11.20)"
 order: 96
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Initialize, Error, iOS, Release Notes, 2.6.1
 ---
 
 ### 2.6.1 (2019.11.20)

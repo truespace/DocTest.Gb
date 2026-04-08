@@ -1,10 +1,10 @@
 ---
 source: unreal-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Initialize, GetDisplayLanguageCode, SetDisplayLanguageCode, GetSubsystem, GetGameInstance, IsSuccess"
 section: "Additional Features > Display Language"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Initialize, Android, iOS
 ---
 
 ### Display Language

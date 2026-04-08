@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.57.0, 버그수정, 기능개선, 기능추가, 변경, Login, WebView, Logger"
 section: "2.57.0 (2023. 10. 31.)"
 order: 33
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, WebView, Logger, Release Notes, 2.57.0
 ---
 
 ### 2.57.0 (2023. 10. 31.)

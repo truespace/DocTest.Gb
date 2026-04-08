@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, Ban, Error, IdP, LoginForLastLoggedInProvider, additionalInfo, IsSuccess, CancelLoginWithExternalBrowser, GetUserID"
-section: Login
+section: "Login"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Logout, Initialize, Authentication, Error, LoginForLastLoggedInProvider, Console
 ---
 
 ## Game > Gamebase > Unity SDK 사용 가이드 > 인증
@@ -28,18 +28,18 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.<br/>
 위에서 설명한 로직은 다음과 같은 순서로 구현할 수 있습니다.
 
 ![last provider login flow](./image/login_for_last_logged_in_provider_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: Login For LastLoggedInProvider 플로우 차트
-    구성: Start에서 시작하여 LoginForLastLoggedInProvider API 호출, SOCKET_RESPONSE_TIMEOUT 에러 시 재시도, 성공 시 로그인 완료, 실패 시 IDP 로그인 플로우로 이동하는 흐름. 별도 분기로 Ban/Popup 처리 포함
-    Keyword: LastLoggedInProvider, 로그인 플로우, 자동 로그인, 재시도, 인증
+    내용: 최근 로그인 Provider 자동 로그인 흐름도
+    구성: 마지막으로 로그인한 Provider 정보를 이용한 자동 로그인 처리 흐름
+    Keyword: Flowchart, Login Flow
 -->
 ![idp login flow](./image/idp_login_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: IDP Login 플로우 차트
-    구성: Start에서 시작하여 LoginForLastLoggedInProvider 결과 확인 후, LoggedOut 여부와 IDP 유형 판단, 해당 IDP로 로그인 시도. SOCKET_RESPONSE_TIMEOUT 에러 시 재시도, 성공 시 로그인 완료, AUTH_BANNED_MEMBER 에러 시 게스트 로그인 또는 이용 정지 안내 표시로 분기
-    Keyword: IDP Login, 로그인 플로우, 인증, 이용 정지, 게스트 로그인
+    내용: IdP 로그인 처리 흐름도
+    구성: Gamebase SDK의 IdP 로그인 요청부터 인증 결과 반환까지의 처리 흐름을 나타내는 순서도
+    Keyword: Flowchart, Login Flow
 -->
 
 #### 1. 이전 로그인 유형으로 인증

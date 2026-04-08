@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "isEnableKickoutPopup, 2.34.0, Android"
-section: 2.34.0
+section: "2.34.0"
 order: 41
+split: true
+created_date_time: 20260408_191848
+keyword: Android, iOS, Upgrade Guide, 2.34.0
 ---
 
 ## 2.34.0

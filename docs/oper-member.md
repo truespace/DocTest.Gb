@@ -1,11 +1,9 @@
 ---
 source: oper-member.md
-split: false
-created_date_time: 20260406_141859
-keyword: "Console, oper-member"
 source_size_bytes: 14346
 source_char_count: 8884
 split_count: 0
+created_date_time: 20260408_191848
 ---
 
 # oper-member

@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, Maintenance, IAP"
 section: "2022. 03. 15."
 order: 37
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Push, Error, Release Notes
 ---
 
 ### 2022. 03. 15.

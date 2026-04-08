@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.49.1, 버그수정"
 section: "2.49.1 (2023. 04. 25.)"
 order: 38
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Authentication, Release Notes, 2.49.1
 ---
 
 ### 2.49.1 (2023. 04. 25.)

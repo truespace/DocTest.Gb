@@ -1,10 +1,10 @@
 ---
 source: oper-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, IAP, Transactions"
-section: Transactions
+section: "Transactions"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Consume, Error
 ---
 
 ## Transactions
@@ -45,11 +45,11 @@ order: 4
 
 ### 결제 내역 조회
 ![purchase_09](./image/purchase_09_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 내역 조회 화면
-    구성: 상단에 결제 정보 탭이 선택되어 있고, 카테고리(전체/상품 정보 미등록 결제), 검색 유형(일반/Transaction ID/영수증), 검색 기간, 스토어, 스토어 아이템 ID, 유저 ID, 결제 상태 등 검색 필터가 있음. 하단에 결제 내역 테이블이 배치됨
-    Keyword: 결제 내역, 조회, 검색 필터, Transaction ID, 결제 상태
+    내용: Gamebase 결제 콘솔 결제 내역 조회 화면 #09
+    구성: Gamebase 결제 콘솔의 결제 내역 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 내역 조회
 -->
 
 #### 카테고리
@@ -65,11 +65,11 @@ order: 4
 
 ##### (1) 일반 검색
 ![purchase_10](./image/purchase_10_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 일반 검색 조건 화면
-    구성: 카테고리(전체), 검색 유형(일반 검색 선택), 검색 기간 날짜 선택, 스토어(Google Play), 스토어 아이템 ID, 유저 ID, 결제 상태, 테스트 구분 필터와 검색 버튼이 배치됨
-    Keyword: 일반 검색, 검색 기간, 스토어, 유저 ID, 결제 상태
+    내용: Gamebase 결제 콘솔 Search conditions 화면 #10
+    구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Search conditions
 -->
 
 아래의 검색 조건을 만족하는 결과를 검색할 수 있습니다.
@@ -83,22 +83,22 @@ order: 4
 
 ##### (2) Trnasaction ID 검색
 ![purchase_11](./image/purchase_11_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - Transaction ID 검색 화면
-    구성: 카테고리(전체), 검색 유형(Transaction ID 검색 선택), Transaction ID 입력란과 검색 버튼이 배치됨
-    Keyword: Transaction ID, 검색, 결제 조회
+    내용: Gamebase 결제 콘솔 Search conditions 화면 #11
+    구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Search conditions
 -->
 
 결제 시 생성되는 Transaction ID를 이용해 검색할 수 있습니다.
 
 ##### (3) 영수증 검색
 ![purchase_12](./image/purchase_12_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 영수증 검색 화면
-    구성: 카테고리(전체), 검색 유형(영수증 검색 선택), Store Reference Key 입력란과 검색 버튼이 배치됨
-    Keyword: 영수증 검색, Store Reference Key, 결제 조회
+    내용: Gamebase 결제 콘솔 Search conditions 화면 #12
+    구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Search conditions
 -->
 결제 시 지급된 영수증 정보를 이용해 검색할 수 있습니다.
 
@@ -107,11 +107,11 @@ order: 4
 검색 결과 항목은 아래와 같습니다.
 
 ![purchase_13](./image/purchase_13_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 내역 검색 결과 테이블
-    구성: Transaction ID, 스토어, 유저 ID, 상품 이름, 상품 ID(스토어 아이템 ID), 가격/통화 종류, 소비 상태, 결제 상태(배지), Store Reference Key, 결제 예약 일시, 환불 일시, 테스트 구분, 추가 정보 컬럼으로 구성된 결제 내역 테이블이 배치됨. 페이지네이션이 있음
-    Keyword: 결제 내역, 검색 결과, Transaction ID, 결제 상태, 환불
+    내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #13
+    구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [전체] 검색 결과
 -->
 
 - **Transaction ID**: Gamebase 내에서 결제를 구별할 수 있는 고유 번호
@@ -150,21 +150,21 @@ order: 4
 
 ###### Success 변경
 ![purchase_14](./image/purchase_14_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 결제 상태 변경 팝업 (결제 예약 완료 -> 환불 완료)
-    구성: '결제 상태 변경' 제목 아래에 결제 번호, 현재 결제 상태(결제 예약 완료), 변경할 결제 상태 드롭다운(환불 완료 선택 가능)이 있음. 하단에 취소/수정 버튼이 배치됨
-    Keyword: 결제 상태 변경, 환불 완료, 결제 예약 완료, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #14
+    구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [전체] 검색 결과
 -->
 결제 진행 시 발급 받은 **영수증 번호**, **가격**, **통화** 정보를 입력해야 상태를 변경할 수 있습니다.
 
 ###### Refund 변경
 ![purchase_15](./image/purchase_15_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 결제 상태 변경 팝업 (결제 완료 -> 환불 완료)
-    구성: '결제 상태 변경' 제목 아래에 결제 번호, 현재 결제 상태(결제 완료), 변경할 결제 상태 드롭다운(환불 완료 선택 가능)이 있음. 하단에 취소/수정 버튼이 배치됨
-    Keyword: 결제 상태 변경, 환불 완료, 결제 완료, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #15
+    구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [전체] 검색 결과
 -->
 추가 정보 입력 없이 상태를 선택한 후 변경을 선택합니다.
 변경된 결제 정보는 이후 변경이 불가능하므로 신중하게 확인해야 합니다.
@@ -172,11 +172,11 @@ order: 4
 
 ##### 영수증 검증
 ![purchase_16](./image/purchase_16_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 영수증 검증 결과 팝업
-    구성: '영수증 검증' 제목 아래에 검증 결과(유효) 표시가 있음. 결제 정보, 영수증 정보, 검증 결과(일치/불일치) 컬럼으로 스토어 아이템 ID, 결제 일시, 스토어 앱 ID를 비교한 테이블이 있음. 하단에 영수증 정보 전체보기(JSON 형태)와 확인 버튼이 배치됨
-    Keyword: 영수증 검증, 검증 결과, 유효, 일치, JSON
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #16
+    구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [전체] 검색 결과
 -->
 
 * 조회된 영수증의 결제가 유효한지 검증할 수 있습니다.
@@ -187,11 +187,11 @@ order: 4
 ##### 결제 이력 조회
 검색한 결제 정보의 Transaction ID를 클릭해서 결제 이력을 조회할 수 있습니다.
 ![purchase_17](./image/purchase_17_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 상세 정보 팝업
-    구성: '결제 상세 정보' 제목 아래에 Transaction ID, 스토어, 상품 이름 등 기본 결제 정보가 표시됨. 결제 이력 섹션에 상태 메시지와 일시가 나열되며, 부가 정보 및 영수증 섹션에 영수증 원본 데이터(JSON)가 표시됨. 하단에 확인 버튼이 배치됨
-    Keyword: 결제 상세, 결제 이력, 영수증, 부가 정보, JSON
+    내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #17
+    구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [전체] 검색 결과
 -->
 
 ###### (1) 부가 정보 및 영수증 조회
@@ -202,11 +202,11 @@ order: 4
 검색 결과 항목은 아래와 같습니다.
 
 ![purchase_18](./image/purchase_18_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 상품 정보 미등록 결제 내역 검색 화면
-    구성: 상단에 결제 정보 탭과 상품 정보 미등록 결제 카테고리가 선택됨. 검색 유형, 검색 기간, 스토어 등 검색 필터가 있고, 하단에 Transaction ID, 스토어, 유저 ID, 상품 이름, 가격/통화 종류, 결제 상태 등 컬럼으로 구성된 결제 내역 테이블이 배치됨
-    Keyword: 상품 정보 미등록, 결제 내역, 검색, Transaction ID
+    내용: Gamebase 결제 콘솔 [상품 정보 미등록 결제] 검색 결과 화면 #18
+    구성: Gamebase 결제 콘솔의 [상품 정보 미등록 결제] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [상품 정보 미등록 결제] 검색 결과
 -->
 
 - **Transaction ID**: Gamebase 내에서 결제를 구별할 수 있는 고유 번호
@@ -224,10 +224,10 @@ order: 4
 
 ##### 상품 ID 등록
 ![purchase_19](./image/purchase_19_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 상품 정보 등록 팝업
-    구성: '상품 정보 등록' 제목 아래에 Transaction ID, 스토어 아이템 ID가 표시되고, 상품 ID 드롭다운 선택란이 있음. 하단에 취소/등록 버튼이 배치됨
-    Keyword: 상품 정보 등록, Transaction ID, 상품 ID, 수동 등록
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 [상품 정보 미등록 결제] 검색 결과 화면 #19
+    구성: Gamebase 결제 콘솔의 [상품 정보 미등록 결제] 검색 결과 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, [상품 정보 미등록 결제] 검색 결과
 -->
 * 누락된 아이템 정보를 수동으로 선택하여 지급할 수 있습니다.

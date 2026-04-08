@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.72.0, 버그수정, 기능개선, 기능추가, 변경, Maintenance"
 section: "2.72.0 (2025. 06. 24.)"
 order: 13
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Android, iOS, Release Notes, 2.72.0
 ---
 
 ### 2.72.0 (2025. 06. 24.)

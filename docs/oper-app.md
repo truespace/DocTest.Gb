@@ -1,11 +1,9 @@
 ---
 source: oper-app.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Analytics, oper-app"
 source_size_bytes: 68817
 source_char_count: 46285
 split_count: 7
+created_date_time: 20260408_191848
 ---
 
 # oper-app

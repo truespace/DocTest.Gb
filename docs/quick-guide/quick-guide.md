@@ -1,8 +1,8 @@
 ---
 source: quick-guide.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Login, Logout, Initialize, Guest, IdP"
+created_date_time: 20260408_191848
+keyword: Login, Logout, Initialize, Authentication, Unity, Console
 ---
 
 ## Game > Gamebase > Quick Guide

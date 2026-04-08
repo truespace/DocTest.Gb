@@ -1,10 +1,10 @@
 ---
 source: console-for-aws.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 프로젝트 관리, 프로젝트 생성"
 section: "프로젝트 관리"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Console, For, Aws
 ---
 
 ## 프로젝트 관리
@@ -19,18 +19,18 @@ Gamebase는 프로젝트 단위로 이용하여, 이에 따라 과금합니다.
 * 프로젝트 생성 후 협업이 필요한 경우 프로젝트 멤버로 일반 회원을 추가할 수 있습니다.
 
 ![Gamebase-for-aws_project-create](./image/console_Gamebase-for-aws_project-01-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 프로젝트 생성 팝업 화면
-    구성: GamePlatform 콘솔에서 프로젝트 생성 대화상자가 표시됨. 이름과 프로젝트 설명 입력 필드, 확인/취소 버튼이 있으며 우측에는 Gamebase 관련 서비스 목록(Gamebase Quick Start, GUIDE Console 등)이 나열됨
-    Keyword: 프로젝트, 생성, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 프로젝트 생성 화면
+    구성: Gamebase for AWS 콘솔의 프로젝트 생성 기능 설정/조회 화면 스크린샷
+    Keyword: AWS Console, Console, Screenshot, 프로젝트 생성
 -->
 ![Gamebase-for-aws_project-create](./image/console_Gamebase-for-aws_project-02-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 프로젝트 대시보드 화면
-    구성: 생성된 프로젝트의 대시보드 화면. 프로젝트 정보(이름, 설명, App ID), 프로젝트 멤버 관리 영역, 우측에 Gamebase 관련 서비스 바로가기(Gamebase Quick Start, GUIDE Console, SDK, Server 등) 목록이 표시됨
-    Keyword: 프로젝트, 대시보드, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 프로젝트 생성 화면
+    구성: Gamebase for AWS 콘솔의 프로젝트 생성 기능 설정/조회 화면 스크린샷
+    Keyword: AWS Console, Console, Screenshot, 프로젝트 생성
 -->
 
 1. **+새프로젝트** 버튼을 클릭하여 프로젝트를 생성합니다.

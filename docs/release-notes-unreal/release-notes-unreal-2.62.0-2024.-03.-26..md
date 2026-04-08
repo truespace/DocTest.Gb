@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.62.0, 기능개선, 기능추가, 변경"
 section: "2.62.0 (2024. 03. 26.)"
 order: 25
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Android, iOS, Release Notes, 2.62.0
 ---
 
 ### 2.62.0 (2024. 03. 26.)

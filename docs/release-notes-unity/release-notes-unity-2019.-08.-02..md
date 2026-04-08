@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.4.3, 버그수정"
 section: "2019. 08. 02."
 order: 101
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Error, Release Notes, 1.4.3
 ---
 
 ### 2019. 08. 02.

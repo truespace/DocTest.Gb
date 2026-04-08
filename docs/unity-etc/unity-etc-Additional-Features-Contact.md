@@ -1,10 +1,10 @@
 ---
 source: unity-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, WebView, Contact, Error, RequestContactURL, IsSuccess, additionalURL, additionalParameters"
 section: "Additional Features > Contact"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, WebView, Contact, Error, Android, iOS
 ---
 
 ### Contact
@@ -27,11 +27,11 @@ Gamebase 는 고객 문의 대응을 위한 기능을 제공합니다.
 
 **Gamebase 콘솔 > App > Customer service**에서 아래와 같이 3가지 유형의 고객 센터를 선택할 수 있습니다.
 ![](./image/etc_customer_center_001_2.16.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 콘솔의 Customer Service 유형 선택 화면
-    구성: Customer service 설정 화면에서 Type 드롭다운 메뉴가 열려 있으며, Developer customer center, Gamebase customer center(선택됨), NHN Cloud Online Contact 3가지 옵션이 표시됨. 하단에 Customer service URL 입력 필드가 있음
-    Keyword: Customer Service, 고객센터, Gamebase 콘솔, 유형 선택, Online Contact
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Customer Service Type 관련 화면
+    구성: Customer Service Type 관련 스크린샷
+    Keyword: Unity, Screenshot, Customer Service Type
 -->
 
 | Customer Service Type     | Required Login |

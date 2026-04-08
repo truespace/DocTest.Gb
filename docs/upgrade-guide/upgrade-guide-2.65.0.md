@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Gradle, XCode, Notice"
-section: 2.65.0
+section: "2.65.0"
 order: 17
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, ImageNotice, Error, Gradle, XCode, Android, iOS, Upgrade Guide, 2.65.0
 ---
 
 ## 2.65.0

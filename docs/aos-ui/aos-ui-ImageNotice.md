@@ -1,10 +1,10 @@
 ---
 source: aos-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Notice, ImageNotice, Error, showImageNotices, setBackgroundColor, getActivity, setTimeout"
-section: ImageNotice
+section: "ImageNotice"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Android, WebView, ImageNotice, Error, Console
 ---
 
 ## ImageNotice
@@ -12,11 +12,11 @@ order: 2
 콘솔에 이미지를 등록한 후 사용자에게 공지를 띄울 수 있습니다.
 
 ![ImageNotice Example](./image/imageNotice-guide-landscape-ko_v3.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 이미지 공지(ImageNotice) 가로 모드 예시 화면
-    구성: 어두운 반투명 배경 위에 "게임 성공을 위한 하나 뿐인 맞춤 패키지 - NHN GamePlatform" 텍스트와 게임 관련 아이콘들이 배치된 파란색 배경의 이미지 배너가 중앙에 표시됨. 좌우에 이전/다음 화살표 버튼, 하단에 "오늘은 그만 보기" 체크박스와 "닫기" 버튼이 위치
-    Keyword: ImageNotice, 이미지공지, 가로모드, 배너, NHN GamePlatform, UI, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 이미지 공지 팝업 표시 예시 화면
+    구성: 가로 모드 이미지 공지 팝업으로, 'NHN GamePlatform - 게임 성공을 위한 하나 뿐인 맞춤 패키지' 홍보 배너가 중앙에 표시되고, 좌우 탐색 화살표와 하단에 '오늘은 그만 보기' 체크박스 및 '닫기' 버튼이 있는 UI
+    Keyword: Android, Screenshot, ImageNotice
 -->
 
 ### Show ImageNotices

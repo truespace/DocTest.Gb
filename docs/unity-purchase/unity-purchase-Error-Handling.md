@@ -1,10 +1,10 @@
 ---
 source: unity-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Purchase, Error, IAP, IsSuccess"
 section: "Error Handling"
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Initialize, Error, Android, iOS
 ---
 
 ### Error Handling

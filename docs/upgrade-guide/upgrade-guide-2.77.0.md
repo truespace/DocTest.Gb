@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Purchase, IdP, requestItemListAtIAPConsoleWithCompletion, requestItemListPurchasableWithCompletion, RequestItemListAtIAPConsole, RequestItemListPurchasable"
-section: 2.77.0
+section: "2.77.0"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Logout, Withdraw, Purchase, iOS, Unity, Upgrade Guide, 2.77.0
 ---
 
 ## 2.77.0

@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 기능개선, 기능추가, 변경, Ban, Contact"
 section: "2017. 09. 21."
 order: 125
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Contact, Release Notes
 ---
 
 ### 2017. 09. 21.

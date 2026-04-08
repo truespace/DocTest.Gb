@@ -1,10 +1,10 @@
 ---
 source: ios-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Device Language"
 section: "Additional Features > Device Language"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Ios, Etc
 ---
 
 ### Device Language

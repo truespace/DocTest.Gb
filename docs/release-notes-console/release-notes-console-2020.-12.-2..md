@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 신규, 버그수정, 기능개선, 기능추가, 변경, Analytics, Notice, Coupon, Contact"
 section: "2020. 12. 2."
 order: 66
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Analytics, Contact, Coupon, Release Notes
 ---
 
 ### 2020. 12. 2.

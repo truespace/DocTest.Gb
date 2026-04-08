@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.7.0, 기능추가, IdP"
 section: "1.7.0 (2018.02.22)"
 order: 131
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Authentication, Release Notes, 1.7.0
 ---
 
 ### 1.7.0 (2018.02.22) 

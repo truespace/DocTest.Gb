@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "SettingTool, 2.42.2, Unity"
-section: 2.42.2
+section: "2.42.2"
 order: 33
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Android, Unity, Upgrade Guide, 2.42.2
 ---
 
 ## 2.42.2

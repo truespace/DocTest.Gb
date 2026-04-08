@@ -1,10 +1,10 @@
 ---
 source: ios-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Push, setSandboxMode, registerPushWithPushConfiguration"
 section: "Setting for APNS Sandbox"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Push, Console
 ---
 
 ### Setting for APNS Sandbox

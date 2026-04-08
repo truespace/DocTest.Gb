@@ -1,10 +1,10 @@
 ---
 source: unity-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, WebView, Open External Browser"
 section: "Open External Browser"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Ui, Open
 ---
 
 ## Open External Browser

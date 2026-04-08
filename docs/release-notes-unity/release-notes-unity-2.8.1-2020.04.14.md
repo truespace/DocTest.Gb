@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.8.1, 기능개선, 기능추가, 변경, Analytics"
 section: "2.8.1 (2020.04.14)"
 order: 90
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Analytics, Release Notes, 2.8.1
 ---
 
 ### 2.8.1 (2020.04.14)

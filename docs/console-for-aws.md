@@ -1,11 +1,9 @@
 ---
 source: console-for-aws.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, console-for-aws"
 source_size_bytes: 5272
 source_char_count: 3150
 split_count: 3
+created_date_time: 20260408_191848
 ---
 
 # console-for-aws

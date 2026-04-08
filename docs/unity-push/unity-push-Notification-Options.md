@@ -1,10 +1,10 @@
 ---
 source: unity-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Push, Notification, Error, GetNotificationOptions, requestNotificationPermission, IsSuccess, GetNotificationOptionsSample"
 section: "Notification Options"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Push, Alert, Initialize, RegisterPush, Android
 ---
 
 ### Notification Options

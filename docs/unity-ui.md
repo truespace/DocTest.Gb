@@ -1,11 +1,9 @@
 ---
 source: unity-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, WebView, Alert, ImageNotice, Error"
 source_size_bytes: 29953
 source_char_count: 24385
 split_count: 8
+created_date_time: 20260408_191848
 ---
 
 # unity-ui

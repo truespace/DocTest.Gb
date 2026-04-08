@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.35.0, 버그수정, 기능개선, 기능추가, 변경, TermsView"
 section: "2.35.0 (2022. 03. 29.)"
 order: 61
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Logout, WebView, Terms, Release Notes, 2.35.0
 ---
 
 ### 2.35.0 (2022. 03. 29.)

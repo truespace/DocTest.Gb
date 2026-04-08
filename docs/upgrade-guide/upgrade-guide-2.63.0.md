@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Push, Notification, 2.63.0"
-section: 2.63.0
+section: "2.63.0"
 order: 19
+split: true
+created_date_time: 20260408_191848
+keyword: Push, Android, iOS, Upgrade Guide, 2.63.0
 ---
 
 ## 2.63.0

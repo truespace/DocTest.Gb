@@ -1,10 +1,10 @@
 ---
 source: unity-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Logger, AddCrashFilter, RemoveCrashFilter, SetCrashListener, AddCrashFilterSample, RemoveCrashFilterSample"
 section: "Specifications for SetCrashListener API"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logger, Specifications
 ---
 
 ### Specifications for SetCrashListener API

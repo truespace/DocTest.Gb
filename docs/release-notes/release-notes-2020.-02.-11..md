@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "신규, 버그수정, 기능개선, 기능추가, 변경, Analytics"
 section: "2020. 02. 11."
 order: 35
+split: true
+created_date_time: 20260408_191848
+keyword: Withdraw, Purchase, Analytics, Error, Console, Release Notes
 ---
 
 ### 2020. 02. 11.

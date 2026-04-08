@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.6.1, 버그수정"
 section: "2.6.1 (2019.12.10)"
 order: 105
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Mapping, Unity, Release Notes, 2.6.1
 ---
 
 ### 2.6.1 (2019.12.10)

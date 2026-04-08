@@ -1,11 +1,9 @@
 ---
 source: release-notes-server-api.md
-split: false
-created_date_time: 20260406_141859
-keyword: "Server API, release-notes-server-api"
 source_size_bytes: 4747
 source_char_count: 3035
 split_count: 0
+created_date_time: 20260408_191848
 ---
 
 # release-notes-server-api

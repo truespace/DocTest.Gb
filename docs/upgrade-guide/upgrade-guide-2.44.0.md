@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "2.44.0, Android"
-section: 2.44.0
+section: "2.44.0"
 order: 34
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Upgrade Guide, 2.44.0
 ---
 
 ## 2.44.0

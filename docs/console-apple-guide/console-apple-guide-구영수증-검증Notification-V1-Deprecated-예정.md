@@ -1,10 +1,10 @@
 ---
 source: console-apple-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Purchase, Subscription, Notification, IAP"
 section: "(구)영수증 검증+Notification V1 (Deprecated 예정)"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Alert
 ---
 
 ## (구)영수증 검증+Notification V1 (Deprecated 예정)

@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 기능추가, Analytics"
 section: "2023. 04. 25."
 order: 18
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Analytics, Release Notes
 ---
 
 ### 2023. 04. 25.

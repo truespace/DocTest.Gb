@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.14.2, 기능개선, 변경"
 section: "1.14.2 (2018.11.15)"
 order: 119
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Unity, Release Notes, 1.14.2
 ---
 
 ### 1.14.2 (2018.11.15)

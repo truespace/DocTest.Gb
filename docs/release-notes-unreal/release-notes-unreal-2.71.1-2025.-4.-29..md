@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.71.1, 버그수정, 기능개선, 변경, Maintenance"
 section: "2.71.1 (2025. 4. 29.)"
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Authentication, Error, Android, iOS, Release Notes, 2.71.1
 ---
 
 ### 2.71.1 (2025. 4. 29.)

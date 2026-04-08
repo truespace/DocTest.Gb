@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.50.1, 버그수정, 기능개선, 변경"
 section: "2.50.1 (2023. 07. 17.)"
 order: 40
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Release Notes, 2.50.1
 ---
 
 ### 2.50.1 (2023. 07. 17.)

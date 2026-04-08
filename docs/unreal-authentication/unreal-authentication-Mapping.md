@@ -1,10 +1,10 @@
 ---
 source: unreal-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, Logout, Mapping, Withdraw, Contact, Error, Guest, IdP, AddMapping"
-section: Mapping
+section: "Mapping"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Logout, Mapping, Withdraw, Authentication
 ---
 
 ## Mapping
@@ -40,11 +40,11 @@ order: 4
 매핑은 다음 순서로 구현할 수 있습니다.
 
 ![add mapping flow](./image/auth_add_mapping_flow_2.30.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: AddMapping(계정 연동 추가) 흐름도
-    구성: Login 후 AddMapping 호출, 성공/실패 분기, SOCKET_RESPONSE_TIMEOUT 에러 처리 및 Retry 로직, 실패 시 Case 1(이미 연동된 IdP) Case 2(Logout 후 Login) Case 3(Nothing) Case 4(Cancel) 등 다양한 분기 처리를 보여주는 플로우차트
-    Keyword: 매핑, AddMapping, 계정연동, 인증, 플로우차트, Gamebase
+    내용: 계정 매핑 추가 흐름도
+    구성: 기존 계정에 새로운 IdP를 매핑하는 처리 흐름을 나타내는 순서도
+    Keyword: Flowchart, Add Mapping Flow
 -->
 
 #### 1. 로그인

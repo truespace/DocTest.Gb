@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "버그수정, Push, Analytics, Coupon, IAP"
 section: "2019. 11. 26."
 order: 40
+split: true
+created_date_time: 20260408_191848
+keyword: Push, Analytics, Coupon, Console, Release Notes
 ---
 
 ### 2019. 11. 26.

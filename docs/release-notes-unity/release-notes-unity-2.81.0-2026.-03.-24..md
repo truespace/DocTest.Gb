@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.81.0, 기능추가"
 section: "2.81.0 (2026. 03. 24.)"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Release Notes, 2.81.0
 ---
 
 ## Game > Gamebase > 릴리스 노트 > Unity

@@ -1,10 +1,10 @@
 ---
 source: unreal-initialization.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Unreal SDK 사용 가이드, 초기화"
 section: "Include Header File"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Initialize, Initialization
 ---
 
 ## Game > Gamebase > Unreal SDK 사용 가이드 > 초기화

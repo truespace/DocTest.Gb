@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "IdP, 2.19.0, Android"
-section: 2.19.0
+section: "2.19.0"
 order: 50
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Android, Upgrade Guide, 2.19.0
 ---
 
 ## 2.19.0

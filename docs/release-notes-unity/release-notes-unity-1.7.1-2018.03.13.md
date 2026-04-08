@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.7.1, 버그수정"
 section: "1.7.1 (2018.03.13)"
 order: 125
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Authentication, Release Notes, 1.7.1
 ---
 
 ### 1.7.1 (2018.03.13)

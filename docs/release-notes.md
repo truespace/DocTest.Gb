@@ -1,11 +1,9 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: release-notes
 source_size_bytes: 72513
 source_char_count: 46153
 split_count: 97
+created_date_time: 20260408_191848
 ---
 
 # release-notes

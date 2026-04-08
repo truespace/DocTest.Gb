@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.45.0, 신규, 버그수정, 기능개선, 변경, Purchase"
 section: "2.45.0 (2022. 12. 27.)"
 order: 46
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Purchase, Consume, Error, RequestItemListOfNotConsumed, Release Notes, 2.45.0
 ---
 
 ### 2.45.0 (2022. 12. 27.)

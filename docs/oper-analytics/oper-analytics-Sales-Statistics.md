@@ -1,20 +1,20 @@
 ---
 source: oper-analytics.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Purchase, Analytics"
 section: "Sales Statistics"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, Purchase
 ---
 
 ## Sales Statistics
 ### Payment Amount
 ![analytics_10](./image/analytics_10_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Analytics 매출 지표 - 결제 금액 현황
-    구성: 상단에 매출 지표 탭과 날짜/필터 선택이 있고, 주요 결제 금액 수치 카드가 표시됨. 중앙에 일별 결제금액 추이를 보여주는 막대/꺾은선 복합 차트가 있으며, 하단에 스토어별/국가별 매출 상세 데이터 테이블이 배치됨
-    Keyword: 매출 지표, 결제 금액, 막대차트, 꺾은선 그래프, 스토어별 매출
+    내용: Gamebase Analytics 콘솔 Payment Amount 화면 #10
+    구성: Gamebase Analytics 콘솔의 Payment Amount 기능 설정/조회 화면 스크린샷
+    Keyword: Analytics, Console, Screenshot, Payment Amount
 -->
 
 결제 금액에 대한 지표를 확인할 수 있습니다.
@@ -30,11 +30,11 @@ order: 3
 
 ### Paying User
 ![analytics_11](./image/analytics_11_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Analytics 매출 지표 - 유료 이용자(PU) 현황
-    구성: 상단에 결제 이용자 탭과 날짜/필터 선택이 있고, 좌측에 PU 관련 막대 그래프(PU, 신규 PU, 재구매 PU), 우측에 ARPPU 추이 꺾은선 그래프가 있음. 하단에 날짜별 결제금액, DAU, PU, NPU, ARPU, ARPPU 등 상세 데이터 테이블이 배치됨
-    Keyword: PU, 유료 이용자, ARPPU, ARPU, NPU, 결제 이용자
+    내용: Gamebase Analytics 콘솔 Paying User 화면 #11
+    구성: Gamebase Analytics 콘솔의 Paying User 기능 설정/조회 화면 스크린샷
+    Keyword: Analytics, Console, Screenshot, Paying User
 -->
 
 유료 이용자(PU)에 관한 지표를 확인할 수 있습니다.
@@ -54,11 +54,11 @@ order: 3
 
 ### Item Sales
 ![analytics_12](./image/analytics_12_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Analytics 매출 지표 - 아이템별 판매 현황
-    구성: 상단에 아이템별 판매 탭과 날짜/필터 선택이 있고, 좌측에 Top 10 아이템 판매 순위 테이블이 있으며 우측에 스토어별 판매 비율을 보여주는 원형(도넛) 차트가 있음. 하단에 스토어별/아이템별 결제금액, 결제 건수, PU 등의 상세 데이터 테이블이 배치됨
-    Keyword: 아이템 판매, Top 10, 도넛차트, 스토어별, 결제금액
+    내용: Gamebase Analytics 콘솔 Item Sales 화면 #12
+    구성: Gamebase Analytics 콘솔의 Item Sales 기능 설정/조회 화면 스크린샷
+    Keyword: Analytics, Console, Screenshot, Item Sales
 -->
 
 등록된 아이템의 판매 지표를 확인할 수 있습니다.
@@ -73,11 +73,11 @@ order: 3
 
 ### First Purchase
 ![analytics_13](./image/analytics_13_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Analytics 매출 지표 - 첫 구매(First Purchase) 현황
-    구성: 상단에 첫 구매 탭과 날짜/필터 선택이 있고, 상부에 가입 후 첫 구매까지의 소요 기간을 D+0~D+90일로 보여주는 테이블이 있음. 하단에 신규 PU가 구매한 아이템 목록과 스토어, 결제금액 등의 상세 정보가 테이블로 표시됨
-    Keyword: 첫 구매, First Purchase, NPU, 신규 PU, 소요 기간, 아이템
+    내용: Gamebase Analytics 콘솔 First Purchase 화면 #13
+    구성: Gamebase Analytics 콘솔의 First Purchase 기능 설정/조회 화면 스크린샷
+    Keyword: Analytics, Console, Screenshot, First Purchase
 -->
 
 신규 유료 이용자의 첫 구매에 관한 정보를 확인할 수 있습니다.

@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.19.0, 버그수정, 기능개선, 기능추가, 변경, Analytics, IAP"
 section: "2020. 12. 29."
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Purchase, Analytics, Authentication, Android, Unity, Release Notes, 2.19.0
 ---
 
 ### 2020. 12. 29.

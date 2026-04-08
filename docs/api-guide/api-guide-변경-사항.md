@@ -1,10 +1,10 @@
 ---
 source: api-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Server API, Withdraw, Purchase, Push, Notice, Coupon, Ban, IdP, IAP"
 section: "변경 사항"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Server API, Login, Mapping, Withdraw, Purchase, Consume
 ---
 
 ## Game > Gamebase > API v1.3 가이드

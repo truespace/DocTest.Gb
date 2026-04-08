@@ -1,11 +1,9 @@
 ---
 source: aos-logger.md
-split: false
-created_date_time: 20260406_141859
-keyword: "Android, Logger, aos-logger"
 source_size_bytes: 4678
 source_char_count: 4066
 split_count: 0
+created_date_time: 20260408_191848
 ---
 
 # aos-logger

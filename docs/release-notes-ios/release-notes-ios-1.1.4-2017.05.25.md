@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.1.4, 기능개선, 기능추가, 변경"
 section: "1.1.4 (2017.05.25)"
 order: 138
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Release Notes, 1.1.4
 ---
 
 ### 1.1.4 (2017.05.25) 

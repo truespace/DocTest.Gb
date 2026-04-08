@@ -1,10 +1,10 @@
 ---
 source: aos-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Logout, Error, isSuccess, getMessage"
-section: Logout
+section: "Logout"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Logout, Authentication
 ---
 
 ## Logout

@@ -1,10 +1,10 @@
 ---
 source: unity-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Logger, SetUserField, SetUserFieldSample"
 section: "Set User-Defined Fields"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logger, Set
 ---
 
 ### Set User-Defined Fields

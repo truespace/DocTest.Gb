@@ -1,10 +1,10 @@
 ---
 source: unreal-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Notice, ImageNotice, ShowImageNotices, GetSubsystem, GetGameInstance, GetImageNotice"
-section: ImageNotice
+section: "ImageNotice"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, ImageNotice, Console
 ---
 
 ## ImageNotice
@@ -12,11 +12,11 @@ order: 2
 콘솔에 이미지를 등록한 후 사용자에게 공지를 띄울 수 있습니다.
 
 ![ImageNotice Example](./image/imageNotice-guide-landscape-ko_v3.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 이미지 공지 팝업 예시 (가로 모드)
-    구성: 게임 성공을 위한 맞춤 패키지 NHN GamePlatform 홍보 이미지가 팝업으로 표시됨. 좌우 화살표로 이미지 넘기기 가능, 하단에 '오늘은 그만 보기' 체크박스와 '닫기' 버튼이 위치
-    Keyword: 이미지공지, ImageNotice, 팝업, 가로모드, GamePlatform
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: ImageNotice 관련 화면
+    구성: ImageNotice 관련 스크린샷
+    Keyword: Unreal, Screenshot, ImageNotice
 -->
 
 ### Show ImageNotices

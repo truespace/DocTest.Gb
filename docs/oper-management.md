@@ -1,11 +1,9 @@
 ---
 source: oper-management.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, oper-management"
 source_size_bytes: 6455
 source_char_count: 3923
 split_count: 3
+created_date_time: 20260408_191848
 ---
 
 # oper-management

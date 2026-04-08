@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.41.0, 기능추가, 변경, IdP"
 section: "2.41.0 (2022. 07. 05.)"
 order: 34
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Android, iOS, Release Notes, 2.41.0
 ---
 
 ### 2.41.0 (2022. 07. 05.)

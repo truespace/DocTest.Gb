@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.14.0, 기능개선, 기능추가, 변경, WebView, Launching"
 section: "1.14.0 (2018.10.23)"
 order: 114
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, ShowWebView, Console, Release Notes, 1.14.0
 ---
 
 ### 1.14.0 (2018.10.23)

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.12.1, 기능개선, 기능추가, 변경, Maintenance, Guest, IdP, IAP"
 section: "1.12.1 (2018.08.09)"
 order: 116
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Mapping, Alert, Authentication, Error, Android, iOS, Release Notes, 1.12.1
 ---
 
 ### 1.12.1 (2018.08.09)

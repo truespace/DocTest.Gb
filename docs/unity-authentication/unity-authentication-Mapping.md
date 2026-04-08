@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, Mapping, Withdraw, Guest, IdP, AddMapping, RemoveMapping, IsSuccess, AddMappingForcibly"
-section: Mapping
+section: "Mapping"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Logout, Mapping, Withdraw, Authentication
 ---
 
 ## Mapping
@@ -41,11 +41,11 @@ Gamebase의 매핑 API를 사용하면 기존에 로그인된 계정에 다른 I
 매핑은 다음 순서로 구현할 수 있습니다.
 
 ![add mapping flow](./image/auth_add_mapping_flow_2.30.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: AddMapping(계정 연동 추가) 처리 흐름도
-    구성: 로그인 상태에서 시작하여 AddMapping API 호출 후 SOCKET_RESPONSE_TIMEOUT 에러 시 재시도, AUTH_ADD_MAPPING_ALREADY_MAPPED_TO_OTHER_MEMBER 에러 시 ForcingMapping 처리(Case 1~4: 강제 매핑 성공, ChangeLogin 성공, 로그아웃, 취소)로 분기하며, 성공 시 AddMapping 완료로 종료되는 플로우차트
-    Keyword: AddMapping, 매핑, 계정 연동, ForcingMapping, ChangeLogin, 인증 플로우
+    내용: 계정 매핑 추가 흐름도
+    구성: 기존 계정에 새로운 IdP를 매핑하는 처리 흐름을 나타내는 순서도
+    Keyword: Flowchart, Add Mapping Flow
 -->
 
 #### 1. 로그인

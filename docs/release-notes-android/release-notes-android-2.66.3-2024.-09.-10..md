@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.66.3, 기능개선, 변경"
 section: "2.66.3 (2024. 09. 10.)"
 order: 19
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, Release Notes, 2.66.3
 ---
 
 ### 2.66.3 (2024. 09. 10.)

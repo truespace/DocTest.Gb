@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.3.0, 신규, 기능개선, 기능추가, 변경, Login, Push"
 section: "2017. 10. 26."
 order: 89
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Push, Error, Unity, Console, Release Notes, 1.3.0
 ---
 
 ### 2017. 10. 26.

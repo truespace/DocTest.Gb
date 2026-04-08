@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.10.0, 기능개선, 기능추가, 변경, Login"
 section: "1.10.0 (2018.06.07)"
 order: 120
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Android, iOS, Release Notes, 1.10.0
 ---
 
 ### 1.10.0 (2018.06.07)

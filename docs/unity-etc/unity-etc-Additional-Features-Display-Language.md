@@ -1,10 +1,10 @@
 ---
 source: unity-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Initialize, Maintenance, Launching, GetDisplayLanguageCode, SetDisplayLanguageCode, InitializeWithConfiguration, IsSuccess"
 section: "Additional Features > Display Language"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Initialize, Android, iOS
 ---
 
 ### Display Language
@@ -179,11 +179,11 @@ public void GetDisplayLanguageCode()
 UnityEditor 및 Unity Standalone, WebGL 플랫폼 서비스 시, Gamebase에서 제공하는 기본 언어(ko, en) 외 다른 언어를 사용하려면 Assets > StreamingAssets > Gamebase에 있는 localizedstring.json 파일에 값을 추가해야 합니다.
 
 ![localizedstring.json](./image/unity-developers-guide-etc_001_1.11.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Unity Editor의 Project 창에서 localizedstring.json 파일 위치를 보여주는 스크린샷
-    구성: Project 패널의 폴더 트리 구조에서 Assets > StreamingAssets > Gamebase > localizedstring 파일이 빨간 테두리로 강조 표시되어 있음. Editor, Gamebase, Test 폴더도 함께 보임
-    Keyword: Unity, Project, StreamingAssets, localizedstring, 다국어, Display Language
+    내용: SDK 가이드 화면 (신규 언어셋 추가)
+    구성: SDK 설정/사용 가이드 관련 스크린샷
+    Keyword: Unity, SDK, Screenshot, 신규 언어셋 추가
 -->
 
 localizedstring.json에 정의되어 있는 형식은 아래와 같습니다.

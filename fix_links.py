@@ -10,12 +10,13 @@ import re
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DIVIDED_DIR = BASE_DIR.parent / "docs"
+KO_DIR = BASE_DIR / "ko"
+DIVIDED_DIR = BASE_DIR / "docs"
 
 # 원본 파일 목록 수집 (확장자 없는 stem)
 ORIGINAL_STEMS = set()
-for f in BASE_DIR.iterdir():
-    if f.suffix == ".md" and f.name not in {"DIVIDE_RULES.md"}:
+for f in KO_DIR.iterdir():
+    if f.suffix == ".md":
         ORIGINAL_STEMS.add(f.stem)
 
 
@@ -103,8 +104,8 @@ def fix_links_in_file(filepath, folder_stem, anchor_map):
                 changes.append(f"  자기참조: {path} → {new_path}")
                 return f"]({new_path})"
 
-        # 타 문서 링크: ../../파일명.md#anchor
-        new_path = f"../../{file_part}.md"
+        # 타 문서 링크: ../파일명.md#anchor (docs/{기능명}/ → docs/ 까지 1단계)
+        new_path = f"../{file_part}.md"
         if anchor:
             new_path += f"#{anchor}"
 
@@ -162,8 +163,8 @@ def replace_link_wrapper(match, folder_stem, anchor_map, changes):
             changes.append(f"  자기참조: {path} → {new_path}")
             return f"]({new_path})"
 
-    # 타 문서 링크: ../../파일명.md#anchor
-    new_path = f"../../{file_part}.md"
+    # 타 문서 링크: ../파일명.md#anchor (docs/{기능명}/ → docs/ 까지 1단계)
+    new_path = f"../{file_part}.md"
     if anchor:
         new_path += f"#{anchor}"
 
@@ -188,7 +189,7 @@ def main():
             if changes:
                 files_changed += 1
                 total_changes += len(changes)
-                print(f"\n{md_file.relative_to(BASE_DIR)} ({len(changes)}개 수정)")
+                print(f"\n{md_file.relative_to(DIVIDED_DIR)} ({len(changes)}개 수정)")
                 for c in changes[:5]:
                     print(c)
                 if len(changes) > 5:

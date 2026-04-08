@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 변경, Contact"
 section: "2024. 01. 09."
 order: 8
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Contact, Error, Release Notes
 ---
 
 ### 2024. 01. 09.

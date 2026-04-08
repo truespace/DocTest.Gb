@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.41.1, 버그수정, TermsView"
 section: "2.41.1 (2022. 07. 12.)"
 order: 54
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Terms, Release Notes, 2.41.1
 ---
 
 ### 2.41.1 (2022. 07. 12.)

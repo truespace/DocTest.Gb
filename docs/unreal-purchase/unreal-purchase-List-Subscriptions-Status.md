@@ -1,10 +1,10 @@
 ---
 source: unreal-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Purchase, Consume, IAP, RequestSubscriptionsStatus, RequestPurchase, GetSubsystem, GetGameInstance, GetPurchase, IsSuccess"
 section: "List Subscriptions Status"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Console
 ---
 
 ### List Subscriptions Status

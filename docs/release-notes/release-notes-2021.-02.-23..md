@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.20.1, 버그수정, 기능추가, Push, IAP"
 section: "2021. 02. 23."
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Initialize, Android, Console, Release Notes, 2.20.1
 ---
 
 ### 2021. 02. 23.

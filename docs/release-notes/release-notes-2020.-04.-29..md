@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.9.1, 버그수정, Initialize"
 section: "2020. 04. 29."
 order: 29
+split: true
+created_date_time: 20260408_191848
+keyword: Initialize, Error, Unity, Console, Release Notes, 2.9.1
 ---
 
 ### 2020. 04. 29.

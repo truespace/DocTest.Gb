@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 신규, Maintenance, Guest, IAP"
 section: "2017. 03. 09."
 order: 129
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Logout, Withdraw, Authentication, Release Notes
 ---
 
 ### 2017. 03. 09.

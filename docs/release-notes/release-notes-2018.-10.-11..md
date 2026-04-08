@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "버그수정, 2018. 10. 11."
 section: "2018. 10. 11."
 order: 67
+split: true
+created_date_time: 20260408_191848
+keyword: Error, Console, Release Notes
 ---
 
 ### 2018. 10. 11.

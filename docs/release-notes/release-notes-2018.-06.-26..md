@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.11.0, 기능개선, 기능추가, 변경, 제거, Login, IdP, Launching"
 section: "2018. 06. 26."
 order: 74
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Initialize, Authentication, Error, Android, iOS, Release Notes, 1.11.0
 ---
 
 ### 2018. 06. 26.

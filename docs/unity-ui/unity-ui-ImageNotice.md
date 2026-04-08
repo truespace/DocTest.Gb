@@ -1,10 +1,10 @@
 ---
 source: unity-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Notice, ImageNotice, Error, ShowImageNotices"
-section: ImageNotice
+section: "ImageNotice"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Initialize, ImageNotice, Error, Console
 ---
 
 ## ImageNotice
@@ -12,11 +12,11 @@ order: 2
 콘솔에 이미지를 등록한 후 사용자에게 공지를 띄울 수 있습니다.
 
 ![ImageNotice Example](./image/imageNotice-guide-landscape-ko_v3.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 이미지 공지 팝업 표시 예시 (가로 모드)
-    구성: 어두운 배경 위에 NHN GamePlatform 홍보 이미지가 팝업으로 표시됨. '게임 성공을 위한 하나 뿐인 맞춤 패키지' 문구와 좌우 페이지 넘김 화살표, 하단에 '오늘은 그만 보기' 체크박스와 '닫기' 버튼이 있음
-    Keyword: ImageNotice, 이미지 공지, 팝업, GamePlatform, 가로 모드
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: ImageNotice 관련 화면
+    구성: ImageNotice 관련 스크린샷
+    Keyword: Unity, Screenshot, ImageNotice
 -->
 
 ### Show ImageNotices

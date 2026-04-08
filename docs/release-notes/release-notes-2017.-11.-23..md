@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.4.0, 버그수정, 기능개선, 기능추가, 변경, WebView"
 section: "2017. 11. 23."
 order: 88
+split: true
+created_date_time: 20260408_191848
+keyword: WebView, Error, Android, iOS, Release Notes, 1.4.0
 ---
 
 ### 2017. 11. 23.

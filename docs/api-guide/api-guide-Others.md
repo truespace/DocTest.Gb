@@ -1,10 +1,10 @@
 ---
 source: api-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Server API, Maintenance, Guest, Launching, isSuccessful"
-section: Others
+section: "Others"
 order: 12
+split: true
+created_date_time: 20260408_191848
+keyword: Server API, Withdraw, Purchase, Authentication, GraceBan, TemporaryWithdrawal, Android, iOS
 ---
 
 ## Others

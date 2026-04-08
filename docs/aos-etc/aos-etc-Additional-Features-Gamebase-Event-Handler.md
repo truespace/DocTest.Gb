@@ -1,10 +1,10 @@
 ---
 source: aos-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, Purchase, Push, Initialize, Maintenance, Error, Guest, Launching, addEventHandler"
 section: "Additional Features > Gamebase Event Handler"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Withdraw, Purchase, Push, Console
 ---
 
 ### Gamebase Event Handler

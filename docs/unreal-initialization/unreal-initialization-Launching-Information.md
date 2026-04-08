@@ -1,10 +1,10 @@
 ---
 source: unreal-initialization.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Purchase, Push, Initialize, Maintenance, Notice, TermsView, IAP, Launching"
 section: "Launching Information"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Initialize, Authentication, Terms, Error, Console
 ---
 
 ### Launching Information

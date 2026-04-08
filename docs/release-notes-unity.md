@@ -1,11 +1,9 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.81.0, release-notes-unity"
 source_size_bytes: 88139
 source_char_count: 65535
 split_count: 136
+created_date_time: 20260408_191848
 ---
 
 # release-notes-unity

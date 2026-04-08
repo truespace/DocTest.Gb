@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 기능개선, 기능추가, 변경"
 section: "2021. 11. 23."
 order: 43
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Error, Release Notes
 ---
 
 ### 2021. 11. 23.

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.52.1, 버그수정, 변경, Logger"
 section: "2.52.1 (2023. 07. 25.)"
 order: 38
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logger, Initialize, Error, Android, iOS, Release Notes, 2.52.1
 ---
 
 ### 2.52.1 (2023. 07. 25.)

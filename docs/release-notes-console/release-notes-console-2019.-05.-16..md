@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 신규, 버그수정, 기능개선, 기능추가, 변경, 제거"
 section: "2019. 05. 16."
 order: 103
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Mapping, Purchase, Authentication, TransferAccount, Release Notes
 ---
 
 ### 2019. 05. 16.

@@ -1,10 +1,10 @@
 ---
 source: unity-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Purchase, Consume, Subscription, Error, IAP, RequestSubscriptionsStatus, requestPurchase, RequestSubscriptionsStatusSample, IsSuccess"
 section: "List Subscriptions status"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Console
 ---
 
 ### List Subscriptions status

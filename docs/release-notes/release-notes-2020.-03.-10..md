@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.7.2, 버그수정, 기능개선, 기능추가, 변경, 제거, Analytics, Initialize, IAP"
 section: "2020. 03. 10."
 order: 33
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, WebView, Alert, Analytics, Initialize, Android, iOS, Release Notes
 ---
 
 ### 2020. 03. 10.

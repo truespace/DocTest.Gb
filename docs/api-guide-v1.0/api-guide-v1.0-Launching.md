@@ -1,10 +1,10 @@
 ---
 source: api-guide-v1.0.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Server API, Maintenance, Contact, Launching, isSuccessful"
-section: Launching
+section: "Launching"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Server API, Terms, Contact, Console
 ---
 
 ## Launching

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.73.1, 버그수정"
 section: "2.73.1 (2025. 07. 22.)"
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Error, iOS, Release Notes, 2.73.1
 ---
 
 ### 2.73.1 (2025. 07. 22.)

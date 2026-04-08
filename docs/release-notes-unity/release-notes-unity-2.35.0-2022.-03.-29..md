@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.35.0, 기능추가, 변경, WebView, TermsView"
 section: "2.35.0 (2022. 03. 29.)"
 order: 56
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Terms, Android, iOS, Release Notes, 2.35.0
 ---
 
 ### 2.35.0 (2022. 03. 29.)

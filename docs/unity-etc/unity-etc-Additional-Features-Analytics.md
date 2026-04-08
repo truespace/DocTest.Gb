@@ -1,10 +1,10 @@
 ---
 source: unity-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Purchase, Analytics, SetGameUserData, RequestPurchase"
 section: "Additional Features > Analytics"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Purchase, Analytics, RequestPurchase, Console
 ---
 
 ### Analytics

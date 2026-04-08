@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.2.2, 버그수정, TransferAccount"
 section: "2.2.2 (2019.04.11)"
 order: 107
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Initialize, TransferAccount, Release Notes, 2.2.2
 ---
 
 ### 2.2.2 (2019.04.11)

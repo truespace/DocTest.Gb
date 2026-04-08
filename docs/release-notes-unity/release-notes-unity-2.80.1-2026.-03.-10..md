@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.80.1, 버그수정, 기능개선, WebView"
 section: "2.80.1 (2026. 03. 10.)"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Error, iOS, Release Notes, 2.80.1
 ---
 
 ### 2.80.1 (2026. 03. 10.)

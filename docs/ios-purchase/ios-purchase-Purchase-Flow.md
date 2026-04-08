@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Purchase, Consume, requestItemListOfNotConsumedWithCompletion, requestPurchaseWithGamebaseProductId"
 section: "Purchase Flow"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Consume
 ---
 
 ### Purchase Flow
@@ -13,11 +13,11 @@ order: 2
 결제 Flow는 다음과 같은 순서로 구현하시기 바랍니다.
 
 ![purchase flow](./image/purchase_flow_001_2.10.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Diagram
-    내용: 결제(Purchase) 흐름 시퀀스 다이어그램
-    구성: GameClient, GamebaseSDK, GameServer 간의 상호작용을 보여주는 시퀀스 다이어그램. requestItemListOfNotConsumed로 재처리 확인 후, requestPurchase로 결제 시도, 성공 후 다시 requestItemListOfNotConsumed를 호출하여 미소비 아이템 처리(Consume Flow)를 진행하는 과정
-    Keyword: 결제, Purchase, 시퀀스다이어그램, GameClient, GamebaseSDK, Consume
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 처리 흐름도
+    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스
+    Keyword: Sequence Diagram, Purchase Flow
 -->
 
 1. 이전 결제가 정상적으로 종료되지 못한 경우 재처리가 동작하지 않으면 결제가 실패합니다. 그러므로 결제 전에 **requestItemListOfNotConsumedWithCompletion:**를 호출하여 재처리를 동작시켜 미지급된 아이템이 있으면 Consume Flow 를 진행합니다.

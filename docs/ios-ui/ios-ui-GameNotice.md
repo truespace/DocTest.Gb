@@ -1,10 +1,10 @@
 ---
 source: ios-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Notice, TermsView, Error"
-section: GameNotice
+section: "GameNotice"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, WebView, Initialize, Terms, Error, Console
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > UI
@@ -14,18 +14,18 @@ order: 1
 콘솔에 이미지와 함께 등록한 공지 사항을 표시하는 기능입니다.
 
 ![GameNotice Example](./image/gameNotice_guide_001.png) 
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 내 공지사항 목록 화면 예시
-    구성: 모바일 화면에 Notice 제목의 공지사항 목록이 표시됨. Gamebase 로고와 설명 배너, 글로벌 진출 안내 배너, NHN GamePlatform 홍보 배너 등 여러 공지 항목이 카드 형태로 세로 나열됨
-    Keyword: 게임공지, GameNotice, 공지사항, UI, Gamebase
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: iOS, Screenshot, GameNotice
 -->
 ![GameNotice Example](./image/gameNotice_guide_002.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 내 공지사항 상세 화면 예시
-    구성: Notice 제목 하단에 Gamebase 로고가 포함된 보라색 배너와 "게임 개발, 출시, 운영을 위한 게임 전문 플랫폼 Gamebase" 설명 텍스트가 표시된 단일 공지 상세 화면
-    Keyword: 게임공지, GameNotice, 공지상세, UI, Gamebase
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: iOS, Screenshot, GameNotice
 -->
 
 ### Open GameNotice

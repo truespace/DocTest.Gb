@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.4.3, 버그수정"
 section: "2.4.3 (2019.07.11)"
 order: 110
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Authentication, Error, Release Notes, 2.4.3
 ---
 
 ### 2.4.3 (2019.07.11)

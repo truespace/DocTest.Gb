@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.3.0, 기능개선, 기능추가, 변경, Launching"
 section: "2.3.0 (2019.04.23)"
 order: 107
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Authentication, Android, Release Notes, 2.3.0
 ---
 
 ### 2.3.0 (2019.04.23)

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v1.1.2, 기능개선, 변경, Maintenance"
 section: "1.1.2 (2017.04.04)"
 order: 130
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Release Notes, 1.1.2
 ---
 
 ### 1.1.2 (2017.04.04)

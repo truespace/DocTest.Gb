@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.75.0, 버그수정, 기능개선, 변경, Notice"
 section: "2.75.0 (2025. 11. 11.)"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, ImageNotice, Android, iOS, Release Notes, 2.75.0
 ---
 
 ### 2.75.0 (2025. 11. 11.)

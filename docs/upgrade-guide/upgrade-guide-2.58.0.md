@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "IdP, 2.58.0, Android"
-section: 2.58.0
+section: "2.58.0"
 order: 22
+split: true
+created_date_time: 20260408_191848
+keyword: Authentication, Android, iOS, Upgrade Guide, 2.58.0
 ---
 
 ## 2.58.0

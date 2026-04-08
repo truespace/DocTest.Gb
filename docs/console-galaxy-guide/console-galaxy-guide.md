@@ -1,8 +1,8 @@
 ---
 source: console-galaxy-guide.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, Galaxy 콘솔 가이드, Package Name 확인하기"
+created_date_time: 20260408_191848
+keyword: Console, Galaxy, Guide
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > Galaxy 콘솔 가이드

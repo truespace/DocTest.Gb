@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 2018. 09. 20."
 section: "2018. 09. 20."
 order: 112
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Error, Release Notes
 ---
 
 ### 2018. 09. 20.

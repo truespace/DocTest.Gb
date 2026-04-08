@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.78.0, 버그수정, 기능개선, 기능추가, 변경"
 section: "2.78.0 (2026. 01. 13.)"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, WebView, RequestPurchase, Android, iOS, Release Notes, 2.78.0
 ---
 
 ### 2.78.0 (2026. 01. 13.)

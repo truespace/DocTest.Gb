@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v1.6.0, 기능추가"
 section: "1.6.0 (2018.01.25)"
 order: 127
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Authentication, Release Notes, 1.6.0
 ---
 
 ### 1.6.0 (2018.01.25)

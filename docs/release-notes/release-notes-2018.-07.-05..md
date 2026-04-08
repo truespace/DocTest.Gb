@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.11.1, 버그수정, 기능개선, 기능추가, 변경, Login, Purchase, Push, Maintenance, IdP"
 section: "2018. 07. 05."
 order: 73
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Android, iOS, Release Notes, 1.11.1
 ---
 
 ### 2018. 07. 05.

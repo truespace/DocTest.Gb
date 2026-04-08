@@ -1,10 +1,10 @@
 ---
 source: oper-customer-service.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Contact, FAQ"
-section: FAQ
+section: "FAQ"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Contact, Oper
 ---
 
 ## FAQ
@@ -16,11 +16,11 @@ order: 3
 등록되어 있는 FAQ 항목에 대하여 검색할 수 있습니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_faq_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - FAQ 검색 화면
-    구성: 상단에 상태, 유형, 질문+답변 검색 조건 필터와 검색 버튼이 있음. 하단에 등록/FAQ 유형 관리 탭이 있고, 자주하는 질문 여부, 유형, 질문, 수정일, 상태 컬럼으로 구성된 FAQ 목록 테이블이 배치됨
-    Keyword: FAQ, 검색, 유형, 자주하는 질문, 상태 필터
+    내용: Gamebase 고객센터 콘솔 Search FAQ 화면 #01
+    구성: Gamebase 고객센터 콘솔의 Search FAQ 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Search FAQ
 -->
 
 **검색 조건**
@@ -40,11 +40,11 @@ order: 3
 
 #### FAQ 유형 관리
 ![gamebase_ban_01_201812](./image/gamebase_faq_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 고객센터 - FAQ 유형 관리 팝업
-    구성: 상단에 'FAQ 유형 관리' 제목과 추가 버튼이 있음. 순서, 한국어(*), 중국어(간체), 영어, 일본어, 중국어(번체), 러시아어, 태국어 컬럼의 테이블에 유형 항목이 나열되며 각 행에 수정/삭제 버튼이 있음. 하단에 확인 버튼이 배치됨
-    Keyword: FAQ 유형, 관리, 다국어, 수정, 삭제
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 고객센터 콘솔 FAQ 유형 관리 화면 #02
+    구성: Gamebase 고객센터 콘솔의 FAQ 유형 관리 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, FAQ 유형 관리
 -->
 
 FAQ 등록 또는 수정시 선택할 수 있는 유형을 관리할 수 있습니다.
@@ -58,11 +58,11 @@ FAQ를 등록하거나 또는 기존에 등록된 FAQ정보를 수정할 수 있
 등록 또는 수정 시 변경할 수 있는 항목은 모두 동일합니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_faq_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - FAQ 등록 화면
-    구성: 상단에 'FAQ 등록' 제목이 있고, 기본 정보 섹션에 상태, 유형, 자주하는 질문 체크박스가 있음. 질문 및 답변 섹션에 다국어(한국어, 중국어, 영어, 일본어 등) 탭과 질문 입력란, 텍스트 에디터가 있으며, 하단에 취소/저장 버튼이 배치됨
-    Keyword: FAQ 등록, 질문, 답변, 다국어, 텍스트 에디터
+    내용: Gamebase 고객센터 콘솔 Register or Update FAQ 화면 #03
+    구성: Gamebase 고객센터 콘솔의 Register or Update FAQ 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Register or Update FAQ
 -->
 
 #### 1. 상태

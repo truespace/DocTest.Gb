@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.6.0, 버그수정, 2019. 11. 13."
 section: "2019. 11. 13."
 order: 42
+split: true
+created_date_time: 20260408_191848
+keyword: Error, Release Notes, v2.6.0
 ---
 
 ### 2019. 11. 13.

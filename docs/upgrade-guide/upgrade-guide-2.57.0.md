@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "2.57.0, iOS, Unreal"
-section: 2.57.0
+section: "2.57.0"
 order: 23
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Unreal, Upgrade Guide, 2.57.0
 ---
 
 ## 2.57.0

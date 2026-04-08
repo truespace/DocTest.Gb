@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "TermsView, SettingTool, 2.41.0"
-section: 2.41.0
+section: "2.41.0"
 order: 37
+split: true
+created_date_time: 20260408_191848
+keyword: WebView, Terms, Android, Unity, Upgrade Guide, 2.41.0
 ---
 
 ## 2.41.0

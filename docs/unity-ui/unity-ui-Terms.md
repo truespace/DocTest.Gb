@@ -1,10 +1,10 @@
 ---
 source: unity-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, Push, TermsView, Error, ShowTermsView, ShowTermsViewResult, isTermsUIOpened, IsSuccess, UpdateTermsConfiguration"
-section: Terms
+section: "Terms"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Push, WebView, Initialize, Terms, ShowTermsView, RegisterPush, Console
 ---
 
 ## Terms
@@ -12,11 +12,11 @@ order: 3
 Gamebase 콘솔에 설정한 약관을 표시합니다.
 
 ![TermsView Example](./image/termsView-guide-ui-001_2.20.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 약관 동의(TermsView) 화면 표시 예시
-    구성: 모바일 화면에 약관 동의 팝업이 표시됨. '이용약관 및 개인정보 관련 동의' 제목 아래 게임 이용약관(보기), 게임 정보 수집/이용(보기) 필수 항목과 광고성 알림 수신(선택), 광고성 야간 알림 수신(선택) 항목이 체크박스로 나열되며, '위 내용에 모두 동의합니다' 전체 동의 체크박스와 빨간색 '확인' 버튼이 하단에 위치
-    Keyword: TermsView, 약관 동의, 개인정보, 이용약관, 광고성 알림
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 약관 동의 화면
+    구성: Gamebase 약관 동의 UI 화면
+    Keyword: Screenshot, Terms
 -->
 
 ShowTermsView API 는 웹뷰로 약관 창을 표시해줍니다.

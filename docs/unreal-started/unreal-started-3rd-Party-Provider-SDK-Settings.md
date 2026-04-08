@@ -1,10 +1,10 @@
 ---
 source: unreal-started.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, SetEosPlatformHandle, GetSubsystem, SetPlatformHandle"
 section: "3rd-Party Provider SDK Settings"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Initialize, Authentication, Error, Android, iOS
 ---
 
 ## 3rd-Party Provider SDK Settings

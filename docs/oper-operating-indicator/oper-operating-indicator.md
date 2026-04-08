@@ -1,8 +1,8 @@
 ---
 source: oper-operating-indicator.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, Maintenance, 운영 지표"
+created_date_time: 20260408_191848
+keyword: Console, Push, Analytics, Android, iOS
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 운영 지표
@@ -13,11 +13,11 @@ keyword: "Console, Maintenance, 운영 지표"
 
 ## Monitoring
 ![operation-indicator_01_201812](./image/operation-indicator_01_201812.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: operation-indicator_01_201812
-    구성: 'operation-indicator_01_201812' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Analytics, Indicator, Maintenance
+    내용: Gamebase 운영지표 콘솔 Monitoring 화면 #01
+    구성: Gamebase 운영지표 콘솔의 Monitoring 기능 설정/조회 화면 스크린샷
+    Keyword: 운영지표, Console, Screenshot, Monitoring
 -->
 현재 앱을 이용하는 사용자의 전체 통계 및 현재 예약된 푸시 현황, 예약된 점검 내역을 확인할 수 있습니다. 
 5분이 지나면 자동으로 화면이 '새로 고침'이 되고, 실시간으로 변경된 지표를 확인할 수 있습니다.
@@ -39,11 +39,11 @@ keyword: "Console, Maintenance, 운영 지표"
 
 ## User Statistics
 ![operation-indicator_02_201812](./image/operation-indicator_02_201812.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: operation-indicator_02_201812
-    구성: 'operation-indicator_02_201812' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Indicator
+    내용: Gamebase 운영지표 콘솔 User Statistics 화면 #02
+    구성: Gamebase 운영지표 콘솔의 User Statistics 기능 설정/조회 화면 스크린샷
+    Keyword: 운영지표, Console, Screenshot, User Statistics
 -->
 DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 현재 앱을 사용하는 게임 유저의 추이 변화를 한눈에 확인할 수 있습니다. 
@@ -58,22 +58,22 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Concurrent Group User
 ![operation-indicator_03_201812](./image/operation-indicator_03_201812.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: operation-indicator_03_201812
-    구성: 'operation-indicator_03_201812' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Indicator
+    내용: Gamebase 운영지표 콘솔 Concurrent Group User 화면 #03
+    구성: Gamebase 운영지표 콘솔의 Concurrent Group User 기능 설정/조회 화면 스크린샷
+    Keyword: 운영지표, Console, Screenshot, Concurrent Group User
 -->
 자신이 속한 프로젝트의 그룹 동시 접속 통계를 확인할 수 있습니다. 권한이 있는 여러 프로젝트의 운영체제별 실시간 동시 접속자 수를 한눈에 볼 수 있습니다.
 
 
 ## Installed URL Statistics
 ![operation-indicator_04_201812](./image/operation-indicator_04_201812.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: operation-indicator_04_201812
-    구성: 'operation-indicator_04_201812' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Indicator
+    내용: Gamebase 운영지표 콘솔 Installed URL Statistics 화면 #04
+    구성: Gamebase 운영지표 콘솔의 Installed URL Statistics 기능 설정/조회 화면 스크린샷
+    Keyword: 운영지표, Console, Screenshot, Installed URL Statistics
 -->
 설치 URL 호출에 대한 통계 데이터를 확인할 수 있습니다.
 
@@ -84,11 +84,11 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Statistics
 ![image alt](./image/Console_Monitoring_Statistics1_1.2.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: image alt
-    구성: 'image alt' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Console
+    내용: Gamebase 운영지표 콘솔 Statistics 화면
+    구성: Gamebase 운영지표 콘솔의 Statistics 기능 설정/조회 화면 스크린샷
+    Keyword: 운영지표, Console, Screenshot, Statistics
 -->
 판매 현황 화면을 통하여 앱의 매출현황을 손쉽게 확인할 수 있습니다.
 오른쪽 위 **통화**에서 원하는 통화를 선택해 통화별 매출액을 확인할 수도 있습니다.

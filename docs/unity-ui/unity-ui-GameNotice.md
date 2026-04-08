@@ -1,10 +1,10 @@
 ---
 source: unity-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Notice, Error"
-section: GameNotice
+section: "GameNotice"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, WebView, Initialize, Error, Console
 ---
 
 ## Game > Gamebase > Unity SDK 사용 가이드 > UI
@@ -14,11 +14,11 @@ order: 1
 콘솔에 이미지와 함께 등록한 공지 사항을 표시하는 기능입니다.
 
 ![GameNotice Example](./image/gameNotice_guide_001.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 내 공지사항(GameNotice) 표시 예시 화면
-    구성: 모바일 화면에 Notice 팝업이 표시되며, Gamebase 로고와 '게임 개발, 출시, 운영을 위한 게임 전문...' 텍스트가 포함된 공지 카드, '글로벌 진출도 Gamebase와 함께' 배너, 'NHN GamePlatform' 홍보 배너 등 여러 공지 항목이 스크롤 형태로 나열됨. 우측 상단에 닫기(X) 버튼이 있음
-    Keyword: GameNotice, 공지사항, 팝업, Gamebase, 모바일 UI
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: Unity, Screenshot, GameNotice
 -->
 
 ### Open GameNotice

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.27.1, 버그수정, 기능개선, 변경, Login, Maintenance, IdP"
 section: "2.27.1 (2021.09.14)"
 order: 69
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, WebView, Authentication, Terms, Error, Release Notes, 2.27.1
 ---
 
 ### 2.27.1 (2021.09.14)

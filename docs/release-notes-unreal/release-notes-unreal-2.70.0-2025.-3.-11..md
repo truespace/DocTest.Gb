@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.70.0, 신규, 버그수정, 기능개선, 기능추가, 변경, IdP"
 section: "2.70.0 (2025. 3. 11.)"
 order: 13
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Initialize, Error, Android, iOS, Release Notes, 2.70.0
 ---
 
 ### 2.70.0 (2025. 3. 11.)

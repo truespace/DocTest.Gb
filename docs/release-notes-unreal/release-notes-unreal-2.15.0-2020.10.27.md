@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.15.0, 버그수정, 기능개선, 기능추가, 변경, Push, Notice"
 section: "2.15.0 (2020.10.27)"
 order: 44
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Push, Alert, ImageNotice, Error, ShowImageNotices, Android, iOS, Release Notes
 ---
 
 ### 2.15.0 (2020.10.27)

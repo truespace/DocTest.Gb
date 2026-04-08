@@ -1,8 +1,8 @@
 ---
 source: console-onestore-guide.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Console, IAP, ONEStore 콘솔 가이드"
+created_date_time: 20260408_191848
+keyword: Console, Authentication, Onestore
 ---
 
 ## Game > Gamebase > 스토어 콘솔 가이드 > ONEStore 콘솔 가이드
@@ -13,7 +13,13 @@ keyword: "Console, IAP, ONEStore 콘솔 가이드"
 ```
 Apps > 앱 선택 >In-App정보 > 인증 및 라이선스
 ```
-![원스토어 인증 및 라이선스 확인](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/StoreConsoleGuide/iap_52.PNG)
+![원스토어 인증 및 라이선스 확인](./image/iap_52.PNG)
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 원스토어 키 생성 관련 화면
+    구성: 원스토어 키 생성 관련 스크린샷
+    Keyword: Screenshot, 원스토어 키 생성
+-->
 
 ![[]](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/StoreConsoleGuide/ONEStore/ko/store_info_registration_ko_231226.png)
 

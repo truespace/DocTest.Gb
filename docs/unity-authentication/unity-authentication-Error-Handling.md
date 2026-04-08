@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, Logout, Mapping, TransferAccount, Maintenance, Error, Guest, IdP, IsSuccess"
 section: "Error Handling"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Logout, Mapping, Withdraw, Initialize
 ---
 
 ## Error Handling

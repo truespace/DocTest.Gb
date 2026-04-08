@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, Analytics"
 section: "2020. 01. 21."
 order: 87
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, Analytics, Release Notes
 ---
 
 ### 2020. 01. 21.

@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.8.1, 버그수정, 기능개선, 기능추가, 변경, Analytics"
 section: "2020. 04. 14."
 order: 31
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Analytics, Android, Console, Release Notes, 2.8.1
 ---
 
 ### 2020. 04. 14.

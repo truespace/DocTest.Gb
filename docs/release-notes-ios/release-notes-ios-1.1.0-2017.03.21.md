@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.1.0, 기능개선, 기능추가, 변경"
 section: "1.1.0 (2017.03.21)"
 order: 140
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Release Notes, 1.1.0
 ---
 
 ### 1.1.0 (2017.03.21) 

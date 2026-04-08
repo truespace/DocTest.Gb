@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.16.0, 기능개선, 기능추가, 변경, Analytics, Notice, Contact"
 section: "2020. 09. 22."
 order: 17
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Analytics, Contact, Console, Release Notes, 2.16.0
 ---
 
 ### 2020. 09. 22.

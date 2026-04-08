@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v1.9.0, 신규, 버그수정, 기능추가, Guest"
 section: "1.9.0 (2018.05.03)"
 order: 128
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Mapping, Error, Release Notes, 1.9.0
 ---
 
 ### 1.9.0 (2018.05.03) 

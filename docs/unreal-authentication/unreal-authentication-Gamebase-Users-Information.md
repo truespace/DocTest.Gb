@@ -1,10 +1,10 @@
 ---
 source: unreal-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, IdP, GetLastLoggedInProvider, GetUserID, GetSubsystem, GetGameInstance, GetAccessToken, RequestLastLoggedInProvider, LoginForLastLoggedInProvider"
 section: "Gamebase User's Information"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Authentication, LoginForLastLoggedInProvider
 ---
 
 ## Gamebase User's Information

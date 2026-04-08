@@ -1,11 +1,9 @@
 ---
 source: oper-operating-indicator.md
-split: false
-created_date_time: 20260406_141859
-keyword: "Console, oper-operating-indicator"
 source_size_bytes: 4373
 source_char_count: 2491
 split_count: 0
+created_date_time: 20260408_191848
 ---
 
 # oper-operating-indicator

@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "XCode, Guest, loginForLastLoggedInProvider"
-section: 2.62.0
+section: "2.62.0"
 order: 20
+split: true
+created_date_time: 20260408_191848
+keyword: Authentication, LoginForLastLoggedInProvider, XCode, Android, iOS, Upgrade Guide, 2.62.0
 ---
 
 ## 2.62.0

@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "RequestItemListOfNotConsumed, RequestActivatedPurchases, 2.49.0"
-section: 2.49.0
+section: "2.49.0"
 order: 30
+split: true
+created_date_time: 20260408_191848
+keyword: Consume, RequestItemListOfNotConsumed, Android, Unreal, Upgrade Guide, 2.49.0
 ---
 
 ## 2.49.0

@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, TransferAccount, Error, Guest, IdP, TransferAccountInfo, TransferAccountRenewConfiguration, transferAccountFailInfo, IsSuccess"
-section: TransferAccount
+section: "TransferAccount"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Mapping, TransferAccount, Error
 ---
 
 ## TransferAccount

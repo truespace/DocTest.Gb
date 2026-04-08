@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Gradle, Java, v2.70.0, 신규, 버그수정, 기능개선, 기능추가, 변경, Notice"
 section: "2.70.0 (2025. 03. 11.)"
 order: 15
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Logout, Purchase, Initialize, ImageNotice, Gradle, Java, Unity, Release Notes
 ---
 
 ### 2.70.0 (2025. 03. 11.)

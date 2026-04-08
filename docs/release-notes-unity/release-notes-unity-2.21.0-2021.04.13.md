@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.21.0, 기능추가"
 section: "2.21.0 (2021.04.13)"
 order: 73
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Authentication, Release Notes, 2.21.0
 ---
 
 ### 2.21.0 (2021.04.13)

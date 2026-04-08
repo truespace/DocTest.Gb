@@ -1,10 +1,10 @@
 ---
 source: unreal-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, GetCountryCode, GetCountryCodeOfUSIM, GetCountryCodeOfDevice"
 section: "Additional Features > Country Code"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Etc, Additional
 ---
 
 ### Country Code
@@ -54,11 +54,11 @@ FString GetCountryCodeOfDevice() const;
     3. USIM, 단말기 국가 코드가 모두 빈 값이라면 'ZZ' 를 반환합니다.
 
 ![observer](./image/get_country_code_001_1.14.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Flowchart
-    내용: Country Code 획득 우선순위 흐름도
-    구성: start에서 USIM country code를 먼저 획득 시도, null/empty이면 device country code를 시도, 그것도 null/empty이면 기본값 'ZZ'를 반환하는 순차적 판단 흐름도
-    Keyword: CountryCode, USIM, Device, 국가코드, 플로우차트
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Intergrated Country Code 관련 화면
+    구성: Intergrated Country Code 관련 스크린샷
+    Keyword: Unreal, Screenshot, Intergrated Country Code
 -->
 
 

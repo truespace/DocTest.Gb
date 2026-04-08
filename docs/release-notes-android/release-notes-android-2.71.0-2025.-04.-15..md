@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.71.0, 신규, 기능개선, 기능추가, 변경, Notice"
 section: "2.71.0 (2025. 04. 15.)"
 order: 13
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Initialize, Error, Release Notes, 2.71.0
 ---
 
 ### 2.71.0 (2025. 04. 15.)

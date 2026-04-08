@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v1.14.5, 기능개선, 변경, 제거, Purchase, WebView, IAP, Launching"
 section: "1.14.5 (2018.12.27)"
 order: 111
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, WebView, RequestRetryTransaction, Release Notes, 1.14.5
 ---
 
 ### 1.14.5 (2018.12.27)

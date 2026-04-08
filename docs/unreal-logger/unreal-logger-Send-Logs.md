@@ -1,10 +1,10 @@
 ---
 source: unreal-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Logger, GetSubsystem, GetGameInstance, GetLogger"
 section: "Send Logs"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Logger, Error
 ---
 
 ### Send Logs

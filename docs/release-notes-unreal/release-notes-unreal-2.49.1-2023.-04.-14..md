@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.49.1, 버그수정, 변경"
 section: "2.49.1 (2023. 04. 14.)"
 order: 30
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Android, iOS, Release Notes, 2.49.1
 ---
 
 ### 2.49.1 (2023. 04. 14.)

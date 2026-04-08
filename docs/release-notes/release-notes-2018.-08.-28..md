@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "XCode, v1.12.2, 버그수정, 기능개선, 기능추가, 변경, 제거, Push, IAP"
 section: "2018. 08. 28."
 order: 70
+split: true
+created_date_time: 20260408_191848
+keyword: Mapping, Withdraw, Purchase, Push, Initialize, XCode, Android, iOS, Release Notes, 1.12.2
 ---
 
 ### 2018. 08. 28.

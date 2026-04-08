@@ -1,11 +1,9 @@
 ---
 source: oper-customer-service.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notice, oper-customer-service"
 source_size_bytes: 24287
 source_char_count: 13445
 split_count: 6
+created_date_time: 20260408_191848
 ---
 
 # oper-customer-service

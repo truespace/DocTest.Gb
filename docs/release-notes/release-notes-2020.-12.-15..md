@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.18.2, 버그수정, 기능개선, 기능추가, 변경, 제거, Login, Push, Analytics, Contact"
 section: "2020. 12. 15."
 order: 12
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Purchase, Push, WebView, Analytics, ShowWebView, Android, iOS, Release Notes, 2.18.2
 ---
 
 ### 2020. 12. 15.

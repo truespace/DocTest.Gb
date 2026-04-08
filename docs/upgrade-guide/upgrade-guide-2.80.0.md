@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "XCode, setPromotionIAPHandler, AdditionalPlistData"
-section: 2.80.0
+section: "2.80.0"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: XCode, iOS, Unreal, Upgrade Guide, 2.80.0
 ---
 
 ## 2.80.0

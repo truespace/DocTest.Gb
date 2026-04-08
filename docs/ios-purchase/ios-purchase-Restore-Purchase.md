@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Purchase, requestRestoreWithCompletion"
 section: "Restore Purchase"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Consume, Console
 ---
 
 ### Restore Purchase

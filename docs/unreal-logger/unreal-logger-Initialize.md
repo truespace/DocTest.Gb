@@ -1,10 +1,10 @@
 ---
 source: unreal-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Logger, Initialize, InitializeLogger, GetSubsystem, GetGameInstance, GetLogger"
-section: Initialize
+section: "Initialize"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Logger, Initialize
 ---
 
 ### Initialize

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.18.2, 버그수정, 기능개선, 기능추가, 변경, 제거, Login, Push"
 section: "2.18.2 (2020.12.15)"
 order: 82
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Purchase, Push, WebView, iOS, Unity, Release Notes, 2.18.2
 ---
 
 ### 2.18.2 (2020.12.15)

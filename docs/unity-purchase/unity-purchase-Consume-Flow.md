@@ -1,10 +1,10 @@
 ---
 source: unity-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Purchase, Consume, IAP"
 section: "Consume Flow"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Consume
 ---
 
 ### Consume Flow
@@ -17,11 +17,11 @@ order: 3
 >
 
 ![consume flow](./image/purchase_flow_002_2.64.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Diagram
-    내용: 아이템 소비(Consume) 처리 시퀀스 다이어그램
-    구성: GameClient, GameServer, GamebaseServer 3개의 액터 간 통신 흐름. GameClient가 GameServer에 consume 요청, GameServer가 GamebaseServer에 paymentSeq로 배달 여부 확인, purchaseToken 검증 후 유효하면 아이템 지급 및 GameDB 저장, 무효하면 에러 콜백 반환. 이미 배달된 아이템인 경우에도 에러 처리. 최종적으로 consume API 호출로 완료
-    Keyword: Consume Flow, 시퀀스 다이어그램, purchaseToken, 아이템 지급, GamebaseServer
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 처리 흐름도 (v2)
+    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스 (갱신된 버전)
+    Keyword: Sequence Diagram, Consume Flow
 -->
 
 1. 게임 클라이언트가 게임 서버에 결제 아이템에 대한 consume(소비)을 요청합니다.

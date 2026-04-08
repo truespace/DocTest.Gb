@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.7.1, 버그수정, 2018. 03. 13."
 section: "2018. 03. 13."
 order: 83
+split: true
+created_date_time: 20260408_191848
+keyword: Authentication, Unity, Release Notes, 1.7.1
 ---
 
 ### 2018. 03. 13.

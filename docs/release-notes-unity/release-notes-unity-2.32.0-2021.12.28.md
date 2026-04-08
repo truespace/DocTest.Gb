@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.32.0, 기능개선, 변경, Push"
 section: "2.32.0 (2021.12.28)"
 order: 60
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Push, Android, iOS, Release Notes, 2.32.0
 ---
 
 ### 2.32.0 (2021.12.28)

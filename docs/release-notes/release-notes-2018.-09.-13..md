@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.13.0, 버그수정, 기능개선, 기능추가, 변경, 제거, Push, IdP, IAP"
 section: "2018. 09. 13."
 order: 69
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Push, Initialize, Error, Android, iOS, Release Notes, 1.13.0
 ---
 
 ### 2018. 09. 13.

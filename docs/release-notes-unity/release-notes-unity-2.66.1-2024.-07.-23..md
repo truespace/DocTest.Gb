@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.66.1, 기능개선, 기능추가, 변경"
 section: "2.66.1 (2024. 07. 23.)"
 order: 25
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Android, iOS, Release Notes, 2.66.1
 ---
 
 ### 2.66.1 (2024. 07. 23.)

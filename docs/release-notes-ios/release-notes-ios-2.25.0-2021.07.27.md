@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.25.0, 버그수정, 기능개선, 기능추가, 변경, Push, TermsView"
 section: "2.25.0 (2021.07.27)"
 order: 73
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Push, Terms, Error, ShowTermsView, RegisterPush, Release Notes, 2.25.0
 ---
 
 ### 2.25.0 (2021.07.27)

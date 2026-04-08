@@ -1,10 +1,10 @@
 ---
 source: aos-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Alert, showAlertDialog"
-section: Alert
+section: "Alert"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Alert, Aos
 ---
 
 ## Alert
@@ -22,11 +22,11 @@ order: 6
 ```
 
 ![Alert Dialog Example](./image/aos-developers-guide-ui-002_1.0.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Android Alert Dialog 예시를 보여주는 모바일 앱 스크린샷
-    구성: MainActivity 화면에서 Toast Message, Dialog 옵션(Dialog, Selector Dialog, ChoiceItem Dialog) 등의 UI 요소가 나열되어 있고, 중앙에 "Title"과 "Message" 텍스트가 있는 Alert Dialog가 CANCEL, OK 버튼과 함께 팝업으로 표시된 Android 스크린샷
-    Keyword: AlertDialog, 다이얼로그, Android, UI, 스크린샷, Toast, CANCEL, OK
+    내용: SDK 가이드 화면 (Simple Alert Dialog)
+    구성: SDK 설정/사용 가이드 관련 스크린샷
+    Keyword: Android, SDK, Screenshot, Simple Alert Dialog
 -->
 
 

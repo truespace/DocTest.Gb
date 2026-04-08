@@ -1,10 +1,10 @@
 ---
 source: aos-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Initialize, Android SDK 사용 가이드, 결제"
-section: Initialization
+section: "Initialization"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, Initialize
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > 결제

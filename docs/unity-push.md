@@ -1,11 +1,9 @@
 ---
 source: unity-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Push, Notification, Error"
 source_size_bytes: 13477
 source_char_count: 11289
 split_count: 6
+created_date_time: 20260408_191848
 ---
 
 # unity-push

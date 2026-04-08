@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.41.2, 기능개선, 변경"
 section: "2.41.2 (2022. 07. 22.)"
 order: 53
+split: true
+created_date_time: 20260408_191848
+keyword: Android, WebView, Release Notes, 2.41.2
 ---
 
 ### 2.41.2 (2022. 07. 22.)

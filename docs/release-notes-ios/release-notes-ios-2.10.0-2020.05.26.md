@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.10.0, 기능추가"
 section: "2.10.0 (2020.05.26)"
 order: 98
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, Push, Release Notes, 2.10.0
 ---
 
 ### 2.10.0 (2020.05.26)

@@ -1,10 +1,10 @@
 ---
 source: unreal-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, RequestItemListOfNotConsumed, GetSubsystem, GetGameInstance, GetPurchase, IsSuccess"
 section: "List Non-Consumed Items"
 order: 7
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Consume
 ---
 
 ### List Non-Consumed Items

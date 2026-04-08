@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, Contact, IAP"
 section: "2023. 09. 12."
 order: 12
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Contact, Error, Android, Release Notes
 ---
 
 ### 2023. 09. 12.

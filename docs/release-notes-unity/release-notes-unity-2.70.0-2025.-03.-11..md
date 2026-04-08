@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.70.0, 기능개선, 기능추가, 변경, WebView"
 section: "2.70.0 (2025. 03. 11.)"
 order: 17
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, WebView, Initialize, Android, iOS, Release Notes, 2.70.0
 ---
 
 ### 2.70.0 (2025. 03. 11.)

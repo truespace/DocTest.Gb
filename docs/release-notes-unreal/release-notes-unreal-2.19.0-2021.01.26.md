@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.19.0, 기능추가"
 section: "2.19.0 (2021.01.26)"
 order: 43
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Authentication, Android, Release Notes, 2.19.0
 ---
 
 ### 2.19.0 (2021.01.26)

@@ -1,10 +1,10 @@
 ---
 source: aos-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Initialize, Maintenance, setDisplayLanguageCode, getDisplayLanguageCode, setDisplayLanguageCodeToEnglishInRuntime, getDisplayLanguageCodeInRuntime"
 section: "Additional Features > Display Language"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Initialize, Console
 ---
 
 ### Display Language
@@ -159,11 +159,11 @@ public void getDisplayLanguageCodeInRuntime() {
 Gamebase에서 제공하는 기본 언어(ko, en, ja, zh-CN, zh-TW, th) 외 다른 언어를 추가하려면 프로젝트의 res > raw 폴더에 localizedstring.json 파일을 추가하면 됩니다.
 
 ![localizedstring.json](./image/aos-developers-guide-etc_001_1.11.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Android 프로젝트의 res > raw 폴더에 localizedstring.json 파일이 위치한 디렉토리 구조를 보여주는 macOS Finder 스크린샷
-    구성: 왼쪽에 aidl, AndroidManifest.xml, annotations.zip, assets, classes.jar, jni, libs, R.txt, res 등의 폴더/파일 목록이 있고, 중앙에 drawable, layout, raw, values, values-v21 폴더가 표시되며, 오른쪽에 raw 폴더 내의 localizedstring.json 파일이 선택된 상태
-    Keyword: localizedstring.json, Android, res, raw, 다국어, 언어설정, Finder, 프로젝트구조
+    내용: SDK 가이드 화면 (신규 언어셋 추가)
+    구성: SDK 설정/사용 가이드 관련 스크린샷
+    Keyword: Android, SDK, Screenshot, 신규 언어셋 추가
 -->
 
 localizedstring.json에 정의되어 있는 형식은 아래와 같습니다.

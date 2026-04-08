@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.14.0, 기능개선, 기능추가, 변경, 제거, Analytics, Coupon, Error"
 section: "2020. 08. 11."
 order: 22
+split: true
+created_date_time: 20260408_191848
+keyword: Analytics, Coupon, Error, iOS, Unity, Release Notes, 2.14.0
 ---
 
 ### 2020. 08. 11.

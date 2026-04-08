@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.12.0, 기능추가, Notice"
 section: "2.12.0 (2020.07.14)"
 order: 88
+split: true
+created_date_time: 20260408_191848
+keyword: Android, ImageNotice, Release Notes, 2.12.0
 ---
 
 ### 2.12.0 (2020.07.14)

@@ -1,10 +1,10 @@
 ---
 source: aos-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Purchase, Consume, requestItemListOfNotConsumed, requestPurchase"
 section: "Purchase Flow"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsumed
 ---
 
 ### Purchase Flow
@@ -13,11 +13,11 @@ order: 2
 **결제 Flow**는 다음과 같은 순서로 구현하시기 바랍니다.
 
 ![purchase flow](./image/purchase_flow_001_2.10.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Diagram
-    내용: 결제(Purchase) 플로우를 나타내는 시퀀스 다이어그램
-    구성: GameClient, GamebaseSDK, GameServer 세 개의 액터 간 상호작용을 표시. requestItemListOfNotConsumed 호출로 미소비 아이템 확인 후 Consume Flow 처리, requestPurchase로 결제 요청 및 콜백 처리, 결제 후 다시 requestItemListOfNotConsumed를 호출하여 재처리하는 흐름. alt 블록으로 미소비 아이템 존재 시 분기 처리
-    Keyword: Purchase, 결제, 시퀀스다이어그램, GameClient, GamebaseSDK, GameServer, Consume, requestPurchase
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 처리 흐름도
+    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스
+    Keyword: Sequence Diagram, Purchase Flow
 -->
 
 1. 이전 결제가 정상적으로 종료되지 못한 경우 재처리가 동작하지 않으면 결제가 실패합니다. 그러므로 결제 전에 **requestItemListOfNotConsumed**를 호출하여 재처리를 동작시켜 미지급된 아이템이 있으면 Consume Flow 를 진행합니다.

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.66.3, 버그수정"
 section: "2.66.3 (2024. 09. 05.)"
 order: 23
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, iOS, Release Notes, 2.66.3
 ---
 
 ### 2.66.3 (2024. 09. 05.)

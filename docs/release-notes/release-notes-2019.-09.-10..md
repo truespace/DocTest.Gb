@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.5.1, 기능개선, 기능추가, 변경, Analytics"
 section: "2019. 09. 10."
 order: 47
+split: true
+created_date_time: 20260408_191848
+keyword: Analytics, iOS, Console, Release Notes, 2.5.1
 ---
 
 ### 2019. 09. 10.

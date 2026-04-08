@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Purchase, 2.67.1, Unreal"
-section: 2.67.1
+section: "2.67.1"
 order: 12
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Initialize, Unreal, Upgrade Guide, 2.67.1
 ---
 
 ## 2.67.1

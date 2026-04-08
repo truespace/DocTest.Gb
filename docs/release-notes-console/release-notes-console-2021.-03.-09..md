@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 기능추가, TermsView"
 section: "2021. 03. 09."
 order: 58
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Terms, Release Notes
 ---
 
 ### 2021. 03. 09.

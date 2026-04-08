@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Purchase, RequestItemListOfNotConsumed, RequestActivatedPurchases, requestItemListOfNotConsumedWithCompletion, requestItemListOfNotConsumedWithConfiguration, requestActivatedPurchasesWithCompletion, requestActivatedPurchasesWithConfiguration"
-section: 2.45.0
+section: "2.45.0"
 order: 32
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Consume, RequestItemListOfNotConsumed, Android, iOS, Upgrade Guide, 2.45.0
 ---
 
 ## 2.45.0

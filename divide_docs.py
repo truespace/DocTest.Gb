@@ -17,9 +17,10 @@ from datetime import date
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-DIVIDED_DIR = BASE_DIR.parent / "docs"
+KO_DIR = BASE_DIR / "ko"
+DIVIDED_DIR = BASE_DIR / "docs"
 TODAY = date.today().isoformat()
-EXCLUDE_FILES = {"DIVIDE_RULES.md", "divide_docs.py", "fix_links.py", "gen_history.py"}
+EXCLUDE_FILES = {"DIVIDE_RULES.md", "divide_docs.py", "fix_links.py", "gen_history.py", "CLAUDE.md"}
 
 THRESHOLD_MUST = 20 * 1024       # 20KB: 무조건 분할
 THRESHOLD_COND = 10 * 1024       # 10KB: 조건부 분할
@@ -29,7 +30,7 @@ MAX_SECTION_SIZE = 5 * 1024      # 조건부 분할 시 섹션 최대 크기
 
 def get_md_files():
     files = []
-    for f in sorted(BASE_DIR.iterdir()):
+    for f in sorted(KO_DIR.iterdir()):
         if f.suffix == ".md" and f.name not in EXCLUDE_FILES and not f.name.startswith("HISTORY_STRUCTURE"):
             files.append(f)
     return files

@@ -1,10 +1,10 @@
 ---
 source: console-for-aws.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Analytics, Contact"
-section: 퀵가이드
+section: "퀵가이드"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, For
 ---
 
 ## Game > Gamebase > Console for AWS
@@ -20,30 +20,30 @@ Gamebase for AWS 의 콘솔은 아래와 같은 기능을 제공합니다.
 콘솔에서 제공하는 기본 기능에 대한 퀵 가이드입니다.
 
 ![Gamebase-for-aws_quick-guide](./image/console_Gamebase-for-aws_quick-guide-01-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 콘솔 퀵가이드 - 프로젝트 생성 화면
-    구성: GamePlatform 콘솔의 프로젝트 목록 화면에서 프로젝트 생성 팝업이 표시됨. 프로젝트 이름과 설명을 입력하고 취소/다음 버튼으로 진행하는 단계
-    Keyword: 퀵가이드, 프로젝트생성, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 퀵가이드 - 프로젝트 생성 단계
+    구성: GamePlatform 콘솔 배경 위에 '프로젝트' 모달 대화상자가 표시되며, "프로젝트를 생성해 주세요." 안내 문구와 취소/다음 버튼으로 구성된 프로젝트 생성 첫 번째 단계 화면
+    Keyword: AWS Console, Console, Screenshot, 퀵가이드, 프로젝트 생성
 -->
 ![Gamebase-for-aws_quick-guide](./image/console_Gamebase-for-aws_quick-guide-02-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 콘솔 퀵가이드 - 프로젝트 선택 화면
-    구성: GamePlatform 콘솔의 프로젝트 목록 화면에서 프로젝트 선택 팝업이 표시됨. 프로젝트를 선택하고 취소/다음 버튼으로 진행하는 단계
-    Keyword: 퀵가이드, 프로젝트선택, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 퀵가이드 - 프로젝트 선택 단계
+    구성: GamePlatform 콘솔 배경 위에 '프로젝트 이름' 모달 대화상자가 표시되며, "프로젝트를 선택하세요." 안내 문구와 취소/다음 버튼으로 구성된 프로젝트 선택 단계 화면
+    Keyword: AWS Console, Console, Screenshot, 퀵가이드, 프로젝트 선택
 -->
 ![Gamebase-for-aws_quick-guide](./image/console_Gamebase-for-aws_quick-guide-03-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 콘솔 퀵가이드 - 탐색 메뉴 안내 화면
-    구성: GamePlatform 콘솔의 대시보드 화면에서 탐색 메뉴 팝업이 표시됨. Gamebase, Analytics, 회원 등 좌측 메뉴 구성을 안내하며 이전/다음 버튼으로 탐색 가능
-    Keyword: 퀵가이드, 탐색메뉴, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 퀵가이드 - 서비스 활성화(탐색 메뉴) 단계
+    구성: GamePlatform 콘솔 배경 위에 '탐색 메뉴' 모달 대화상자가 표시되며, Gamebase/Analytics/결제 등의 서비스 목록과 활성화된 메뉴 안내 문구, 이전/완료 버튼으로 구성된 서비스 탐색 단계 화면
+    Keyword: AWS Console, Console, Screenshot, 퀵가이드, 탐색 메뉴, 서비스 활성화
 -->
 ![Gamebase-for-aws_quick-guide](./image/console_Gamebase-for-aws_quick-guide-04-202108.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: NHN GamePlatform 콘솔 퀵가이드 - 회원/그룹 관리 안내 화면
-    구성: GamePlatform 콘솔의 대시보드 화면에서 회원/그룹 관리 팝업이 표시됨. 우측 상단의 이름 메뉴에서 회원/그룹 관리, 이름 변경, 고객센터, 로그 아웃 옵션이 드롭다운으로 표시
-    Keyword: 퀵가이드, 회원관리, 그룹관리, GamePlatform, 콘솔, AWS
+    내용: Gamebase for AWS 콘솔 퀵가이드 - 회원/그룹 관리 단계
+    구성: GamePlatform 콘솔 배경 위에 '회원/그룹 관리' 모달 대화상자가 표시되며, 회원 추가 및 권한 관리 안내 문구와 이전/완료 버튼으로 구성된 회원 관리 단계 화면. 우측 상단에 '회원 > 회원 관리' 메뉴 드롭다운이 표시됨
+    Keyword: AWS Console, Console, Screenshot, 퀵가이드, 회원 관리, 그룹 관리
 -->

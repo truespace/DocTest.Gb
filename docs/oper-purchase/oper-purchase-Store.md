@@ -1,10 +1,10 @@
 ---
 source: oper-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Purchase, Contact, IAP"
-section: Store
+section: "Store"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Purchase, Contact
 ---
 
 ## Store
@@ -12,11 +12,11 @@ order: 2
 게임 내에서 상품을 판매하기 위해 스토어를 등록합니다.
 **Store** 탭의 **스토어 정보 리스트**에서 새 스토어를 등록하거나 이미 등록한 스토어를 관리할 수 있습니다.
 ![purchase_02](./image/purchase_02_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 스토어 정보 목록 화면
-    구성: 상단에 스토어, 상품, 결제 정보, 결제 어뷰징 모니터링 탭이 있음. '스토어 정보 목록' 제목과 등록 버튼이 있고, 스토어, 앱 ID, 앱 이름, 활성 여부, 등록 일시 컬럼으로 구성된 스토어 목록 테이블이 배치됨
-    Keyword: 스토어 목록, IAP, App Store, Google Play, ONE store
+    내용: Gamebase 결제 콘솔 Store 화면 #02
+    구성: Gamebase 결제 콘솔의 Store 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Store
 -->
 
 ### Register
@@ -24,11 +24,11 @@ order: 2
 새로운 스토어를 등록하려면 **스토어 정보 리스트** 화면의 **등록** 버튼을 클릭합니다.
 
 ![purchase_03](./image/purchase_03_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 스토어 정보 등록 화면
-    구성: '스토어 정보 등록' 제목 아래에 외부 스토어 연동 정보 섹션이 있음. 스토어 선택 드롭다운, 앱 이름, 스토어 앱 ID, 활성 여부 입력 필드가 배치됨. 하단에 취소/저장 버튼이 있음
-    Keyword: 스토어 등록, 외부 스토어, 앱 이름, 스토어 앱 ID
+    내용: Gamebase 결제 콘솔 Register 화면 #03
+    구성: Gamebase 결제 콘솔의 Register 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Register
 -->
 
 * **스토어**  등록하고자 하는 외부 스토어를 선택합니다.  등록하고자 하는 스토어가 없다면, [고객센터](https://toast.com/support/inquiry)로 연락주시기 바랍니다.
@@ -46,11 +46,11 @@ order: 2
 조회 목록에서 등록된 스토어의 상세 정보를 조회하거나 정보를 변경할 수 있습니다.
 
 ![purchase_04](./image/purchase_04_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 스토어 정보 상세 화면
-    구성: '스토어 정보' 제목 아래에 삭제/수정 버튼이 있음. Gamebase 상품 섹션에 스토어(Google Play), 앱 ID, 앱 이름, 스토어 앱 ID, Google In App Purchase License Key, 연동 방식(SUPERVISOR), Google API Client ID/Secret, Refresh Token 등의 상세 정보가 표시됨. 하단에 목록 버튼이 있음
-    Keyword: 스토어 상세, Google Play, License Key, API Client, 연동 정보
+    내용: Gamebase 결제 콘솔 Modify 화면 #04
+    구성: Gamebase 결제 콘솔의 Modify 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, Modify
 -->
 
 - 조회 목록에서 등록된 스토어를 선택하면 상세 정보를 조회할 수 있습니다.

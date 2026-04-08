@@ -1,10 +1,10 @@
 ---
 source: unreal-initialization.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Initialize, Maintenance, Launching, GetLaunchingInformations, Additional, GetSubsystem, GetGameInstance, GetLaunching"
 section: "Get Launching Information"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Initialize, Initialization
 ---
 
 ### Get Launching Information

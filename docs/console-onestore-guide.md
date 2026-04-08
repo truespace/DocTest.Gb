@@ -1,11 +1,9 @@
 ---
 source: console-onestore-guide.md
-split: false
-created_date_time: 20260406_141859
-keyword: "Console, console-onestore-guide"
 source_size_bytes: 1188
 source_char_count: 898
 split_count: 0
+created_date_time: 20260408_191848
 ---
 
 # console-onestore-guide

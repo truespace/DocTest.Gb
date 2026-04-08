@@ -1,10 +1,10 @@
 ---
 source: Overview.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Overview, Guest, IdP"
-section: Terms
+section: "Terms"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Authentication, Terms, Android, iOS, Overview
 ---
 
 ## Terms

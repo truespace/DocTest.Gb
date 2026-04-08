@@ -1,10 +1,10 @@
 ---
 source: ios-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, WebView, showWebViewWithURL, isEqualToString, showFullScreenWebView, showFixedOrientationWebView, getuserid, showwebview, setCustomSchemes, isSuccessWithError"
-section: WebView
+section: "WebView"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, WebView
 ---
 
 ## WebView
@@ -41,11 +41,11 @@ Gamebase에서는 기본적인 웹뷰를 지원합니다.<br/>
 ```
 
 ![Webview Example](./image/aos-developers-guide-ui-001_1.0.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 웹뷰(WebView) 화면 예시
-    구성: NHN Cloud의 기능 소개 페이지가 모바일 웹뷰로 표시됨. Composed of Various Services, Platform-oriented Cloud, Reasonable prices, Powerful Technology Support 등의 항목이 아이콘과 함께 나열된 화면
-    Keyword: 웹뷰, WebView, NHN Cloud, UI, 모바일
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: SDK 가이드 화면 (Show WebView)
+    구성: SDK 설정/사용 가이드 관련 스크린샷
+    Keyword: iOS, SDK, Screenshot, Show WebView
 -->
 
 #### Custom WebView

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.48.0, 버그수정, 기능개선, 변경, Purchase"
 section: "2.48.0 (2023. 03. 28.)"
 order: 43
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Purchase, Release Notes, 2.48.0
 ---
 
 ### 2.48.0 (2023. 03. 28.)

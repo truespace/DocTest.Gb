@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.6.0, 버그수정, 기능개선, 기능추가, 변경, Push, WebView, Maintenance"
 section: "2018. 01. 25."
 order: 85
+split: true
+created_date_time: 20260408_191848
+keyword: Login, Push, WebView, Authentication, iOS, Unity, Release Notes, 1.6.0
 ---
 
 ### 2018. 01. 25.

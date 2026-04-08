@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.9.0, 기능개선, 변경"
 section: "2018. 05. 18."
 order: 78
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Release Notes, 1.9.0
 ---
 
 ### 2018. 05. 18.

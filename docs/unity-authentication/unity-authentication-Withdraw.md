@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Withdraw, IdP, IsSuccess"
-section: Withdraw
+section: "Withdraw"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Logout, Withdraw
 ---
 
 ## Withdraw

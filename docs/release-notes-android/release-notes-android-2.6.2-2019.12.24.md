@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.6.2, 기능개선, 변경"
 section: "2.6.2 (2019.12.24)"
 order: 98
+split: true
+created_date_time: 20260408_191848
+keyword: Android, iOS, Unity, Release Notes, 2.6.2
 ---
 
 ### 2.6.2 (2019.12.24)

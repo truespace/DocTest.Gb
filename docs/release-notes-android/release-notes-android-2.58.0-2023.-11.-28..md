@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.58.0, 버그수정, 기능개선, 변경, Logger"
 section: "2.58.0 (2023. 11. 28.)"
 order: 32
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Logger, Authentication, Release Notes, 2.58.0
 ---
 
 ### 2.58.0 (2023. 11. 28.)

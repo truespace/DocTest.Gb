@@ -1,10 +1,10 @@
 ---
 source: unity-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Purchase, Consume, RequestItemListOfNotConsumed, RequestPurchase"
 section: "Purchase Flow"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsumed
 ---
 
 ### Purchase Flow
@@ -13,11 +13,11 @@ order: 2
 결제 Flow는 다음과 같은 순서로 구현하시기 바랍니다.
 
 ![purchase flow](./image/purchase_flow_001_2.10.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Diagram
-    내용: 결제(Purchase) 처리 시퀀스 다이어그램
-    구성: GameClient, GamebaseSDK, GameServer 3개의 액터 간 통신 흐름. requestItemListOfNotConsumed로 미소비 아이템 확인 후 Consume Flow 처리, requestPurchase로 결제 요청 및 콜백 수신, 이후 다시 requestItemListOfNotConsumed로 미소비 아이템 재확인하는 순서로 구성
-    Keyword: Purchase Flow, 시퀀스 다이어그램, GameClient, GamebaseSDK, 결제, 미소비 아이템
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 처리 흐름도
+    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스
+    Keyword: Sequence Diagram, Purchase Flow
 -->
 
 1. 이전 결제가 정상적으로 종료되지 못한 경우 재처리가 동작하지 않으면 결제가 실패합니다. 그러므로 결제 전에 **RequestItemListOfNotConsumed**를 호출하여 재처리를 동작시켜 미지급된 아이템이 있으면 Consume Flow 를 진행합니다.

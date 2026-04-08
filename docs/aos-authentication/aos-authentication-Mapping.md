@@ -1,10 +1,10 @@
 ---
 source: aos-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Login, Mapping, Error, Guest, IdP, addMapping, addMappingForcibly, isSuccess, mappingProvider"
-section: Mapping
+section: "Mapping"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Logout, Mapping, Authentication, Error
 ---
 
 ## Mapping
@@ -40,11 +40,11 @@ order: 4
 매핑은 다음 순서로 구현할 수 있습니다.
 
 ![add mapping flow](./image/auth_add_mapping_flow_2.30.0.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Flowchart
-    내용: AddMapping 플로우를 나타내는 순서도
-    구성: 시작 노드에서 로그인 여부 확인 후, SOCKET_RESPONSE의 BANNED/MEMBER 상태를 분기하여 처리하는 흐름. 성공/실패 케이스별로 Case 1(동일 IdP 매핑 시도), Case 2(이미 매핑된 계정), Case 3(매핑 성공), Case 4(취소) 등의 결과로 분기됨. AddMapping, ForcingMapping, Change Login 등의 최종 노드로 연결
-    Keyword: AddMapping, 매핑, 플로우차트, 인증, IdP, ForcingMapping, ChangeLogin
+    내용: 계정 매핑 추가 흐름도
+    구성: 기존 계정에 새로운 IdP를 매핑하는 처리 흐름을 나타내는 순서도
+    Keyword: Flowchart, Add Mapping Flow
 -->
 
 #### 1. 로그인

@@ -1,10 +1,10 @@
 ---
 source: unreal-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, GetSubsystem, GetGameInstance"
 section: "Additional Features > IDFA"
 order: 8
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, iOS, Etc
 ---
 
 ### IDFA

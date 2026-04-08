@@ -1,10 +1,10 @@
 ---
 source: oper-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, IAP, 결제 어뷰징 모니터링"
 section: "결제 어뷰징 모니터링"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Withdraw, Purchase, GraceBan
 ---
 
 ## 결제 어뷰징 모니터링
@@ -14,11 +14,11 @@ order: 5
 ### 환불 이력 조회
 
 ![purchase_20](./image/purchase_20_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 모니터링 환불 이력 조회 화면
-    구성: 상단에 결제 어뷰징 모니터링 탭이 선택되어 있고, 환불 일시, 유저 ID, 환불 건수, 환불 금액, 스토어 등 검색 필터와 검색 버튼이 있음. 하단에 유저별 환불 이력 테이블(유저 ID, 스토어, 환불 건수, 환불 금액, 결제 건수, 상태 등)이 배치됨
-    Keyword: 어뷰징 모니터링, 환불 이력, 환불 건수, 환불 금액
+    내용: Gamebase 결제 콘솔 환불 이력 조회 화면 #20
+    구성: Gamebase 결제 콘솔의 환불 이력 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 환불 이력 조회
 -->
 
 아래 검색 조건을 이용해 원하는 결제 및 환불 정보를 검색할 수 있습니다.
@@ -47,11 +47,11 @@ order: 5
 
 #### 상태 변경
 ![purchase_21](./image/purchase_21_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 계정 상태 변경 팝업
-    구성: '계정 상태 변경' 제목 아래에 유저 ID, 계정 상태(정상), 변경할 상태 드롭다운 선택란이 있음. 하단에 변경/취소 버튼이 배치됨
-    Keyword: 계정 상태 변경, 이용 정지, 정지 해제, 탈퇴
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 상태 변경 화면 #21
+    구성: Gamebase 결제 콘솔의 상태 변경 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 상태 변경
 -->
 
 조회한 게임 유저의 계정 상태를 변경할 수 있는 기능입니다.
@@ -67,11 +67,11 @@ order: 5
 검색된 목록에서 유저 ID를 클릭하면 검색 기간의 결제 상세 내역을 조회할 수 있습니다.
 
 ![ipurchase_22](./image/purchase_22_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 결제 내역 확인 팝업 (환불 이력)
-    구성: '결제 내역 확인' 제목 아래에 유저 ID가 표시됨. 결제 예약 일시, 환불 일시, Transaction ID, 스토어, 아이템 이름, 가격, 통화 종류, 결제 상태 컬럼으로 구성된 결제/환불 내역 테이블이 배치됨. 하단에 확인 버튼이 있음
-    Keyword: 결제 내역 확인, 환불 내역, Transaction ID, 결제 상태
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 결제 내역 확인 화면 #22
+    구성: Gamebase 결제 콘솔의 결제 내역 확인 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 내역 확인
 -->
 
 #### 결제 내역
@@ -88,11 +88,11 @@ order: 5
 ### 결제 어뷰징 자동 해제 이력 조회
 
 ![purchase_23](./image/purchase_23_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 자동 해제 이력 조회 화면
-    구성: 상단에 검색 기간, 유저 ID, 결제 건수, 결제 금액 등 검색 필터와 검색 버튼이 있음. 하단에 유저 ID, 이용 정지 유예 기간, 결제 횟수(해제 조건), 결제 금액(해제 조건) 등 컬럼으로 구성된 자동 해제 이력 테이블이 배치됨
-    Keyword: 자동 해제, 이용 정지 유예, 결제 횟수, 해제 조건
+    내용: Gamebase 결제 콘솔 결제 어뷰징 자동 해제 이력 조회 화면 #23
+    구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 해제 이력 조회 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 어뷰징 자동 해제 이력 조회
 -->
 
 아래 검색 조건을 이용해 원하는 결제 어뷰징 자동 해제 사용자 정보를 검색할 수 있습니다.
@@ -118,11 +118,11 @@ order: 5
 (단, 결제 내역이 없는 유저는 비활성화됩니다.)
 
 ![purchase_24](./image/purchase_24_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase IAP - 결제 내역 확인 팝업 (자동 해제 이력)
-    구성: '결제 내역 확인' 제목 아래에 유저 ID가 표시됨. 결제 일시, Transaction ID, 스토어(Google Play), 유저 ID, 스토어 아이템 ID, 결제 금액 컬럼으로 구성된 결제 내역 테이블이 배치됨. 하단에 확인 버튼이 있음
-    Keyword: 결제 내역 확인, 자동 해제, Transaction ID, 결제 금액
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 결제 콘솔 결제 내역 확인 화면 #24
+    구성: Gamebase 결제 콘솔의 결제 내역 확인 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 내역 확인
 -->
 
 #### 결제 내역
@@ -138,21 +138,21 @@ order: 5
 자동 제재 설정을 사용하려면 **사용** 버튼을 클릭해 설정 값을 입력합니다.
 
 ![purchase_25](./image/purchase_25_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 자동 제재 설정 화면 (헤더)
-    구성: '결제 어뷰징 자동 제재 설정' 제목과 설명이 있음. 사용 여부(사용 버튼)와 활성화 시 자동 제재가 시작된다는 안내 메시지가 표시됨
-    Keyword: 자동 제재, 결제 어뷰징, 사용 여부, 설정
+    내용: Gamebase 결제 콘솔 결제 어뷰징 자동 제재 설정 화면 #25
+    구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 제재 설정 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 어뷰징 자동 제재 설정
 -->
 
 #### 설정 정보
 
 ![purchase_26](./image/purchase_26_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 자동 제재 상세 설정 화면
-    구성: 이용 정지 기간(영구 정지/기간 지정), 자동 제재 감지 기간, 자동 제재 조건 설정(환불 건수, 환불 금액 입력), 자동 제재 메시지 설정(템플릿 선택), 리더보드 삭제 체크박스 항목이 순서대로 배치됨
-    Keyword: 자동 제재 설정, 이용 정지 기간, 환불 건수, 환불 금액, 리더보드
+    내용: Gamebase 결제 콘솔 설정 정보 화면 #26
+    구성: Gamebase 결제 콘솔의 설정 정보 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 설정 정보
 -->
 
 * **이용 정지 기간**  자동 제재 적용 시 이용 정지 기간을 입력합니다.
@@ -174,21 +174,21 @@ order: 5
 자동 해제 설정을 활성화하기 위해서는 자동 제재 설정이 반드시 <font color="red">활성화</font>되어야 합니다.
 
 ![purchase_27](./image/purchase_27_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 자동 해제 설정 화면 (헤더)
-    구성: '결제 어뷰징 자동 해제 설정' 제목과 설명이 있음. 사용 여부(사용 버튼)와 활성화 시 자동 해제가 시작된다는 안내 메시지가 표시됨. 결제 어뷰징 자동 제재가 활성화되어야 사용 가능하다는 안내가 있음
-    Keyword: 자동 해제, 결제 어뷰징, 사용 여부, 설정
+    내용: Gamebase 결제 콘솔 결제 어뷰징 자동 해제 설정 화면 #27
+    구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 해제 설정 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 결제 어뷰징 자동 해제 설정
 -->
 
 #### 설정 정보
 
 ![purchase_28](./image/purchase_28_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase IAP - 결제 어뷰징 자동 해제 상세 설정 화면
-    구성: 이용 정지 일시 해제 기간, 이용 정지 해제 조건 설정(결제 건수, 결제 금액 입력, 해제 조건 AND/OR), 이용 정지 해제 메시지 설정(템플릿 선택) 항목이 순서대로 배치됨
-    Keyword: 자동 해제 설정, 이용 정지 해제, 결제 건수, 결제 금액, 유예 기간
+    내용: Gamebase 결제 콘솔 설정 정보 화면 #28
+    구성: Gamebase 결제 콘솔의 설정 정보 기능 설정/조회 화면 스크린샷
+    Keyword: 결제, Console, Screenshot, 설정 정보
 -->
 
 * **이용 정지 일시 해제 기간**: 자동 해제 적용 시 이용 정지 유예 기간을 입력합니다.

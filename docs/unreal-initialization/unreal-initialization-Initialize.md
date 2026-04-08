@@ -1,10 +1,10 @@
 ---
 source: unreal-initialization.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Initialize, Maintenance, Notice, Error, Launching, GetSubsystem, GetGameInstance, IsSuccess, IsNullOrEmpty"
-section: Initialize
+section: "Initialize"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Initialize, Error
 ---
 
 ### Initialize

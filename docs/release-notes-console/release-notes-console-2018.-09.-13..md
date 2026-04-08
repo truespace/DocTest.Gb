@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 기능개선, 기능추가, 변경, 제거, IdP"
 section: "2018. 09. 13."
 order: 113
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Initialize, Release Notes
 ---
 
 ### 2018. 09. 13.

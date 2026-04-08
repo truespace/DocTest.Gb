@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.55.0, 버그수정, 기능개선, 변경, Login, IdP"
 section: "2.55.0 (2023. 09. 12.)"
 order: 36
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, WebView, Release Notes, 2.55.0
 ---
 
 ### 2.55.0 (2023. 09. 12.)

@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.33.0, 신규, 기능개선, 기능추가, 변경, TermsView, IAP"
 section: "2.33.0 (2022.01.25)"
 order: 63
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Terms, ShowTermsView, Release Notes, 2.33.0
 ---
 
 ### 2.33.0 (2022.01.25)

@@ -1,10 +1,10 @@
 ---
 source: unreal-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Logout, Error, GetSubsystem, GetGameInstance, IsSuccess"
-section: Logout
+section: "Logout"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Logout, Authentication
 ---
 
 ## Logout

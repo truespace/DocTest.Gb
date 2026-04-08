@@ -1,20 +1,20 @@
 ---
 source: oper-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Push, Authentication"
-section: Authentication
+section: "Authentication"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Authentication
 ---
 
 ## Authentication
 푸시 발송에 사용하는 인증서를 관리할 수 있습니다.
 ![push_11](./image/push_11_kr_240422.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push - 인증서 관리 화면
-    구성: '인증서' 제목 아래에 상태(등록 안됨/등록 완료), 유형(FCM Service Account Credential, FCM Server Key(Deprecated), APNS JWT, ADM), 편집(등록/수정/삭제) 컬럼으로 구성된 인증서 목록 테이블이 배치됨
-    Keyword: 인증서, FCM, APNS, ADM, 등록, 삭제
+    내용: Gamebase Push 콘솔 Authentication 화면 #11
+    구성: Gamebase Push 콘솔의 Authentication 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Authentication
 -->
 
 각 인증서 별로 **등록**, **수정**, **삭제** 버튼을 클릭해 인증서를 등록, 수정, 삭제할 수 있습니다.
@@ -27,30 +27,30 @@ order: 4
 
 ### Authentication register
 ![push_12](./image/push_12_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push - 인증서 관리 화면 (신규 구조)
-    구성: '인증서' 제목 아래에 상태(등록 안됨), 유형(FCM (Firebase Cloud Messaging), APNS JWT, ADM (Amazon Device Messaging)), 편집(등록) 컬럼으로 구성된 인증서 목록 테이블이 배치됨
-    Keyword: 인증서, FCM, APNS JWT, ADM, 등록
+    내용: Gamebase Push 콘솔 Authentication register 화면 #12
+    구성: Gamebase Push 콘솔의 Authentication register 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Authentication register
 -->
 ![push_13](./image/push_13_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase Push - FCM (Firebase Cloud Messaging) 등록 폼
-    구성: 'FCM (Firebase Cloud Messaging) 등록' 제목 아래에 Server Key 입력 필드가 있음. 하단에 취소/저장 버튼이 배치됨
-    Keyword: FCM 등록, Server Key, Firebase Cloud Messaging
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase Push 콘솔 Authentication register 화면 #13
+    구성: Gamebase Push 콘솔의 Authentication register 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Authentication register
 -->
 ![push_14](./image/push_14_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase Push - APNS JWT (JSON Web Token) 등록 폼
-    구성: 'APNS JWT (JSON Web Token) 등록' 제목 아래에 Team ID, Key ID, Topic, Private Key 입력 필드가 있음. 하단에 취소/저장 버튼이 배치됨
-    Keyword: APNS JWT, Team ID, Key ID, Topic, Private Key
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase Push 콘솔 Authentication register 화면 #14
+    구성: Gamebase Push 콘솔의 Authentication register 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Authentication register
 -->
 ![push_15](./image/push_15_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase Push - ADM (Amazon Device Messaging) 등록 폼
-    구성: 'ADM (Amazon Device Messaging) 등록' 제목 아래에 Client ID, Client Secret 입력 필드가 있음. 하단에 취소/저장 버튼이 배치됨
-    Keyword: ADM 등록, Client ID, Client Secret, Amazon Device Messaging
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase Push 콘솔 Authentication register 화면 #15
+    구성: Gamebase Push 콘솔의 Authentication register 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Authentication register
 -->

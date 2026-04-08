@@ -1,10 +1,10 @@
 ---
 source: aos-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, getCountryCode, getCountryCodeOfUSIM, getCountryCodeOfDevice"
 section: "Additional Features > Country Code"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Aos, Etc
 ---
 
 ### Country Code
@@ -46,11 +46,11 @@ order: 3
 	3. USIM, 단말기 국가 코드가 모두 빈 값이라면 'ZZ'를 반환합니다.
 
 ![observer](./image/get_country_code_001_1.14.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Flowchart
-    내용: 국가 코드(CountryCode)를 가져오는 로직의 순서도
-    구성: start에서 시작하여 먼저 USIM 국가 코드를 조회하고, null/empty 여부를 확인. 값이 있으면 반환하고, 없으면 디바이스 국가 코드를 조회. 디바이스 국가 코드도 null/empty이면 기본값 'ZZ'를 설정하여 반환하는 흐름
-    Keyword: CountryCode, 국가코드, USIM, 디바이스, 플로우차트, ZZ
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Intergrated Country Code 관련 화면
+    구성: Intergrated Country Code 관련 스크린샷
+    Keyword: Android, Screenshot, Intergrated Country Code
 -->
 
 **API**

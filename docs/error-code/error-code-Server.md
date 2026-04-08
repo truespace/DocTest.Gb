@@ -1,10 +1,10 @@
 ---
 source: error-code.md
-split: true
-created_date_time: 20260406_141859
-keyword: "TransferAccount, Coupon, Error, IdP, IAP, Launching"
-section: Server
+section: "Server"
 order: 2
+split: true
+created_date_time: 20260408_191848
+keyword: Withdraw, Purchase, Consume, Initialize, Authentication, Console, Error Code
 ---
 
 ## Server

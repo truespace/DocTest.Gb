@@ -1,10 +1,10 @@
 ---
 source: unreal-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Purchase, Event by Purchase"
 section: "Event by Purchase"
 order: 10
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, iOS
 ---
 
 ### Event by Purchase

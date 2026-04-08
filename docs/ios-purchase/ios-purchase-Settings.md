@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, XCode, Purchase, IAP"
-section: Settings
+section: "Settings"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Purchase, XCode, Unity, Unreal
 ---
 
 ## Game > Gamebase > iOS SDK 사용 가이드 > 결제

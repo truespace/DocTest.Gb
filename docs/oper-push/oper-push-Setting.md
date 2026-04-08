@@ -1,20 +1,20 @@
 ---
 source: oper-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Push, Setting"
-section: Setting
+section: "Setting"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Oper
 ---
 
 ## Setting
 푸시 관련 설정을 할 수 있습니다.
 ![gamebase_push_20_202205](./image/gamebase_push_20_202205.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase Push - 설정 화면
-    구성: '설정' 제목 아래에 메시지 수신 및 확인 설정(ON/OFF), 중복 메시지 방지 설정(분 단위), 광고 표시 문구 위치 설정, 토큰 설정(만료 기간, 앱 유형), 발송 내역 저장(AppKey, Log Source, Log Level) 섹션이 순서대로 배치됨. 하단에 광고 수신 동의 연계 메시지 제거 설정 섹션과 저장 버튼이 있음
-    Keyword: 푸시 설정, 메시지 수신, 토큰 설정, 발송 내역, 광고
+    내용: Gamebase Push 콘솔 Setting 화면 #20
+    구성: Gamebase Push 콘솔의 Setting 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, Setting
 -->
 
 ### 메시지 수신 및 확인 설정
@@ -31,11 +31,11 @@ order: 6
 * 우측 **미리보기** 버튼 클릭 시 설정한 광고 표시 문구 위치에 따른 푸시 예시를 확인할 수 있습니다.
 
 ![push_23](./image/push_23_kr_240103.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase Push - 홍보성 푸시 미리보기 화면
-    구성: 좌측에 발신자 연락처, 수신 동의 철회 방법, 제목, 내용 등의 설정 정보가 표시됨. 우측에 스마트폰 목업으로 실제 푸시 알림이 어떻게 표시되는지 미리보기가 있으며, (광고) 문구, 제목, 내용, 연락처, 수신 거부 방법이 푸시 알림 형태로 표시됨. 하단에 확인 버튼이 배치됨
-    Keyword: 홍보성 푸시, 미리보기, 광고, 수신 거부, 스마트폰 목업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase Push 콘솔 광고 표시 문구 위치 설정 화면 #23
+    구성: Gamebase Push 콘솔의 광고 표시 문구 위치 설정 기능 설정/조회 화면 스크린샷
+    Keyword: Push, Console, Screenshot, 광고 표시 문구 위치 설정
 -->
 
 ### 토큰 설정

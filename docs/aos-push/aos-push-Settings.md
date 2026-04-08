@@ -1,10 +1,10 @@
 ---
 source: aos-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Push, Notification, setSmallIconName"
-section: Settings
+section: "Settings"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Push, Alert, RegisterPush
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > 푸시

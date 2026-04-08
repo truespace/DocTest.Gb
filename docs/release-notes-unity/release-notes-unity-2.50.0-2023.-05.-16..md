@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.50.0, 기능개선, 기능추가, 변경, IAP"
 section: "2.50.0 (2023. 05. 16.)"
 order: 41
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Android, iOS, Release Notes, 2.50.0
 ---
 
 ### 2.50.0 (2023. 05. 16.)

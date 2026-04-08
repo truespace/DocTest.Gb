@@ -1,10 +1,10 @@
 ---
 source: oper-customer-service.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notice, Contact"
-section: Notice
+section: "Notice"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Contact, Oper
 ---
 
 ## Notice
@@ -16,11 +16,11 @@ order: 4
 등록되어 있는 공지사항 목록에 대하여 검색할 수 있습니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_notice_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - 공지사항 검색 화면
-    구성: 상단에 검색 유형(상태/노출일), 상태, 말머리, 제목+내용 검색 조건 필터와 검색 버튼이 있음. 하단에 등록/말머리 관리 탭이 있고, 상단 고정, 말머리, 제목, 노출일(UTC+9), 노출 기간, 수정일, 상태 컬럼으로 구성된 공지사항 목록 테이블이 있으며 상태 배지(예정, 노출 중, 종료)가 표시됨
-    Keyword: 공지사항, 검색, 상태, 말머리, 노출 기간
+    내용: Gamebase 고객센터 콘솔 Search Notice 화면 #01
+    구성: Gamebase 고객센터 콘솔의 Search Notice 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Search Notice
 -->
 
 **검색 조건**
@@ -40,11 +40,11 @@ order: 4
 
 #### 말머리 관리
 ![gamebase_ban_01_201812](./image/gamebase_notice_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 고객센터 - 말머리 관리 팝업
-    구성: 상단에 '말머리 관리' 제목과 추가 버튼이 있음. 순서, 한국어(*), 중국어(간체), 영어, 일본어, 중국어(번체), 러시아어, 태국어 컬럼의 테이블에 말머리 항목이 나열되며 각 행에 수정/삭제 버튼이 있음. 하단에 확인 버튼이 배치됨
-    Keyword: 말머리 관리, 다국어, 수정, 삭제, 순서 변경
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: Gamebase 고객센터 콘솔 말머리 관리 화면 #02
+    구성: Gamebase 고객센터 콘솔의 말머리 관리 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, 말머리 관리
 -->
 
 공지사항 등록 또는 수정시 선택할 수 있는 말머리를 관리할 수 있습니다.
@@ -58,11 +58,11 @@ order: 4
 등록 또는 수정 시 변경할 수 있는 항목은 모두 동일합니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_notice_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 고객센터 - 공지사항 등록 화면
-    구성: 기본 정보 섹션에 노출일(시작/종료 시각), 표시 시각, 말머리, 상단 고정 설정이 있음. 제목 및 내용 섹션에 다국어 탭(한국어, 중국어, 영어 등), 제목 입력란, 텍스트 에디터가 있음. 파일 선택 및 첨부 영역이 있으며, 하단에 취소/저장 버튼이 배치됨
-    Keyword: 공지사항 등록, 노출일, 말머리, 다국어, 파일 첨부
+    내용: Gamebase 고객센터 콘솔 Register or Update Notice 화면 #03
+    구성: Gamebase 고객센터 콘솔의 Register or Update Notice 기능 설정/조회 화면 스크린샷
+    Keyword: 고객센터, Console, Screenshot, Register or Update Notice
 -->
 
 #### 1. 노출일

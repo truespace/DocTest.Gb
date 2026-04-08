@@ -1,21 +1,21 @@
 ---
 source: oper-operation.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Maintenance, Kick Out"
 section: "Kick Out"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Oper, Operation
 ---
 
 ## Kick Out
 게임 점검 등의 이유로 유저의 연결을 해제할 경우 Console에서 손쉽게 유저의 연결을 해제할 수 있습니다.
 등록한 킥아웃 내역 조회와 킥아웃 등록 내용을 한눈에 확인할 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_11_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - Kick Out 목록 화면
-    구성: 상단에 'Kick out' 제목과 Kick out 등록 버튼이 있음. 처리 대상, 사유, 메시지, 처리자, 처리 일시 컬럼으로 구성된 킥아웃 이력 테이블이 배치되어 있으며 페이지네이션이 있음
-    Keyword: Kick Out, 킥아웃, 목록, 처리 대상, 처리 일시
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Kick Out
 -->
 
 ### Register Kick Out
@@ -23,11 +23,11 @@ order: 5
 **킥아웃** 탭에서 **등록** 버튼을 클릭하면 킥아웃을 등록하는 화면으로 이동합니다.
 
 ![gamebase_op_img](./image/gamebase_maintenance_12_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: Gamebase 운영 - Kick Out 등록 화면
-    구성: 대상(전체/일부 클라이언트), 사유 입력란, 팝업 노출 여부(팝업 노출/팝업 노출 안함), 메시지(다국어 입력, 기본 언어로 자동 번역) 설정 영역이 순서대로 배치됨. 하단에 취소, 저장 버튼이 있음
-    Keyword: Kick Out 등록, 대상, 사유, 팝업 노출, 메시지
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, Register Kick Out
 -->
 
 ### (1) 처리대상
@@ -37,11 +37,11 @@ order: 5
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 점검을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: Gamebase 운영 - 대상 클라이언트 선택 팝업
-    구성: 스토어별(App Store, Google Play 등) 각 상태의 버전 번호를 체크박스로 선택할 수 있는 테이블이 배치됨. 하단에 취소/확인 버튼이 있음
-    Keyword: 대상 클라이언트, 스토어, 버전 선택, 체크박스, 팝업
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: 점검 안내 화면
+    구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
+    Keyword: 운영, Screenshot, (1) 처리대상
 -->
 
 ### (2) 사유

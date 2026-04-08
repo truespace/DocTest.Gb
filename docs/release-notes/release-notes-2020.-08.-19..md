@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "버그수정, Analytics, 2020. 08. 19."
 section: "2020. 08. 19."
 order: 21
+split: true
+created_date_time: 20260408_191848
+keyword: Analytics, Console, Release Notes
 ---
 
 ### 2020. 08. 19.

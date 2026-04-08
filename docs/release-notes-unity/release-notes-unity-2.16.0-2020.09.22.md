@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.16.0, 기능추가, Contact"
 section: "2.16.0 (2020.09.22)"
 order: 80
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Contact, Release Notes, 2.16.0
 ---
 
 ### 2.16.0 (2020.09.22)

@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.15.1, 신규, 기능개선, 변경, IAP"
 section: "2.15.1 (2020.09.16)"
 order: 91
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Release Notes, 2.15.1
 ---
 
 ### 2.15.1 (2020.09.16)

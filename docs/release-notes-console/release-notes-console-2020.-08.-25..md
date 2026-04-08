@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 기능개선, 변경"
 section: "2020. 08. 25."
 order: 72
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Push, Alert, Release Notes
 ---
 
 ### 2020. 08. 25.

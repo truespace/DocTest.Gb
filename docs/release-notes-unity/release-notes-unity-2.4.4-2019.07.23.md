@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.4.4, 기능개선, 기능추가, 변경"
 section: "2.4.4 (2019.07.23)"
 order: 102
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Error, Release Notes, 2.4.4
 ---
 
 ### 2.4.4 (2019.07.23)

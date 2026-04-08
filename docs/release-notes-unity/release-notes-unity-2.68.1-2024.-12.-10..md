@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.68.1, 기능개선, 변경"
 section: "2.68.1 (2024. 12. 10.)"
 order: 19
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, iOS, Release Notes, 2.68.1
 ---
 
 ### 2.68.1 (2024. 12. 10.)

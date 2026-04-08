@@ -1,11 +1,9 @@
 ---
 source: unreal-logger.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Logger, Initialize"
 source_size_bytes: 5169
 source_char_count: 4647
 split_count: 5
+created_date_time: 20260408_191848
 ---
 
 # unreal-logger

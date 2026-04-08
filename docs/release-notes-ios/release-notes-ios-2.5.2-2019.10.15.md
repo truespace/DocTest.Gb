@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, v2.5.2, 기능개선, 변경"
 section: "2.5.2 (2019.10.15)"
 order: 107
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Release Notes, 2.5.2
 ---
 
 ### 2.5.2 (2019.10.15)

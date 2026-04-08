@@ -1,10 +1,10 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, TCGBPurchasableConfiguration"
-section: TCGBPurchasableConfiguration
+section: "TCGBPurchasableConfiguration"
 order: 11
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Ios, Purchase
 ---
 
 ### TCGBPurchasableConfiguration

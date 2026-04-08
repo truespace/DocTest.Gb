@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 버그수정, 기능개선, 변경, Analytics, Coupon"
 section: "2021. 10. 12."
 order: 46
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Withdraw, Push, Analytics, Coupon, Release Notes
 ---
 
 ### 2021. 10. 12.

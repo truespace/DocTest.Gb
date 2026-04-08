@@ -1,10 +1,10 @@
 ---
 source: release-notes-unreal.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, v2.40.0, 기능개선, 기능추가, 변경, TermsView"
 section: "2.40.0 (2022. 05. 24.)"
 order: 36
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, WebView, Alert, Terms, Android, iOS, Release Notes, 2.40.0
 ---
 
 ### 2.40.0 (2022. 05. 24.)

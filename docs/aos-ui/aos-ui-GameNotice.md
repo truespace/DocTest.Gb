@@ -1,10 +1,10 @@
 ---
 source: aos-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Notice, Error, setBackgroundColor, isSuccess"
-section: GameNotice
+section: "GameNotice"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Android, WebView, Error, Console
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > UI
@@ -14,18 +14,18 @@ order: 1
 콘솔에 이미지와 함께 등록한 공지 사항을 표시하는 기능입니다.
 
 ![GameNotice Example](./image/gameNotice_guide_001.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 공지사항(GameNotice) 목록 화면 예시
-    구성: 상단에 닫기(X) 버튼이 있는 다크 테마 모달 창. "Notice" 제목 아래 Gamebase 로고와 설명("게임 개발, 출시, 운영을 위한 게임 전문..."), "글로벌 진출도 Gamebase와 함께", "NHN GamePlatform - 게임 성공을 위한 GamePlatform" 등 여러 개의 공지 카드가 세로로 나열된 목록형 UI
-    Keyword: GameNotice, 공지사항, 모바일, UI, Gamebase, 목록
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: Android, Screenshot, GameNotice
 -->
 ![GameNotice Example](./image/gameNotice_guide_002.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 공지사항(GameNotice) 상세 화면 예시
-    구성: "Home" 타이틀과 닫기(X) 버튼이 있는 다크 테마 모달 창. Gamebase 로고가 포함된 보라색 배너 이미지와 "게임 개발, 출시, 운영을 위한 게임 전문 플랫폼 Gamebase" 설명 텍스트가 표시된 단일 공지 상세 화면. 하단에 페이지 인디케이터(빨간 점)가 있음
-    Keyword: GameNotice, 공지사항, 상세, 모바일, UI, Gamebase, 배너
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: Android, Screenshot, GameNotice
 -->
 
 ### Open GameNotice

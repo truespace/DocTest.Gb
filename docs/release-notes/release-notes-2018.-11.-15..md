@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v1.14.2, 버그수정, 기능개선, 기능추가, 변경, Maintenance"
 section: "2018. 11. 15."
 order: 65
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Push, Error, ShowWebView, Android, iOS, Release Notes, 1.14.2
 ---
 
 ### 2018. 11. 15.

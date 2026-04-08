@@ -1,10 +1,10 @@
 ---
 source: unity-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, Login, IdP, GetLastLoggedInProvider, GetUserID, GetAccessToken, RequestLastLoggedInProvider, LoginForLastLoggedInProvider, IsSuccess"
 section: "Gamebase User's Information"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Login, Authentication, LoginForLastLoggedInProvider
 ---
 
 ## Gamebase User's Information

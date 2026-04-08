@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.4.2, 버그수정, 기능개선, 기능추가, 변경, Analytics, Launching"
 section: "2.4.2 (2019.06.25)"
 order: 105
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logout, Withdraw, Analytics, Initialize, Release Notes, 2.4.2
 ---
 
 ### 2.4.2 (2019.06.25)

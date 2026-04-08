@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 신규, 기능추가, Guest"
 section: "2018. 05. 03."
 order: 120
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Mapping, Release Notes
 ---
 
 ### 2018. 05. 03.

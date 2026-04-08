@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.20.1, 버그수정, Push"
 section: "2.20.1 (2021.02.23)"
 order: 79
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Initialize, Release Notes, 2.20.1
 ---
 
 ### 2.20.1 (2021.02.23) 

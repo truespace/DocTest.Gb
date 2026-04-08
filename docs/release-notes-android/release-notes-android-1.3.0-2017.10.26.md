@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v1.3.0, 기능추가"
 section: "1.3.0 (2017.10.26)"
 order: 125
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Release Notes, 1.3.0
 ---
 
 ### 1.3.0 (2017.10.26)

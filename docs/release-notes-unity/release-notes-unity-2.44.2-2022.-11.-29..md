@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.44.2, 버그수정, 기능추가, 변경"
 section: "2.44.2 (2022. 11. 29.)"
 order: 46
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, WebView, Android, iOS, Release Notes, 2.44.2
 ---
 
 ### 2.44.2 (2022. 11. 29.)

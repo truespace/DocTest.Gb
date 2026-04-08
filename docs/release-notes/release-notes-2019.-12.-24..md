@@ -1,10 +1,10 @@
 ---
 source: release-notes.md
-split: true
-created_date_time: 20260406_141859
-keyword: "v2.6.2, 기능개선, 기능추가, 변경, Coupon"
 section: "2019. 12. 24."
 order: 38
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Coupon, Android, iOS, Release Notes, 2.6.2
 ---
 
 ### 2019. 12. 24.

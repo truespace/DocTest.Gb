@@ -1,8 +1,8 @@
 ---
 source: aos-initialization.md
 split: false
-created_date_time: 20260406_141859
-keyword: "Android, Purchase, Push, Initialize, Maintenance, Notice, Ban, TermsView, Error, IAP"
+created_date_time: 20260408_191848
+keyword: Android, Login, Purchase, WebView, Initialize, Authentication, Console
 ---
 
 ## Game > Gamebase > Android SDK 사용 가이드 > 초기화
@@ -24,11 +24,11 @@ Gamebase의 정상적인 동작을 위해 반드시 **Activity#onActivityResult(
 게임이 시작되면 Debug Mode 를 설정하고, Gamebase 를 초기화하여 Launching Status Code 에 따라 게임 진입여부를 결정하도록 아래 Flow 와 같이 구현하시면 됩니다.
 
 ![initialization flow](./image/initialization_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260407
-    유형: Diagram
-    내용: initialization flow
-    구성: 'initialization flow' 이미지. 플로우/다이어그램 형태의 시각자료
-    Keyword: Flow, Initialize, Setting
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Flowchart
+    내용: Initialization Flow 흐름도
+    구성: Initialization Flow의 처리 흐름을 나타내는 다이어그램
+    Keyword: Android, Diagram, Flow, Initialization Flow
 -->
 
 ### Configuration Settings
@@ -275,20 +275,20 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 
 `enablePopup`과 `enableLaunchingStatusPopup` 값이 모두 `true`인 경우, 게임이 점검 상태라면 자동으로 점검 팝업 창이 표시됩니다.
 ![](./image/maintenance_popup_android_2.30.0.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: maintenance popup android 2.30.0
-    구성: 'maintenance popup android 2.30.0' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Maintenance
+    내용: 1. launching 관련 화면
+    구성: 1. launching 관련 스크린샷
+    Keyword: Android, Screenshot, 1. launching
 -->
 
 여기서 **자세히 보기** 버튼을 클릭하면 점검 정보가 자동으로 웹뷰로 표시됩니다.
 ![](./image/maintenance_webview_android_2.30.0.png)
-<!-- LLM_Image_DESC_20260407
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: maintenance webview android 2.30.0
-    구성: 'maintenance webview android 2.30.0' 이미지. 콘솔/앱 화면 캡처 이미지
-    Keyword: Maintenance, WebView
+    내용: 1. launching 관련 화면
+    구성: 1. launching 관련 스크린샷
+    Keyword: Android, Screenshot, 1. launching
 -->
 
 이때 표시되는 html 파일을 수정하고 싶다면 다음 링크의 html 파일을 다운로드하여 원하는 대로 수정한 후 'assets/Gamebase' 폴더에 두면 Gamebase SDK에 내장된 기본 html 파일 대신 해당 html 파일을 사용하여 점검 정보를 표시하게 됩니다.

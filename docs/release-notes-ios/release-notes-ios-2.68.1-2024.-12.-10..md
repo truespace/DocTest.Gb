@@ -1,10 +1,10 @@
 ---
 source: release-notes-ios.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Swift, v2.68.1, 버그수정"
 section: "2.68.1 (2024. 12. 10.)"
 order: 12
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Error, Swift, Release Notes, 2.68.1
 ---
 
 ### 2.68.1 (2024. 12. 10.)

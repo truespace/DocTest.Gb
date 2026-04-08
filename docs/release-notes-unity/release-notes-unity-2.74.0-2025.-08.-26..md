@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.74.0, 버그수정"
 section: "2.74.0 (2025. 08. 26.)"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, iOS, Release Notes, 2.74.0
 ---
 
 ### 2.74.0 (2025. 08. 26.)

@@ -1,20 +1,20 @@
 ---
 source: ios-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Purchase, Consume, RequestItemListOfNotConsumed, requestItemListOfNotConsumedWithCompletion"
 section: "Retry Transaction Flow"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Purchase, Consume, Error
 ---
 
 ### Retry Transaction Flow
 
 ![retry transaction flow](./image/purchase_retry_transaction_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Flowchart
-    내용: 결제 재처리(Retry Transaction) 흐름도
-    구성: Start에서 Gamebase.Purchase.RequestItemListOfNotConsumed() 호출 후, 미소비 아이템 존재 여부를 판단하여 Yes이면 Consume Flow로, No이면 다음 Flow로 진행하는 플로우차트
-    Keyword: 결제, 재처리, RetryTransaction, Consume, 플로우차트
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 재처리 흐름도
+    구성: 미소비 결제 건에 대한 재처리 흐름을 나타내는 시퀀스 다이어그램
+    Keyword: Sequence Diagram, Retry Transaction Flow
 -->
 
 * 스토어 결제에는 성공했으나 오류가 발생해 정상 종료되지 못하는 경우가 있습니다.

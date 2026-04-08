@@ -1,10 +1,10 @@
 ---
 source: api-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Server API, Purchase, Consume, Error, IAP, isSuccessful, isTestPurchase, additional, isConsumable, requestPurchase"
-section: Purchase(IAP)
+section: "Purchase(IAP)"
 order: 9
+split: true
+created_date_time: 20260408_191848
+keyword: Server API, Login, Purchase, Consume, Authentication, Error, RequestPurchase, Console
 ---
 
 ## Purchase(IAP)

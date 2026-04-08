@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.57.0, 기능추가, 변경, Logger"
 section: "2.57.0 (2023. 10. 31.)"
 order: 35
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Logger, Error, Android, iOS, Release Notes, 2.57.0
 ---
 
 ### 2.57.0 (2023. 10. 31.)

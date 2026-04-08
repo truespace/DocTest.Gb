@@ -1,10 +1,10 @@
 ---
 source: unreal-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, Logout, Purchase, Push, Initialize, Maintenance, Guest, IdP, Launching"
 section: "Additional Features > Gamebase Event Handler"
 order: 4
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Logout, Withdraw, Purchase, Push, Android, iOS
 ---
 
 ### Gamebase Event Handler

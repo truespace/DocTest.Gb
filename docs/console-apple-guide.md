@@ -1,11 +1,9 @@
 ---
 source: console-apple-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Notification, console-apple-guide"
 source_size_bytes: 5463
 source_char_count: 3898
 split_count: 4
+created_date_time: 20260408_191848
 ---
 
 # console-apple-guide

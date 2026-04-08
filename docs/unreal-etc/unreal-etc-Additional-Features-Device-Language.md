@@ -1,10 +1,10 @@
 ---
 source: unreal-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Additional, GetDeviceLanguageCode"
 section: "Additional Features > Device Language"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Etc, Additional
 ---
 
 ## Game > Gamebase > Unreal SDK 사용 가이드 > ETC

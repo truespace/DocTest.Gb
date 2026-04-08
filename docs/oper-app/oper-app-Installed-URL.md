@@ -1,10 +1,10 @@
 ---
 source: oper-app.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, Installed URL, Properties"
 section: "Installed URL"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Android, iOS
 ---
 
 ## Installed URL
@@ -12,11 +12,11 @@ order: 5
 게임을 설치하기 위한 스토어 URL 정보를 관리합니다.
 
 ![gamebase_installed_url_01_ko_240105](./image/gamebase_installed_url_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 설치 URL 관리 화면 (조회 모드)
-    구성: 설치 URL 정보와 수정 버튼, 공통(COMMON) URL 설정, Android 스토어별(Google Play, ONE store, Galaxy Store) 대표 스토어 및 코드/PC/Mobile URL 설정, iOS(App Store) URL 설정이 테이블 형태로 표시됨.
-    Keyword: 설치 URL, 스토어별 URL, Google Play, ONE store, Galaxy Store, App Store
+    내용: Gamebase 앱 설정 콘솔 Installed URL 화면 #01
+    구성: Gamebase 앱 설정 콘솔의 Installed URL 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, Installed URL
 -->
 
 클라이언트 상태가  <font color="white" style="background-color:#2AB1A6">업데이트 권장(서비스 중)</font> 또는 <font color="white" style="background-color:#A1A1A1">업데이트 필수</font>일 때 스토어별로 제공할 주소의 값을 설정합니다.
@@ -36,11 +36,11 @@ _[예시3] PC에서 설치 URL을 입력한 경우_
 입력된 설치 URL 정보를 변경하려면 **수정** 버튼을 클릭합니다.
 
 ![gamebase_installed_url_02_ko_240105](./image/gamebase_installed_url_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260406
+<!-- LLM_Image_DESC_20260408_191856
     유형: Screenshot
-    내용: 설치 URL 수정 화면
-    구성: 공통(COMMON), Android(Google Play, ONE store, Galaxy Store), iOS(App Store) 섹션별로 PC/Mobile URL 입력 필드가 편집 가능한 상태로 표시됨. 대표 스토어 선택 라디오 버튼과 하단에 취소/저장 버튼 존재.
-    Keyword: 설치 URL 수정, 스토어별 URL, PC, Mobile, 대표 스토어
+    내용: Gamebase 앱 설정 콘솔 Properties 화면 #02
+    구성: Gamebase 앱 설정 콘솔의 Properties 기능 설정/조회 화면 스크린샷
+    Keyword: 앱 설정, Console, Screenshot, Properties
 -->
 
 - 각 항목은 PC, 모바일별로 따로 설정할 수 있습니다. PC와 모바일을 구분할 필요가 없다면 동일한 값을 각각 입력하면 됩니다.

@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.17.1, 버그수정, 기능개선, 기능추가, 변경, Push, Notice"
 section: "2.17.1 (2020.10.27)"
 order: 78
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, Push, WebView, Alert, ImageNotice, ShowImageNotices, Unreal, Release Notes, 2.17.1
 ---
 
 ### 2.17.1 (2020.10.27)

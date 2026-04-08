@@ -1,10 +1,10 @@
 ---
 source: ios-etc.md
-split: true
-created_date_time: 20260406_141859
-keyword: "iOS, Login, Logout, Purchase, Push, Maintenance, EventHandler, Error, Guest, IdP"
 section: "Additional Features > Gamebase Event Handler"
 order: 5
+split: true
+created_date_time: 20260408_191848
+keyword: iOS, Login, Logout, Withdraw, Purchase, Push, Console
 ---
 
 ### Gamebase Event Handler

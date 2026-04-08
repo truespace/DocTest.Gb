@@ -1,10 +1,10 @@
 ---
 source: release-notes-unity.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unity, v2.13.0, 버그수정, 기능개선, 기능추가, 변경, Notice"
 section: "2.13.0 (2020.07.28)"
 order: 83
+split: true
+created_date_time: 20260408_191848
+keyword: Unity, Purchase, WebView, Authentication, ImageNotice, Error, Android, iOS, Release Notes, 2.13.0
 ---
 
 ### 2.13.0 (2020.07.28)

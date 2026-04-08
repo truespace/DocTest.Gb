@@ -1,10 +1,10 @@
 ---
 source: release-notes-console.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Console, 신규, 버그수정, 기능개선, 기능추가, 변경, Analytics, Maintenance"
 section: "2019. 07. 23."
 order: 97
+split: true
+created_date_time: 20260408_191848
+keyword: Console, Login, Push, Analytics, Release Notes
 ---
 
 ### 2019. 07. 23.

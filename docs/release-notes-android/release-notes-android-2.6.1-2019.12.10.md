@@ -1,10 +1,10 @@
 ---
 source: release-notes-android.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, v2.6.1, 버그수정, Login, Analytics, Initialize, IAP"
 section: "2.6.1 (2019.12.10)"
 order: 99
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Analytics, Release Notes, 2.6.1
 ---
 
 ### 2.6.1 (2019.12.10)

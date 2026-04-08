@@ -1,10 +1,10 @@
 ---
 source: unreal-ui.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Notice, ImageNotice, Error, GetSubsystem, GetGameInstance, GetGameNotice"
-section: GameNotice
+section: "GameNotice"
 order: 1
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, WebView, Initialize, Error, Console
 ---
 
 ## Game > Gamebase > Unreal SDK 사용 가이드 > UI
@@ -14,11 +14,11 @@ order: 1
 콘솔에 이미지와 함께 등록한 공지 사항을 표시하는 기능입니다.
 
 ![GameNotice Example](./image/gameNotice_guide_001.png)
-<!-- LLM_Image_DESC_20260406
-    유형: UI
-    내용: 게임 내 공지사항 화면 예시
-    구성: 모바일 화면에 Notice 제목의 공지사항 목록이 표시됨. Gamebase 로고와 설명 배너, 글로벌 진출 안내 배너, NHN GamePlatform 홍보 배너 등 여러 공지 항목이 카드 형태로 세로 나열됨
-    Keyword: 게임공지, GameNotice, 공지사항, UI, Gamebase
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Screenshot
+    내용: GameNotice 관련 화면
+    구성: GameNotice 관련 스크린샷
+    Keyword: Unreal, Screenshot, GameNotice
 -->
 
 ### Open GameNotice

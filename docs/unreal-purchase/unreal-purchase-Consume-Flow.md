@@ -1,10 +1,10 @@
 ---
 source: unreal-purchase.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Purchase, Consume, IAP"
 section: "Consume Flow"
 order: 3
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Purchase, Consume
 ---
 
 ### Consume Flow
@@ -17,11 +17,11 @@ order: 3
 >
 
 ![consume flow](./image/purchase_flow_002_2.64.0.png)
-<!-- LLM_Image_DESC_20260406
-    유형: Diagram
-    내용: 소비(Consume) 흐름 시퀀스 다이어그램
-    구성: GameClient, GameServer, GamebaseServer 간의 상호작용을 보여주는 시퀀스 다이어그램. 클라이언트가 서버에 consume 요청, 서버가 purchaseToken 검증 및 gamebaseProductId 확인, 유효하면 아이템 지급 후 DB 저장, 최종적으로 Gamebase 서버에 consume 완료 요청하는 과정
-    Keyword: 소비, Consume, 시퀀스다이어그램, purchaseToken, GameServer
+<!-- LLM_Image_DESC_20260408_191856
+    유형: Sequence Diagram
+    내용: 결제 처리 흐름도 (v2)
+    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스 (갱신된 버전)
+    Keyword: Sequence Diagram, Consume Flow
 -->
 
 1. 게임 클라이언트가 게임 서버에 결제 아이템에 대한 consume(소비)을 요청합니다.

@@ -1,10 +1,10 @@
 ---
 source: upgrade-guide.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Gradle, Purchase, Push, Notification, Initialize, IAP, Launching, getAuthBanInfo, getBanInfo, getLanguageCode"
-section: 2.6.0
+section: "2.6.0"
 order: 56
+split: true
+created_date_time: 20260408_191848
+keyword: Purchase, Push, Initialize, RequestRetryTransaction, Android, Unity, Upgrade Guide, 2.6.0
 ---
 
 ## 2.6.0
@@ -40,7 +40,7 @@ buildscript {
 * Firebase Cloud Messaging 을 사용하는 경우, Firebase Console 에서 다운로드 받은 google-services.json 파일을 xml 리소스로 변환하여 프로젝트에 포함하여야 Push가 정상동작 합니다.
     * Gamebase 2.5.0 이전 버전에서는 xml 리소스가 없어도 Push가 동작했지만, Gamebase 2.6.0 이상부터는 xml 리소스가 반드시 필요합니다.
 * 아래 가이드를 참고하여 구현하시기 바랍니다.
-    * [\[Game > Gamebase > Android SDK 사용 가이드 > 푸시 > Settings > Firebase\]](../../aos-push.md#firebase)
+    * [\[Game > Gamebase > Android SDK 사용 가이드 > 푸시 > Settings > Firebase\]](../aos-push.md#firebase)
 
 #### Standalone
 
@@ -74,7 +74,7 @@ buildscript {
 * Gamebase.initialize()의 인자로 필요한 GamebaseConfiguration의 생성 방법이 변경되었습니다.
     * **new GamebaseConfiguration.Builder(String, String)** 대신 **GamebaseConfiguration.newBuilder()**를 호출하세요.
 * LaunchingStatus.isPlayable()은 더 이상 호출하지 마세요.
-	* [\[Game > Gamebase > Android SDK 사용 가이드 > 초기화 > Launching Information\]](../../aos-initialization.md#launching-information) 문서를 참고하여 Launching Status Code에 따라 게임 플레이가 가능한지 여부를 직접 결정하시기 바랍니다.
+	* [\[Game > Gamebase > Android SDK 사용 가이드 > 초기화 > Launching Information\]](../aos-initialization.md#launching-information) 문서를 참고하여 Launching Status Code에 따라 게임 플레이가 가능한지 여부를 직접 결정하시기 바랍니다.
 * Purchase
     * Store Code는 변경할 수 없으므로 **GamebaseConfiguration.newBuilder()**에서 Store Code를 전달해야 합니다.
         * Gamebase.Purchase.getStoreCode()/Gamebase.Purchase.setStoreCode()는 제거될 예정입니다. 더 이상 사용하지 마세요.

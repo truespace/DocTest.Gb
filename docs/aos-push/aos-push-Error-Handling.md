@@ -1,10 +1,10 @@
 ---
 source: aos-push.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Android, Push, Error, isSuccess, getMessage, getDetailCode, getDetailMessage"
 section: "Error Handling"
 order: 6
+split: true
+created_date_time: 20260408_191848
+keyword: Android, Login, Push, Initialize, Error
 ---
 
 ### Error Handling

@@ -1,10 +1,10 @@
 ---
 source: unreal-authentication.md
-split: true
-created_date_time: 20260406_141859
-keyword: "Unreal, Login, GraceBan, Guest, GetSubsystem, GetGameInstance, IsSuccess"
-section: GraceBan
+section: "GraceBan"
 order: 8
+split: true
+created_date_time: 20260408_191848
+keyword: Unreal, Login, Purchase, GraceBan
 ---
 
 ## GraceBan
