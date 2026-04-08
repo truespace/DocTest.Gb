@@ -18,7 +18,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
     - [Google Developers - OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 
 ## 기본 정보 입력
-![최고 관리자 모델 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_01.png)
+![최고 관리자 모델 설정](./image/260202_ko_01.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: 최고 관리자 모델 설정
@@ -30,7 +30,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
 - Google Play 등록을 위해 빌드한 앱의 Package Name으로 Google Play 내에서 앱을 식별할 수 있는 고유값입니다.
 - 앱을 등록했다면 Google Play Console의 앱 목록 또는 대시보드 등에서 확인이 가능합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_02.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_02.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -43,7 +43,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
 - **홈** 화면에서 설정할 앱을 선택 후 **수익 창출 설정**으로 들어갑니다.
 - 항목 중 **라이선스**에 있는 Base64로 인코딩된 내용을 복사하여 붙여넣습니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_03.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_03.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -75,7 +75,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
 - Google Play Console에서는 Google Cloud Console에서 생성한 서비스 계정을 추가하여 사용합니다.
 - 서비스 계정이 앱에 접근하기 위해서는 적절한 권한을 부여해야 합니다.
 
-![NHN Cloud IAP 앱 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_04.png)
+![NHN Cloud IAP 앱 설정](./image/260202_ko_04.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: NHN Cloud IAP 앱 설정
@@ -94,7 +94,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
 - **IAM 및 관리자 > 프로젝트 만들기**를 선택합니다.
 - **프로젝트 이름**과 **위치**를 입력 후 프로젝트를 생성합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_05.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_05.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -102,7 +102,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
     Keyword: Google
 -->
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_06.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_06.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -118,7 +118,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
     - **Play Games Services Publishing API**
 - 해당 API 선택 후 **제품 세부정보**에서 사용으로 설정합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_07.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_07.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -130,7 +130,7 @@ keyword: "Console, Purchase, Subscription, Notice, IAP"
 ### 3. Google Cloud Console 메뉴 노출
 - 설정 과정 중 Google Cloud Pub/Sub와 같이 보이지 않는 메뉴가 있을 경우 **제품 및 솔루션 > 모든 제품**에 들어가면 메뉴(고정된 제품)에 추가할 수 있습니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_08.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_08.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -149,7 +149,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - Google Workspace를 사용하지 않았다면, **User Type**은 **외부**만 선택이 가능합니다.
 - 나머지 구성 관련 설정은 화면 내 **알아보기**를 따라 진행합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_09.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_09.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -161,7 +161,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 ### 2. Google Cloud 클라이언트 ID 생성
 - **API 및 서비스 > 사용자 인증 정보**에서 상단의 **사용자 인증 정보 만들기 > OAuth 클라이언트 ID**를 선택하여 **OAuth 클라이언트 ID 만들기** 페이지로 들어갑니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_10.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_10.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -175,7 +175,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - 별도의 사용자 웹 애플리케이션으로 인증 결과를 받고 싶다면 사용자의 웹 주소 설정도 가능합니다. 여기서는 Google Developers 사이트를 이용하여 인증 정보를 확인합니다.
 - 승인된 리디렉션 URI에 ```https://developers.google.com/oauthplayground```를 입력합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_11.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_11.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -185,7 +185,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 
 - **만들기**를 클릭해 OAuth 클라이언트를 생성하면 **클라이언트 ID**와 **클라이언트 보안 비밀번호**를 확인할 수 있습니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_12.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_12.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -200,7 +200,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - 우측 상단의 톱니바퀴 모양 버튼을 눌러 **OAuth 2.0 configuration**을 열고, **Use your own OAuth credentials**를 체크하여 추가 입력란이 나오게 합니다.
 - 앞에서 생성한 **클라이언트 ID**와 **클라이언트 보안 비밀번호**를 **OAuth Client ID**와 **OAuth Client secret**에 입력합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_13.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_13.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -219,7 +219,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - 정상적으로 리디렉션되면 **Step 2**에서 **Authorization code**를 확인할 수 있습니다.
 - 여기서 **Exchange authorization code for tokens**를 눌러 **Refresh token**과 **Access token**을 발급 받습니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_14.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_14.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -236,7 +236,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - **Google API Client Secret: 클라이언트 보안 비밀번호**를 입력
 - **Refresh Token For Google Oauth**: Google Developsers OAuth Playground에서 수신한 **Refresh token**을 입력
 
-![최고 관리자 모델 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_15.png)
+![최고 관리자 모델 설정](./image/260202_ko_15.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: 최고 관리자 모델 설정
@@ -260,7 +260,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 ### 1. Google Cloud 서비스 계정 생성
 - **IAM 및 관리자 > 서비스 계정**에서 **서비스 계정 만들기**를 누르거나 **API 및 서비스 > 사용자 인증 정보**에서 **사용자 인증 정보 만들기 > 서비스 계정**을 선택합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_16.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_16.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -268,7 +268,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
     Keyword: Google
 -->
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_17.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_17.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -278,7 +278,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 
 - **서비스 계정 이름**과 **서비스 계정 ID**에 알맞은 정보를 입력 후 **만들고 계속하기**를 눌러 다음으로 진행합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_18.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_18.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -288,7 +288,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 
 - 액세스 권한 부여는 **소유자**를 선택합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_19.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_19.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -306,7 +306,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - **키 유형**은 **JSON**을 선택하고 **만들기**를 누르면 키 파일을 다운로드합니다.
 - 다운로드된 파일의 내용은 Gamebase IAP 앱을 설정할 때 사용합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_20.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_20.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -326,7 +326,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - Google Play Console에 접속합니다.
 - **사용자 및 권한**에서 **신규 사용자 초대** 버튼을 클릭합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_21.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_21.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -340,7 +340,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - 권한 설정이 반영되기까지 일정 시일이 소요됩니다. 경우에 따라 7일 정도의 시일이 소요될 수 있습니다.
 - 서비스 계정은 초대 후 사용자의 이메일 승인 과정 없이 활성화됩니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_22.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_22.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -355,7 +355,7 @@ Gamebase IAP에서 Google Cloud 클라이언트 ID 인증을 사용하기 위해
 - **IAP > App**의 **추가** 또는 **편집**에서 **서비스 계정 연동 정보** 항목에 다운로드한 서비스 계정의 키 파일 내용을 입력합니다.
 - 복사할 때는 메모장과 같은 텍스트 편집기를 사용해 내용 전체를 복사하십시오.
 
-![연동방식_sevice_account](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_23.png)
+![연동방식_sevice_account](./image/260202_ko_23.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: 연동방식_sevice_account
@@ -373,14 +373,14 @@ Google Play에서 구독 상품을 판매하는 경우 NHN Cloud IAP에서 Googl
 - **주제 ID**를 입력하고, **기본 구독 추가**와 **Google 관리 암호화 키**를 선택하여 주제를 만듭니다.
 - **Pub/Sub** 메뉴가 보이지 않는다면 **제품 및 솔루션 > 모든 제품**에서 접근할 수 있습니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_24.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_24.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
     구성: 'Google Cloud 프로젝트 연결' 이미지. 콘솔/앱 화면 캡처 이미지
     Keyword: Google
 -->
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_25.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_25.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -391,7 +391,7 @@ Google Play에서 구독 상품을 판매하는 경우 NHN Cloud IAP에서 Googl
 - 주제가 생성되면 구독 이벤트가 발생했을 때 주제에 게시할 게시자를 추가해야 합니다. 생성된 주제를 선택 후 **권한** 탭에서 **주 구성원 추가**를 클릭합니다.
 - **새 주 구성원**은 ```google-play-developer-notifications@system.gserviceaccount.com```를, **역할**은 **게시/구독 게시자**를 선택하고 저장합니다.
 
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_26.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_26.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -405,7 +405,7 @@ Google Play에서 구독 상품을 판매하는 경우 NHN Cloud IAP에서 Googl
 - 구독 수정으로 들어가 **전송 유형**은 **푸시**를 선택하고, **엔드포인트 URL**은 Gamebase IAP의 알림 수신 주소인 ```https://api-iap.cloud.toast.com/callback/subscription/{YOUR_PACKAGE_NAME}/GG ```을 입력합니다. 입력할 때 ```{YOUR_PACKAGE_NAME}```은 위의 Gamebase IAP 앱 기본 정보 입력 중 **Store App ID**와 동일한 값으로 교체해야 합니다.
 - Gamebase 샌드박스를 사용하고 있다면 **엔드포인트 URL**은 ```https://sandbox-api-iap.cloud.toast.com/callback/subscription/{YOUR_PACKAGE_NAME}/GG ```로 입력합니다.
 - 이미 만들어진 주제에 구독을 추가하고 싶다면 **구독 만들기**로 구독을 추가할 수도 있습니다.
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_27.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_27.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결
@@ -416,7 +416,7 @@ Google Play에서 구독 상품을 판매하는 경우 NHN Cloud IAP에서 Googl
 ### 3. Google Play Console에 구독 주제 등록
 - **홈** 화면에서 알림을 받을 앱을 선택 후 **수익 창출 설정**으로 들어갑니다.
 - **Google Play 결제** 항목 중 **주제 이름**에 앞서 만든 주제의 이름을 입력합니다.
-![Google Cloud 프로젝트 연결](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/GooglePlay/ko/260202_ko_28.png)
+![Google Cloud 프로젝트 연결](./image/260202_ko_28.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Google Cloud 프로젝트 연결

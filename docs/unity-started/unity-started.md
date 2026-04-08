@@ -55,7 +55,7 @@ SettingTool을 이용하여 Gamebase SDK를 간편하게 설치할 수 있습니
 
 Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 SettingTool 기능을 사용할 수 있습니다.
 
-![unity-developers-guide-started-settingtool-3.0.0-menu](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-3.0.0-menu.png)
+![unity-developers-guide-started-settingtool-3.0.0-menu](./image/unity-developers-guide-started-settingtool-3.0.0-menu.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-3.0.0-menu
@@ -79,7 +79,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 1. 순차적으로 플랫폼, 인증, 결제, 푸시 등의 기능을 선택해 설치를 진행합니다.
 2. 설치할 기능을 선택한 후, **설치하기** 버튼을 클릭하여 설치를 진행합니다.
 
-![unity-developers-guide-started-settingtool-3.0.0-setupwizard](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-3.0.0-setupwizard-ko.png)
+![unity-developers-guide-started-settingtool-3.0.0-setupwizard](./image/unity-developers-guide-started-settingtool-3.0.0-setupwizard-ko.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-3.0.0-setupwizard
@@ -98,7 +98,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 1. 최신 버전으로 업데이트할 수 있는 경우 최신 버전과 **최신 버전으로 업데이트** 버튼이 표시됩니다.
 2. 우측 하단의 **최신 버전으로 업데이트** 버튼을 클릭하여 최신 SDK로 업데이트합니다.
 
-![unity-developers-guide-started-settingtool-3.0.0-latestupdate](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-3.0.0-latestupdate-ko.png)
+![unity-developers-guide-started-settingtool-3.0.0-latestupdate](./image/unity-developers-guide-started-settingtool-3.0.0-latestupdate-ko.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-3.0.0-latestupdate
@@ -113,7 +113,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 1. 원하는 설정을 자유롭게 선택해 설치를 진행합니다.
 2. 우측 하단의 **설정 적용** 버튼을 클릭하면 해당 설정으로 설치가 진행됩니다.
 
-![unity-developers-guide-started-settingtool-3.0.0-customize](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-3.0.0-customize-ko.png)
+![unity-developers-guide-started-settingtool-3.0.0-customize](./image/unity-developers-guide-started-settingtool-3.0.0-customize-ko.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-3.0.0-customize
@@ -171,7 +171,7 @@ Application Entry Point에 따라 설정하는 MainActivity가 다릅니다.
         * **Player Settings > Player > Android**
     2. Application Entry Point 설정을 확인하거나 설정합니다.
         * **Other Settings > Application Entry Point**
-            * ![unity-developers-guide-started-settingtool-application-entry-point](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-application-entry-point.png)
+            * ![unity-developers-guide-started-settingtool-application-entry-point](./image/unity-developers-guide-started-settingtool-application-entry-point.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-application-entry-point
@@ -226,7 +226,7 @@ Application Entry Point에 따라 설정하는 MainActivity가 다릅니다.
     * Explode AARs: 비활성화
     * Patch mainTemplate.gradle: 활성화
     * Patch gradleTemplate.properties: 활성화
-    * ![unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182.png)
+    * ![unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182](./image/unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182
@@ -261,7 +261,7 @@ EDM4U에서 CocoaPods 설치할 수도 있습니다.
             * CocoaPods 1.10.x 버전을 설치합니다.
             * Unity에서 생성한 Xcode 프로젝트에서 **pod install**을 직접 호출합니다.
     * Link frameworks statically: 비활성화
-  * ![unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182](https://static.toastoven.net/prod_gamebase/UnityDevelopersGuide/unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182.png)
+  * ![unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182](./image/unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182

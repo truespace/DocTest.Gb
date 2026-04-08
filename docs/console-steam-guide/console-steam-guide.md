@@ -20,7 +20,7 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 기타 본 페이지에서 설명하지 않는 항목은 **Game > Gamebase > [콘솔 결제 사용 가이드](https://docs.nhncloud.com/ko/Game/Gamebase/ko/oper-purchase/)** 페이지를 참고하세요.
 
 
-![Gamebase 스토어 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/Steam/ko/steam_register_01_ko_241028.png)
+![Gamebase 스토어 설정](./image/steam_register_01_ko_241028.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Gamebase 스토어 설정
@@ -34,7 +34,7 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 * Steamworks에서 제품을 등록한 뒤 발급 받는 앱의 고유 식별 정보입니다.
 * **Steamworks > App Admin >** (프로젝트 명)에 표시된 앱 ID를 입력합니다.
 
-![Steam 스토어 앱 ID](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_02_kor.png)
+![Steam 스토어 앱 ID](./image/steam_console_app_02_kor.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Steam 스토어 앱 ID
@@ -49,7 +49,7 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 * **Steamworks > Users & Permissions**에서 신규 생성 또는 기존 발급 받은 키 값을 입력합니다.
   * 보다 자세한 발급 방법은 [Steamworks Publisher Web API Key](https://partner.steamgames.com/doc/webapi_overview/auth)를 참고하세요.
 
-![Steam Web API Key](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_03_kor.png)
+![Steam Web API Key](./image/steam_console_app_03_kor.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Steam Web API Key
@@ -65,7 +65,7 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
   * **판매 아이템 설정** 섹션 내 **국가별 판매 아이템 정보 입력** 항목을 참고하세요.
 
 
-![Steam 기본 통화](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_iap/console_steam/steam_console_app_04_kor.png)
+![Steam 기본 통화](./image/steam_console_app_04_kor.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Steam 기본 통화
@@ -79,7 +79,7 @@ Steam 연동을 위해 다음의 3가지 정보를 정확히 입력하세요.
 
 Gamebase는 [Steam Microtransaction API](https://partner.steamgames.com/doc/features/microtransactions)를 지원합니다.
 
-![Gamebase 아이템 설정](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/Steam/ko/steam_item_01_ko_241028.png)
+![Gamebase 아이템 설정](./image/steam_item_01_ko_241028.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: Gamebase 아이템 설정

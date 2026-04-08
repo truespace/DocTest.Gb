@@ -19,7 +19,7 @@ keyword: "Console, IAP, MyCard 콘솔 가이드"
 2. Live 중인 게임일 경우 아래 화면에서 App Name과 Store App ID를 수정하면 결제 오류 및 장애발생의 원인이 될 수 있습니다.
  - 반드시 서비스 Live 전에 정상 입력 여부를 확인하시기 바랍니다.  
 ```
-![MyCard 스토어 정보 등록](https://static.toastoven.net/prod_gamebase/StoreConsoleGuide/gamebase_iap_mycard_console_guide_kr_01_230808.png)
+![MyCard 스토어 정보 등록](./image/gamebase_iap_mycard_console_guide_kr_01_230808.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: MyCard 스토어 정보 등록

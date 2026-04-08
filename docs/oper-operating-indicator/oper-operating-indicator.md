@@ -12,7 +12,7 @@ keyword: "Console, Maintenance, 운영 지표"
 
 
 ## Monitoring
-![operation-indicator_01_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_01_201812.png)
+![operation-indicator_01_201812](./image/operation-indicator_01_201812.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: operation-indicator_01_201812
@@ -38,7 +38,7 @@ keyword: "Console, Maintenance, 운영 지표"
 
 
 ## User Statistics
-![operation-indicator_02_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_02_201812.png)
+![operation-indicator_02_201812](./image/operation-indicator_02_201812.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: operation-indicator_02_201812
@@ -57,7 +57,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 	* CCU AVG(concurrent connected users average): 실시간 동시 접속자 수의 평균값
 
 ## Concurrent Group User
-![operation-indicator_03_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_03_201812.png)
+![operation-indicator_03_201812](./image/operation-indicator_03_201812.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: operation-indicator_03_201812
@@ -68,7 +68,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 
 ## Installed URL Statistics
-![operation-indicator_04_201812](https://static.toastoven.net/prod_gamebase/operation-indicator_04_201812.png)
+![operation-indicator_04_201812](./image/operation-indicator_04_201812.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: operation-indicator_04_201812
@@ -83,7 +83,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
   
 
 ## Statistics
-![image alt](http://static.toastoven.net/prod_gamebase/Operators_Guide/Console_Monitoring_Statistics1_1.2.png)
+![image alt](./image/Console_Monitoring_Statistics1_1.2.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: image alt

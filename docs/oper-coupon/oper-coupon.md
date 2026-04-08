@@ -17,7 +17,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 검색 조건에 맞는 쿠폰 발급 내역을 검색합니다.
 
-![gamebase_coupon_01](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_01_240813.png)
+![gamebase_coupon_01](./image/gamebase_coupon_01_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_01
@@ -48,7 +48,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 쿠폰 발급 검색 화면에서 **등록** 버튼을 클릭하면 쿠폰 발급을 진행할 수 있습니다.
 
-![gamebase_coupon_02](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_02_240813.png)
+![gamebase_coupon_02](./image/gamebase_coupon_02_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_02
@@ -109,7 +109,7 @@ keyword: "Console, Coupon, 쿠폰"
 발급한 쿠폰 정보를 수정하려면 상세 정보에서 **수정** 버튼을 클릭합니다.
 이미 발급한 쿠폰 코드 타입은 수정할 수 없으므로 새 타입의 쿠폰을 발급하려면 발급 정보를 새로 등록해야 합니다.
 
-![gamebase_coupon_03](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_03_240813.png)
+![gamebase_coupon_03](./image/gamebase_coupon_03_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_03
@@ -144,7 +144,7 @@ keyword: "Console, Coupon, 쿠폰"
 #### 6. 쿠폰 발송
 발급된 쿠폰 정보를 이용하여 유저에게 직접 쿠폰을 발송할 수 있는 기능을 제공합니다.
 
-![gamebase_coupon_04](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_04_240813.png)
+![gamebase_coupon_04](./image/gamebase_coupon_04_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_04
@@ -182,7 +182,7 @@ keyword: "Console, Coupon, 쿠폰"
 #### 7. 쿠폰 추가 발급
 쿠폰 타입이 시리얼인 경우 1회 10만 개씩 최대 100만 개까지(초기 발급 개수 포함) 추가로 발급받을 수 있습니다.
 
-![gamebase_coupon_05](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_05_240813.png)
+![gamebase_coupon_05](./image/gamebase_coupon_05_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_05
@@ -192,7 +192,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 #### 8. 쿠폰 통계
 쿠폰 발급 상세 정보 화면의 하단에서 SMS 발송 내역을 조회할 수 있으며 발송과 관련된 통계를 조회 및 파일 다운로드를 진행할 수 있습니다.
-![gamebase_coupon_06](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_06_240813.png)
+![gamebase_coupon_06](./image/gamebase_coupon_06_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_06
@@ -216,7 +216,7 @@ keyword: "Console, Coupon, 쿠폰"
 #### 쿠폰 코드별 조회
 
 쿠폰 코드를 직접 입력하여 사용여부를 조회할 수 있습니다.
-![gamebase_coupon_07](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_07_240813.png)
+![gamebase_coupon_07](./image/gamebase_coupon_07_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_07
@@ -227,7 +227,7 @@ keyword: "Console, Coupon, 쿠폰"
 #### 유저 ID별 조회
 
 유저 ID를 통해 해당 유저가 쿠폰을 사용한 이력을 조회할 수 있습니다.
-![gamebase_coupon_08](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_08_240813.png)
+![gamebase_coupon_08](./image/gamebase_coupon_08_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_08
@@ -238,7 +238,7 @@ keyword: "Console, Coupon, 쿠폰"
 #### 쿠폰명 조회
 
 쿠폰명 및 기타 검색조건을 통해 사용 이력을 조회할 수 있습니다.
-![gamebase_coupon_09](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_09_240813.png)
+![gamebase_coupon_09](./image/gamebase_coupon_09_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_09
@@ -257,7 +257,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 등록된 쿠폰 아이템 내역을 조회할 수 있습니다.
 필터를 통해 아이템 ID/아이템 이름을 통한 검색도 가능합니다.
-![gamebase_coupon_10](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_10_240813.png)
+![gamebase_coupon_10](./image/gamebase_coupon_10_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_10
@@ -272,7 +272,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 #### 단건 등록
 
-![gamebase_coupon_11](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_11_240813.png)
+![gamebase_coupon_11](./image/gamebase_coupon_11_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_11
@@ -291,7 +291,7 @@ keyword: "Console, Coupon, 쿠폰"
 
 #### 파일 업로드
 
-![gamebase_coupon_12](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_12_240813.png)
+![gamebase_coupon_12](./image/gamebase_coupon_12_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_12
@@ -309,7 +309,7 @@ keyword: "Console, Coupon, 쿠폰"
 >
 > 아이템 ID 정보는 변경할 수 없으므로 아이템 ID가 잘못 되었다면 새로운 아이템 ID로 다시 등록해주셔야 합니다.
 
-![gamebase_coupon_13](https://kr1-api-object-storage.nhncloudservice.com/v1/AUTH_2acdfabf4efe4efc8a04c00b348110c9/cdn_origin/prod_gamebase/ConsoleGuide/Coupon/ko/gamebase_coupon_13_240813.png)
+![gamebase_coupon_13](./image/gamebase_coupon_13_240813.png)
 <!-- LLM_Image_DESC_20260407
     유형: Screenshot
     내용: gamebase_coupon_13
