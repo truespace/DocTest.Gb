@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2019. 06. 13."
 order: 55
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Analytics, iOS, Release Notes, 2.4.1
 ---
 

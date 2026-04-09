@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2017. 08. 24."
 order: 91
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Push, iOS, Release Notes, 1.1.6
 ---
 

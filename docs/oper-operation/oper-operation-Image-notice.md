@@ -3,14 +3,14 @@ source: oper-operation.md
 section: "Image notice"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, WebView, ImageNotice, Android
 ---
 
 ## Image notice
 
 ![gamebase_op_img](./image/gamebase_maintenance_08_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -36,7 +36,7 @@ keyword: Console, WebView, ImageNotice, Android
 - **클릭률(%)**: 게임 내에 이미지 공지가 표시된 숫자와 이미지 공지를 실제 클릭한 숫자를 간단한 통계로 보여줍니다. 전체 비율에 대한 값을 표시해 주며 확인 버튼을 클릭하면 노출 기간 동안의 일별 노출 수와 클릭 수를 그래프를 통해 확인할 수 있습니다.
 	* 공지의 노출 기간 범위 내 사용자가 검색해 조회한 일자별 데이터는 파일로 다운로드하여 확인하실 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_09_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -53,7 +53,7 @@ keyword: Console, WebView, ImageNotice, Android
 
 **이미지 공지** 목록에서 **등록** 버튼을 선택하면 이미지 공지를 등록할 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_250415.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -69,7 +69,7 @@ keyword: Console, WebView, ImageNotice, Android
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 노출을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -129,7 +129,7 @@ keyword: Console, WebView, ImageNotice, Android
 
 ### Modify Image notice setting
 ![gamebase_op_img](./image/gamebase_maintenance_10_ko_240709.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면

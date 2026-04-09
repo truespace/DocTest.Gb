@@ -3,7 +3,7 @@ source: console-for-aws.md
 section: "프로젝트 관리"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, For, Aws
 ---
 
@@ -19,14 +19,14 @@ Gamebase는 프로젝트 단위로 이용하여, 이에 따라 과금합니다.
 * 프로젝트 생성 후 협업이 필요한 경우 프로젝트 멤버로 일반 회원을 추가할 수 있습니다.
 
 ![Gamebase-for-aws_project-create](./image/console_Gamebase-for-aws_project-01-202108.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase for AWS 콘솔 프로젝트 생성 화면
     구성: Gamebase for AWS 콘솔의 프로젝트 생성 기능 설정/조회 화면 스크린샷
     Keyword: AWS Console, Console, Screenshot, 프로젝트 생성
 -->
 ![Gamebase-for-aws_project-create](./image/console_Gamebase-for-aws_project-02-202108.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase for AWS 콘솔 프로젝트 생성 화면
     구성: Gamebase for AWS 콘솔의 프로젝트 생성 기능 설정/조회 화면 스크린샷

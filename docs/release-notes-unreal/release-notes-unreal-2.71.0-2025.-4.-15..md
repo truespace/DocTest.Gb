@@ -3,7 +3,7 @@ source: release-notes-unreal.md
 section: "2.71.0 (2025. 4. 15.)"
 order: 12
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Purchase, Authentication, Android, iOS, Release Notes, 2.71.0
 ---
 

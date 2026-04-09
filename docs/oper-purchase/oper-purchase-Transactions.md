@@ -3,7 +3,7 @@ source: oper-purchase.md
 section: "Transactions"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Consume, Error
 ---
 
@@ -45,7 +45,7 @@ keyword: Console, Purchase, Consume, Error
 
 ### 결제 내역 조회
 ![purchase_09](./image/purchase_09_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 내역 조회 화면 #09
     구성: Gamebase 결제 콘솔의 결제 내역 조회 기능 설정/조회 화면 스크린샷
@@ -65,7 +65,7 @@ keyword: Console, Purchase, Consume, Error
 
 ##### (1) 일반 검색
 ![purchase_10](./image/purchase_10_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 Search conditions 화면 #10
     구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
@@ -83,7 +83,7 @@ keyword: Console, Purchase, Consume, Error
 
 ##### (2) Trnasaction ID 검색
 ![purchase_11](./image/purchase_11_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 Search conditions 화면 #11
     구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
@@ -94,7 +94,7 @@ keyword: Console, Purchase, Consume, Error
 
 ##### (3) 영수증 검색
 ![purchase_12](./image/purchase_12_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 Search conditions 화면 #12
     구성: Gamebase 결제 콘솔의 Search conditions 기능 설정/조회 화면 스크린샷
@@ -107,7 +107,7 @@ keyword: Console, Purchase, Consume, Error
 검색 결과 항목은 아래와 같습니다.
 
 ![purchase_13](./image/purchase_13_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #13
     구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -150,7 +150,7 @@ keyword: Console, Purchase, Consume, Error
 
 ###### Success 변경
 ![purchase_14](./image/purchase_14_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #14
     구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -160,7 +160,7 @@ keyword: Console, Purchase, Consume, Error
 
 ###### Refund 변경
 ![purchase_15](./image/purchase_15_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #15
     구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -172,7 +172,7 @@ keyword: Console, Purchase, Consume, Error
 
 ##### 영수증 검증
 ![purchase_16](./image/purchase_16_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #16
     구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -187,7 +187,7 @@ keyword: Console, Purchase, Consume, Error
 ##### 결제 이력 조회
 검색한 결제 정보의 Transaction ID를 클릭해서 결제 이력을 조회할 수 있습니다.
 ![purchase_17](./image/purchase_17_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [전체] 검색 결과 화면 #17
     구성: Gamebase 결제 콘솔의 [전체] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -202,7 +202,7 @@ keyword: Console, Purchase, Consume, Error
 검색 결과 항목은 아래와 같습니다.
 
 ![purchase_18](./image/purchase_18_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [상품 정보 미등록 결제] 검색 결과 화면 #18
     구성: Gamebase 결제 콘솔의 [상품 정보 미등록 결제] 검색 결과 기능 설정/조회 화면 스크린샷
@@ -224,7 +224,7 @@ keyword: Console, Purchase, Consume, Error
 
 ##### 상품 ID 등록
 ![purchase_19](./image/purchase_19_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 [상품 정보 미등록 결제] 검색 결과 화면 #19
     구성: Gamebase 결제 콘솔의 [상품 정보 미등록 결제] 검색 결과 기능 설정/조회 화면 스크린샷

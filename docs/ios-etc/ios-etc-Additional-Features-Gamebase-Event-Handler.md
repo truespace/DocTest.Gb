@@ -3,7 +3,7 @@ source: ios-etc.md
 section: "Additional Features > Gamebase Event Handler"
 order: 5
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Logout, Withdraw, Purchase, Push, Console
 ---
 

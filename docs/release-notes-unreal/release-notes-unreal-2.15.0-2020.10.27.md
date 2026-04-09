@@ -3,7 +3,7 @@ source: release-notes-unreal.md
 section: "2.15.0 (2020.10.27)"
 order: 44
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Purchase, Push, Alert, ImageNotice, Error, ShowImageNotices, Android, iOS, Release Notes
 ---
 

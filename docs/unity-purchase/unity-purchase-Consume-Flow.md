@@ -3,7 +3,7 @@ source: unity-purchase.md
 section: "Consume Flow"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Purchase, Consume
 ---
 
@@ -17,7 +17,7 @@ keyword: Unity, Purchase, Consume
 >
 
 ![consume flow](./image/purchase_flow_002_2.64.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Sequence Diagram
     내용: 결제 처리 흐름도 (v2)
     구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스 (갱신된 버전)

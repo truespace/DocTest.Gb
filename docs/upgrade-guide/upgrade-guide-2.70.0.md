@@ -3,7 +3,7 @@ source: upgrade-guide.md
 section: "2.70.0"
 order: 8
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Login, Purchase, Gradle, Java, Android, Unity, Upgrade Guide, 2.70.0
 ---
 

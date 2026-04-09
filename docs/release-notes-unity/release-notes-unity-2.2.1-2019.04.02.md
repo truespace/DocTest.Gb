@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.2.1 (2019.04.02)"
 order: 109
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Error, Android, Release Notes, 2.2.1
 ---
 

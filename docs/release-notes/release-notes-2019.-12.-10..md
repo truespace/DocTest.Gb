@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2019. 12. 10."
 order: 39
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Mapping, Analytics, Android, iOS, Release Notes, 2.6.1
 ---
 

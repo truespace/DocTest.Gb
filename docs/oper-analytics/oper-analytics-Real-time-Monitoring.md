@@ -3,7 +3,7 @@ source: oper-analytics.md
 section: "Real-time Monitoring"
 order: 1
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, Purchase, Push, Analytics
 ---
 
@@ -21,11 +21,11 @@ Analytics는 다음의 메뉴로 구성되어 있습니다.
 ## Real-time Monitoring
 ### Concurrent User
 ![analytics_01](./image/analytics_01_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 Concurrent User 화면 #01
-    구성: Gamebase Analytics 콘솔의 Concurrent User 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, Concurrent User
+    내용: Gamebase Analytics 콘솔의 실시간 동접(CCU) 모니터링 화면
+    구성: 상단에 날짜 선택 및 필터 옵션이 있고, 중앙에 시간대별 CCU 변화를 보여주는 라인 그래프(동시 접속자, 결제금액, 신규 가입자 지표 포함)가 표시됨. 하단에는 점검 정보와 푸시 정보 섹션이 테이블 형태로 나열됨
+    Keyword: Analytics, Console, Screenshot, Concurrent User, CCU, 실시간 모니터링
 -->
 
 현재 앱 이용자의 실시간 동접 지표 및 점검, 푸시 정보를 확인할 수 있습니다.
@@ -46,11 +46,11 @@ Analytics는 다음의 메뉴로 구성되어 있습니다.
 
 ### Dashboard
 ![analytics_02](./image/analytics_02_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 Dashboard 화면 #02
-    구성: Gamebase Analytics 콘솔의 Dashboard 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, Dashboard
+    내용: Gamebase Analytics 콘솔의 실시간 Dashboard 화면
+    구성: 상단에 실시간 이용자 현황 KPI 카드(CCU, MCU, NRU, DAU, 결제금액, PU 등)가 나열되고, 중단에 주요 지표 실시간 변화를 보여주는 바 차트와 라인 그래프 4개(CCU, NRU, 결제금액, PU)가 배치됨. 하단에는 OS 점유율, APP 버전 점유율, Store 점유율, 국가별 점유율을 보여주는 4개의 도넛/파이 차트가 표시됨
+    Keyword: Analytics, Console, Screenshot, Dashboard, CCU, DAU, PU, 점유율
 -->
 
 실시간 이용자 현황에 대한 여러 지표를 한눈에 확인할 수 있습니다.

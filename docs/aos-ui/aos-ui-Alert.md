@@ -3,7 +3,7 @@ source: aos-ui.md
 section: "Alert"
 order: 6
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Alert, Aos
 ---
 
@@ -22,7 +22,7 @@ keyword: Android, Alert, Aos
 ```
 
 ![Alert Dialog Example](./image/aos-developers-guide-ui-002_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Simple Alert Dialog)
     구성: SDK 설정/사용 가이드 관련 스크린샷

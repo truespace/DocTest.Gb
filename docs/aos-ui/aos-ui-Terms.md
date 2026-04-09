@@ -3,7 +3,7 @@ source: aos-ui.md
 section: "Terms"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Push, WebView, Initialize, Terms, ShowTermsView, RegisterPush, Console
 ---
 
@@ -12,11 +12,11 @@ keyword: Android, Login, Push, WebView, Initialize, Terms, ShowTermsView, Regist
 Gamebase 콘솔에 설정한 약관을 표시합니다.
 
 ![TermsView Example](./image/termsView-guide-ui-001_2.20.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 약관 동의 팝업 화면
-    구성: Gamebase Sample App 위에 표시된 약관 동의 팝업으로, '이용약관 및 개인정보 관련 동의' 전체 체크, 하위 항목으로 '게임 이용약관', '게임 정보 수집/이용', '광고성 알림 수신(선택)', '광고성 야간(21:00~08:00) 알림 수신(선택)' 체크박스와 각 항목별 '보기' 링크, '위 내용에 모두 동의합니다' 체크박스, 빨간색 '확인' 버튼으로 구성
-    Keyword: Screenshot, Terms
+    내용: Gamebase Sample App 약관 동의 팝업 화면
+    구성: 모바일 앱 화면 위에 약관 동의 다이얼로그가 오버레이로 표시된 스크린샷. 다이얼로그에는 '이용약관 및 개인정보 관련 동의' 제목 아래 게임 이용약관, 게임 정보 수집/이용, 광고성 알림 수신(선택), 광고성 야간 알림 수신(선택) 체크박스 항목과 각 항목별 '보기' 링크, '위 내용에 모두 동의합니다' 전체 동의 체크박스, 빨간색 '확인' 버튼이 포함됨
+    Keyword: Screenshot, Terms, 약관 동의, 팝업
 -->
 
 showTermsView API 는 웹뷰로 약관 창을 표시해줍니다.

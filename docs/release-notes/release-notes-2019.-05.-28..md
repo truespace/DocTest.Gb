@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2019. 05. 28."
 order: 56
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Login, Purchase, Authentication, Android, iOS, Release Notes, 2.4.0
 ---
 

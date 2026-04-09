@@ -3,7 +3,7 @@ source: unreal-authentication.md
 section: "Mapping"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Login, Logout, Mapping, Withdraw, Authentication
 ---
 
@@ -40,7 +40,7 @@ keyword: Unreal, Login, Logout, Mapping, Withdraw, Authentication
 매핑은 다음 순서로 구현할 수 있습니다.
 
 ![add mapping flow](./image/auth_add_mapping_flow_2.30.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: 계정 매핑 추가 흐름도
     구성: 기존 계정에 새로운 IdP를 매핑하는 처리 흐름을 나타내는 순서도

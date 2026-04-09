@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.65.0 (2024. 06. 11.)"
 order: 19
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, ImageNotice, Release Notes, 2.65.0
 ---
 

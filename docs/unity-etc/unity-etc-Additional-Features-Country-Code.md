@@ -3,7 +3,7 @@ source: unity-etc.md
 section: "Additional Features > Country Code"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Etc, Additional
 ---
 
@@ -55,7 +55,7 @@ static string GetCountryCodeOfDevice()
 	3. USIM, 단말기 국가 코드가 모두 빈 값이라면 'ZZ' 를 반환합니다.
 
 ![observer](./image/get_country_code_001_1.14.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Intergrated Country Code 관련 화면
     구성: Intergrated Country Code 관련 스크린샷

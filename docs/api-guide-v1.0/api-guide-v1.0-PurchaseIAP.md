@@ -3,7 +3,7 @@ source: api-guide-v1.0.md
 section: "Purchase(IAP)"
 order: 7
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Server API, Purchase, Consume
 ---
 

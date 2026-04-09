@@ -3,7 +3,7 @@ source: ios-push.md
 section: "Query Token Info"
 order: 5
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_200322
 keyword: iOS, Push, Alert
 ---
 
@@ -11,6 +11,11 @@ keyword: iOS, Push, Alert
 
 사용자의 푸시 설정을 조회하기 위해 다음 API를 이용합니다.
 콜백으로 오는 TCGBPushTokenInfo 값으로 등록한 푸시 정보를 얻을 수 있습니다.
+
+문서 업데이트 내용 추가
+아무런 말이나 추가함.
+이게 제대로 나오는지 확인이 필요함.
+대상 문서만 업데이트되는지도 확인 필요함.
 
 ```objectivec
 - (void)didLoginSucceeded {

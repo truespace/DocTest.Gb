@@ -3,7 +3,7 @@ source: oper-management.md
 section: "Config"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Oper, Management
 ---
 
@@ -12,7 +12,7 @@ keyword: Console, Oper, Management
 Gamebase와 NHN Cloud 서비스의 연동 관련 설정을 할 수 있습니다.
 
 ![management_08](./image/management_08_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 관리 콘솔 Config 화면 #08
     구성: Gamebase 관리 콘솔의 Config 기능 설정/조회 화면 스크린샷

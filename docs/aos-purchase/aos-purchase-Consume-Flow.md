@@ -3,7 +3,7 @@ source: aos-purchase.md
 section: "Consume Flow"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Purchase, Consume
 ---
 
@@ -17,10 +17,10 @@ keyword: Android, Purchase, Consume
 >
 
 ![consume flow](./image/purchase_flow_002_2.64.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Sequence Diagram
-    내용: 미소비 결제 아이템 Consume(소비) 처리 흐름도
-    구성: GameClient, GameServer, GamebaseServer 간의 소비 요청 시퀀스. 1) GameClient가 GameServer에 consume 요청(UserID, paymentSeq, purchaseToken), 2) GameServer가 GameDB에서 중복 지급 확인, 2-1) purchaseToken 검증, 2-2) gamebaseProductId 확인, 2-3) 아이템 지급, 2-4) DB 저장, 3) GamebaseServer에 consume API 호출하여 완료 처리. purchaseToken 무효 및 이미 지급된 케이스 분기 포함
+    내용: Consume Flow 아이템 소비 처리 시퀀스 다이어그램
+    구성: GameClient, GameServer, GamebaseServer 3개 참여자 간의 시퀀스로, 1. consume 요청(UserID, paymentSeq, purchaseToken), 2. GameDB 중복 지급 확인, 2-1. purchaseToken 검증, 2-2. gamebaseProductId 획득, 2-3. 아이템 지급, 2-4. DB 저장, PurchaseToken 유효/무효 및 이미 지급 완료 분기 처리, 3. Gamebase 서버 consume API 호출로 소비 완료
     Keyword: Sequence Diagram, Consume Flow
 -->
 

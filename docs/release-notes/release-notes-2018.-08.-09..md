@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2018. 08. 09."
 order: 71
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Login, Mapping, Purchase, Alert, Authentication, Android, iOS, Release Notes, 1.12.1
 ---
 

@@ -184,6 +184,12 @@ Push 메뉴의 **대상**에서 **iOS Sandbox**를 선택한 후 발송합니다
 사용자의 푸시 설정을 조회하기 위해 다음 API를 이용합니다.
 콜백으로 오는 TCGBPushTokenInfo 값으로 등록한 푸시 정보를 얻을 수 있습니다.
 
+문서 업데이트 내용 추가
+아무런 말이나 추가함.
+이게 제대로 나오는지 확인이 필요함.
+대상 문서만 업데이트되는지도 확인 필요함.
+
+
 ```objectivec
 - (void)didLoginSucceeded {
     [TCGBPush queryTokenInfoWithCompletion:^(TCGBPushTokenInfo *tokenInfo, TCGBError *error) {
@@ -267,3 +273,8 @@ NSLog(@"TCGBError: %@", [tcgbError description]);
 | NHNCloudPushErrorParameterInvalid |  매개변수 오류 |
 | NHNCloudPushErrorNotSupported |      지원하지 않는 기능 |
 | NHNCloudPushErrorClientFailed |      서버 오류 |
+
+
+
+### 서버 푸시 제공자
+- 서버 푸시를 사용하기 위해서는 설정이 필요함.

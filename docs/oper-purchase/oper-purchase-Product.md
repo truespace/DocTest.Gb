@@ -3,7 +3,7 @@ source: oper-purchase.md
 section: "Product"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Oper
 ---
 
@@ -17,7 +17,7 @@ keyword: Console, Purchase, Oper
 - (3) **스토어 아이템 상태 변경** : 하나의 스토어 아이템 ID로 등록된 상품들의 사용 여부를 한번에 변경할 수 있습니다.
 
 ![purchase_05](./image/purchase_05_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 Product 화면 #05
     구성: Gamebase 결제 콘솔의 Product 기능 설정/조회 화면 스크린샷
@@ -29,7 +29,7 @@ keyword: Console, Purchase, Oper
 새로운 상품을 등록하려면 **상품 목록** 화면의 **등록** 버튼을 클릭합니다.
 #### 1. 직접 입력을 이용한 등록 방법
 ![purchase_06](./image/purchase_06_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 1. 직접 입력을 이용한 등록 방법 화면 #06
     구성: Gamebase 결제 콘솔의 1. 직접 입력을 이용한 등록 방법 기능 설정/조회 화면 스크린샷
@@ -46,7 +46,7 @@ keyword: Console, Purchase, Oper
 
 #### 2. 파일 업로드를 이용한 등록 방법
 ![purchase_07](./image/purchase_07_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 2. 파일 업로드를 이용한 등록 방법 화면 #07
     구성: Gamebase 결제 콘솔의 2. 파일 업로드를 이용한 등록 방법 기능 설정/조회 화면 스크린샷
@@ -64,7 +64,7 @@ keyword: Console, Purchase, Oper
 
 조회 목록에서 등록된 상품의 상세 정보를 조회하거나 정보를 변경할 수 있습니다.
 ![purchase_08](./image/purchase_08_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 Modify 화면 #08
     구성: Gamebase 결제 콘솔의 Modify 기능 설정/조회 화면 스크린샷

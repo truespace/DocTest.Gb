@@ -3,7 +3,7 @@ source: oper-app.md
 section: "Installed URL"
 order: 5
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Android, iOS
 ---
 
@@ -12,7 +12,7 @@ keyword: Console, Android, iOS
 게임을 설치하기 위한 스토어 URL 정보를 관리합니다.
 
 ![gamebase_installed_url_01_ko_240105](./image/gamebase_installed_url_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 앱 설정 콘솔 Installed URL 화면 #01
     구성: Gamebase 앱 설정 콘솔의 Installed URL 기능 설정/조회 화면 스크린샷
@@ -36,7 +36,7 @@ _[예시3] PC에서 설치 URL을 입력한 경우_
 입력된 설치 URL 정보를 변경하려면 **수정** 버튼을 클릭합니다.
 
 ![gamebase_installed_url_02_ko_240105](./image/gamebase_installed_url_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 앱 설정 콘솔 Properties 화면 #02
     구성: Gamebase 앱 설정 콘솔의 Properties 기능 설정/조회 화면 스크린샷

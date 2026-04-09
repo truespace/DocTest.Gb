@@ -3,18 +3,18 @@ source: oper-analytics.md
 section: "Sales Statistics"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, Purchase
 ---
 
 ## Sales Statistics
 ### Payment Amount
 ![analytics_10](./image/analytics_10_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 Payment Amount 화면 #10
-    구성: Gamebase Analytics 콘솔의 Payment Amount 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, Payment Amount
+    내용: Gamebase Analytics 콘솔의 결제 금액(Payment Amount) 조회 화면
+    구성: 상단에 조회 기간 설정 및 필터 옵션이 있고, 중앙에 결제 금액 현황 표(총 결제금액, 국가별 금액)와 매출 추이를 보여주는 바 차트(신규 매출/재구매 매출)와 라인 그래프(PU)가 표시됨. 하단에 스토어/국가/IdP별 매출 상세 데이터 테이블이 나열됨
+    Keyword: Analytics, Console, Screenshot, Payment Amount, 결제금액, 매출 추이
 -->
 
 결제 금액에 대한 지표를 확인할 수 있습니다.
@@ -30,11 +30,11 @@ keyword: Console, Login, Purchase
 
 ### Paying User
 ![analytics_11](./image/analytics_11_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 Paying User 화면 #11
-    구성: Gamebase Analytics 콘솔의 Paying User 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, Paying User
+    내용: Gamebase Analytics 콘솔의 유료 이용자(Paying User) 조회 화면
+    구성: 상단에 조회 기간 및 필터가 있고, 좌측에 PU/NPU/재구매PU를 보여주는 바 차트, 우측에 ARPPU 추이 라인 그래프가 표시됨. 하단에 일자별 결제금액, DAU, PU, NPU, PUR, ARPU, ARPPU 등 상세 지표가 테이블로 나열됨
+    Keyword: Analytics, Console, Screenshot, Paying User, PU, ARPPU, NPU
 -->
 
 유료 이용자(PU)에 관한 지표를 확인할 수 있습니다.
@@ -54,11 +54,11 @@ keyword: Console, Login, Purchase
 
 ### Item Sales
 ![analytics_12](./image/analytics_12_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 Item Sales 화면 #12
-    구성: Gamebase Analytics 콘솔의 Item Sales 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, Item Sales
+    내용: Gamebase Analytics 콘솔의 아이템 매출(Item Sales) 조회 화면
+    구성: 상단에 조회 기간 및 필터가 있고, 좌측에 Best Item Top 10 테이블(아이템명, 스토어, 결제금액, 결제건수, PU, 결제비율), 우측에 스토어별 결제 비율을 보여주는 도넛 차트가 표시됨. 하단에 스토어별 아이템 상세 매출 데이터 테이블이 나열됨
+    Keyword: Analytics, Console, Screenshot, Item Sales, 아이템 매출, 도넛 차트
 -->
 
 등록된 아이템의 판매 지표를 확인할 수 있습니다.
@@ -73,11 +73,11 @@ keyword: Console, Login, Purchase
 
 ### First Purchase
 ![analytics_13](./image/analytics_13_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase Analytics 콘솔 First Purchase 화면 #13
-    구성: Gamebase Analytics 콘솔의 First Purchase 기능 설정/조회 화면 스크린샷
-    Keyword: Analytics, Console, Screenshot, First Purchase
+    내용: Gamebase Analytics 콘솔의 첫 구매(First Purchase) 조회 화면
+    구성: 상단에 조회 기간 및 필터가 있고, 중앙에 신규 유료 이용자의 가입 후 첫 구매까지 소요 기간을 D+0일부터 D+90일 경과까지 보여주는 테이블이 표시됨. 하단에 신규 PU가 구매한 아이템 목록(아이템명, 스토어, NPU, 결제금액)이 테이블로 나열됨
+    Keyword: Analytics, Console, Screenshot, First Purchase, NPU, 첫 구매
 -->
 
 신규 유료 이용자의 첫 구매에 관한 정보를 확인할 수 있습니다.

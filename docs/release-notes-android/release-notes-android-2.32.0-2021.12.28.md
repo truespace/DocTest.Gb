@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.32.0 (2021.12.28)"
 order: 64
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Logout, Push, WebView, Release Notes, 2.32.0
 ---
 

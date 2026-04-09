@@ -3,7 +3,7 @@ source: console-huawei-guide.md
 source_size_bytes: 4140
 source_char_count: 2900
 split_count: 0
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # console-huawei-guide

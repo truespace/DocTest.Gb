@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2019. 07. 11."
 order: 51
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Analytics, Authentication, Error, RequestRetryTransaction, iOS, Unity, Release Notes, 2.4.3
 ---
 

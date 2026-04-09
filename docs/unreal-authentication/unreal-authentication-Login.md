@@ -3,7 +3,7 @@ source: unreal-authentication.md
 section: "Login"
 order: 1
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Login, Logout, Initialize, Authentication, Error, LoginForLastLoggedInProvider, Console
 ---
 
@@ -28,14 +28,14 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.<br/>
 위에서 설명한 로직은 다음과 같은 순서로 구현할 수 있습니다.
 
 ![last provider login flow](./image/login_for_last_logged_in_provider_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: 최근 로그인 Provider 자동 로그인 흐름도
     구성: 마지막으로 로그인한 Provider 정보를 이용한 자동 로그인 처리 흐름
     Keyword: Flowchart, Login Flow
 -->
 ![idp login flow](./image/idp_login_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: IdP 로그인 처리 흐름도
     구성: Gamebase SDK의 IdP 로그인 요청부터 인증 결과 반환까지의 처리 흐름을 나타내는 순서도

@@ -3,7 +3,7 @@ source: aos-authentication.md
 section: "Login"
 order: 1
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Logout, Purchase, Initialize, Authentication, LoginForLastLoggedInProvider, Gradle, Console
 ---
 
@@ -28,18 +28,18 @@ Gamebase에서는 게스트 로그인을 기본으로 지원합니다.
 위에서 설명한 로직은 다음과 같은 순서로 구현할 수 있습니다.
 
 ![last provider login flow](./image/login_for_last_logged_in_provider_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: Login For LastLoggedInProvider Flow 흐름도
-    구성: 마지막으로 로그인한 Provider로 자동 로그인을 시도하는 흐름도. Start에서 시작하여 loginForLastLoggedInProvider 호출, 성공 시 게임 진입, 실패 시 SOCKET_ERROR/SOCKET_RESPONSE_TIMEOUT 여부 확인(재시도), BANNED_MEMBER 여부 확인(이용 정지 팝업), 그 외 오류 시 IdP Login Flow로 이동하는 분기 포함
-    Keyword: Flowchart, Login Flow
+    구성: loginForLastLoggedInProvider 호출 후 마지막 로그인 Provider 존재 여부 확인, SOCKET_ERROR/SOCKET_RESPONSE_TIMEOUT 발생 시 재시도, BANNED_MEMBER 판별, 성공/실패 분기를 포함한 자동 로그인 처리 순서도
+    Keyword: Flowchart, Login Flow, LastLoggedInProvider
 -->
 ![idp login flow](./image/idp_login_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: IDP Login Flow 흐름도
-    구성: 지정된 IdP로 로그인하는 흐름도. loginForLastLoggedInProvider 실패 후 시작하여, IdP 유형 선택 및 login(IdP) 호출, 성공 시 게임 진입, 실패 시 SOCKET_ERROR/SOCKET_RESPONSE_TIMEOUT 여부 확인(재시도), BANNED_MEMBER 여부 확인(이용 정지 안내 후 게임 플레이 불가), 그 외 오류 시 타이틀 화면으로 복귀하는 분기 포함
-    Keyword: Flowchart, Login Flow
+    구성: loginForLastLoggedInProvider 실패 후 IdP 선택, login(IdP) 호출, SOCKET_ERROR/SOCKET_RESPONSE_TIMEOUT 재시도, BANNED_MEMBER 판별, 성공 시 게임 진입 또는 실패 시 타이틀 화면 복귀 분기를 나타내는 순서도
+    Keyword: Flowchart, Login Flow, IdP
 -->
 
 #### 1. 이전 로그인 유형으로 인증

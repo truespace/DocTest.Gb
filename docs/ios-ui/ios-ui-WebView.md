@@ -3,7 +3,7 @@ source: ios-ui.md
 section: "WebView"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, WebView
 ---
 
@@ -41,7 +41,7 @@ Gamebase에서는 기본적인 웹뷰를 지원합니다.<br/>
 ```
 
 ![Webview Example](./image/aos-developers-guide-ui-001_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Show WebView)
     구성: SDK 설정/사용 가이드 관련 스크린샷

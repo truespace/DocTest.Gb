@@ -3,7 +3,7 @@ source: aos-purchase.md
 source_size_bytes: 30785
 source_char_count: 23345
 split_count: 11
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # aos-purchase

@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.45.0 (2022. 12. 27.)"
 order: 45
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Purchase, Consume, RequestItemListOfNotConsumed, Android, iOS, Release Notes, 2.45.0
 ---
 

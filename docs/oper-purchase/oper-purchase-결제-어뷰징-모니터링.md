@@ -3,7 +3,7 @@ source: oper-purchase.md
 section: "결제 어뷰징 모니터링"
 order: 5
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Withdraw, Purchase, GraceBan
 ---
 
@@ -14,7 +14,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 ### 환불 이력 조회
 
 ![purchase_20](./image/purchase_20_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 환불 이력 조회 화면 #20
     구성: Gamebase 결제 콘솔의 환불 이력 조회 기능 설정/조회 화면 스크린샷
@@ -47,7 +47,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 
 #### 상태 변경
 ![purchase_21](./image/purchase_21_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 상태 변경 화면 #21
     구성: Gamebase 결제 콘솔의 상태 변경 기능 설정/조회 화면 스크린샷
@@ -67,7 +67,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 검색된 목록에서 유저 ID를 클릭하면 검색 기간의 결제 상세 내역을 조회할 수 있습니다.
 
 ![ipurchase_22](./image/purchase_22_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 내역 확인 화면 #22
     구성: Gamebase 결제 콘솔의 결제 내역 확인 기능 설정/조회 화면 스크린샷
@@ -88,7 +88,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 ### 결제 어뷰징 자동 해제 이력 조회
 
 ![purchase_23](./image/purchase_23_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 어뷰징 자동 해제 이력 조회 화면 #23
     구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 해제 이력 조회 기능 설정/조회 화면 스크린샷
@@ -118,7 +118,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 (단, 결제 내역이 없는 유저는 비활성화됩니다.)
 
 ![purchase_24](./image/purchase_24_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 내역 확인 화면 #24
     구성: Gamebase 결제 콘솔의 결제 내역 확인 기능 설정/조회 화면 스크린샷
@@ -138,7 +138,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 자동 제재 설정을 사용하려면 **사용** 버튼을 클릭해 설정 값을 입력합니다.
 
 ![purchase_25](./image/purchase_25_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 어뷰징 자동 제재 설정 화면 #25
     구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 제재 설정 기능 설정/조회 화면 스크린샷
@@ -148,7 +148,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 #### 설정 정보
 
 ![purchase_26](./image/purchase_26_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 설정 정보 화면 #26
     구성: Gamebase 결제 콘솔의 설정 정보 기능 설정/조회 화면 스크린샷
@@ -174,7 +174,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 자동 해제 설정을 활성화하기 위해서는 자동 제재 설정이 반드시 <font color="red">활성화</font>되어야 합니다.
 
 ![purchase_27](./image/purchase_27_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 결제 어뷰징 자동 해제 설정 화면 #27
     구성: Gamebase 결제 콘솔의 결제 어뷰징 자동 해제 설정 기능 설정/조회 화면 스크린샷
@@ -184,7 +184,7 @@ keyword: Console, Withdraw, Purchase, GraceBan
 #### 설정 정보
 
 ![purchase_28](./image/purchase_28_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 설정 정보 화면 #28
     구성: Gamebase 결제 콘솔의 설정 정보 기능 설정/조회 화면 스크린샷

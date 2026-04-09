@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.36.0 (2022. 04. 12.)"
 order: 58
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Purchase, Release Notes, 2.36.0
 ---
 

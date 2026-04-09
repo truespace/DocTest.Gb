@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.52.0 (2023. 06. 27.)"
 order: 39
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Push, Alert, Terms, Error, Release Notes, 2.52.0
 ---
 

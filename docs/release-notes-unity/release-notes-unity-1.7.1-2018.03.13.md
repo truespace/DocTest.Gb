@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "1.7.1 (2018.03.13)"
 order: 125
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Authentication, Release Notes, 1.7.1
 ---
 

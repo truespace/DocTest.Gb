@@ -3,7 +3,7 @@ source: aos-ui.md
 section: "WebView"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, WebView
 ---
 
@@ -44,11 +44,11 @@ Gamebase.WebView.showWebView(activity, "https://www.toast.com");
 ```
 
 ![Webview Example](./image/aos-developers-guide-ui-001_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase WebView 표시 예시 화면
-    구성: Android 모바일 기기에서 Gamebase WebView로 NHN Cloud 웹사이트를 표시한 스크린샷. 상단에 NHN Cloud 내비게이션 바가 있고, 본문에 'Features of NHN Cloud' 제목과 함께 Composed of Various Services, Platform-oriented Cloud, Reasonable prices, Powerful Technology Support 항목이 나열된 웹 페이지 콘텐츠를 보여줌
-    Keyword: Android, Screenshot, WebView
+    내용: Gamebase WebView로 NHN Cloud 웹페이지를 표시한 모바일 화면
+    구성: Android 모바일 기기에서 Gamebase WebView를 통해 NHN Cloud 웹사이트(Features of NHN Cloud)를 로드한 스크린샷. 상단에 'NHN Cloud' 타이틀 바와 닫기 버튼이 있으며, 본문에 Composed of Various Services, Platform-oriented Cloud, Reasonable prices, Powerful Technology Support 등의 섹션이 표시됨
+    Keyword: Android, Screenshot, WebView, NHN Cloud
 -->
 
 #### Custom WebView

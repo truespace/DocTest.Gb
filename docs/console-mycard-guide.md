@@ -3,7 +3,7 @@ source: console-mycard-guide.md
 source_size_bytes: 1118
 source_char_count: 664
 split_count: 0
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # console-mycard-guide

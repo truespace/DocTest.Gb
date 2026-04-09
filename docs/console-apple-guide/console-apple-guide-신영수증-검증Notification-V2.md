@@ -3,7 +3,7 @@ source: console-apple-guide.md
 section: "(신)영수증 검증+Notification V2"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Alert
 ---
 

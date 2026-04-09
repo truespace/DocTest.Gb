@@ -3,7 +3,7 @@ source: oper-customer-service.md
 section: "Inquiry"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, Push, Alert, Contact
 ---
 
@@ -16,11 +16,11 @@ keyword: Console, Login, Push, Alert, Contact
 검색 조건에 맞는 고객 문의 내역을 검색합니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_inquiry_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 Search Inquiry 화면 #01
-    구성: Gamebase 고객센터 콘솔의 Search Inquiry 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, Search Inquiry
+    내용: Gamebase 고객센터 콘솔의 고객 문의 검색 및 목록 화면
+    구성: '고객 문의' 제목 아래 검색 조건 영역(상태, 문의 유형, 접수 기간(날짜 선택), 유저 ID, 팔레트, 문의 제목 입력 필드와 검색 버튼)이 있고, (1)문의 유형 관리, (2)답변 발송 설정 링크가 표시됨. 하단에 검색 결과 테이블(문의 유형, 문의 제목, 접수일, 처리일, 상태(접수/보류/해결/완료 색상 라벨))이 나열되며, 페이지네이션이 있음
+    Keyword: 고객센터, Console, Screenshot, Search Inquiry, 고객 문의
 -->
 
 **검색 조건**
@@ -45,11 +45,11 @@ keyword: Console, Login, Push, Alert, Contact
 
 #### 1. 문의 유형 관리
 ![gamebase_ban_01_201812](./image/gamebase_inquiry_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 1. 문의 유형 관리 화면 #02
-    구성: Gamebase 고객센터 콘솔의 1. 문의 유형 관리 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, 1. 문의 유형 관리
+    내용: Gamebase 고객센터 콘솔의 문의 유형 관리 화면
+    구성: '문의 유형 관리' 제목 아래 추가 버튼이 있고, 다국어 문의 유형 테이블이 표시됨. 테이블 컬럼은 순서(드래그 아이콘), 한국어(*), 중국어(간체), 영어, 일본어, 중국어(번체), 러시아어, 태국어, 템플릿 설정(드롭다운)이며, 각 행에 수정/삭제 버튼이 있음. 하단에 확인 버튼이 있음
+    Keyword: 고객센터, Console, Screenshot, 문의 유형 관리, 다국어
 -->
 
 유저가 문의 등록시 선택할 수 있는 접수 유형 항목을 관리할 수 있습니다.
@@ -61,11 +61,11 @@ keyword: Console, Login, Push, Alert, Contact
 
 #### 2. 답변 발송 설정
 ![gamebase_ban_01_201812](./image/gamebase_inquiry_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 2. 답변 발송 설정 화면 #03
-    구성: Gamebase 고객센터 콘솔의 2. 답변 발송 설정 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, 2. 답변 발송 설정
+    내용: Gamebase 고객센터 콘솔의 답변 발송 설정 화면
+    구성: '답변 발송 설정' 제목 아래, 좌측에 '푸시 발송' 라벨과 '기본 언어로 자동 번역' 버튼이 있고, '사용자 단말기로 푸시 메시지를 발송합니다' 체크박스가 활성화됨. 언어별(English, Japanese, Korean) 푸시 메시지 제목 및 본문 입력 필드가 나열되며, 각 언어에 대해 제목과 내용을 개별 입력 가능. 하단에 취소/저장 버튼이 있음
+    Keyword: 고객센터, Console, Screenshot, 답변 발송 설정, Push
 -->
 
 문의에 대한 처리가 완료되었을 경우 유저에게 Push 메시지를 통해 알림을 발송하고자 할 경우에 해당 기능을 설정할 수 있습니다.
@@ -78,11 +78,11 @@ keyword: Console, Login, Push, Alert, Contact
 ### Inquiry details
 
 ![gamebase_ban_01_201812](./image/gamebase_inquiry_04_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 Inquiry details 화면 #04
-    구성: Gamebase 고객센터 콘솔의 Inquiry details 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, Inquiry details
+    내용: Gamebase 고객센터 콘솔의 문의 처리(Inquiry details) 화면
+    구성: '문의 처리' 제목 아래 좌측에 문의 유저 정보(이메일, 유저 ID, 이름)와 클라이언트 버전/스토어/Gamebase SDK 버전 정보가 표시됨. '문의 처리 내역' 섹션에 문의 제목, 접수 일시, 유저가 작성한 문의 내용이 표시됨. 우측에 '처리 완료' 토글, 답변 입력란(담당자 선택 드롭다운, 템플릿 선택, 리치 텍스트 에디터), 취소/저장 버튼이 있음
+    Keyword: 고객센터, Console, Screenshot, Inquiry details, 문의 처리
 -->
 
 유저에게 인입된 문의에 대하여 상세내용 확인 및 해당 문의에 대한 처리를 진행할 수 있습니다.
@@ -95,11 +95,11 @@ keyword: Console, Login, Push, Alert, Contact
 이 때 답변 발송 항목을 통해 문의 처리 완료 시 해당 유저에게 Push알람이 전송되는지에 대한 여부를 확인할 수 있습니다.
 > [참고]
 > ![gamebase_ban_01_201812](./image/gamebase_inquiry_05_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 Inquiry details 화면 #05
-    구성: Gamebase 고객센터 콘솔의 Inquiry details 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, Inquiry details
+    내용: Gamebase 고객센터 콘솔의 문의 처리 화면 (유저 상세 정보 패널 포함)
+    구성: 문의 처리 화면과 동일한 레이아웃에 추가로 하단에 유저 상세 정보 패널이 확장됨. 유저 정보 섹션에 유저 ID, 최초 로그인 시간, 기기 정보가 표시되고, '아이디 제공자' 섹션에 IdP, IdP ID 등이 표시됨. 하단 탭(접속 이력/아이디 매핑 이력/구매 이력/문의 이력 등)에서 접속 이력 탭이 선택되어 Date, Type, OS/Ver, Device, Device Key, Device Country, USM, Telecom, Network, Language, SDK Ver 등의 상세 로그 테이블이 표시됨
+    Keyword: 고객센터, Console, Screenshot, Inquiry details, 유저 정보
 -->
 > 로그인된 유저가 문의를 등록했을 경우 해당 유저에 대한 정보가 한 화면에 조회되어 확인할 수 있습니다.
 > 우측 X 버튼을 클릭하여 창을 닫을 수 있으며, 유저 ID를 클릭 시 다시 노출됩니다.
@@ -107,11 +107,11 @@ keyword: Console, Login, Push, Alert, Contact
 
 #### 1. 답변 발송 설정
 ![gamebase_ban_01_201812](./image/gamebase_inquiry_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: Gamebase 고객센터 콘솔 1. 답변 발송 설정 화면 #03
-    구성: Gamebase 고객센터 콘솔의 1. 답변 발송 설정 기능 설정/조회 화면 스크린샷
-    Keyword: 고객센터, Console, Screenshot, 1. 답변 발송 설정
+    내용: Gamebase 고객센터 콘솔의 답변 발송 설정 화면
+    구성: '답변 발송 설정' 제목 아래, 좌측에 '푸시 발송' 라벨과 '기본 언어로 자동 번역' 버튼이 있고, '사용자 단말기로 푸시 메시지를 발송합니다' 체크박스가 활성화됨. 언어별(English, Japanese, Korean) 푸시 메시지 제목 및 본문 입력 필드가 나열되며, 각 언어에 대해 제목과 내용을 개별 입력 가능. 하단에 취소/저장 버튼이 있음
+    Keyword: 고객센터, Console, Screenshot, 답변 발송 설정, Push
 -->
 
 문의에 대한 처리가 완료되었을 경우 유저에게 Push 메시지를 통해 알림을 발송하고자 할 경우에 해당 기능을 설정할 수 있습니다.

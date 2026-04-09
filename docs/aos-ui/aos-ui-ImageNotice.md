@@ -3,7 +3,7 @@ source: aos-ui.md
 section: "ImageNotice"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, WebView, ImageNotice, Error, Console
 ---
 
@@ -12,11 +12,11 @@ keyword: Android, WebView, ImageNotice, Error, Console
 콘솔에 이미지를 등록한 후 사용자에게 공지를 띄울 수 있습니다.
 
 ![ImageNotice Example](./image/imageNotice-guide-landscape-ko_v3.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
-    내용: 이미지 공지 팝업 표시 예시 화면
-    구성: 가로 모드 이미지 공지 팝업으로, 'NHN GamePlatform - 게임 성공을 위한 하나 뿐인 맞춤 패키지' 홍보 배너가 중앙에 표시되고, 좌우 탐색 화살표와 하단에 '오늘은 그만 보기' 체크박스 및 '닫기' 버튼이 있는 UI
-    Keyword: Android, Screenshot, ImageNotice
+    내용: Gamebase ImageNotice 가로 모드 팝업 표시 예시
+    구성: 가로(landscape) 모드의 이미지 공지 팝업 화면으로, 파란색 배경 위에 'NHN GamePlatform' 프로모션 배너와 게임 관련 아이콘들이 표시되고, 좌우 화살표 네비게이션, 하단에 '오늘은 그만 보기' 체크박스와 '닫기' 버튼이 포함됨
+    Keyword: Android, Screenshot, ImageNotice, 가로 모드, 팝업
 -->
 
 ### Show ImageNotices

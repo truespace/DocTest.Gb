@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.10.1 (2020.06.09)"
 order: 97
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Push, Initialize, Release Notes, 2.10.1
 ---
 

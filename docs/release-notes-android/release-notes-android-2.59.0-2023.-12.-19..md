@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.59.0 (2023. 12. 19.)"
 order: 31
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.59.0
 ---
 

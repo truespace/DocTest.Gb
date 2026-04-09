@@ -1,7 +1,7 @@
 ---
 source: ios-started.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Purchase, Push, Authentication, Error, CocoaPods, XCode, Unity, Console
 ---
 
@@ -86,7 +86,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 압축을 풀면 다음과 같이 Gamebase.xcframework 등의 SDK를 볼 수 있습니다.
 
 ![unzip gamebase](./image/ios-developers-guide-installation-002_2.54.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -97,7 +97,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 * 1) Framework 파일을 Project의 Project Navigator로 끌어와서 import합니다. 이 때 추가된 Framework 파일들은 프로젝트 target에 추가되어야 합니다. 
 * 2) **Gamebase.bundle** 파일도 **Copy Bundle Resources**에 추가합니다.
 ![Gamebase.bundle Bundle Resources](./image/ios-developers-guide-installation-003_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -117,7 +117,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
     * AppTrackingTransparency.framework
 
 ![Link Binary With Libraries](./image/ios-developers-guide-installation-005_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -129,7 +129,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
     * 프로젝트 내부에 **빈 swift 파일** 추가 (프로젝트 내부에 swift 파일이 하나도 없을 경우)
 * 5) **Target > Build Settings > Linking > Other Linker Flags**에 **-ObjC**를 추가해야 합니다.
 ![Other Linker Flags](./image/ios-developers-guide-installation-006_1.0.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -137,7 +137,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 -->
 * 6) NaverAuthAdapter를 사용하는 경우에는 NAVER SDK에서 제공하는 **NaverThirdPartyLogin.xcframework** 파일을 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![Naver Embeded Frameworks](./image/ios-developers-guide-started-001_2.59.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -145,7 +145,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 -->
 * 7) LineAuthAdapter를 사용하는 경우에는 LINE SDK에서 제공하는 **LineSDK.xcframework** 파일을 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![LINE Embeded Frameworks](./image/ios-developers-guide-started-001_1.9.1.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -153,7 +153,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 -->
 * 8) FacebookAuthAdapter를 사용하는 경우에는 Facebook SDK를 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![Facebook Embeded Frameworks](./image/ios-developers-guide-started-001_2.65.0-facebook-embeded.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Xcode Settings)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -161,7 +161,7 @@ Gamebase.xcframework 및 필요한 Adapter들을 다운로드합니다.<br/>
 -->
 * 9) PaycoAuthAdapter를 사용하는 경우에는 PAYCO SDK를 **Target > Build Phases > Embeded Frameworks**에 추가해야 합니다.
 ![PAYCO Embeded Frameworks](./image/started-xcode-settings-payco-embeded-20241025.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Xcode Settings 관련 화면
     구성: Xcode Settings 관련 스크린샷
@@ -355,7 +355,7 @@ end
 ```
 
 ![gamebase_auth_google_console_01](./image/gamebase_auth_google_console_01.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 콘솔 설정 화면 (gamebase_auth_google_console_01)
     구성: Gamebase 콘솔의 앱 설정 관련 스크린샷
@@ -378,7 +378,7 @@ end
 ```
 
 ![gamebase_auth_naver_console_01](./image/gamebase_auth_naver_console_01.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 콘솔 설정 화면 (gamebase_auth_naver_console_01)
     구성: Gamebase 콘솔의 앱 설정 관련 스크린샷

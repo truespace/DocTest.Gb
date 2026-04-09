@@ -3,7 +3,7 @@ source: aos-etc.md
 section: "Additional Features > Contact"
 order: 6
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Contact, Error, Unity, Console
 ---
 
@@ -29,7 +29,7 @@ Gamebase에서는 고객 문의 대응을 위한 기능을 제공합니다.
 
 **Gamebase 콘솔 > App > Customer service**에서는 아래와 같이 3가지 유형의 고객 센터를 선택할 수 있습니다.
 ![](./image/etc_customer_center_001_2.16.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Customer Service Type 관련 화면
     구성: Customer Service Type 관련 스크린샷
@@ -156,14 +156,14 @@ Gamebase.Contact.requestContactURL(configuration, new GamebaseDataCallback<Strin
 
 고객 센터 유형이 'NHN Cloud 조직 상품'인 경우 '추가 파라미터' 항목의 Key에 **from**, Value에 **app**을 입력하면 파일 첨부 시 타입 선택 팝업이 표시됩니다.
 ![](./image/etc_customer_center_002_2.53.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: File Attach Type Popup 관련 화면
     구성: File Attach Type Popup 관련 스크린샷
     Keyword: Android, Screenshot, File Attach Type Popup
 -->
 ![](./image/etc_customer_center_003_2.53.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: File Attach Type Popup 관련 화면
     구성: File Attach Type Popup 관련 스크린샷

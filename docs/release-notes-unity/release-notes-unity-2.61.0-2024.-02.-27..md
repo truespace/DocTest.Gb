@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.61.0 (2024. 02. 27.)"
 order: 32
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Android, iOS, Release Notes, 2.61.0
 ---
 

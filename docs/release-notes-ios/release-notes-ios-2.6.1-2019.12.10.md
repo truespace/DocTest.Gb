@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.6.1 (2019.12.10)"
 order: 105
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Mapping, Unity, Release Notes, 2.6.1
 ---
 

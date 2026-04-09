@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.6.2 (2019.12.24)"
 order: 98
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, iOS, Unity, Release Notes, 2.6.2
 ---
 

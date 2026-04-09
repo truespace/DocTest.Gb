@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.61.0 (2024. 02. 27.)"
 order: 24
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.61.0
 ---
 

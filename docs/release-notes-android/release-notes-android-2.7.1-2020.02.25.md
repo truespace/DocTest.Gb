@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.7.1 (2020.02.25)"
 order: 96
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Release Notes, 2.7.1
 ---
 

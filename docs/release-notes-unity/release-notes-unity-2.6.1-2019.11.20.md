@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.6.1 (2019.11.20)"
 order: 96
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Initialize, Error, iOS, Release Notes, 2.6.1
 ---
 

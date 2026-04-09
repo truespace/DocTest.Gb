@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.62.0 (2024. 03. 26.)"
 order: 23
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Initialize, Authentication, XCode, Release Notes, 2.62.0
 ---
 

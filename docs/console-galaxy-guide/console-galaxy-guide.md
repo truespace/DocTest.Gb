@@ -1,7 +1,7 @@
 ---
 source: console-galaxy-guide.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Galaxy, Guide
 ---
 

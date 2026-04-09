@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.66.3 (2024. 09. 10.)"
 order: 22
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 2.66.3
 ---
 

@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2017. 12. 21."
 order: 123
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Push, Release Notes
 ---
 

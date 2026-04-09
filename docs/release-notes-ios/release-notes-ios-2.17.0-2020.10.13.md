@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.17.0 (2020.10.13)"
 order: 89
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Logout, WebView, Authentication, Release Notes, 2.17.0
 ---
 

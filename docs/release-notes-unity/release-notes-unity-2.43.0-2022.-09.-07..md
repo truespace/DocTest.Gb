@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.43.0 (2022. 09. 07.)"
 order: 48
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Login, Authentication, Android, iOS, Release Notes, 2.43.0
 ---
 

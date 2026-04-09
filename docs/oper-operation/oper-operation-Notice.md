@@ -3,14 +3,14 @@ source: oper-operation.md
 section: "Notice"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, WebView, Authentication
 ---
 
 ## Notice
 
 ![gamebase_op_img](./image/gamebase_maintenance_06_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -30,7 +30,7 @@ keyword: Console, Login, WebView, Authentication
 공지 메인화면에서 '등록'버튼을 클릭하면 공지를 등록하는 화면으로 이동합니다.
 
 ![gamebase_op_img](./image/gamebase_maintenance_07_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -46,7 +46,7 @@ keyword: Console, Login, WebView, Authentication
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 점검을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -96,7 +96,7 @@ Timezone의 경우 기본적으로 'UTC+09:00'이 선택되어 있으며, 서비
 #### 긴급 공지 팝업 예시
 **닫기**를 선택할 경우 왼쪽 이미지와 같이 '닫기(CLOSE)' 버튼만 노출되며, **닫기+자세히 보기**를 선택할 경우 오른쪽 이미지와 같이 '닫기(CLOSE)'와 '자세히 보기(SHOW DETAIL)' 버튼이 노출됩니다. 
 ![gamebase_op_img](./image/gamebase_op_08_201812.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영 콘솔 긴급 공지 팝업 예시 화면 #08
     구성: Gamebase 운영 콘솔의 긴급 공지 팝업 예시 기능 설정/조회 화면 스크린샷

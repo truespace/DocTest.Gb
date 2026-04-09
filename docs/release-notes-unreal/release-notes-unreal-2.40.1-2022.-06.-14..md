@@ -3,7 +3,7 @@ source: release-notes-unreal.md
 section: "2.40.1 (2022. 06. 14.)"
 order: 35
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, iOS, Release Notes, 2.40.1
 ---
 

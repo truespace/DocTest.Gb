@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2022. 03. 29."
 order: 36
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, Error, Release Notes
 ---
 

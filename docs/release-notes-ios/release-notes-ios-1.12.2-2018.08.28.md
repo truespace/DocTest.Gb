@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "1.12.2 (2018.08.28)"
 order: 122
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, XCode, Console, Release Notes, 1.12.2
 ---
 

@@ -1,7 +1,7 @@
 ---
 source: unity-initialization.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Login, Purchase, WebView, Initialize, Authentication, Android, Console
 ---
 
@@ -316,7 +316,7 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 
 `enablePopup`과 `enableLaunchingStatusPopup` 값이 모두 `true`인 경우, 게임이 점검 상태라면 자동으로 점검 팝업 창이 표시됩니다.
 ![](./image/maintenance_popup_android_2.30.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 1. launching 관련 화면
     구성: 1. launching 관련 스크린샷
@@ -325,7 +325,7 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 
 여기서 **자세히 보기** 버튼을 클릭하면 점검 정보가 자동으로 웹뷰로 표시됩니다.
 ![](./image/maintenance_webview_android_2.30.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 1. launching 관련 화면
     구성: 1. launching 관련 스크린샷

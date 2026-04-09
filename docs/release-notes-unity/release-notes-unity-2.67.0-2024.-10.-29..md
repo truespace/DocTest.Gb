@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.67.0 (2024. 10. 29.)"
 order: 21
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, WebView, Authentication, ImageNotice, Error, Android, iOS, Release Notes, 2.67.0
 ---
 

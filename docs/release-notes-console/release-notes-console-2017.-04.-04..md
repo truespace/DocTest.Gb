@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2017. 04. 04."
 order: 128
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, iOS, Release Notes
 ---
 

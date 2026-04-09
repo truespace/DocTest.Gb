@@ -3,18 +3,18 @@ source: Overview.md
 section: "Service Architecture"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Mapping, Console, Overview
 ---
 
 ## Service Architecture
 다음은 Gamebase 서비스 구조도와 간단한 설명입니다.
 ![논리 구성도](./image/Gamebase_overview_03_202203.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Diagram
-    내용: Gamebase 서비스 아키텍처
-    구성: Gamebase 플랫폼의 시스템 아키텍처와 연동 구조를 나타내는 다이어그램
-    Keyword: Diagram, Service Architecture
+    내용: Gamebase 서비스 아키텍처 구조도
+    구성: 게임 서버와 게임 클라이언트가 Gamebase SDK, Gamebase 서버, Gamebase 콘솔, 데이터베이스와 연동되는 구조를 나타내며, NHN Cloud 서비스(IAP, Push, LeaderBoard, AppGuard, Launching)와의 연결 관계를 보여주는 시스템 아키텍처 다이어그램
+    Keyword: Diagram, Service Architecture, Gamebase Server, NHN Cloud
 -->
 <br>
 

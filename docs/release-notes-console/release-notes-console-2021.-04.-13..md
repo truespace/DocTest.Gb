@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2021. 04. 13."
 order: 56
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Push, Release Notes
 ---
 

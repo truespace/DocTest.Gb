@@ -1,7 +1,7 @@
 ---
 source: unity-started.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Purchase, Push, Authentication, Error, Gradle, CocoaPods, Android, iOS
 ---
 
@@ -56,7 +56,7 @@ SettingTool을 이용하여 Gamebase SDK를 간편하게 설치할 수 있습니
 Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 SettingTool 기능을 사용할 수 있습니다.
 
 ![unity-developers-guide-started-settingtool-3.0.0-menu](./image/unity-developers-guide-started-settingtool-3.0.0-menu.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (SettingTool 사용)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -80,7 +80,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 2. 설치할 기능을 선택한 후, **설치하기** 버튼을 클릭하여 설치를 진행합니다.
 
 ![unity-developers-guide-started-settingtool-3.0.0-setupwizard](./image/unity-developers-guide-started-settingtool-3.0.0-setupwizard-ko.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Gamebase SDK 설치)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -99,7 +99,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 2. 우측 하단의 **최신 버전으로 업데이트** 버튼을 클릭하여 최신 SDK로 업데이트합니다.
 
 ![unity-developers-guide-started-settingtool-3.0.0-latestupdate](./image/unity-developers-guide-started-settingtool-3.0.0-latestupdate-ko.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (SDK 최신 버전 업데이트)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -114,7 +114,7 @@ Unity Editor의 상단 메뉴 바에서 **Tools > Gamebase**를 선택하여 Set
 2. 우측 하단의 **설정 적용** 버튼을 클릭하면 해당 설정으로 설치가 진행됩니다.
 
 ![unity-developers-guide-started-settingtool-3.0.0-customize](./image/unity-developers-guide-started-settingtool-3.0.0-customize-ko.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Gamebase SDK 기능 편집)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -172,7 +172,7 @@ Application Entry Point에 따라 설정하는 MainActivity가 다릅니다.
     2. Application Entry Point 설정을 확인하거나 설정합니다.
         * **Other Settings > Application Entry Point**
             * ![unity-developers-guide-started-settingtool-application-entry-point](./image/unity-developers-guide-started-settingtool-application-entry-point.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Android Activity 설정)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -227,7 +227,7 @@ Application Entry Point에 따라 설정하는 MainActivity가 다릅니다.
     * Patch mainTemplate.gradle: 활성화
     * Patch gradleTemplate.properties: 활성화
     * ![unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182](./image/unity-developers-guide-started-settingtool-edm4u-settings-android-1.2.182.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (Android EDM4U 설정)
     구성: SDK 설정/사용 가이드 관련 스크린샷
@@ -262,7 +262,7 @@ EDM4U에서 CocoaPods 설치할 수도 있습니다.
             * Unity에서 생성한 Xcode 프로젝트에서 **pod install**을 직접 호출합니다.
     * Link frameworks statically: 비활성화
   * ![unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182](./image/unity-developers-guide-started-settingtool-edm4u-settings-ios-1.2.182.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (iOS EDM4U 설정)
     구성: SDK 설정/사용 가이드 관련 스크린샷

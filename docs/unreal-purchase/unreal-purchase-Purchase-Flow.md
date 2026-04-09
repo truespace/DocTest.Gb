@@ -3,7 +3,7 @@ source: unreal-purchase.md
 section: "Purchase Flow"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsumed
 ---
 
@@ -13,7 +13,7 @@ keyword: Unreal, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsume
 결제 Flow는 다음과 같은 순서로 구현하시기 바랍니다.
 
 ![purchase flow](./image/purchase_flow_001_2.10.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Sequence Diagram
     내용: 결제 처리 흐름도
     구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스

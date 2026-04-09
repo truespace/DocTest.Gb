@@ -3,7 +3,7 @@ source: aos-started.md
 section: "3rd-Party Provider SDK Guide"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Authentication
 ---
 

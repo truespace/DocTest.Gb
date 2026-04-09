@@ -3,7 +3,7 @@ source: ios-ui.md
 section: "ImageNotice"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Initialize, ImageNotice, Error, Console
 ---
 
@@ -12,7 +12,7 @@ keyword: iOS, Initialize, ImageNotice, Error, Console
 콘솔에 이미지를 등록한 후 사용자에게 공지를 띄울 수 있습니다.
 
 ![ImageNotice Example](./image/imageNotice-guide-landscape-ko_v3.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: ImageNotice 관련 화면
     구성: ImageNotice 관련 스크린샷

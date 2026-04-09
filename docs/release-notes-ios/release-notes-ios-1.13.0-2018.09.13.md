@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "1.13.0 (2018.09.13)"
 order: 121
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Android, Release Notes, 1.13.0
 ---
 

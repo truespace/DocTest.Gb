@@ -3,7 +3,7 @@ source: upgrade-guide.md
 section: "2.34.0"
 order: 41
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, iOS, Upgrade Guide, 2.34.0
 ---
 

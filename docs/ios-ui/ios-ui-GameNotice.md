@@ -3,7 +3,7 @@ source: ios-ui.md
 section: "GameNotice"
 order: 1
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, WebView, Initialize, Terms, Error, Console
 ---
 
@@ -14,14 +14,14 @@ keyword: iOS, WebView, Initialize, Terms, Error, Console
 콘솔에 이미지와 함께 등록한 공지 사항을 표시하는 기능입니다.
 
 ![GameNotice Example](./image/gameNotice_guide_001.png) 
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: GameNotice 관련 화면
     구성: GameNotice 관련 스크린샷
     Keyword: iOS, Screenshot, GameNotice
 -->
 ![GameNotice Example](./image/gameNotice_guide_002.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: GameNotice 관련 화면
     구성: GameNotice 관련 스크린샷

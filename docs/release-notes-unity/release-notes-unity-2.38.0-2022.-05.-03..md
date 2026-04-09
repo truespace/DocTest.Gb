@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.38.0 (2022. 05. 03.)"
 order: 53
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Purchase, Error, RequestItemListOfNotConsumed, Android, iOS, Release Notes, 2.38.0
 ---
 

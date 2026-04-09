@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2023. 02. 28."
 order: 22
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Release Notes
 ---
 

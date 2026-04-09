@@ -3,14 +3,14 @@ source: oper-purchase.md
 section: "IAP 메뉴 이용에 앞서"
 order: 1
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Analytics
 ---
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 결제
 ## IAP 메뉴 이용에 앞서
 ![purchase_01](./image/purchase_01_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 결제 콘솔 IAP 메뉴 이용에 앞서 화면 #01
     구성: Gamebase 결제 콘솔의 IAP 메뉴 이용에 앞서 기능 설정/조회 화면 스크린샷

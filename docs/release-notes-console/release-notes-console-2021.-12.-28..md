@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2021. 12. 28."
 order: 41
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Withdraw, Analytics, Error, Release Notes
 ---
 

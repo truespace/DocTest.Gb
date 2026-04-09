@@ -1,7 +1,7 @@
 ---
 source: ios-initialization.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Purchase, WebView, Initialize, Authentication, XCode, Console
 ---
 
@@ -23,7 +23,7 @@ AppDelegate.h 등 Gamebase 기능을 초기화할 곳에 다음의 헤더 파일
 게임이 시작되면 Debug Mode를 설정하고, Gamebase를 초기화하여 Launching Status Code에 따라 게임 진입 여부를 결정하도록 아래 플로우와 같이 구현합니다.
 
 ![initialization flow](./image/initialization_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Flowchart
     내용: Initialization Flow 흐름도
     구성: Initialization Flow의 처리 흐름을 나타내는 다이어그램
@@ -213,7 +213,7 @@ Gamebase 콘솔에 등록된 점검 정보입니다.
 `enablePopup`과 `enableLaunchingStatusPopup` 값이 모두 `true`인 경우, 게임이 점검 상태라면 자동으로 점검 팝업 창이 표시됩니다.
 여기서 **자세히 보기** 버튼을 클릭하면 점검 정보가 자동으로 웹뷰로 표시됩니다.
 ![](./image/maintenance_webview_android_2.30.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 1. launching 관련 화면
     구성: 1. launching 관련 스크린샷

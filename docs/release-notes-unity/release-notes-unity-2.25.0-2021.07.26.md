@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.25.0 (2021.07.26)"
 order: 69
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Purchase, Push, Terms, Error, ShowTermsView, Release Notes, 2.25.0
 ---
 

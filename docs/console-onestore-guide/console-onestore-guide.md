@@ -1,7 +1,7 @@
 ---
 source: console-onestore-guide.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Authentication, Onestore
 ---
 
@@ -14,7 +14,7 @@ keyword: Console, Authentication, Onestore
 Apps > 앱 선택 >In-App정보 > 인증 및 라이선스
 ```
 ![원스토어 인증 및 라이선스 확인](./image/iap_52.PNG)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 원스토어 키 생성 관련 화면
     구성: 원스토어 키 생성 관련 스크린샷

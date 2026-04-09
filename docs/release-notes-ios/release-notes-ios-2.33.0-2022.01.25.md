@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.33.0 (2022.01.25)"
 order: 62
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Mapping, Terms, Error, ShowTermsView, Release Notes, 2.33.0
 ---
 

@@ -3,7 +3,7 @@ source: console-for-aws.md
 source_size_bytes: 5272
 source_char_count: 3150
 split_count: 3
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # console-for-aws

@@ -3,7 +3,7 @@ source: aos-initialization.md
 source_size_bytes: 18228
 source_char_count: 14024
 split_count: 0
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # aos-initialization

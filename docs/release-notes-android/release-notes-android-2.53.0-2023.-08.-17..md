@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.53.0 (2023. 08. 17.)"
 order: 37
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Authentication, Contact, LoginForLastLoggedInProvider, Release Notes, 2.53.0
 ---
 

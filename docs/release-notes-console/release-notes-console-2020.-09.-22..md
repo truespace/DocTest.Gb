@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2020. 09. 22."
 order: 70
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Purchase, Analytics, Contact, Release Notes
 ---
 

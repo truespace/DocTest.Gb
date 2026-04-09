@@ -3,14 +3,14 @@ source: oper-push.md
 section: "Setting"
 order: 6
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Push, Oper
 ---
 
 ## Setting
 푸시 관련 설정을 할 수 있습니다.
 ![gamebase_push_20_202205](./image/gamebase_push_20_202205.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase Push 콘솔 Setting 화면 #20
     구성: Gamebase Push 콘솔의 Setting 기능 설정/조회 화면 스크린샷
@@ -31,7 +31,7 @@ keyword: Console, Push, Oper
 * 우측 **미리보기** 버튼 클릭 시 설정한 광고 표시 문구 위치에 따른 푸시 예시를 확인할 수 있습니다.
 
 ![push_23](./image/push_23_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase Push 콘솔 광고 표시 문구 위치 설정 화면 #23
     구성: Gamebase Push 콘솔의 광고 표시 문구 위치 설정 기능 설정/조회 화면 스크린샷

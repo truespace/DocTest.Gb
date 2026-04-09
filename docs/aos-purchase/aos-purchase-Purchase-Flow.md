@@ -3,7 +3,7 @@ source: aos-purchase.md
 section: "Purchase Flow"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsumed
 ---
 
@@ -13,10 +13,10 @@ keyword: Android, Purchase, Consume, RequestPurchase, RequestItemListOfNotConsum
 **결제 Flow**는 다음과 같은 순서로 구현하시기 바랍니다.
 
 ![purchase flow](./image/purchase_flow_001_2.10.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Sequence Diagram
-    내용: 결제 처리 흐름도
-    구성: GameClient, GamebaseSDK, GameServer 간의 결제 요청 및 소비 처리 시퀀스
+    내용: Purchase Flow 결제 처리 시퀀스 다이어그램
+    구성: GameClient, GamebaseSDK, GameServer 3개 참여자 간의 시퀀스로, requestItemListOfNotConsumed로 재처리 후 미소비 내역 존재 시 Consume Flow 진행, requestPurchase로 결제 시도, 성공 후 다시 requestItemListOfNotConsumed 호출하여 미소비 결제 내역 확인 및 Consume Flow 처리
     Keyword: Sequence Diagram, Purchase Flow
 -->
 

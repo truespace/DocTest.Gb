@@ -3,14 +3,14 @@ source: oper-app.md
 section: "Terms Of Service"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Push, Terms
 ---
 
 ## Terms Of Service
 게임에 보여줄 약관을 생성 및 구성을 설정합니다.
 ![gamebase_terms_of_service_01_ko_240105](./image/gamebase_terms_of_service_01_ko_240105.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 앱 설정 콘솔 Terms Of Service 화면 #01
     구성: Gamebase 앱 설정 콘솔의 Terms Of Service 기능 설정/조회 화면 스크린샷
@@ -19,7 +19,7 @@ keyword: Console, Push, Terms
 ### (1) 생성된 약관 목록
 - **+** 버튼을 클릭하여 약관을 추가로 생성할 수 있습니다.
 ![gamebase_terms_of_service_02_ko_240105](./image/gamebase_terms_of_service_02_ko_240105.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 앱 설정 콘솔 (1) 생성된 약관 목록 화면 #02
     구성: Gamebase 앱 설정 콘솔의 (1) 생성된 약관 목록 기능 설정/조회 화면 스크린샷
@@ -49,7 +49,7 @@ keyword: Console, Push, Terms
 	- URL 입력: 상세 페이지의 URL을 설정할 수 있습니다.
 	- 직접 입력: 상세 페이지를 생성할 수 있습니다.
 ![gamebase_terms_of_service_03_ko_240105](./image/gamebase_terms_of_service_03_ko_240105.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 앱 설정 콘솔 (6) 선택한 약관의 상세 정보 화면 #03
     구성: Gamebase 앱 설정 콘솔의 (6) 선택한 약관의 상세 정보 기능 설정/조회 화면 스크린샷

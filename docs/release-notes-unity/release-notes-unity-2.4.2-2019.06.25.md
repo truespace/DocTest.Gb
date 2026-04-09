@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.4.2 (2019.06.25)"
 order: 105
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Logout, Withdraw, Analytics, Initialize, Release Notes, 2.4.2
 ---
 

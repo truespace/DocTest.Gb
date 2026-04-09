@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2020. 10. 27."
 order: 15
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Purchase, Push, WebView, Alert, Analytics, ShowImageNotices, Android, iOS, Release Notes, 2.15.0
 ---
 

@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.0.0 (2019.01.29)"
 order: 118
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Purchase, Initialize, Release Notes, 2.0.0
 ---
 

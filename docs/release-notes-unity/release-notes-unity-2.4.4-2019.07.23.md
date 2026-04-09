@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.4.4 (2019.07.23)"
 order: 102
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Error, Release Notes, 2.4.4
 ---
 

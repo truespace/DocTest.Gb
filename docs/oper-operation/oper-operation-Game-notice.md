@@ -3,7 +3,7 @@ source: oper-operation.md
 section: "Game notice"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Oper, Operation
 ---
 
@@ -14,7 +14,7 @@ keyword: Console, Oper, Operation
 게임 공지 메시지의 게시 상태와 제목으로 게임 공지 검색이 가능합니다. 
 
 ![gamebase_op_img](./image/gamebase_maintenance_01_ko_250415.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -39,7 +39,7 @@ keyword: Console, Oper, Operation
 
 ### Register Game notice
 ![gamebase_op_img](./image/gamebase_maintenance_02_ko_250415.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -57,7 +57,7 @@ keyword: Console, Oper, Operation
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 노출을 원하는 클라이언트 버전을 선택한 뒤 **확인**을 클릭합니다.
   ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -103,7 +103,7 @@ keyword: Console, Oper, Operation
 
 ### Modify Game notice Setting
 ![gamebase_op_img](./image/gamebase_maintenance_03_ko_250415.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면

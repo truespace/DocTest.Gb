@@ -3,7 +3,7 @@ source: console-apple-guide.md
 source_size_bytes: 5463
 source_char_count: 3898
 split_count: 4
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 ---
 
 # console-apple-guide

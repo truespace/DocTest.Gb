@@ -3,14 +3,14 @@ source: aos-purchase.md
 section: "Retry Transaction Flow"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Purchase, Consume, Error, RequestItemListOfNotConsumed
 ---
 
 ### Retry Transaction Flow
 
 ![retry transaction flow](./image/purchase_retry_transaction_flow_2.19.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Sequence Diagram
     내용: 결제 재처리 흐름도
     구성: 미소비 결제 건에 대한 재처리 흐름을 나타내는 시퀀스 다이어그램

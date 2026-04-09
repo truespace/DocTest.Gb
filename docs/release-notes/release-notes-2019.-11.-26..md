@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2019. 11. 26."
 order: 40
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Push, Analytics, Coupon, Console, Release Notes
 ---
 

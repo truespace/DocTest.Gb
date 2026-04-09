@@ -3,7 +3,7 @@ source: release-notes-ios.md
 section: "2.18.0 (2020.11.10)"
 order: 87
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.18.0
 ---
 

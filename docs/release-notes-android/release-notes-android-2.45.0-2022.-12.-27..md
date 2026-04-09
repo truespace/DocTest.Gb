@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.45.0 (2022. 12. 27.)"
 order: 46
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Purchase, Consume, Error, RequestItemListOfNotConsumed, Release Notes, 2.45.0
 ---
 

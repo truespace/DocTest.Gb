@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "1.3.0 (2017.10.26)"
 order: 130
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Login, Release Notes, 1.3.0
 ---
 

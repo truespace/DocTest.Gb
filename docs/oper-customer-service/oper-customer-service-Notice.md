@@ -3,7 +3,7 @@ source: oper-customer-service.md
 section: "Notice"
 order: 4
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Contact, Oper
 ---
 
@@ -16,7 +16,7 @@ keyword: Console, Contact, Oper
 등록되어 있는 공지사항 목록에 대하여 검색할 수 있습니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_notice_01_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 고객센터 콘솔 Search Notice 화면 #01
     구성: Gamebase 고객센터 콘솔의 Search Notice 기능 설정/조회 화면 스크린샷
@@ -40,7 +40,7 @@ keyword: Console, Contact, Oper
 
 #### 말머리 관리
 ![gamebase_ban_01_201812](./image/gamebase_notice_02_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 고객센터 콘솔 말머리 관리 화면 #02
     구성: Gamebase 고객센터 콘솔의 말머리 관리 기능 설정/조회 화면 스크린샷
@@ -58,7 +58,7 @@ keyword: Console, Contact, Oper
 등록 또는 수정 시 변경할 수 있는 항목은 모두 동일합니다.
 
 ![gamebase_ban_01_201812](./image/gamebase_notice_03_ko_240105.jpg)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 고객센터 콘솔 Register or Update Notice 화면 #03
     구성: Gamebase 고객센터 콘솔의 Register or Update Notice 기능 설정/조회 화면 스크린샷

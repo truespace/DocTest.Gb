@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "1.0.0 (2017.03.09)"
 order: 132
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Logout, Withdraw, Authentication, Console, Release Notes, 1.0.0
 ---
 

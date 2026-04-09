@@ -3,7 +3,7 @@ source: unreal-started.md
 section: "3rd-Party Provider SDK Settings"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unreal, Login, Initialize, Authentication, Error, Android, iOS
 ---
 

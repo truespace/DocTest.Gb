@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2021. 02. 23."
 order: 6
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Purchase, Initialize, Android, Console, Release Notes, 2.20.1
 ---
 

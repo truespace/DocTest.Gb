@@ -3,7 +3,7 @@ source: ios-ui.md
 section: "Terms"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: iOS, Login, Push, WebView, Initialize, Terms, ShowTermsView, RegisterPush, Console
 ---
 
@@ -12,7 +12,7 @@ keyword: iOS, Login, Push, WebView, Initialize, Terms, ShowTermsView, RegisterPu
 Gamebase 콘솔에 설정한 약관을 표시합니다.
 
 ![TermsView Example](./image/termsView-guide-ui-001_2.20.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 약관 동의 화면
     구성: Gamebase 약관 동의 UI 화면

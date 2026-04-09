@@ -3,7 +3,7 @@ source: aos-etc.md
 section: "Additional Features > Display Language"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Initialize, Console
 ---
 
@@ -159,7 +159,7 @@ public void getDisplayLanguageCodeInRuntime() {
 Gamebase에서 제공하는 기본 언어(ko, en, ja, zh-CN, zh-TW, th) 외 다른 언어를 추가하려면 프로젝트의 res > raw 폴더에 localizedstring.json 파일을 추가하면 됩니다.
 
 ![localizedstring.json](./image/aos-developers-guide-etc_001_1.11.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: SDK 가이드 화면 (신규 언어셋 추가)
     구성: SDK 설정/사용 가이드 관련 스크린샷

@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.18.2 (2020.12.15)"
 order: 82
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Purchase, Push, WebView, iOS, Unity, Release Notes, 2.18.2
 ---
 

@@ -3,7 +3,7 @@ source: console-for-aws.md
 section: "회원"
 order: 3
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Login, For
 ---
 
@@ -21,7 +21,7 @@ keyword: Console, Login, For
 #### 1. 일반 회원 추가하기
 
 ![Gamebase-for-aws_create-ID](./image/console_Gamebase-for-aws_member-01-202108.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase for AWS 콘솔 1. 일반 회원 추가하기 화면
     구성: Gamebase for AWS 콘솔의 1. 일반 회원 추가하기 기능 설정/조회 화면 스크린샷
@@ -36,7 +36,7 @@ keyword: Console, Login, For
 #### 2. 프로젝트 멤버로 추가
 
 ![Gamebase-for-aws_project-member](./image/console_Gamebase-for-aws_member-02-202108.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase for AWS 콘솔 2. 프로젝트 멤버로 추가 화면
     구성: Gamebase for AWS 콘솔의 2. 프로젝트 멤버로 추가 기능 설정/조회 화면 스크린샷
@@ -51,7 +51,7 @@ keyword: Console, Login, For
 **이름 > 일반/그룹 관리** 클릭하여 권한 그룹 관리 페이지에서 권한 그룹의 생성, 수정, 삭제가 가능합니다.
 
 ![Gamebase-for-aws_project-member](./image/console_Gamebase-for-aws_member-03-202108.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase for AWS 콘솔 그룹 권한 관리 화면
     구성: Gamebase for AWS 콘솔의 그룹 권한 관리 기능 설정/조회 화면 스크린샷

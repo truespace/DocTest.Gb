@@ -3,7 +3,7 @@ source: unity-etc.md
 section: "Additional Features > Contact"
 order: 6
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Login, WebView, Contact, Error, Android, iOS
 ---
 
@@ -27,7 +27,7 @@ Gamebase 는 고객 문의 대응을 위한 기능을 제공합니다.
 
 **Gamebase 콘솔 > App > Customer service**에서 아래와 같이 3가지 유형의 고객 센터를 선택할 수 있습니다.
 ![](./image/etc_customer_center_001_2.16.0.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Customer Service Type 관련 화면
     구성: Customer Service Type 관련 스크린샷

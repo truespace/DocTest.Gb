@@ -3,7 +3,7 @@ source: release-notes-console.md
 section: "2020. 07. 28."
 order: 75
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Analytics, Authentication, ImageNotice, Error, iOS, Release Notes
 ---
 

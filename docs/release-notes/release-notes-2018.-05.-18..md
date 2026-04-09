@@ -3,7 +3,7 @@ source: release-notes.md
 section: "2018. 05. 18."
 order: 78
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 1.9.0
 ---
 

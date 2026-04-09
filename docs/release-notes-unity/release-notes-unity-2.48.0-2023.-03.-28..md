@@ -3,7 +3,7 @@ source: release-notes-unity.md
 section: "2.48.0 (2023. 03. 28.)"
 order: 43
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Unity, XCode, Android, iOS, Release Notes, 2.48.0
 ---
 

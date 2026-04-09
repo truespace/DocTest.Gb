@@ -3,7 +3,7 @@ source: oper-push.md
 section: "Statistics"
 order: 2
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Push, Oper
 ---
 
@@ -18,7 +18,7 @@ keyword: Console, Push, Oper
 
 ### 발송/수신
 ![push_05](./image/push_05_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase Push 콘솔 발송/수신 화면 #05
     구성: Gamebase Push 콘솔의 발송/수신 기능 설정/조회 화면 스크린샷
@@ -46,7 +46,7 @@ keyword: Console, Push, Oper
 
 ### 토큰 등록
 ![push_6](./image/push_06_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase Push 콘솔 토큰 등록 화면 #06
     구성: Gamebase Push 콘솔의 토큰 등록 기능 설정/조회 화면 스크린샷
@@ -70,7 +70,7 @@ keyword: Console, Push, Oper
 ### 수신 설정
 선택된 기간 동안의 수신 설정 관련 통계를 보여줍니다.
 ![push_7](./image/push_07_kr_240103.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase Push 콘솔 수신 설정 화면 #07
     구성: Gamebase Push 콘솔의 수신 설정 기능 설정/조회 화면 스크린샷

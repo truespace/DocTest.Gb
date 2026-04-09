@@ -1,7 +1,7 @@
 ---
 source: console-huawei-guide.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Huawei, Guide
 ---
 
@@ -11,7 +11,7 @@ keyword: Console, Huawei, Guide
 1. [화웨이 개발자 콘솔](https://developer.huawei.com/consumer/en/console)에 계정을 등록한 후 <br/>
    에코시스템 서비스 / 앱 서비스 -> [AppGallery Connect 콘솔](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/)로 진입합니다.
    ![화웨이 개발자 콘솔에서 AppGallery Connect 선택](./image/huawei_console_kor.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei Developer Console 화면
     구성: Huawei AppGallery 콘솔의 Huawei Developer Console 기능 설정/조회 화면 스크린샷
@@ -19,14 +19,14 @@ keyword: Console, Huawei, Guide
 -->
 2. [AppGallery Connect 콘솔](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/)에서 My Apps 메뉴로 진입하면 신규 앱 등록 또는 기존 앱 관리를 할 수 있습니다.
    ![AppGallery 콘솔 메인 화면](./image/huawei_console_app_main_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei Developer Console 화면
     구성: Huawei AppGallery 콘솔의 Huawei Developer Console 기능 설정/조회 화면 스크린샷
     Keyword: Huawei, Console, Screenshot, Huawei Developer Console
 -->
    ![MyApps 메뉴에서 신규 앱 등록](./image/huawei_console_app_01_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei Developer Console 화면 #01
     구성: Huawei AppGallery 콘솔의 Huawei Developer Console 기능 설정/조회 화면 스크린샷
@@ -35,7 +35,7 @@ keyword: Console, Huawei, Guide
 3. NHN Cloud IAP는 화웨이 스토어 연동의 경우 안드로이드 APK 패키지 타입과 모바일 디바이스만을 지원합니다.<br/>
    또한, 앱은 최종적으로 프로젝트에 연동되어 있어야 하므로, 처음 앱을 생성할 때부터 미리 프로젝트를 함께 생성하거나, 기존에 생성되어 있는 프로젝트를 선택하여 연동시켜 놓아야 합니다.
    ![화웨이 신규 앱 등록 화면](./image/huawei_console_app_02_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei Developer Console 화면 #02
     구성: Huawei AppGallery 콘솔의 Huawei Developer Console 기능 설정/조회 화면 스크린샷
@@ -46,7 +46,7 @@ keyword: Console, Huawei, Guide
 
 ## 연결을 위해 필요한 설정 값들
 ![NHN Cloud Gamebase Store Settings](./image/huawei_iap_console_ko.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 연결을 위해 필요한 설정 값들 화면
     구성: Huawei AppGallery 콘솔의 연결을 위해 필요한 설정 값들 기능 설정/조회 화면 스크린샷
@@ -58,7 +58,7 @@ keyword: Console, Huawei, Guide
     - 이 값은 AppGallery Connect > MyApp > App 화면에서도 확인할 수 있습니다.
 
 ![AppGallery Connect 프로젝트 기본 정보 화면](./image/huawei_console_app_06_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Store App ID 화면 #06
     구성: Huawei AppGallery 콘솔의 Store App ID 기능 설정/조회 화면 스크린샷
@@ -71,7 +71,7 @@ keyword: Console, Huawei, Guide
 - 이 화면의 `App Information - OAuth 2.0 Client Secret` 값을 NHN Cloud Gamebase 콘솔 스토어 설정의 'Huawei App Secret' 값으로 입력해야 합니다.
 
 ![AppGallery Connect 프로젝트 기본 정보 화면](./image/huawei_console_app_06_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei App ID & App Secret 화면 #06
     구성: Huawei AppGallery 콘솔의 Huawei App ID & App Secret 기능 설정/조회 화면 스크린샷
@@ -84,7 +84,7 @@ keyword: Console, Huawei, Guide
   이 값을 NHN Cloud Gamebase 콘솔 스토어 설정의 'Huawei Developer Public Key' 값으로 입력해야 합니다.
 
 ![AppGallery Connect IAP 화면](./image/huawei_console_app_05_eng.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Huawei AppGallery 콘솔 Huawei Developer Public Key 화면 #05
     구성: Huawei AppGallery 콘솔의 Huawei Developer Public Key 기능 설정/조회 화면 스크린샷

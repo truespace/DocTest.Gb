@@ -3,7 +3,7 @@ source: oper-operation.md
 section: "Kick Out"
 order: 5
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Oper, Operation
 ---
 
@@ -11,7 +11,7 @@ keyword: Console, Oper, Operation
 게임 점검 등의 이유로 유저의 연결을 해제할 경우 Console에서 손쉽게 유저의 연결을 해제할 수 있습니다.
 등록한 킥아웃 내역 조회와 킥아웃 등록 내용을 한눈에 확인할 수 있습니다.
 ![gamebase_op_img](./image/gamebase_maintenance_11_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -23,7 +23,7 @@ keyword: Console, Oper, Operation
 **킥아웃** 탭에서 **등록** 버튼을 클릭하면 킥아웃을 등록하는 화면으로 이동합니다.
 
 ![gamebase_op_img](./image/gamebase_maintenance_12_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면
@@ -37,7 +37,7 @@ keyword: Console, Oper, Operation
   <br>**일부 클라이언트 선택 화면 예시**
   <br>클라이언트 상태 및 스토어별 전체 선택이 가능하며, 점검을 원하는 클라이언트 버전을 선택 후 확인 버튼을 누르면 됩니다.
 ![gamebase_op_img](./image/gamebase_maintenance_04_ko_240611.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: 점검 안내 화면
     구성: 서비스 점검 시 사용자에게 표시되는 점검 안내 팝업/웹뷰 화면

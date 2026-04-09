@@ -1,7 +1,7 @@
 ---
 source: oper-operating-indicator.md
 split: false
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Console, Push, Analytics, Android, iOS
 ---
 
@@ -13,7 +13,7 @@ keyword: Console, Push, Analytics, Android, iOS
 
 ## Monitoring
 ![operation-indicator_01_201812](./image/operation-indicator_01_201812.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영지표 콘솔 Monitoring 화면 #01
     구성: Gamebase 운영지표 콘솔의 Monitoring 기능 설정/조회 화면 스크린샷
@@ -39,7 +39,7 @@ keyword: Console, Push, Analytics, Android, iOS
 
 ## User Statistics
 ![operation-indicator_02_201812](./image/operation-indicator_02_201812.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영지표 콘솔 User Statistics 화면 #02
     구성: Gamebase 운영지표 콘솔의 User Statistics 기능 설정/조회 화면 스크린샷
@@ -58,7 +58,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Concurrent Group User
 ![operation-indicator_03_201812](./image/operation-indicator_03_201812.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영지표 콘솔 Concurrent Group User 화면 #03
     구성: Gamebase 운영지표 콘솔의 Concurrent Group User 기능 설정/조회 화면 스크린샷
@@ -69,7 +69,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Installed URL Statistics
 ![operation-indicator_04_201812](./image/operation-indicator_04_201812.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영지표 콘솔 Installed URL Statistics 화면 #04
     구성: Gamebase 운영지표 콘솔의 Installed URL Statistics 기능 설정/조회 화면 스크린샷
@@ -84,7 +84,7 @@ DAU, MCU, NRU, CCU AVG 현황을 그래프로 확인할 수 있습니다.
 
 ## Statistics
 ![image alt](./image/Console_Monitoring_Statistics1_1.2.png)
-<!-- LLM_Image_DESC_20260408_191856
+<!-- LLM_Image_DESC_20260408_185735
     유형: Screenshot
     내용: Gamebase 운영지표 콘솔 Statistics 화면
     구성: Gamebase 운영지표 콘솔의 Statistics 기능 설정/조회 화면 스크린샷

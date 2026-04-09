@@ -3,7 +3,7 @@ source: release-notes-android.md
 section: "2.35.0 (2022. 03. 29.)"
 order: 61
 split: true
-created_date_time: 20260408_191848
+created_date_time: 20260408_184906
 keyword: Android, Login, Logout, WebView, Terms, Release Notes, 2.35.0
 ---
 
