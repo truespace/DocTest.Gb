@@ -61,6 +61,36 @@ def fix_links_in_file(filepath, folder_stem, anchor_map):
     original_content = content
     changes = []
 
+    # Root-relative 경로(/Download/, /TOAST/ 등)를 언어 코드(ko) 포함 절대 URL로 변환
+    # 한국어 문서(ko/)만 대상이므로 `ko` 삽입.
+    # 판별 기준: 경로의 "첫 번째 세그먼트"가 언어 코드인지 확인 (중간·끝의 언어 코드는 서비스 내부 라우팅)
+    # - Download 페이지:  /Download/...          → /ko/Download/...
+    # - 가이드 페이지:    /TOAST/ko/toast-sdk/... → /ko/TOAST/ko/toast-sdk/... (언어코드 2번)
+    ABS_PATH_PATTERNS = ["/Download/", "/TOAST/", "/Game/", "/Compute/", "/Storage/"]
+    BASE_URL = "https://docs.nhncloud.com"
+    LANG_CODES = ["ko", "en", "ja"]
+
+    def first_segment_is_lang(path):
+        parts = path.strip("/").split("/")
+        return bool(parts) and parts[0] in LANG_CODES
+
+    def replace_root_relative(m):
+        path = m.group(1)
+        if any(path.startswith(p) for p in ABS_PATH_PATTERNS):
+            if first_segment_is_lang(path):
+                new_url = BASE_URL + path
+            else:
+                new_url = BASE_URL + "/ko" + path
+            changes.append(f"  root상대→절대URL: {path} → {new_url}")
+            return f"]({new_url})"
+        return m.group(0)
+
+    content = re.sub(
+        r"(?<!!)\]\((/[^)#\s]*(?:#[^)]*)?)\)",
+        replace_root_relative,
+        content,
+    )
+
     # 링크 패턴: [text](./path) or [text](./path#anchor)
     # 이미지 링크 제외 (![으로 시작)
     def replace_link(match):

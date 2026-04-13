@@ -87,10 +87,16 @@
     - **자기 문서 앵커 링크**: 같은 원본에서 분할된 파일 내 앵커를 참조하는 경우, 해당 앵커가 포함된 분할 파일로 재매핑한다.
         - 변환 규칙: `./원본파일명#anchor` → `./분할파일명.md#anchor`
     - 파일 경로에 `.md` 확장자를 추가해야 한다. (GitHub preview 호환)
-    - **절대경로 링크 예외**: 원본 사이트(`docs.nhncloud.com`) 기준의 절대경로 링크는 변환하지 않고 원본 그대로 유지한다.
-        - 해당 경로는 원본 사이트에서 라우팅을 통해 정상 동작하는 경로이며, 임의로 변환 시 에러 페이지로 연결될 수 있다.
-        - 대상 경로 패턴: `/Download/`, `/TOAST/`, `/Game/` 등 `/`로 시작하는 사이트 내부 절대경로
-        - 예: `/Download/#game-gamebase`, `/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging`
+    - **Root-relative 링크 변환**: 원본에서 `/`로 시작하는 링크는 사실상 원본 사이트(`docs.nhncloud.com`)의 root-relative URL이다. 분할 파일은 원본 사이트 컨텍스트를 벗어나므로, GitHub preview 등 외부 환경에서 정상 동작하도록 절대 URL로 변환해야 한다. 본 프로젝트는 한국어 문서(`ko/`)만 대상으로 하므로 언어 코드 `ko`를 삽입한다.
+        - **판별 기준**: URL 경로의 **첫 번째 세그먼트**가 언어 코드(`ko`, `en`, `ja`)인지 확인한다. 첫 세그먼트가 언어 코드가 아니면 `/ko/`를 prefix로 추가한다. (경로 중간·끝의 언어 코드는 서비스 내부 라우팅이므로 prefix 생략 근거가 되지 않는다)
+        - **Download 페이지 포맷**: `docs.nhncloud.com/{언어코드}/Download/{anchor}`
+            - 변환: `/Download/#game-gamebase` → `https://docs.nhncloud.com/ko/Download/#game-gamebase`
+        - **가이드 페이지 포맷**: `docs.nhncloud.com/{언어코드}/{서비스카테고리}/{서비스명}/{언어코드}/페이지명`
+            - 가이드 페이지는 **언어 코드가 경로에 2번** 등장한다 (앞: 사이트 언어, 중간: 서비스 내부 언어).
+            - 변환: `/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging` → `https://docs.nhncloud.com/ko/TOAST/ko/toast-sdk/push-android/#firebase-cloud-messaging`
+            - 이미 첫 세그먼트에 언어코드가 있는 경우(예: `/ko/Game/Gamebase/ko/Overview/`)는 그대로 유지한다.
+        - 대상 경로 패턴: `/Download/`, `/TOAST/`, `/Game/`, `/Compute/`, `/Storage/` 등 `/`로 시작하는 사이트 내부 절대경로
+        - 이유: root-relative 링크(`/`로 시작)는 GitHub preview에서 `github.com/Download/...`로 해석되어 404가 발생한다. 언어 코드를 포함한 절대 URL로 변환해야 원본 사이트로 올바르게 이동한다.
 7. 문서에 포함된 이미지(외부 URL 및 로컬 경로 모두 포함)는 분할/미분할 여부에 관계없이 각 문서가 생성된 하위 `image/` 폴더 안에 복사하며, 이미지 경로는 상대 경로로 재조정되어야 한다. (링크 유효성 확인)
     - 외부 URL 이미지: 다운로드하여 `image/` 폴더에 저장
     - 로컬 이미지: `image/` 폴더로 복사
@@ -116,7 +122,7 @@
 9. 분할 작업 완료 후 다음 항목에 대해 검증을 수행한다.
     - **하이퍼링크 유효성**: 모든 내부 상대경로 링크(`[text](path)`)가 실제 파일을 가리키는지 확인한다.
         - 분할 파일은 `docs/{기능명}/` 하위에 위치하므로, 같은 docs 내 다른 index 파일 참조 시 `../파일명.md#anchor` 형태여야 한다.
-        - 절대경로(`/Download/`, `/TOAST/` 등)는 원본 내용 그대로 유지한다. (원본 사이트 기준 경로이므로 변환하지 않는다)
+        - Root-relative 경로(`/Download/`, `/TOAST/` 등)가 남아있는 경우, 규칙 6에 따라 `https://docs.nhncloud.com/...` 절대 URL로 변환되었는지 확인한다.
         - `.md` 확장자 누락, 상대경로 깊이 오류(`../../` vs `../`) 등을 점검한다.
     - **이미지 경로 유효성**: 로컬 이미지 링크(`![alt](path)`)가 실제 파일을 가리키는지 확인한다.
     - **이미지 주석 완전성**: 모든 이미지 링크 하위에 `LLM_Image_DESC` 주석이 존재하는지 확인한다.

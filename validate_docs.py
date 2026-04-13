@@ -10,8 +10,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 DOCS_DIR = BASE_DIR / "docs"
 
-# 절대경로 예외 패턴 (원본 사이트 기준)
-ABS_PATH_PATTERNS = ["/Download/", "/TOAST/", "/Game/", "/Compute/", "/Storage/"]
+# Root-relative 경로 패턴 (원본 사이트 기준 — 절대 URL로 변환 필요, 규칙 6 참조)
+ROOT_RELATIVE_PATTERNS = ["/Download/", "/TOAST/", "/Game/", "/Compute/", "/Storage/"]
 EXTERNAL_URL_PATTERNS = ["http://", "https://", "mailto:"]
 
 errors = []
@@ -60,8 +60,10 @@ def validate_hyperlinks():
                 if any(link_path.startswith(p) for p in EXTERNAL_URL_PATTERNS):
                     continue
 
-                # 절대경로 예외는 스킵
-                if any(link_path.startswith(p) for p in ABS_PATH_PATTERNS):
+                # Root-relative 경로는 변환 누락 오류로 기록 (언어 코드 포함 절대 URL로 변환되어 있어야 함)
+                if any(link_path.startswith(p) for p in ROOT_RELATIVE_PATTERNS):
+                    rel_path = md_file.relative_to(DOCS_DIR)
+                    errors.append(f"[root-relative 미변환] {rel_path}: [{link_text}]({link_path}) → https://docs.nhncloud.com/ko{link_path} 로 변환 필요")
                     continue
 
                 # 앵커 전용 링크
