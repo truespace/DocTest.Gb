@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.6.0 (2019.11.12)"
-order: 98
+order: 100
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Purchase, Analytics, Logger, Authentication, Android, iOS, Release Notes, 2.6.0

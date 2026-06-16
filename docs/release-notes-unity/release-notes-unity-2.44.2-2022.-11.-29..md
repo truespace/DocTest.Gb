@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.44.2 (2022. 11. 29.)"
-order: 46
+order: 48
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Purchase, WebView, Android, iOS, Release Notes, 2.44.2

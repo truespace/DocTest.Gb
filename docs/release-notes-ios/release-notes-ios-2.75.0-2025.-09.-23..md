@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.75.0 (2025. 09. 23.)"
-order: 4
+order: 7
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.75.0

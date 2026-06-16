@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.20.2 (2021.03.30)"
-order: 78
+order: 80
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Error, Release Notes, 2.20.2

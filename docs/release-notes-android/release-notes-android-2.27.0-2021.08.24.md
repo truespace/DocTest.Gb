@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.27.0 (2021.08.24)"
-order: 70
+order: 72
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.27.0

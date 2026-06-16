@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.41.0 (2022. 07. 05.)"
-order: 55
+order: 57
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Logout, WebView, Release Notes, 2.41.0

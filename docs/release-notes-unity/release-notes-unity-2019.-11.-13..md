@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2019. 11. 13."
-order: 97
+order: 99
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Error, Release Notes, v2.6.0

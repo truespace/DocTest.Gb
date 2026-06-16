@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.2.0 (2019.03.26)"
-order: 110
+order: 112
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Mapping, TransferAccount, Android, iOS, Release Notes, 2.2.0

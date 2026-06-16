@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.66.2 (2024. 08. 27.)"
-order: 24
+order: 26
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 2.66.2

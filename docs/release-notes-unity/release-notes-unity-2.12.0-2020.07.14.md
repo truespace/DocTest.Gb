@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.12.0 (2020.07.14)"
-order: 84
+order: 86
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, WebView, Initialize, ImageNotice, iOS, Release Notes, 2.12.0

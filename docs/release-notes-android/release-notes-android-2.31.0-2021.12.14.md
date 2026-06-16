@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.31.0 (2021.12.14)"
-order: 65
+order: 67
 split: true
 created_date_time: 20260408_184906
 keyword: Android, WebView, Initialize, Gradle, Console, Release Notes, 2.31.0

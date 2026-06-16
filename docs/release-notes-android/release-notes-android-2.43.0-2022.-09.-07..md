@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.43.0 (2022. 09. 07.)"
-order: 50
+order: 52
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Purchase, Authentication, Release Notes, 2.43.0

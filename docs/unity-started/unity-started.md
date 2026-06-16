@@ -1,7 +1,7 @@
 ---
 source: unity-started.md
 split: false
-created_date_time: 20260413_163941
+created_date_time: 20260616_110448
 keyword: Unity, Purchase, Push, Authentication, Error, Gradle, CocoaPods, Android, iOS
 ---
 
@@ -15,7 +15,7 @@ Gamebase Unity SDK 사용 환경과 초기 설정 방법을 설명합니다.
 >
 > Unity 지원 버전
 >
-> * 2022.3.10f1 ~ 6000.3.10f1
+> * 2022.3.10f1 ~ 6000.3.12f1
 
 #### Dependencies
 

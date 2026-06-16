@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.42.1 (2022. 07. 26.)"
-order: 51
+order: 53
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.42.1

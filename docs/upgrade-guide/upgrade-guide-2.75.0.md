@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.75.0"
-order: 6
+order: 7
 split: true
 created_date_time: 20260408_184906
 keyword: Authentication, XCode, iOS, Upgrade Guide, 2.75.0

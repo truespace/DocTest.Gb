@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.71.0 (2025. 04. 15.)"
-order: 13
+order: 15
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Initialize, Error, Release Notes, 2.71.0

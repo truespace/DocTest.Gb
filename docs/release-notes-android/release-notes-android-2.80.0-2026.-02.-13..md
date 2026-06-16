@@ -1,13 +1,11 @@
 ---
 source: release-notes-android.md
 section: "2.80.0 (2026. 02. 13.)"
-order: 1
+order: 3
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: Android, Purchase, Alert, Terms, Error, Release Notes, 2.80.0
 ---
-
-## Game > Gamebase > 릴리스 노트 > Android
 
 ### 2.80.0 (2026. 02. 13.)
 

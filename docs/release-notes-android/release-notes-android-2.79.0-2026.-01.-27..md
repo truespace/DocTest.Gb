@@ -1,9 +1,9 @@
 ---
 source: release-notes-android.md
 section: "2.79.0 (2026. 01. 27.)"
-order: 2
+order: 4
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: Android, WebView, Release Notes, 2.79.0
 ---
 
@@ -13,5 +13,5 @@ keyword: Android, WebView, Release Notes, 2.79.0
 
 #### 기능 개선/변경
 
-* targetSdk 36 빌드를 Android 16 단말기에서 실행 시 뒤로 가기가 정상 작동하지 않고 웹뷰가 그대로 닫히거나 앱이 종료되는 현상을 수정했습니다.
+* targetSdk 36을 지원합니다. targetSdk 36 빌드를 Android 16 단말기에서 실행 시 웹뷰의 뒤로 가기가 정상 작동하지 않는 현상을 수정했습니다.
 * 내부 로직 개선

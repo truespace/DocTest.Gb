@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.27.1 (2021.09.14)"
-order: 69
+order: 71
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Authentication, Terms, Error, Release Notes, 2.27.1

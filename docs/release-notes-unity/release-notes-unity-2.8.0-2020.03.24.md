@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.8.0 (2020.03.24)"
-order: 91
+order: 93
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Purchase, Initialize, Android, Console, Release Notes, 2.8.0

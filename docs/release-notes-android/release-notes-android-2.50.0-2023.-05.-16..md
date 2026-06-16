@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.50.0 (2023. 05. 16.)"
-order: 41
+order: 43
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Terms, Error, Release Notes, 2.50.0

@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.18.0"
-order: 52
+order: 53
 split: true
 created_date_time: 20260408_184906
 keyword: Purchase, Android, Upgrade Guide, 2.18.0

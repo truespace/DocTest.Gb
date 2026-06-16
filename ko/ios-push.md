@@ -184,12 +184,6 @@ Push 메뉴의 **대상**에서 **iOS Sandbox**를 선택한 후 발송합니다
 사용자의 푸시 설정을 조회하기 위해 다음 API를 이용합니다.
 콜백으로 오는 TCGBPushTokenInfo 값으로 등록한 푸시 정보를 얻을 수 있습니다.
 
-문서 업데이트 내용 추가
-아무런 말이나 추가함.
-이게 제대로 나오는지 확인이 필요함.
-대상 문서만 업데이트되는지도 확인 필요함.
-
-
 ```objectivec
 - (void)didLoginSucceeded {
     [TCGBPush queryTokenInfoWithCompletion:^(TCGBPushTokenInfo *tokenInfo, TCGBError *error) {
@@ -239,6 +233,7 @@ Push 메뉴의 **대상**에서 **iOS Sandbox**를 선택한 후 발송합니다
 
 | Error                                    | Error Code | Description                              |
 | ---------------------------------------- | ---------- | ---------------------------------------- |
+| TCGB_ERROR_NOT_SUPPORTED                 | 10         | Push Adapter가 포함되지 않았습니다.<br/>Push Adapter가 프로젝트에 포함되었는지 확인해 주시길 바랍니다. |
 | TCGB_ERROR_PUSH_EXTERNAL_LIBRARY_ERROR   | 5101       | NHN Cloud Push 라이브러리 오류입니다.<br/>상세 오류를 확인하십시오. |
 | TCGB_ERROR_PUSH_ALREADY_IN_PROGRESS_ERROR | 5102       | 이전 푸시 API 호출이 완료되지 않았습니다.<br>이전 푸시 API의 콜백이 실행된 이후에 다시 호출하세요. |
 | TCGB_ERROR_PUSH_UNKNOWN_ERROR            | 5999       | 정의되지 않은 푸시 오류입니다.<br>전체 로그를 [고객 센터](https://toast.com/support/inquiry)에 올려 주시면 가능한 한 빠르게 답변 드리겠습니다. |
@@ -273,8 +268,3 @@ NSLog(@"TCGBError: %@", [tcgbError description]);
 | NHNCloudPushErrorParameterInvalid |  매개변수 오류 |
 | NHNCloudPushErrorNotSupported |      지원하지 않는 기능 |
 | NHNCloudPushErrorClientFailed |      서버 오류 |
-
-
-
-### 서버 푸시 제공자
-- 서버 푸시를 사용하기 위해서는 설정이 필요함.

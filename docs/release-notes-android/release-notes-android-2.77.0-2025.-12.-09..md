@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.77.0 (2025. 12. 09.)"
-order: 4
+order: 6
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.77.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.49.0 (2023. 04. 25.)"
-order: 42
+order: 44
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.49.0

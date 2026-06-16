@@ -1,13 +1,11 @@
 ---
 source: upgrade-guide.md
 section: "2.80.1"
-order: 1
+order: 2
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: Unity, Upgrade Guide, 2.80.1
 ---
-
-## Game > Gamebase > Upgrade Guide
 
 ## 2.80.1
 

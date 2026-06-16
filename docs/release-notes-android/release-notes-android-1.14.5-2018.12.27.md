@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.14.5 (2018.12.27)"
-order: 111
+order: 113
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, WebView, RequestRetryTransaction, Release Notes, 1.14.5

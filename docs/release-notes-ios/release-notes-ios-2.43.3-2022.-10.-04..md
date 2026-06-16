@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.43.3 (2022. 10. 04.)"
-order: 45
+order: 48
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.43.3

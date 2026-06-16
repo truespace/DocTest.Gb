@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.14.0 (2020.08.11)"
-order: 93
+order: 96
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.14.0

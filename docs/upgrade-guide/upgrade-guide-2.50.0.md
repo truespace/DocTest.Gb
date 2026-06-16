@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.50.0"
-order: 29
+order: 30
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Upgrade Guide, 2.50.0

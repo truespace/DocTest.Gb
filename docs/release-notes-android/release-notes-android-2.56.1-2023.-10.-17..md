@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.56.1 (2023. 10. 17.)"
-order: 34
+order: 36
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.56.1

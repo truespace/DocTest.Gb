@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.3.1 (2019.05.16)"
-order: 105
+order: 107
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Release Notes, 2.3.1

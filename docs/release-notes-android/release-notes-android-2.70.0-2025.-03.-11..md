@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.70.0 (2025. 03. 11.)"
-order: 15
+order: 17
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Logout, Purchase, Initialize, ImageNotice, Gradle, Java, Unity, Release Notes

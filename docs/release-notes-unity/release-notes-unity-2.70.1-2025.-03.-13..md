@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.70.1 (2025. 03. 13.)"
-order: 16
+order: 18
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, ShowTermsView, ShowWebView, Android, iOS, Release Notes, 2.70.1

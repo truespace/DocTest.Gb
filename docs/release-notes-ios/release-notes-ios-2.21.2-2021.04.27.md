@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.21.2 (2021.04.27)"
-order: 77
+order: 80
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Error, Release Notes, 2.21.2

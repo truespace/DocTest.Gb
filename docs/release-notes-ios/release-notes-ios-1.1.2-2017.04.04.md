@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "1.1.2 (2017.04.04)"
-order: 139
+order: 142
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 1.1.2

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.21.1 (2021.04.19)"
-order: 76
+order: 78
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Release Notes, 2.21.1

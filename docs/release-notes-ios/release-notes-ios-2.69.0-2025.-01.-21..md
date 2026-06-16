@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.69.0 (2025. 01. 21.)"
-order: 11
+order: 14
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Console, Release Notes, 2.69.0

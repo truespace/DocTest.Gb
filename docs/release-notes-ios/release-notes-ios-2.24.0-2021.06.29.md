@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.24.0 (2021.06.29)"
-order: 74
+order: 77
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Terms, Release Notes, 2.24.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.42.0 (2022. 07. 26.)"
-order: 51
+order: 54
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Mapping, Initialize, Release Notes, 2.42.0

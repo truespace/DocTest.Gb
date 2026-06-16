@@ -3,7 +3,7 @@ source: aos-started.md
 section: "Environments"
 order: 1
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: Android, Login, Purchase, Push, Gradle
 ---
 
@@ -29,7 +29,7 @@ Android에서 Gamebase를 사용하기 위한 시스템 환경은 다음과 같�
 |  | gamebase-adapter-auth-google | credentials-play-services-auth-1.3.0<br>play-services-auth-20.3.0 | Google 로그인을 지원 | - |
 |  | gamebase-adapter-auth-gpgs-v2 | play-services-games-v2-20.1.2 | GPGS(Google Play Games Services) V2 로그인을 지원<br>Player ID 기반 | - |
 |  | gamebase-adapter-auth-gpgs-autologin | play-services-games-v2-20.1.2 | GPGS(Google Play Games Services) 자동 로그인을 지원 | - |
-|  | gamebase-adapter-auth-hangame | hangame-id-1.17.3 | Hangame 로그인을 지원 | - |
+|  | gamebase-adapter-auth-hangame | hangame-id-1.17.4 | Hangame 로그인을 지원 | - |
 |  | gamebase-adapter-auth-line | linesdk-5.8.1 | LINE 로그인을 지원 | - |
 |  | gamebase-adapter-auth-naver | naveridlogin-android-sdk-5.8.0 | NAVER 로그인을 지원 | - |
 |  | gamebase-adapter-auth-payco | payco-login-1.5.17 | PAYCO 로그인을 지원 | - |

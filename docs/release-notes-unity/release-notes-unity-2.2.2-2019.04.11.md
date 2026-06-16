@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.2.2 (2019.04.11)"
-order: 108
+order: 110
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 2.2.2

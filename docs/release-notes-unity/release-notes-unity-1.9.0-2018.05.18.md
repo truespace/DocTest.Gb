@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "1.9.0 (2018.05.18)"
-order: 121
+order: 123
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 1.9.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.13.0 (2020.07.28)"
-order: 94
+order: 97
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Authentication, Release Notes, 2.13.0

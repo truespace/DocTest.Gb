@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.7.0 (2020.01.21)"
-order: 97
+order: 99
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.7.0

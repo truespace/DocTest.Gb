@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.68.1 (2024. 12. 10.)"
-order: 12
+order: 15
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Error, Swift, Release Notes, 2.68.1

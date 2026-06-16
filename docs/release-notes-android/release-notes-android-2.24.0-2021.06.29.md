@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.24.0 (2021.06.29)"
-order: 73
+order: 75
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.24.0

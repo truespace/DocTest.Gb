@@ -3,7 +3,7 @@ source: ios-push.md
 section: "Error Handling"
 order: 7
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: iOS, Push, Initialize, Error
 ---
 
@@ -11,6 +11,7 @@ keyword: iOS, Push, Initialize, Error
 
 | Error                                    | Error Code | Description                              |
 | ---------------------------------------- | ---------- | ---------------------------------------- |
+| TCGB_ERROR_NOT_SUPPORTED                 | 10         | Push Adapter가 포함되지 않았습니다.<br/>Push Adapter가 프로젝트에 포함되었는지 확인해 주시길 바랍니다. |
 | TCGB_ERROR_PUSH_EXTERNAL_LIBRARY_ERROR   | 5101       | NHN Cloud Push 라이브러리 오류입니다.<br/>상세 오류를 확인하십시오. |
 | TCGB_ERROR_PUSH_ALREADY_IN_PROGRESS_ERROR | 5102       | 이전 푸시 API 호출이 완료되지 않았습니다.<br>이전 푸시 API의 콜백이 실행된 이후에 다시 호출하세요. |
 | TCGB_ERROR_PUSH_UNKNOWN_ERROR            | 5999       | 정의되지 않은 푸시 오류입니다.<br>전체 로그를 [고객 센터](https://toast.com/support/inquiry)에 올려 주시면 가능한 한 빠르게 답변 드리겠습니다. |

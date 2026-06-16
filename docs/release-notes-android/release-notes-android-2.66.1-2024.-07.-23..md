@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.66.1 (2024. 07. 23.)"
-order: 21
+order: 23
 split: true
 created_date_time: 20260408_184906
 keyword: Android, WebView, Release Notes, 2.66.1

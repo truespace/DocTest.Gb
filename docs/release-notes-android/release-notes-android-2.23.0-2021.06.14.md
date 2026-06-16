@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.23.0 (2021.06.14)"
-order: 74
+order: 76
 split: true
 created_date_time: 20260408_184906
 keyword: Android, WebView, Release Notes, 2.23.0

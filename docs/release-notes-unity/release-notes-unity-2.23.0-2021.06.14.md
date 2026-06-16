@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.23.0 (2021.06.14)"
-order: 71
+order: 73
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Initialize, Terms, ShowTermsView, Release Notes, 2.23.0

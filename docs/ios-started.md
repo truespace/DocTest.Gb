@@ -1,9 +1,9 @@
 ---
 source: ios-started.md
-source_size_bytes: 17318
-source_char_count: 13514
+source_size_bytes: 17463
+source_char_count: 13631
 split_count: 0
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 ---
 
 # ios-started

@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.62.0"
-order: 20
+order: 21
 split: true
 created_date_time: 20260408_184906
 keyword: Authentication, LoginForLastLoggedInProvider, XCode, Android, iOS, Upgrade Guide, 2.62.0

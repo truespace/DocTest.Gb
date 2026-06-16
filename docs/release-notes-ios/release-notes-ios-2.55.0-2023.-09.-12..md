@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.55.0 (2023. 09. 12.)"
-order: 32
+order: 35
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Push, Release Notes, 2.55.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.30.0 (2021.11.23)"
-order: 62
+order: 64
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Mapping, Authentication, Error, Android, iOS, Release Notes, 2.30.0

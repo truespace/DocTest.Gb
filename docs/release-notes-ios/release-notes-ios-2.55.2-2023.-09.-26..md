@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.55.2 (2023. 09. 26.)"
-order: 31
+order: 34
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Release Notes, 2.55.2

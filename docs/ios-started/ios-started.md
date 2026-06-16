@@ -1,7 +1,7 @@
 ---
 source: ios-started.md
 split: false
-created_date_time: 20260413_163941
+created_date_time: 20260616_110448
 keyword: iOS, Login, Purchase, Push, Authentication, Error, CocoaPods, XCode, Unity, Console
 ---
 
@@ -319,6 +319,9 @@ end
 ```
 * Gamebase iOS SDK 2.42.2 이하는 추가 설정이 필요합니다.
     * [Game > Gamebase > iOS SDK 사용 가이드 > 시작하기 > IdP settings (Legacy)](../ios-started.md#idp-settings-legacy)
+
+#### Game Center
+* Entitlements.plist에 Game Center entitlement(`com.apple.developer.game-center`)가 없다면 직접 추가해야 합니다.
 
 #### Weibo
 

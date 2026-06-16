@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.66.2 (2024. 08. 27.)"
-order: 16
+order: 19
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, WebView, ImageNotice, Error, Console, Release Notes, 2.66.2

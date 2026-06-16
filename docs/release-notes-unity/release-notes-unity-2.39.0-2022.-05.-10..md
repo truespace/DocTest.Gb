@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.39.0 (2022. 05. 10.)"
-order: 52
+order: 54
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Initialize, Android, iOS, Release Notes, 2.39.0

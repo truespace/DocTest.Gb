@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.58.0 (2023. 11. 28.)"
-order: 32
+order: 34
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Logger, Authentication, Release Notes, 2.58.0

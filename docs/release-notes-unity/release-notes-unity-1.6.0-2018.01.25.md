@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "1.6.0 (2018.01.25)"
-order: 127
+order: 129
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Authentication, Release Notes, 1.6.0

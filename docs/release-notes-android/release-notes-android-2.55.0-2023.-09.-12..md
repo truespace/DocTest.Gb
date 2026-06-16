@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.55.0 (2023. 09. 12.)"
-order: 36
+order: 38
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Release Notes, 2.55.0

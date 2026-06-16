@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.26.0 (2021.08.10)"
-order: 72
+order: 75
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Push, Terms, ShowTermsView, XCode, Console, Release Notes, 2.26.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.47.0 (2023. 02. 14.)"
-order: 41
+order: 44
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.47.0

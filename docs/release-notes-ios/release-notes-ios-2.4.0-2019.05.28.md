@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.4.0 (2019.05.28)"
-order: 113
+order: 116
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.4.0

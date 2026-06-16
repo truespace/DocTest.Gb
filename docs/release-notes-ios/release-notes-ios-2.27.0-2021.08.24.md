@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.27.0 (2021.08.24)"
-order: 71
+order: 74
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, ImageNotice, Release Notes, 2.27.0

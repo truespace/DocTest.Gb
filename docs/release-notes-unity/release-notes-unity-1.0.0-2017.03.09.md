@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "1.0.0 (2017.03.09)"
-order: 136
+order: 138
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Logout, Withdraw, Authentication, Console, Release Notes, 1.0.0

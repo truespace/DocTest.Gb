@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.19.1 (2020.12.29)"
-order: 81
+order: 83
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Authentication, Release Notes, 2.19.1

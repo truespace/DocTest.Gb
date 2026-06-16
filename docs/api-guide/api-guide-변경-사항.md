@@ -3,7 +3,7 @@ source: api-guide.md
 section: "변경 사항"
 order: 1
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: Server API, Login, Mapping, Withdraw, Purchase, Consume
 ---
 
@@ -30,3 +30,4 @@ keyword: Server API, Login, Mapping, Withdraw, Purchase, Consume
 - `Withdraw Histories` API의 요청 파라미터에 eventLogType/includePending 추가
 - `SIWA Account Webhook` API 추가
 - `Get Coupon Information by Coupon Code` API 추가
+- Push 토큰 관련 `Push Wrapping` API 추가

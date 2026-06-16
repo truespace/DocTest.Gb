@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.4.0 (2019.05.28)"
-order: 106
+order: 108
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Purchase, Authentication, Android, iOS, Release Notes, 2.4.0

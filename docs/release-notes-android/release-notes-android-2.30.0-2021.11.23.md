@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.30.0 (2021.11.23)"
-order: 66
+order: 68
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Mapping, WebView, Initialize, Authentication, Release Notes, 2.30.0

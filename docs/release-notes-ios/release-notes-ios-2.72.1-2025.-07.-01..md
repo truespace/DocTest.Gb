@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.72.1 (2025. 07. 01.)"
-order: 7
+order: 10
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Release Notes, 2.72.1

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.59.0 (2023. 12. 19.)"
-order: 28
+order: 31
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Terms, Error, Release Notes, 2.59.0

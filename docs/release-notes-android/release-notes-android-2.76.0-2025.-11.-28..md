@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.76.0 (2025. 11. 28.)"
-order: 5
+order: 7
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.76.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.69.0 (2025. 1. 21.)"
-order: 18
+order: 20
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, WebView, ImageNotice, Android, iOS, Release Notes, 2.69.0

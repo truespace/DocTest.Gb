@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.63.1 (2024. 05. 14.)"
-order: 21
+order: 24
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.63.1

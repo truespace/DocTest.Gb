@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.18.0 (2020.11.10)"
-order: 77
+order: 79
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Purchase, WebView, Android, iOS, Release Notes, 2.18.0

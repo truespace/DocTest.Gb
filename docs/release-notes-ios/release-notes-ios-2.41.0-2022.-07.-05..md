@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.41.0 (2022. 07. 05.)"
-order: 53
+order: 56
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, ImageNotice, Release Notes, 2.41.0

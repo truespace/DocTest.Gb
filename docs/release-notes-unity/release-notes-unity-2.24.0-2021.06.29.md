@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.24.0 (2021.06.29)"
-order: 70
+order: 72
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 2.24.0

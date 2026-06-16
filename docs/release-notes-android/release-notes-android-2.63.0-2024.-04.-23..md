@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.63.0 (2024. 04. 23.)"
-order: 26
+order: 28
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.63.0

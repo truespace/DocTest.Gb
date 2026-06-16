@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.73.1 (2025. 08. 12.)"
-order: 5
+order: 8
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Error, Release Notes, 2.73.1

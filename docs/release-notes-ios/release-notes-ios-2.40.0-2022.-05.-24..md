@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.40.0 (2022. 05. 24.)"
-order: 54
+order: 57
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.40.0

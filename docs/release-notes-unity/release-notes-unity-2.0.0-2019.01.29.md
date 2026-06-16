@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.0.0 (2019.01.29)"
-order: 112
+order: 114
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Purchase, Release Notes, 2.0.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.60.1 (2024. 02. 15.)"
-order: 25
+order: 28
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Release Notes, 2.60.1

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.9.0 (2020.04.28)"
-order: 100
+order: 103
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Withdraw, TemporaryWithdrawal, Release Notes, 2.9.0

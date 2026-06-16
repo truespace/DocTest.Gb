@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.3.0 (2017.10.26)"
-order: 125
+order: 127
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 1.3.0

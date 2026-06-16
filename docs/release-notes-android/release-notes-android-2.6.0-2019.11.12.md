@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.6.0 (2019.11.12)"
-order: 100
+order: 102
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Analytics, Logger, Release Notes, 2.6.0

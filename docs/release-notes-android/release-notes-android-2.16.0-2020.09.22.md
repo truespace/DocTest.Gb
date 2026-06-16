@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.16.0 (2020.09.22)"
-order: 85
+order: 87
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Contact, Release Notes, 2.16.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.29.0 (2021.11.09)"
-order: 67
+order: 69
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Release Notes, 2.29.0

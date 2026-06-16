@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.34.0 (2022. 02. 22.)"
-order: 61
+order: 64
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Alert, Terms, ImageNotice, Console, Release Notes, 2.34.0

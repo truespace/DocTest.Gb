@@ -1,13 +1,11 @@
 ---
 source: release-notes-ios.md
 section: "2.80.0 (2026. 02. 13.)"
-order: 1
+order: 4
 split: true
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 keyword: iOS, Purchase, Error, XCode, Release Notes, 2.80.0
 ---
-
-## Game > Gamebase > 릴리스 노트 > iOS
 
 ### 2.80.0 (2026. 02. 13.)
 [SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.80.0/GamebaseSDK-iOS.zip)

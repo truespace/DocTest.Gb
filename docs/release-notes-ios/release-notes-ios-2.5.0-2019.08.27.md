@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.5.0 (2019.08.27)"
-order: 109
+order: 112
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, WebView, Console, Release Notes, 2.5.0

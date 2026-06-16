@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.59.0"
-order: 21
+order: 22
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Upgrade Guide, 2.59.0

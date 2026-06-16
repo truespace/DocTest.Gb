@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.32.0 (2021.12.28)"
-order: 64
+order: 67
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Logout, Push, WebView, Release Notes, 2.32.0

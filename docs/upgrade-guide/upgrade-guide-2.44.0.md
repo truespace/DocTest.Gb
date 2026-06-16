@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.44.0"
-order: 34
+order: 35
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Upgrade Guide, 2.44.0

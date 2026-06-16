@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.8.0 (2020.03.24)"
-order: 102
+order: 105
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Purchase, Initialize, Console, Release Notes, 2.8.0

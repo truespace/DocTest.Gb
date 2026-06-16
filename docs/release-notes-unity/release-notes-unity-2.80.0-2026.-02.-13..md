@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.80.0 (2026. 02. 13.)"
-order: 3
+order: 5
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Purchase, WebView, Error, Android, iOS, Release Notes, 2.80.0

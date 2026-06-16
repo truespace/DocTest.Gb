@@ -1,4 +1,7 @@
-# 문서 분할 규칙
+# 1. Gamebase 가이드 Markdown 문서 업데이트 규칙
+
+
+# 2. 문서 분할 규칙
 
 ## 사전 수행 단계 (분할 전 확인)
 
@@ -133,7 +136,7 @@
 
 ## 분할 내역
 
-> 최종 분할일: 2026-04-06 | 총 67개 파일 | 분할 46개 (1,026개 섹션) | 미분할 21개
+> 최종 분할일: 2026-04-06 | 최종 증분 업데이트: 2026-06-16 | 총 67개 파일 | 분할 46개 (1,034개 섹션) | 미분할 21개
 
 ### 분할된 파일 (46개)
 
@@ -164,10 +167,10 @@
 | oper-operation.md | 29.3KB | 5 | h2 | 20KB↑ 무조건 |
 | oper-purchase.md | 25.6KB | 5 | h2 | 20KB↑ 무조건 |
 | oper-push.md | 20.1KB | 6 | h2 | 20KB↑ 무조건 |
-| release-notes-android.md | 89.9KB | 132 | h3 | 20KB↑ 무조건 |
+| release-notes-android.md | 90.4KB | 134 | h3 | 20KB↑ 무조건 |
 | release-notes-console.md | 43.8KB | 129 | h3 | 20KB↑ 무조건 |
-| release-notes-ios.md | 65.2KB | 141 | h3 | 20KB↑ 무조건 |
-| release-notes-unity.md | 86.1KB | 136 | h3 | 20KB↑ 무조건 |
+| release-notes-ios.md | 66.2KB | 144 | h3 | 20KB↑ 무조건 |
+| release-notes-unity.md | 87.6KB | 138 | h3 | 20KB↑ 무조건 |
 | release-notes-unreal.md | 43.6KB | 46 | h3 | 20KB↑ 무조건 |
 | release-notes.md | 70.8KB | 97 | h3 | 20KB↑ 무조건 |
 | unity-authentication.md | 61.8KB | 9 | h2 | 20KB↑ 무조건 |
@@ -184,7 +187,7 @@
 | unreal-push.md | 14.3KB | 6 | h3 | 10KB↑ 조건부 |
 | unreal-started.md | 20.1KB | 4 | h2 | 20KB↑ 무조건 |
 | unreal-ui.md | 27.2KB | 8 | h2 | 20KB↑ 무조건 |
-| upgrade-guide.md | 46.8KB | 60 | h2 | 20KB↑ 무조건 |
+| upgrade-guide.md | 47.4KB | 61 | h2 | 20KB↑ 무조건 |
 
 ### 미분할 파일 (21개)
 
@@ -194,7 +197,7 @@
 | aos-logger.md | 4.6KB | 5KB 미만 |
 | console-amazon-guide.md | 2.7KB | 5KB 미만 |
 | console-epicgames-guide.md | 4.6KB | 5KB 미만 |
-| console-galaxy-guide.md | 0.9KB | 5KB 미만 |
+| console-galaxy-guide.md | 1.8KB | 5KB 미만 |
 | console-google-guide.md | 19.5KB | 10~20KB, 5KB이하 분할 불가 |
 | console-huawei-guide.md | 4.0KB | 5KB 미만 |
 | console-mycard-guide.md | 1.1KB | 섹션 부족 |
@@ -213,6 +216,24 @@
 | unity-started.md | 11.2KB | 10~20KB, 5KB이하 분할 불가 |
 
 ### 검증 이력
+
+#### 2026-06-16 증분 업데이트 (원본 변경분 반영)
+
+`ko/` 원본 10개 문서 변경분을 대응 분할 파일에만 반영. 자세한 내역은 `change_log.md` 참고.
+
+**분할 파일 변경**
+
+| 문서 | 신규 | 수정 | 삭제 | index 분할 수 |
+|------|------|------|------|----------------|
+| release-notes-android | 2.80.2, 2.80.1 | 2.79.0 | - | 132 → 134 |
+| release-notes-ios | 2.81.3, 2.81.2, 2.81.1 | - | - | 141 → 144 |
+| release-notes-unity | 2.81.3, 2.81.1 | 2.81.0 | - | 136 → 138 |
+| upgrade-guide | 2.81.2 | 2.80.0 | - | 60 → 61 |
+| ios-push | - | Query Token Info, Error Handling | 서버 푸시 제공자 | 8 → 7 |
+| console-galaxy-guide | 이미지 3 | 본문 전면 개정 | - | 미분할 |
+| aos-started / unity-started / ios-started / api-guide | - | 각 인플레이스 | - | 구조 변화 없음 |
+
+**검증 결과**: 깨진 링크 0개, 깨진 이미지 0개, 누락 주석 0개, 불완전 frontmatter 0개, index 순서 연속성(1..N) OK
 
 #### 2026-04-07 링크 및 이미지 주석 검증
 

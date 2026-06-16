@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "1.12.0 (2018.07.24)"
-order: 124
+order: 127
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Initialize, Release Notes, 1.12.0

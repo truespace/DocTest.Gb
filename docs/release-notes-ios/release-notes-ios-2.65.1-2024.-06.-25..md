@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.65.1 (2024. 06. 25.)"
-order: 18
+order: 21
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, ImageNotice, Error, Release Notes, 2.65.1

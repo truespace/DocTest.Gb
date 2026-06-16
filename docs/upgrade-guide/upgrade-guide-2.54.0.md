@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.54.0"
-order: 26
+order: 27
 split: true
 created_date_time: 20260408_184906
 keyword: Authentication, iOS, Console, Upgrade Guide, 2.54.0

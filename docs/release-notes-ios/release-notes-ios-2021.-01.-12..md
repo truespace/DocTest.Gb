@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2021. 01. 12."
-order: 84
+order: 87
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, XCode

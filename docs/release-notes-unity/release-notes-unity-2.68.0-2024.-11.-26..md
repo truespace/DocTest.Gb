@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.68.0 (2024. 11. 26.)"
-order: 20
+order: 22
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Error, Android, iOS, Release Notes, 2.68.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.2.0 (2019.03.26)"
-order: 116
+order: 119
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Mapping, TransferAccount, Release Notes, 2.2.0

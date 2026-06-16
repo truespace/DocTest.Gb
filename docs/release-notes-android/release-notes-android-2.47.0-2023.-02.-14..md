@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.47.0 (2023. 02. 14.)"
-order: 44
+order: 46
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.47.0

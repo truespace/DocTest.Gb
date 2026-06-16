@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.62.0 (2024. 03. 26.)"
-order: 31
+order: 33
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Initialize, Contact, Android, iOS, Release Notes, 2.62.0

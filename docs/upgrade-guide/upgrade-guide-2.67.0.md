@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.67.0"
-order: 13
+order: 14
 split: true
 created_date_time: 20260408_184906
 keyword: Login, Authentication, Android, iOS, Upgrade Guide, 2.67.0

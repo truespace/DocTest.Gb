@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.73.1 (2025. 08. 12.)"
-order: 8
+order: 10
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Terms, Release Notes, 2.73.1

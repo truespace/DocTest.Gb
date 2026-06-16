@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.47.0"
-order: 31
+order: 32
 split: true
 created_date_time: 20260408_184906
 keyword: Purchase, Android, Upgrade Guide, 2.47.0

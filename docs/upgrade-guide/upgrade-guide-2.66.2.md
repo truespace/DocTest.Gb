@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.66.2"
-order: 15
+order: 16
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Upgrade Guide, 2.66.2

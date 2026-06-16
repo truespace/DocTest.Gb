@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "1.1.0 (2017.03.21)"
-order: 140
+order: 143
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 1.1.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.1.4 (2017.05.25)"
-order: 128
+order: 130
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Push, Release Notes, 1.1.4

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.44.0 (2022. 10. 11.)"
-order: 49
+order: 51
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Alert, Error, RegisterPush, Release Notes, 2.44.0

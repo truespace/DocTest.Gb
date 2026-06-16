@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.49.1 (2023. 04. 25.)"
-order: 38
+order: 41
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Login, Authentication, Release Notes, 2.49.1

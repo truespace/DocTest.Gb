@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.75.0 (2025. 09. 23.)"
-order: 7
+order: 9
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.75.0

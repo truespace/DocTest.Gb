@@ -1,16 +1,16 @@
 ---
 source: api-guide.md
-source_size_bytes: 83982
-source_char_count: 66415
+source_size_bytes: 84595
+source_char_count: 69531
 split_count: 12
-created_date_time: 20260408_184906
+created_date_time: 20260616_110448
 ---
 
 # api-guide
 
 | 순서 | 파일명 | 섹션명 | 크기 |
 |------|--------|--------|------|
-| 1 | [api-guide-변경-사항.md](./api-guide/api-guide-변경-사항.md) | 변경 사항 | 2,205 bytes |
+| 1 | [api-guide-변경-사항.md](./api-guide/api-guide-변경-사항.md) | 변경 사항 | 2,340 bytes |
 | 2 | [api-guide-Advance-Notice.md](./api-guide/api-guide-Advance-Notice.md) | Advance Notice | 1,518 bytes |
 | 3 | [api-guide-Common.md](./api-guide/api-guide-Common.md) | Common | 1,968 bytes |
 | 4 | [api-guide-Authentication.md](./api-guide/api-guide-Authentication.md) | Authentication | 5,692 bytes |
@@ -20,5 +20,5 @@ created_date_time: 20260408_184906
 | 8 | [api-guide-Coupon.md](./api-guide/api-guide-Coupon.md) | Coupon | 3,612 bytes |
 | 9 | [api-guide-PurchaseIAP.md](./api-guide/api-guide-PurchaseIAP.md) | Purchase(IAP) | 19,667 bytes |
 | 10 | [api-guide-Leaderboard.md](./api-guide/api-guide-Leaderboard.md) | Leaderboard | 4,145 bytes |
-| 11 | [api-guide-Push.md](./api-guide/api-guide-Push.md) | Push | 4,477 bytes |
+| 11 | [api-guide-Push.md](./api-guide/api-guide-Push.md) | Push | 5,095 bytes |
 | 12 | [api-guide-Others.md](./api-guide/api-guide-Others.md) | Others | 3,685 bytes |

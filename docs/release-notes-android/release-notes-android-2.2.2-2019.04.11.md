@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.2.2 (2019.04.11)"
-order: 107
+order: 109
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Initialize, TransferAccount, Release Notes, 2.2.2

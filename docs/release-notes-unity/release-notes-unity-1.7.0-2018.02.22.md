@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "1.7.0 (2018.02.22)"
-order: 126
+order: 128
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Authentication, Release Notes, 1.7.0

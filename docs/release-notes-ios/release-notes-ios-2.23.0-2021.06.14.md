@@ -1,7 +1,7 @@
 ---
 source: release-notes-ios.md
 section: "2.23.0 (2021.06.14)"
-order: 75
+order: 78
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Release Notes, 2.23.0
