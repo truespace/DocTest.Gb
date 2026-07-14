@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.18.1 (2020.11.10)"
-order: 85
+order: 86
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, WebView, Release Notes, 2.18.1

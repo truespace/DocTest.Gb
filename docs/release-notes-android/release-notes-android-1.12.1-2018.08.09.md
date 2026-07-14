@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.12.1 (2018.08.09)"
-order: 118
+order: 119
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Mapping, Authentication, Error, Release Notes, 1.12.1

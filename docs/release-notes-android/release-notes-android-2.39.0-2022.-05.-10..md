@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.39.0 (2022. 05. 10.)"
-order: 59
+order: 60
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.39.0

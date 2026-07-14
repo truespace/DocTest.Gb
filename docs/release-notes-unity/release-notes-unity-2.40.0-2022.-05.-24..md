@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.40.0 (2022. 05. 24.)"
-order: 53
+order: 54
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Terms, Android, iOS, Release Notes, 2.40.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.66.0 (2024. 07. 12.)"
-order: 28
+order: 29
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Authentication, Android, iOS, Release Notes, 2.66.0

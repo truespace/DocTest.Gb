@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2019. 08. 02."
-order: 103
+order: 104
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Error, Release Notes, 1.4.3

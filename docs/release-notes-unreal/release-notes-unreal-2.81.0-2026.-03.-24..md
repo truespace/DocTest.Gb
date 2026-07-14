@@ -1,13 +1,11 @@
 ---
 source: release-notes-unreal.md
 section: "2.81.0 (2026. 03. 24.)"
-order: 1
+order: 2
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Android, iOS, Release Notes, 2.81.0
 ---
-
-## Game > Gamebase > 릴리스 노트 > Unreal
 
 ### 2.81.0 (2026. 03. 24.)
 [SDK Download](https://static.toastoven.net/toastcloud/sdk_download/gamebase/v2.81.0/GamebaseSDK-Unreal.zip)

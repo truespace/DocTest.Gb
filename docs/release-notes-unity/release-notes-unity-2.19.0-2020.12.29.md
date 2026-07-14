@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.19.0 (2020.12.29)"
-order: 77
+order: 78
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Authentication, Release Notes, 2.19.0

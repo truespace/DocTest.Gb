@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.74.0 (2025. 08. 26.)"
-order: 7
+order: 8
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Mapping, Error, Android, iOS, Release Notes, 2.74.0

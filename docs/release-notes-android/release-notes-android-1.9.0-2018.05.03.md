@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.9.0 (2018.05.03)"
-order: 121
+order: 122
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Mapping, iOS, Release Notes, 1.9.0

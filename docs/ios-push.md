@@ -1,9 +1,9 @@
 ---
 source: ios-push.md
-source_size_bytes: 13324
-source_char_count: 11066
+source_size_bytes: 13290
+source_char_count: 11058
 split_count: 7
-created_date_time: 20260616_110448
+created_date_time: 20260714_114945
 ---
 
 # ios-push
@@ -16,4 +16,4 @@ created_date_time: 20260616_110448
 | 4 | [ios-push-Get-NotificationOptions.md](./ios-push/ios-push-Get-NotificationOptions.md) | Get NotificationOptions | 655 bytes |
 | 5 | [ios-push-Query-Token-Info.md](./ios-push/ios-push-Query-Token-Info.md) | Query Token Info | 2,751 bytes |
 | 6 | [ios-push-Event-Handling.md](./ios-push/ios-push-Event-Handling.md) | Event Handling | 790 bytes |
-| 7 | [ios-push-Error-Handling.md](./ios-push/ios-push-Error-Handling.md) | Error Handling | 2,594 bytes |
+| 7 | [ios-push-Error-Handling.md](./ios-push/ios-push-Error-Handling.md) | Error Handling | 2,560 bytes |

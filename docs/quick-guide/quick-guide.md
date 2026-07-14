@@ -1,11 +1,17 @@
 ---
 source: quick-guide.md
 split: false
-created_date_time: 20260408_184906
+created_date_time: 20260714_114945
+removed: true
+removed_date_time: 20260714_114945
 keyword: Login, Logout, Initialize, Authentication, Unity, Console
 ---
 
 ## Game > Gamebase > Quick Guide
+
+> [주의]
+> 이 문서는 원본(`ko/quick-guide.md`)에서 **제거되었습니다**. (제거일: 2026-07-14)
+> 아래 내용은 이력 보존을 위해 남겨 두며, 더 이상 유효하지 않을 수 있습니다.
 
 단계별로 따라하면서 손쉽게 Gamebase 기능을 익히실 수 있도록 Quick Guide를 준비하였습니다.
 

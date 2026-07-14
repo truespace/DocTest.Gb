@@ -136,7 +136,7 @@
 
 ## 분할 내역
 
-> 최종 분할일: 2026-04-06 | 최종 증분 업데이트: 2026-06-16 | 총 67개 파일 | 분할 46개 (1,034개 섹션) | 미분할 21개
+> 최종 분할일: 2026-04-06 | 최종 증분 업데이트: 2026-07-14 | 총 67개 파일 | 분할 46개 (1,038개 섹션) | 미분할 21개(quick-guide 원본 제거됨)
 
 ### 분할된 파일 (46개)
 
@@ -167,11 +167,11 @@
 | oper-operation.md | 29.3KB | 5 | h2 | 20KB↑ 무조건 |
 | oper-purchase.md | 25.6KB | 5 | h2 | 20KB↑ 무조건 |
 | oper-push.md | 20.1KB | 6 | h2 | 20KB↑ 무조건 |
-| release-notes-android.md | 90.4KB | 134 | h3 | 20KB↑ 무조건 |
+| release-notes-android.md | 90.8KB | 135 | h3 | 20KB↑ 무조건 |
 | release-notes-console.md | 43.8KB | 129 | h3 | 20KB↑ 무조건 |
 | release-notes-ios.md | 66.2KB | 144 | h3 | 20KB↑ 무조건 |
-| release-notes-unity.md | 87.6KB | 138 | h3 | 20KB↑ 무조건 |
-| release-notes-unreal.md | 43.6KB | 46 | h3 | 20KB↑ 무조건 |
+| release-notes-unity.md | 88.1KB | 139 | h3 | 20KB↑ 무조건 |
+| release-notes-unreal.md | 44.0KB | 47 | h3 | 20KB↑ 무조건 |
 | release-notes.md | 70.8KB | 97 | h3 | 20KB↑ 무조건 |
 | unity-authentication.md | 61.8KB | 9 | h2 | 20KB↑ 무조건 |
 | unity-etc.md | 53.4KB | 9 | h3 | 20KB↑ 무조건 |
@@ -187,7 +187,7 @@
 | unreal-push.md | 14.3KB | 6 | h3 | 10KB↑ 조건부 |
 | unreal-started.md | 20.1KB | 4 | h2 | 20KB↑ 무조건 |
 | unreal-ui.md | 27.2KB | 8 | h2 | 20KB↑ 무조건 |
-| upgrade-guide.md | 47.4KB | 61 | h2 | 20KB↑ 무조건 |
+| upgrade-guide.md | 48.1KB | 62 | h2 | 20KB↑ 무조건 |
 
 ### 미분할 파일 (21개)
 
@@ -210,12 +210,34 @@
 | oper-coupon.md | 13.9KB | 10~20KB, 5KB이하 분할 불가 |
 | oper-member.md | 14.0KB | 10~20KB, 5KB이하 분할 불가 |
 | oper-operating-indicator.md | 4.3KB | 5KB 미만 |
-| quick-guide.md | 1.1KB | 5KB 미만 |
+| quick-guide.md | 1.1KB | 5KB 미만 · **원본 제거됨(2026-07-14)** — 분할 결과물은 제거 표시 후 이력 보존 |
 | release-notes-server-api.md | 4.6KB | 5KB 미만 |
 | unity-initialization.md | 19.5KB | 10~20KB, 5KB이하 분할 불가 |
 | unity-started.md | 11.2KB | 10~20KB, 5KB이하 분할 불가 |
 
 ### 검증 이력
+
+#### 2026-07-14 증분 업데이트 (신규 버전 + 원본 파일 제거)
+
+`ko/` 변경분 반영. 자세한 내역은 `change_log.md` 참고.
+
+**원본 제거 파일 처리 (규칙: 삭제 대신 제거 표시)**
+
+| 원본 | 처리 |
+|------|------|
+| `ko/quick-guide.md` | 분할 결과물(`docs/quick-guide.md`, `docs/quick-guide/quick-guide.md`)은 **삭제하지 않고** frontmatter `removed: true`/`removed_date_time` 추가 + `> [주의]` 제거 안내 삽입, 본문은 이력 보존 |
+
+**분할 파일 변경**
+
+| 문서 | 신규 | 수정 | index 분할 수 |
+|------|------|------|----------------|
+| release-notes-android | 2.81.0 | - | 134 → 135 |
+| release-notes-unity | 2.81.4 | 2.81.3 | 138 → 139 |
+| release-notes-unreal | 2.81.1 | - | 46 → 47 |
+| upgrade-guide | 2.81.4 | - | 61 → 62 |
+| ios-push | - | Error Handling 문구 | 변화 없음 |
+
+**검증 결과**: 깨진 링크 0개, 깨진 이미지 0개, 누락 주석 0개, 불완전 frontmatter 0개, index 순서 연속성(1..N) OK, folder별 breadcrumb 1개
 
 #### 2026-06-16 증분 업데이트 (원본 변경분 반영)
 

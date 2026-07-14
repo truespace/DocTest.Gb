@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.80.1 (2026. 03. 30.)"
-order: 2
+order: 3
 split: true
 created_date_time: 20260616_110448
 keyword: Android, Purchase, IAP, Release Notes, 버그수정, 2.80.1

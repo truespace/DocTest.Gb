@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.78.0 (2026. 01. 13.)"
-order: 4
+order: 5
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, WebView, RequestPurchase, Android, iOS, Release Notes, 2.78.0

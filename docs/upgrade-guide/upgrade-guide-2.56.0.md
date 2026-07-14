@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.56.0"
-order: 25
+order: 26
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Upgrade Guide, 2.56.0

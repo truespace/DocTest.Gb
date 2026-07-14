@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.36.0 (2022. 04. 12.)"
-order: 57
+order: 58
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Purchase, Push, WebView, Alert, Error, Android, iOS, Release Notes, 2.36.0

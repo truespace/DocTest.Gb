@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.8.0 (2018.04.05)"
-order: 123
+order: 124
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 1.8.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.13.0 (2020.07.28)"
-order: 89
+order: 90
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, WebView, ImageNotice, Error, Release Notes, 2.13.0

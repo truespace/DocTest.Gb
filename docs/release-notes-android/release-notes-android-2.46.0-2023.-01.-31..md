@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.46.0 (2023. 01. 31.)"
-order: 47
+order: 48
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, WebView, Release Notes, 2.46.0

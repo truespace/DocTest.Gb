@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.26.0 (2021.08.10)"
-order: 70
+order: 71
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Push, Terms, ShowTermsView, Console, Release Notes, 2.26.0

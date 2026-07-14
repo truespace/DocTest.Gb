@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.9.0 (2020.04.28)"
-order: 94
+order: 95
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Withdraw, TemporaryWithdrawal, iOS, Unity, Release Notes, 2.9.0

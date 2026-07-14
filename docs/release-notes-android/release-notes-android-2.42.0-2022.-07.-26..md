@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.42.0 (2022. 07. 26.)"
-order: 54
+order: 55
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Mapping, Initialize, Release Notes, 2.42.0

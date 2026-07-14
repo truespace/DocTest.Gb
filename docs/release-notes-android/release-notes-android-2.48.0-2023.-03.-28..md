@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.48.0 (2023. 03. 28.)"
-order: 45
+order: 46
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.48.0

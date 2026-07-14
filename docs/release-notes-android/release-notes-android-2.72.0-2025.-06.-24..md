@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.72.0 (2025. 06. 24.)"
-order: 12
+order: 13
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Mapping, LoginForLastLoggedInProvider, Release Notes, 2.72.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.56.0 (2023. 10. 17.)"
-order: 29
+order: 30
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Withdraw, Purchase, Push, Authentication, LoginForLastLoggedInProvider, RegisterPush, Android, iOS

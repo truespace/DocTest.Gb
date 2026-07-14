@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.36.0 (2022. 04. 12.)"
-order: 62
+order: 63
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 2.36.0

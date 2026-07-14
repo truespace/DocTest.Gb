@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.11.0 (2020.06.23)"
-order: 91
+order: 92
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.11.0

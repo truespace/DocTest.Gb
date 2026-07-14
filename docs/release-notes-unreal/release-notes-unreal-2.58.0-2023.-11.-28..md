@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.58.0 (2023. 11. 28.)"
-order: 27
+order: 28
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Push, Initialize, Android, iOS, Release Notes, 2.58.0

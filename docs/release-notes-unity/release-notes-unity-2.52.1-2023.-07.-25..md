@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.52.1 (2023. 07. 25.)"
-order: 40
+order: 41
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Logger, Initialize, Error, Android, iOS, Release Notes, 2.52.1

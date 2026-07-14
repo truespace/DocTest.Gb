@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.64.0 (2024. 06. 11.)"
-order: 23
+order: 24
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Error, Android, iOS, Release Notes, 2.64.0

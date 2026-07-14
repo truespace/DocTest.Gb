@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "1.2.0 (2017.09.21)"
-order: 133
+order: 134
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Release Notes, 1.2.0

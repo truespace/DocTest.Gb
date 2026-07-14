@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.80.0 (2026. 02. 13.)"
-order: 3
+order: 4
 split: true
 created_date_time: 20260616_110448
 keyword: Android, Purchase, Alert, Terms, Error, Release Notes, 2.80.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.41.2 (2022. 07. 22.)"
-order: 55
+order: 56
 split: true
 created_date_time: 20260408_184906
 keyword: Android, WebView, Release Notes, 2.41.2

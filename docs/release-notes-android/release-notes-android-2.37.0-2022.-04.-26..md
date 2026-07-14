@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.37.0 (2022. 04. 26.)"
-order: 61
+order: 62
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Purchase, Release Notes, 2.37.0

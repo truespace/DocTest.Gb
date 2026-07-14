@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.57.0 (2023. 10. 31.)"
-order: 35
+order: 36
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Logger, Release Notes, 2.57.0

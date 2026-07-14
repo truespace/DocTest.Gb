@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.71.2"
-order: 8
+order: 9
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Upgrade Guide, 2.71.2

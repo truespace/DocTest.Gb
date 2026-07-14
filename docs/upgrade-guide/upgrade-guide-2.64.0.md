@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.64.0"
-order: 19
+order: 20
 split: true
 created_date_time: 20260408_184906
 keyword: Authentication, iOS, Upgrade Guide, 2.64.0

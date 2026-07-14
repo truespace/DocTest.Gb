@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.68.0 (2024. 12. 10.)"
-order: 17
+order: 18
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Purchase, Authentication, Android, iOS, Release Notes, 2.68.0

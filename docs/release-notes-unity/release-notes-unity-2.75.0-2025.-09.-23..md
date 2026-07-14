@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.75.0 (2025. 09. 23.)"
-order: 10
+order: 11
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Mapping, Android, Release Notes, 2.75.0

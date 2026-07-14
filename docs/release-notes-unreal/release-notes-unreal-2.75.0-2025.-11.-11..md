@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.75.0 (2025. 11. 11.)"
-order: 6
+order: 7
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Purchase, ImageNotice, Android, iOS, Release Notes, 2.75.0

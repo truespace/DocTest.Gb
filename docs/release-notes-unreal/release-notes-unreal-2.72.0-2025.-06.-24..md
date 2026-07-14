@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.72.0 (2025. 06. 24.)"
-order: 10
+order: 11
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Authentication, Android, iOS, Release Notes, 2.72.0

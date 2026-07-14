@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.2.0"
-order: 60
+order: 61
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Upgrade Guide, 2.2.0

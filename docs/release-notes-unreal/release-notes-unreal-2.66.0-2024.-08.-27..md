@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.66.0 (2024. 08. 27.)"
-order: 22
+order: 23
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Android, iOS, Release Notes, 2.66.0

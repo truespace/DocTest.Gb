@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.3.0 (2019.04.23)"
-order: 108
+order: 109
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, Purchase, Authentication, Unity, Release Notes, 2.3.0

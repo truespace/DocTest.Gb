@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.4.2 (2019.06.25)"
-order: 105
+order: 106
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Logout, Withdraw, Analytics, Initialize, Release Notes, 2.4.2

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.66.3 (2024. 09. 05.)"
-order: 25
+order: 26
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Purchase, iOS, Release Notes, 2.66.3

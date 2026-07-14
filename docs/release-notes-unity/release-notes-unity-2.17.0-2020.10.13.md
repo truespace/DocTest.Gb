@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.17.0 (2020.10.13)"
-order: 81
+order: 82
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, Logout, WebView, Authentication, ImageNotice, Android, iOS, Release Notes, 2.17.0

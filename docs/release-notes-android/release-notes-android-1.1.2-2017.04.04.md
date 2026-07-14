@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.1.2 (2017.04.04)"
-order: 132
+order: 133
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Release Notes, 1.1.2

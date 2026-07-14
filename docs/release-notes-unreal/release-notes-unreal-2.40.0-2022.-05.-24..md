@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.40.0 (2022. 05. 24.)"
-order: 36
+order: 37
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Purchase, WebView, Alert, Terms, Android, iOS, Release Notes, 2.40.0

@@ -1,7 +1,7 @@
 ---
 source: upgrade-guide.md
 section: "2.40.0"
-order: 39
+order: 40
 split: true
 created_date_time: 20260408_184906
 keyword: iOS, Unreal, Upgrade Guide, 2.40.0

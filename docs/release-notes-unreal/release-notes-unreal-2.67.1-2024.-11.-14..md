@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.67.1 (2024. 11. 14.)"
-order: 19
+order: 20
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Purchase, Initialize, Android, iOS, Release Notes, 2.67.1

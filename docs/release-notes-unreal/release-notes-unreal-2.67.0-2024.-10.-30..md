@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.67.0 (2024. 10. 30.)"
-order: 20
+order: 21
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Purchase, Authentication, ImageNotice, Android, iOS, Release Notes, 2.67.0

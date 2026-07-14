@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.64.0 (2024. 05. 28.)"
-order: 31
+order: 32
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Android, iOS, Release Notes, 2.64.0

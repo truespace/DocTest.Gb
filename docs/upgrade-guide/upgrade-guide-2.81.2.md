@@ -1,13 +1,11 @@
 ---
 source: upgrade-guide.md
 section: "2.81.2"
-order: 1
+order: 2
 split: true
-created_date_time: 20260616_110448
+created_date_time: 20260714_114945
 keyword: iOS, Initialize, Upgrade Guide, 2.81.2
 ---
-
-## Game > Gamebase > Upgrade Guide
 
 ## 2.81.2
 

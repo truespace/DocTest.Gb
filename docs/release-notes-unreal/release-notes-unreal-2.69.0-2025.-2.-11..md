@@ -1,7 +1,7 @@
 ---
 source: release-notes-unreal.md
 section: "2.69.0 (2025. 2. 11.)"
-order: 15
+order: 16
 split: true
 created_date_time: 20260408_184906
 keyword: Unreal, Login, Initialize, Authentication, Terms, Error, Android, iOS, Release Notes, 2.69.0

@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.79.0 (2026. 01. 27.)"
-order: 6
+order: 7
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, WebView, Release Notes, 2.79.0

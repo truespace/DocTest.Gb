@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.65.1 (2024. 06. 25.)"
-order: 29
+order: 30
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, ImageNotice, Error, Android, iOS, Release Notes, 2.65.1

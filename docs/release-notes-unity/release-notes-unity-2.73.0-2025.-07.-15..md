@@ -1,7 +1,7 @@
 ---
 source: release-notes-unity.md
 section: "2.73.0 (2025. 07. 15.)"
-order: 14
+order: 15
 split: true
 created_date_time: 20260408_184906
 keyword: Unity, Login, WebView, Android, iOS, Release Notes, 2.73.0

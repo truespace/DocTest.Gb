@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.79.0 (2026. 01. 27.)"
-order: 4
+order: 5
 split: true
 created_date_time: 20260616_110448
 keyword: Android, WebView, Release Notes, 2.79.0

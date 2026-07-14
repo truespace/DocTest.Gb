@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "1.1.3 (2017.04.20)"
-order: 131
+order: 132
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Initialize, Authentication, Error, Release Notes, 1.1.3

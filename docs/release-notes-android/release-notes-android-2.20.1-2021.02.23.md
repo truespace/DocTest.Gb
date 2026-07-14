@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.20.1 (2021.02.23)"
-order: 81
+order: 82
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Initialize, Release Notes, 2.20.1

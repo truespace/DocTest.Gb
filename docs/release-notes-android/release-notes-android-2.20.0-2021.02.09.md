@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.20.0 (2021.02.09)"
-order: 82
+order: 83
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Login, WebView, Terms, Contact, Release Notes, 2.20.0

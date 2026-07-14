@@ -1,7 +1,7 @@
 ---
 source: release-notes-android.md
 section: "2.44.1 (2022. 10. 25.)"
-order: 50
+order: 51
 split: true
 created_date_time: 20260408_184906
 keyword: Android, Push, RegisterPush, Release Notes, 2.44.1
